@@ -179,7 +179,7 @@
         },
         {
             "code": "25508",
-            "version": "1.0",
+            "version": "1.1",
             "type": "location",
             "name": "Lady Marya",
             "octgnId": null,
@@ -191,10 +191,10 @@
             "traits": [
                 "Warship"
             ],
-            "text": "You may marshal or play facedown cards attached to Lady Marya as if they were in your hand.\n<b>Reaction:</b> After you win a challenge as the attacking player, kneel Lady Marya to attach the top card of the losing opponent's deck to Lady Marya under your control, as an attachment with terminal. ",
+            "text": "You may marshal or play facedown cards attached to Lady Marya as if they were in your hand.\n<b>Reaction:</b> After you win a challenge as the attacking player, kneel Lady Marya to attach the top card of the losing opponent's deck to Lady Marya facedown under your control, as an attachment with the text: \"Location only. Terminal.\" ",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/04d6b638-107f-44e5-8bcc-9b8727db3281"
+            "imageUrl": "https://hcti.io/v1/image/1d568fb9-a62c-4c65-bc51-7fb12cc832f7"
         },
         {
             "code": "25509",
@@ -1950,7 +1950,7 @@
         },
         {
             "code": "25585",
-            "version": "1.0",
+            "version": "1.1",
             "type": "character",
             "name": "Margaery Tyrell",
             "octgnId": null,
@@ -1969,10 +1969,10 @@
                 "Lady",
                 "Queen"
             ],
-            "text": "Shadow (5). Insight.\n<b>Reaction:</b> After a [tyrell] card is revealed from your hand or deck, place it in shadows. (Limit twice per round.)",
+            "text": "Shadow (5). Insight.\n<b>Interrupt:</b> When a [tyrell] card is revealed from your hand or deck, place it in shadows. (Limit twice per round.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/110d0d24-9499-40df-9ef9-6982b12e55c8"
+            "imageUrl": "https://hcti.io/v1/image/86908111-82a3-4e9e-8549-bf07f378ea44"
         },
         {
             "code": "25586",
@@ -2690,18 +2690,18 @@
         },
         {
             "code": "25618",
-            "version": "1.0",
+            "version": "1.1",
             "type": "agenda",
             "name": "The Gift of Mercy",
             "octgnId": null,
             "quantity": 3,
             "faction": "neutral",
             "traits": [],
-            "text": "<b>Reaction:</b> After you choose a character as the only target of a triggered ability, place a Valar Morghulis token on it. (Limit once per phase.)\n<b>Forced Interrupt:</b> When a character leaves play, for every Valar Morghulis token it has, each player who does not control it gains 1 power for their faction.",
+            "text": "Your plot deck cannot include <i>Omen</i> plot cards.\r\n<b>Reaction:</b> After an opponent loses a challenge, place a Valar Morghulis token on a participating character they control.\r\n<b>Interrupt:</b> When a character with 3 or more Valar Morghulis tokens is killed, gain 3 power for your faction.",
             "deckLimit": 1,
             "illustrator": "?",
             "designer": "Card design by 2019 Joust European Champion, Alejandro Gomez.",
-            "imageUrl": "https://hcti.io/v1/image/8436d7fb-3248-49e2-b0e1-667b2ac76fa9"
+            "imageUrl": "https://hcti.io/v1/image/1d274f5d-ade5-4473-821f-a27a8de2759a"
         },
         {
             "code": "25619",
