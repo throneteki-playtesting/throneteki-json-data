@@ -198,7 +198,7 @@
         },
         {
             "code": "25509",
-            "version": "1.0",
+            "version": "1.1",
             "type": "attachment",
             "name": "The Laughing Storm",
             "octgnId": null,
@@ -211,12 +211,12 @@
                 "Legacy",
                 "Tapestry"
             ],
-            "text": "Unique location you control only.\nWhile you control more standing characters than each opponent, cards cannot be discarded from your hand.",
+            "text": "Unique [baratheon] location you control only.\nWhile you control more standing characters than each opponent, cards cannot be discarded from your hand.",
             "flavor": "\"Ha ha ha! Ha ha ha ha ha!\"",
             "deckLimit": 3,
             "illustrator": "?",
             "designer": "Card inspired by 2010 Joust World Champion, Alec Irwin.",
-            "imageUrl": "https://hcti.io/v1/image/d7a0d365-9266-4267-a978-88419af36362"
+            "imageUrl": "https://hcti.io/v1/image/8ae34eb8-271a-42ce-82f2-4b3299828e7b"
         },
         {
             "code": "25510",
@@ -282,7 +282,7 @@
         },
         {
             "code": "25513",
-            "version": "1.0",
+            "version": "1.1",
             "type": "character",
             "name": "The Knight",
             "octgnId": null,
@@ -301,10 +301,10 @@
                 "House Harlaw",
                 "Knight"
             ],
-            "text": "<b>Challenges Action:</b> Return two characters from an opponents' discard pile to their hand. Then, raise the claim on your revealed plot by 1 during the next challenge you initiate this phase. (Limit once per round.)",
+            "text": "<b>Challenges Action:</b> Choose an opponent. Return 2 characters from that player's discard pile to their hand. Then, raise the claim value on your revealed plot card by 1 during the next challenge you initiate against that player this phase. (Limit once per round.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/9a87f23d-88ec-4bd8-ae01-fe48f5b58605"
+            "imageUrl": "https://hcti.io/v1/image/38339104-3cd3-4912-8355-2936e5bff91b"
         },
         {
             "code": "25514",
@@ -415,7 +415,7 @@
         },
         {
             "code": "25518",
-            "version": "1.0",
+            "version": "1.1",
             "type": "character",
             "name": "Great Kraken's Crew",
             "octgnId": null,
@@ -429,14 +429,14 @@
                 "intrigue": false,
                 "power": true
             },
-            "strength": 3,
+            "strength": 2,
             "traits": [
                 "Raider"
             ],
-            "text": "No attachments. Shadow (2).\n<b>Reaction:</b> After Great Kraken's Crew comes out of shadows, choose a defending character with printed cost 2 or lower. That character does not contribute its STR to the challenge.",
+            "text": "No attachments. Shadow (2).\n<b>Reaction:</b> After Great Kraken's Crew comes out of shadows, choose a defending character with printed cost 3 or lower. That character does not contribute its STR to the challenge.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/68b7643a-3254-4471-9e3d-bc7ef3e07118"
+            "imageUrl": "https://hcti.io/v1/image/d5c00494-6bd1-4cdc-a225-b1dc52c73e76"
         },
         {
             "code": "25519",
@@ -487,7 +487,7 @@
         },
         {
             "code": "25521",
-            "version": "1.0",
+            "version": "1.1",
             "type": "attachment",
             "name": "Harren the Black",
             "octgnId": null,
@@ -500,10 +500,10 @@
                 "Legacy",
                 "Tapestry"
             ],
-            "text": "Unique location you control only.\n<b>Forced Reaction:</b> After a character you control discards a card using pillage, discard the top card of each player's deck.",
+            "text": "Unique [greyjoy] location you control only.\n<b>Forced Reaction:</b> After a character you control discards a card using pillage, discard the top card of each player's deck.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/b692ba5c-509a-4793-8227-49baaa489dcc"
+            "imageUrl": "https://hcti.io/v1/image/afd12c7c-d83f-4518-bbe6-628005ba83d0"
         },
         {
             "code": "25522",
@@ -527,7 +527,7 @@
         },
         {
             "code": "25523",
-            "version": "1.0",
+            "version": "1.1",
             "type": "event",
             "name": "The Drowned God Wakes",
             "octgnId": null,
@@ -538,10 +538,10 @@
             "traits": [
                 "Drowned God"
             ],
-            "text": "<b>Reaction:</b> After you win dominance by 20 or more STR, kneel your faction card to kill each character.",
+            "text": "<b>Reaction:</b> After you win dominance by 15 or more STR, kneel your faction card to kill each character.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/000093f9-83f1-43dc-87d3-d4652c98ec75"
+            "imageUrl": "https://hcti.io/v1/image/1e18a469-bc49-4b60-930c-3541cffea3b5"
         },
         {
             "code": "25524",
@@ -762,7 +762,7 @@
         },
         {
             "code": "25533",
-            "version": "1.0",
+            "version": "1.1",
             "type": "attachment",
             "name": "Lann the Clever",
             "octgnId": null,
@@ -775,10 +775,10 @@
                 "Legacy",
                 "Tapestry"
             ],
-            "text": "Unique location you control only.\nWhile you are the attacking player, if you have more cards in hand than the defending player, you may look at and choose which cards to discard for [intrigue] claim.",
+            "text": "Unique [lannister] location you control only.\nWhile you are the attacking player, if you have more cards in hand than the defending player, you may look at and choose which cards to discard for [intrigue] claim.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/281d56c3-d02d-4a02-88f0-961e6d2d0232"
+            "imageUrl": "https://hcti.io/v1/image/af11a182-0bfc-4969-a094-7278f4f0e989"
         },
         {
             "code": "25534",
@@ -1039,7 +1039,7 @@
         },
         {
             "code": "25545",
-            "version": "1.0",
+            "version": "1.1",
             "type": "attachment",
             "name": "Nymeria of Ny Sar",
             "octgnId": null,
@@ -1052,10 +1052,10 @@
                 "Legacy",
                 "Tapestry"
             ],
-            "text": "Unique location you control only.\n<b>Reaction:</b> After you win a challenge by 10 or more STR, kneel your faction card to choose and reveal a <i>Summer</i> or <i>Scheme</i> plot card. (Cannot be canceled).",
+            "text": "Unique [martell] location you control only.\n<b>Reaction:</b> After you win a challenge by 10 or more STR, kneel your faction card to choose and reveal a <i>Summer</i> or <i>Scheme</i> plot card. (Cannot be canceled).",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/5eec91de-b56e-471e-81ec-8c2a10d19f42"
+            "imageUrl": "https://hcti.io/v1/image/fd6a47ec-315c-47a6-8bbe-e108b58cdbc4"
         },
         {
             "code": "25546",
@@ -1313,7 +1313,7 @@
         },
         {
             "code": "25557",
-            "version": "1.0",
+            "version": "1.1",
             "type": "attachment",
             "name": "Legacy of the Watch",
             "octgnId": null,
@@ -1326,10 +1326,10 @@
                 "Legacy",
                 "Tapestry"
             ],
-            "text": "Unique location you control only.\nYou may look at the bottom card of each opponent's deck.\nIf the bottom card of an opponent's deck is a character, you may marshal or ambush it as if it were in your hand.",
+            "text": "Unique [thenightswatch] location you control only.\nYou may look at the bottom card of each opponent's deck.\nIf the bottom card of an opponent's deck is a character, you may marshal or ambush it as if it were in your hand.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/57cbb4cc-31cf-4693-b763-ba9f6715159c"
+            "imageUrl": "https://hcti.io/v1/image/eab32f13-c808-4c50-b552-77eb50d54528"
         },
         {
             "code": "25558",
@@ -1591,7 +1591,7 @@
         },
         {
             "code": "25569",
-            "version": "1.0",
+            "version": "1.1",
             "type": "attachment",
             "name": "Bran the Breaker",
             "octgnId": null,
@@ -1604,10 +1604,10 @@
                 "Legacy",
                 "Tapestry"
             ],
-            "text": "Unique location you control only.\nWhile you are the attacking player, each character with printed cost equal to or lower than your claim value cannot be killed.",
+            "text": "Unique [stark] location you control only.\nWhile you are the attacking player, each character with printed cost equal to or lower than your claim value cannot be killed.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/f06b7e1e-fd93-4ccb-8842-ead25394b655"
+            "imageUrl": "https://hcti.io/v1/image/5d233e13-7f23-4a7f-b3ec-b87120b7f1ee"
         },
         {
             "code": "25570",
@@ -1869,7 +1869,7 @@
         },
         {
             "code": "25581",
-            "version": "1.0",
+            "version": "1.1",
             "type": "attachment",
             "name": "Aegon the Conqueror",
             "octgnId": null,
@@ -1882,10 +1882,10 @@
                 "Legacy",
                 "Tapestry"
             ],
-            "text": "Unique location you control only.\nWhile you control an attacking <i>Dragon</i> character with printed cost 7 or higher, raise the claim on your revealed plot card by 1.",
+            "text": "Unique [targaryen] location you control only.\nWhile you control an attacking <i>Dragon</i> character with printed cost 7 or higher, raise the claim value on your revealed plot card by 1.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/5dc77a99-091a-4c27-ad52-a508f098e6dd"
+            "imageUrl": "https://hcti.io/v1/image/0ecf2085-4bed-45c5-bd98-20662c96b121"
         },
         {
             "code": "25582",
@@ -2142,7 +2142,7 @@
         },
         {
             "code": "25593",
-            "version": "1.0",
+            "version": "1.1",
             "type": "attachment",
             "name": "Garth Greenhand",
             "octgnId": null,
@@ -2155,10 +2155,10 @@
                 "Legacy",
                 "Tapestry"
             ],
-            "text": "Unique location you control only.\nDuring a challenge, each participating [tyrell] character you control gets +1 STR.\n+1 Income.",
+            "text": "Unique [tyrell] location you control only.\nDuring a challenge, each participating unique [tyrell] character you control gets +1 STR.\n+1 Income.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/e0bc152a-1257-436d-a62e-cab5bc5a412f"
+            "imageUrl": "https://hcti.io/v1/image/d7417ab7-984e-4290-acd9-e1ce6e9db47b"
         },
         {
             "code": "25594",
@@ -2720,18 +2720,18 @@
         },
         {
             "code": "25620",
-            "version": "1.0",
+            "version": "1.1",
             "type": "agenda",
             "name": "Uniting the Realm",
             "octgnId": null,
             "quantity": 3,
             "faction": "neutral",
             "traits": [],
-            "text": "You may include non-loyal cards from any faction in your deck.\nYour deck may not contain more than 3 different cards from any faction.",
+            "text": "You may include non-loyal attachments, characters or locations from any faction in your deck.\nYour deck may not contain more than 3 different cards from any faction.",
             "deckLimit": 1,
             "illustrator": "?",
             "designer": "Card design by 2018 Joust European Champion, James Waumsley.",
-            "imageUrl": "https://hcti.io/v1/image/4f0ae6b5-4f4c-44f2-8a60-df9d83b041f2"
+            "imageUrl": "https://hcti.io/v1/image/0bd1c247-df08-435e-bfc7-986e67bad10a"
         }
     ]
 }
