@@ -362,7 +362,7 @@
         },
         {
             "code": "25516",
-            "version": "1.0",
+            "version": "1.1",
             "type": "character",
             "name": "Ralf Kenning",
             "octgnId": null,
@@ -376,7 +376,7 @@
                 "intrigue": true,
                 "power": false
             },
-            "strength": 3,
+            "strength": 2,
             "traits": [
                 "House Harlaw",
                 "Ironborn",
@@ -386,7 +386,7 @@
             "deckLimit": 3,
             "illustrator": "?",
             "designer": "Card design by 2022 Joust Castle Stahleck Champion, Marti Foz Hernandez",
-            "imageUrl": "https://hcti.io/v1/image/60168e34-0f8d-47ab-8652-1382c35eb1ba"
+            "imageUrl": "https://hcti.io/v1/image/4f6a7d65-11dc-4c19-a1e3-6c2447a98651"
         },
         {
             "code": "25517",
@@ -1675,14 +1675,14 @@
         },
         {
             "code": "25573",
-            "version": "1.0",
+            "version": "1.1",
             "type": "character",
             "name": "Aegon Targaryen",
             "octgnId": null,
             "quantity": 3,
             "unique": true,
             "faction": "targaryen",
-            "loyal": true,
+            "loyal": false,
             "cost": 7,
             "icons": {
                 "military": false,
@@ -1697,7 +1697,7 @@
             "text": "Renown. Shadow (6).\n<b>Reaction:</b> After a non-loyal [targaryen] character enters play during the challenges phase, stand Aegon Targaryen. (Limit twice per phase.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/4c36b777-d509-4cb3-bc62-6562822bd938"
+            "imageUrl": "https://hcti.io/v1/image/75c04dd5-fbbf-4116-8ce4-2245ef71104e"
         },
         {
             "code": "25574",
@@ -1753,14 +1753,14 @@
         },
         {
             "code": "25576",
-            "version": "1.0",
+            "version": "1.1",
             "type": "character",
             "name": "Arstan Whitebeard",
             "octgnId": null,
             "quantity": 3,
             "unique": true,
             "faction": "targaryen",
-            "loyal": true,
+            "loyal": false,
             "cost": 1,
             "icons": {
                 "military": true,
@@ -1774,7 +1774,7 @@
             "text": "If you control Ser Barristan Selmy, sacrifice Arstan Whitebeard. \nWhile you control no <i>Lord</i> or <i>Lady</i> characters, Arstan Whitebeard cannot kneel.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/9eb8d416-eb74-48ec-8aca-39d6e5882986"
+            "imageUrl": "https://hcti.io/v1/image/33a8ad3f-1eba-4941-879f-db3524fa7f10"
         },
         {
             "code": "25577",
@@ -1803,7 +1803,7 @@
         },
         {
             "code": "25578",
-            "version": "1.0",
+            "version": "1.1",
             "type": "character",
             "name": "Pink Graces",
             "octgnId": null,
@@ -1817,15 +1817,15 @@
                 "intrigue": true,
                 "power": true
             },
-            "strength": 2,
+            "strength": 1,
             "traits": [
                 "Companion",
                 "Grace"
             ],
-            "text": "<b>Interrupt:</b> When the challenges phase ends, kneel Pink Graces. Each player who did not apply [military] claim this phase may draw 1 card.",
+            "text": "<b>Interrupt:</b> When the challenges phase ends, each player who did not apply [military] claim this phase may draw 1 card.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/6920e56a-647c-402d-9351-96ff460ce4cc"
+            "imageUrl": "https://hcti.io/v1/image/b06c6463-355f-477e-8e8a-11e62d957cf3"
         },
         {
             "code": "25579",
@@ -1950,7 +1950,7 @@
         },
         {
             "code": "25585",
-            "version": "1.1",
+            "version": "1.2",
             "type": "character",
             "name": "Margaery Tyrell",
             "octgnId": null,
@@ -1964,7 +1964,7 @@
                 "intrigue": true,
                 "power": true
             },
-            "strength": 4,
+            "strength": 5,
             "traits": [
                 "Lady",
                 "Queen"
@@ -1972,7 +1972,7 @@
             "text": "Shadow (5). Insight.\n<b>Interrupt:</b> When a [tyrell] card is revealed from your hand or deck, place it in shadows. (Limit twice per round.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/86908111-82a3-4e9e-8549-bf07f378ea44"
+            "imageUrl": "https://hcti.io/v1/image/5f681601-9b9a-4856-86d8-5d046912b264"
         },
         {
             "code": "25586",
@@ -2053,7 +2053,7 @@
         },
         {
             "code": "25589",
-            "version": "1.0",
+            "version": "1.1",
             "type": "character",
             "name": "Blackwater Forces",
             "octgnId": null,
@@ -2072,10 +2072,10 @@
                 "Army",
                 "Knight"
             ],
-            "text": "Ambush (4). No attachments.\n<b>Reaction:</b> After 1 or more cards are revealed from your hand, return Blackwater Forces to your hand.",
+            "text": "Ambush (4). No attachments.\n<b>Reaction:</b> After 1 or more cards are revealed from your hand or deck, return Blackwater Forces to your hand.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/d1d509e0-ba2a-4c27-ace3-a6e965fcd229"
+            "imageUrl": "https://hcti.io/v1/image/6d0950fb-f2de-47aa-a4d8-4bb9472ea367"
         },
         {
             "code": "25590",
@@ -2705,18 +2705,18 @@
         },
         {
             "code": "25619",
-            "version": "1.0",
+            "version": "1.1",
             "type": "agenda",
             "name": "The Gold Price",
             "octgnId": null,
             "quantity": 3,
             "faction": "neutral",
             "traits": [],
-            "text": "Your deck must contain at least 8 cards with a gold modifier.\n<b>Interrupt:</b> When a character is discarded from an opponent's hand, put it into play under your control instead of placing it in its owner's discard pile. At the end of the phase, if that card is still in play, sacrifice it unless you pay X gold. X is that card's printed cost.",
+            "text": "Locations you control enter play knelt.\r\n<b>Reaction:</b> After a character is discarded at random from an opponent's hand, put it into play under your control. At the end of the phase, if that card is still in play, sacrifice it unless you pay X gold. X is that card's printed cost.",
             "deckLimit": 1,
             "illustrator": "?",
             "designer": "Card design by 2015 Draft World Champion, Ryan Jones.",
-            "imageUrl": "https://hcti.io/v1/image/1ff1441e-e571-415e-9f89-55cbeb6dd1f1"
+            "imageUrl": "https://hcti.io/v1/image/137499e3-4be5-4639-be02-018476726493"
         },
         {
             "code": "25620",
