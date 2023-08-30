@@ -334,7 +334,7 @@
         },
         {
             "code": "25515",
-            "version": "1.0",
+            "version": "1.1",
             "type": "character",
             "name": "Victarion Greyjoy",
             "octgnId": null,
@@ -355,10 +355,10 @@
                 "Lord",
                 "R'hllor"
             ],
-            "text": "<b>Reaction:</b> After a phase begins, kneel a character you control. If it has the:\n- <i>R’hllor</i> trait, Victarion Greyjoy gains insight and cannot be knelt by card effects until the end of the phase.\n- <i>Drowned God</i> trait, Victarion Greyjoy gains renown and cannot be killed until the end of the phase.",
+            "text": "<b>Reaction:</b> After a phase begins, kneel a character you control. If it has the:\n- <i>R’hllor</i> trait, Victarion Greyjoy gains insight and is immune to opponent's character abilities until the end of the phase.\n- <i>Drowned God</i> trait, Victarion Greyjoy gains renown and cannot be killed until the end of the phase.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/d14d1808-cb33-4948-bc50-5404188ccbe8"
+            "imageUrl": "https://hcti.io/v1/image/de5e791f-07bb-449f-9815-b8a91137c70d"
         },
         {
             "code": "25516",
@@ -1651,27 +1651,28 @@
         },
         {
             "code": "25572",
-            "version": "1.0",
+            "version": "2.0",
             "type": "plot",
-            "name": "A Stark in Winterfell",
+            "name": "The Hour of the Wolf",
             "octgnId": null,
             "quantity": 3,
             "faction": "stark",
             "plotStats": {
-                "income": 3,
-                "initiative": 2,
+                "income": 5,
+                "initiative": 8,
                 "claim": 1,
-                "reserve": 5
+                "reserve": 4
             },
             "loyal": true,
             "traits": [
-                "Noble",
-                "Winter"
+                "Edict",
+                "Legacy"
             ],
-            "text": "<b>Interrupt:</b> When a [stark] character you control would be killed, sacrifice it instead. Then, choose another character in your discard pile and shuffle it into your deck. (Limit twice per phase.)",
+            "text": "<b>When Revealed:</b> Each player sacrifices a non-loyal character, if able.",
+            "flavor": "Lord Stark would not be dissuaded: the betrayers and poisoners of King Aegon II must pay the price.",
             "deckLimit": 1,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/fddfd188-8433-447a-8f53-a420eb0e8a22"
+            "imageUrl": "https://hcti.io/v1/image/97f35b03-42b5-4a50-8d65-911b8b555168"
         },
         {
             "code": "25573",
