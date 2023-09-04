@@ -507,7 +507,7 @@
         },
         {
             "code": "25522",
-            "version": "1.0",
+            "version": "1.1",
             "type": "attachment",
             "name": "Nightfall",
             "octgnId": null,
@@ -520,10 +520,10 @@
                 "Valyrian Steel",
                 "Weapon"
             ],
-            "text": "While attached character has the <i>House Harlaw</i> trait, it gains renown.\n<b>Reaction:</b> After an opponent discards an attachment or location for reserve, sacrifice Nightfall to put that card into play under your control.",
+            "text": "While attached character has the <i>House Harlaw</i> trait, it gains renown.\n<b>Reaction:</b> After you win a challenge in which attached character is participating, kneel Nightfall to have each player check reserve.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/d60da463-ae4b-4934-83b0-d0f3eb9c8831"
+            "imageUrl": "https://hcti.io/v1/image/e84c8e92-3e4f-44ae-851a-57648aaa8bdf"
         },
         {
             "code": "25523",
@@ -802,7 +802,7 @@
         },
         {
             "code": "25535",
-            "version": "1.0",
+            "version": "1.1",
             "type": "event",
             "name": "A Lannister's Honor",
             "octgnId": null,
@@ -811,11 +811,11 @@
             "loyal": false,
             "cost": 1,
             "traits": [],
-            "text": "<b>Reaction:</b> After you win an [intrigue] challenge, the losing opponent must choose and kill a character they control with the lowest STR.",
+            "text": "<b>Reaction:</b> After you win an [intrigue] challenge as the attacking player, the losing opponent must choose and kill a character with the lowest STR among characters they control. (Max 1 per challenge.)",
             "flavor": "\"The Lannisters have no honor.\" <cite>Ser Jorah Mormont</cite>",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/44c5f740-2f6d-4614-9949-bbb9db557b02"
+            "imageUrl": "https://hcti.io/v1/image/6ad1c6fe-7e8c-4dda-a620-780d79eab6c9"
         },
         {
             "code": "25536",
@@ -844,7 +844,7 @@
         },
         {
             "code": "25537",
-            "version": "1.0",
+            "version": "1.1",
             "type": "character",
             "name": "The Old Hawk",
             "octgnId": null,
@@ -862,11 +862,11 @@
             "traits": [
                 "Lord"
             ],
-            "text": "While there is a <i>Summer</i> plot revealed, each character you control with 6 or more STR gains renown.",
+            "text": "While there is a <i>Summer</i> plot revealed, each [martell] character you control with 6 or more STR gains renown.",
             "flavor": "He had never gotten on with Anders Yronwood; there was bad blood between their Houses going back a thousand years, from when the Fowlers had chosen Martell over Yronwood during Nymeria's War.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/109193b9-2283-4af0-a856-ce353d21ec0f"
+            "imageUrl": "https://hcti.io/v1/image/a22fb1c3-2a63-43e6-80c5-f4ea26d86aac"
         },
         {
             "code": "25538",
@@ -948,7 +948,7 @@
         },
         {
             "code": "25541",
-            "version": "1.0",
+            "version": "1.1",
             "type": "character",
             "name": "Scheming Snake",
             "octgnId": null,
@@ -962,7 +962,7 @@
                 "intrigue": true,
                 "power": false
             },
-            "strength": 3,
+            "strength": 2,
             "traits": [
                 "Bastard",
                 "Sand Snake"
@@ -970,11 +970,11 @@
             "text": "Shadow (2).\n<b>Reaction:</b> After Scheming Snake enters play, choose a participating character with fewer than 2 challenge icons. That character does not contribute its STR to this challenge.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/e3159888-7bef-49d9-9411-dac36b846dab"
+            "imageUrl": "https://hcti.io/v1/image/0600fcd3-eeaa-436d-9c3a-d9945dc8899f"
         },
         {
             "code": "25542",
-            "version": "1.0",
+            "version": "1.1",
             "type": "character",
             "name": "Water Gardens Sentry",
             "octgnId": null,
@@ -992,10 +992,10 @@
             "traits": [
                 "Guard"
             ],
-            "text": "While you control a [martell] <i>Lord</i> or <i>Lady</i> character, Water Gardens Sentry may be declared as a defender during [intrigue] or [power] challenges.",
+            "text": "While you control a [martell] <i>Lord</i> or <i>Lady</i> character, Water Gardens Sentry may be declared as a defender during [intrigue] challenges.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/09a871c7-82b9-4121-816f-b76ec7fb6fc1"
+            "imageUrl": "https://hcti.io/v1/image/6b71e66a-6b20-4c28-9e7c-f4092f44d0aa"
         },
         {
             "code": "25543",
@@ -1018,7 +1018,7 @@
         },
         {
             "code": "25544",
-            "version": "1.0",
+            "version": "1.1",
             "type": "location",
             "name": "The Stepstones",
             "octgnId": null,
@@ -1032,14 +1032,14 @@
                 "Essos",
                 "Westeros"
             ],
-            "text": "Bestow (3).\n<b>Forced Reaction:</b> After you lose a challenge, give control of The Stepstones to the winning opponent unless you discard 1 gold from it.\n+2 Income. +1 Initiative.",
+            "text": "Bestow (2).\n<b>Forced Reaction:</b> After you lose a [military] challenge, give control of The Stepstones to the winning opponent unless you discard 1 gold from it.\n+2 Income. +1 Initiative.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/a8e524ac-7e4a-4d89-8b37-5622bc3d2d89"
+            "imageUrl": "https://hcti.io/v1/image/b9f86160-cf1b-4ca6-85fb-ea8340c06413"
         },
         {
             "code": "25545",
-            "version": "1.1",
+            "version": "1.2",
             "type": "attachment",
             "name": "Nymeria of Ny Sar",
             "octgnId": null,
@@ -1052,14 +1052,14 @@
                 "Legacy",
                 "Tapestry"
             ],
-            "text": "Unique [martell] location you control only.\n<b>Reaction:</b> After you win a challenge by 10 or more STR, kneel your faction card to choose and reveal a <i>Summer</i> or <i>Scheme</i> plot card. (Cannot be canceled).",
+            "text": "Unique [martell] location you control only.\n<b>Reaction:</b> After you win a challenge by 5 or more STR, kneel your faction card to choose and reveal a [martell] or <i>Summer</i> plot card. (Cannot be canceled).",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/fd6a47ec-315c-47a6-8bbe-e108b58cdbc4"
+            "imageUrl": "https://hcti.io/v1/image/95b4de51-4bb2-42e6-a7fa-359b2718b656"
         },
         {
             "code": "25546",
-            "version": "1.0",
+            "version": "1.1",
             "type": "attachment",
             "name": "Vulture King",
             "octgnId": null,
@@ -1067,15 +1067,15 @@
             "unique": true,
             "faction": "martell",
             "loyal": false,
-            "cost": 2,
+            "cost": 1,
             "traits": [
                 "Legacy",
                 "Title"
             ],
-            "text": "While attached character is attacking, each defending character without an [intrigue] icon loses a [power] icon.",
+            "text": "Attached character gains pillage.\r\n<b>Reaction:</b> After attached character discards an attachment or location using pillage, choose a character. Until the end of the phase, that character loses a [power] icon.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/af368c80-8900-4b36-b982-beeef8ce0fb0"
+            "imageUrl": "https://hcti.io/v1/image/af61c184-05af-4615-884d-263c078bb9e5"
         },
         {
             "code": "25547",
@@ -2201,7 +2201,7 @@
         },
         {
             "code": "25596",
-            "version": "1.0",
+            "version": "1.1",
             "type": "plot",
             "name": "Chivalry of the South",
             "octgnId": null,
@@ -2218,10 +2218,10 @@
                 "Legacy",
                 "Summer"
             ],
-            "text": "<b>Reaction:</b> After a challenge ends in which there were no participating characters, gain 1 power for your faction.",
+            "text": "<b>Reaction:</b> After a challenge ends in which there were no participating characters, gain 2 power for your faction.",
             "deckLimit": 1,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/075ee126-5d4f-4a5b-9fdb-b52e8b6656e2"
+            "imageUrl": "https://hcti.io/v1/image/8b93b7eb-4145-4332-b37f-77c9edba1acb"
         },
         {
             "code": "25597",
