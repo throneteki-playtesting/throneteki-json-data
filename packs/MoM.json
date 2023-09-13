@@ -282,7 +282,7 @@
         },
         {
             "code": "25513",
-            "version": "1.1",
+            "version": "1.2",
             "type": "character",
             "name": "The Knight",
             "octgnId": null,
@@ -301,10 +301,10 @@
                 "House Harlaw",
                 "Knight"
             ],
-            "text": "<b>Challenges Action:</b> Choose an opponent. Return 2 characters from that player's discard pile to their hand. Then, raise the claim value on your revealed plot card by 1 during the next challenge you initiate against that player this phase. (Limit once per round.)",
+            "text": "Pillage.\n<b>Challenges Action:</b> Choose an opponent. Return 2 characters from that player's discard pile to their hand. Then, raise the claim value on your revealed plot card by 1 during the next challenge you initiate against that player this phase. (Limit once per round.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/38339104-3cd3-4912-8355-2936e5bff91b"
+            "imageUrl": "https://hcti.io/v1/image/8b636bef-2f79-4bbb-94c8-7eed0db82c41"
         },
         {
             "code": "25514",
@@ -594,7 +594,7 @@
         },
         {
             "code": "25526",
-            "version": "1.0",
+            "version": "1.1",
             "type": "character",
             "name": "Grand Maester Pycelle",
             "octgnId": null,
@@ -613,10 +613,10 @@
                 "Maester",
                 "Small Council"
             ],
-            "text": "<b>Interrupt:</b> When a card is discarded from a player's hand, place it facedown under its owner's agenda instead of placing it in its owner's discard pile. (Limit twice per phase.)",
+            "text": "<b>Interrupt:</b> When a card is discarded from a player's hand, place it facedown under its owner's agenda instead of placing it in its owner's discard pile. (Limit twice per round.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/5e1fd0bc-6552-47c7-8f2a-a4e0fc2d79ee"
+            "imageUrl": "https://hcti.io/v1/image/7c4a3665-d33f-4d05-b1bc-65f4aef8224f"
         },
         {
             "code": "25527",
@@ -762,7 +762,7 @@
         },
         {
             "code": "25533",
-            "version": "1.1",
+            "version": "1.2",
             "type": "attachment",
             "name": "Lann the Clever",
             "octgnId": null,
@@ -775,10 +775,10 @@
                 "Legacy",
                 "Tapestry"
             ],
-            "text": "Unique [lannister] location you control only.\nWhile you are the attacking player, if you have more cards in hand than the defending player, you may look at and choose which cards to discard for [intrigue] claim.",
+            "text": "Unique [lannister] location you control only.\n<b>Reaction:</b> After you win an [intrigue] challenge, kneel Lann the Clever and return a participating [lannister] character to your hand to gain 3 gold. (Cannot be canceled.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/af11a182-0bfc-4969-a094-7278f4f0e989"
+            "imageUrl": "https://hcti.io/v1/image/8dfcb9b6-559a-4bdd-9e10-f7bf5fc7128d"
         },
         {
             "code": "25534",
@@ -1122,7 +1122,7 @@
         },
         {
             "code": "25549",
-            "version": "1.0",
+            "version": "1.1",
             "type": "character",
             "name": "Bowen Marsh",
             "octgnId": null,
@@ -1130,21 +1130,21 @@
             "unique": true,
             "faction": "thenightswatch",
             "loyal": true,
-            "cost": 7,
+            "cost": 5,
             "icons": {
                 "military": false,
                 "intrigue": true,
                 "power": true
             },
-            "strength": 5,
+            "strength": 4,
             "traits": [
                 "Lord",
                 "Steward"
             ],
-            "text": "Insight. Shadow (6).\n<b>Reaction:</b> After a card you control comes out of shadows, either: draw 1 card, or stand a [thenightswatch] character with printed cost 3 or lower. (Limit once per phase.)",
+            "text": "Insight. Shadow (4).\n<b>Reaction:</b> After a card you control comes out of shadows, choose a character and a challenge type. Until the end of the phase, that character cannot be declared as an attacker in challenges of that type. (Limit 3 times per phase.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/4c4f7692-62ba-49bf-8ca3-4a4c68e6d6a8"
+            "imageUrl": "https://hcti.io/v1/image/7454e7be-c94b-45a9-936e-c80366adc5cf"
         },
         {
             "code": "25550",
@@ -1249,7 +1249,7 @@
         },
         {
             "code": "25554",
-            "version": "1.0",
+            "version": "1.1",
             "type": "character",
             "name": "Highborn Recruit",
             "octgnId": null,
@@ -1257,20 +1257,21 @@
             "unique": false,
             "faction": "thenightswatch",
             "loyal": false,
-            "cost": 2,
+            "cost": 1,
             "icons": {
                 "military": false,
                 "intrigue": false,
                 "power": true
             },
-            "strength": 2,
+            "strength": 1,
             "traits": [
-                "Ally"
+                "Ally",
+                "Recruit"
             ],
             "text": "<b>Action:</b> Kneel Highborn Recruit to choose a character with 1 or fewer challenge icons. Until the end of the phase, that character gains renown or insight.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/7cd059bc-c5f6-416e-af9d-d8ea402a7b46"
+            "imageUrl": "https://hcti.io/v1/image/70fab5e3-12a3-4ea7-9184-e376d1aa46c2"
         },
         {
             "code": "25555",
@@ -1393,7 +1394,7 @@
         },
         {
             "code": "25561",
-            "version": "1.0",
+            "version": "1.1",
             "type": "character",
             "name": "Roose Bolton",
             "octgnId": null,
@@ -1407,17 +1408,17 @@
                 "intrigue": true,
                 "power": true
             },
-            "strength": 4,
+            "strength": 3,
             "traits": [
                 "Ally",
                 "House Bolton",
                 "Lord"
             ],
-            "text": "Intimidate.\n<b>Forced Reaction:</b> After you marshal Roose Bolton, kill each other loyal character.",
+            "text": "Intimidate.\n<b>Forced Reaction:</b> After you marshal Roose Bolton, kneel your faction card. Then, kill each other loyal character.",
             "flavor": "\"A peaceful land, a quiet people.\"",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/a088873e-e8b2-4678-b752-fd071f181448"
+            "imageUrl": "https://hcti.io/v1/image/0e814294-8ea5-423b-a4c5-736f65ca0022"
         },
         {
             "code": "25562",
@@ -1447,7 +1448,7 @@
         },
         {
             "code": "25563",
-            "version": "1.0",
+            "version": "1.1",
             "type": "character",
             "name": "Jon Snow",
             "octgnId": null,
@@ -1465,11 +1466,11 @@
             "traits": [
                 "Bastard"
             ],
-            "text": "No attachments except <i>Direwolf.</i>\n<b>Interrupt:</b> When claim is applied for a [military] challenge, either (choose one):\n- standing characters must be chosen to satisfy claim.\n- kneeling characters must be chosen to satisfy claim.",
+            "text": "No attachments except <i>Direwolf</i>.\n<b>Interrupt:</b> When claim is applied for a [military] challenge, either: standing characters, or kneeling characters must be chosen for claim, if able.",
             "deckLimit": 3,
             "illustrator": "?",
             "designer": "Card design by 2019 World Melee Champion, Richard Walker.",
-            "imageUrl": "https://hcti.io/v1/image/475d348b-9453-4af2-b5df-a74806ac063e"
+            "imageUrl": "https://hcti.io/v1/image/e96ed514-994b-4d6a-a45e-1b02aa8ef4fd"
         },
         {
             "code": "25564",
@@ -1611,7 +1612,7 @@
         },
         {
             "code": "25570",
-            "version": "1.0",
+            "version": "1.1",
             "type": "attachment",
             "name": "Ice",
             "octgnId": null,
@@ -1619,16 +1620,16 @@
             "unique": true,
             "faction": "stark",
             "loyal": true,
-            "cost": 2,
+            "cost": 3,
             "traits": [
                 "Valyrian Steel",
                 "Weapon"
             ],
-            "text": "[stark] character only.\n<b>Reaction:</b> After a character is saved, kneel Ice to kill that character.",
+            "text": "Unique [stark] character only.\r\nAttached character gets +2 STR.\r\n<b>Reaction:</b> After a character is saved, kneel Ice to kill it.",
             "flavor": "His father took off the man's head with a single sure stroke. Blood sprayed out across the snow, as red as summerwine.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/7d0b2677-2eef-4ffe-8db4-c9e05ad2485a"
+            "imageUrl": "https://hcti.io/v1/image/be5da903-afa1-43b6-8276-8767879bb0d3"
         },
         {
             "code": "25571",
@@ -1909,7 +1910,7 @@
         },
         {
             "code": "25583",
-            "version": "1.0",
+            "version": "1.1",
             "type": "event",
             "name": "Naught But Ashes",
             "octgnId": null,
@@ -1918,11 +1919,11 @@
             "loyal": true,
             "cost": "-",
             "traits": [],
-            "text": "Shadow (1).\n<b>Challenges Action:</b> Choose a character. Until the end of the phase, that character gets -1 STR for each other card in shadows. (Max once per round.)",
+            "text": "Shadow (1).\n<b>Challenges Action:</b> Choose a participating character without attachments. Until the end of the phase, that character gets -1 STR for each other card in shadows. (Max once per round.)",
             "flavor": "\"The traitors want my city, but I'll give them naught but ashes.\" <cite>The Mad King</cite>",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/b6da7fdc-6a96-41a3-b65c-0afdb6e8e7bc"
+            "imageUrl": "https://hcti.io/v1/image/10f3031a-b783-4e1c-a71b-9f6ebe87e635"
         },
         {
             "code": "25584",
@@ -2054,7 +2055,7 @@
         },
         {
             "code": "25589",
-            "version": "1.1",
+            "version": "1.2",
             "type": "character",
             "name": "Blackwater Forces",
             "octgnId": null,
@@ -2073,10 +2074,10 @@
                 "Army",
                 "Knight"
             ],
-            "text": "Ambush (4). No attachments.\n<b>Reaction:</b> After 1 or more cards are revealed from your hand or deck, return Blackwater Forces to your hand.",
+            "text": "No attachments except <i>Weapon</i>.\r\n<b>Reaction:</b> After Blackwater Forces stands during a challenge, choose a participating character. Until the end of the challenge, that character gets +2 STR.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/6d0950fb-f2de-47aa-a4d8-4bb9472ea367"
+            "imageUrl": "https://hcti.io/v1/image/be3efc8e-9b19-4444-a6b2-a6de25c6a10f"
         },
         {
             "code": "25590",
