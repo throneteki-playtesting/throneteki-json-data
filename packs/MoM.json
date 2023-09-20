@@ -7,7 +7,7 @@
     "cards": [
         {
             "code": "25501",
-            "version": "1.0",
+            "version": "1.1",
             "type": "character",
             "name": "Beric Dondarrion",
             "octgnId": null,
@@ -21,7 +21,7 @@
                 "intrigue": false,
                 "power": true
             },
-            "strength": 6,
+            "strength": 5,
             "traits": [
                 "Knight",
                 "Lord"
@@ -29,7 +29,7 @@
             "text": "Renown.\n<b>Reaction:</b> After you win a challenge in which Beric Dondarrion is attacking, choose a character controlled by the losing opponent. Until the end of the round, that character cannot kneel or stand. (Limit once per round.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/fa0bd89b-93a6-406f-a290-580304775a40"
+            "imageUrl": "https://hcti.io/v1/image/5566a471-c477-4684-b75a-a54af47c6db5"
         },
         {
             "code": "25502",
@@ -59,7 +59,7 @@
         },
         {
             "code": "25503",
-            "version": "1.0",
+            "version": "1.1",
             "type": "character",
             "name": "Allard Seaworth",
             "octgnId": null,
@@ -78,10 +78,10 @@
                 "Captain",
                 "Smuggler"
             ],
-            "text": "<b>Dominance Action:</b> Discard a facedown card attached to a [baratheon] card you control to gain 1 power. (Limit twice per phase.)",
+            "text": "<b>Dominance Action:</b> Discard a facedown card attached to a [baratheon] card you control to gain 1 power. (Limit once per phase.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/2be9742a-a3a0-44ab-ba78-89f363545d27"
+            "imageUrl": "https://hcti.io/v1/image/f4c785a8-ced3-422f-b5e5-46ad16807002"
         },
         {
             "code": "25504",
@@ -308,7 +308,7 @@
         },
         {
             "code": "25514",
-            "version": "1.0",
+            "version": "1.1",
             "type": "character",
             "name": "Tarle the Thrice-Drowned",
             "octgnId": null,
@@ -327,10 +327,10 @@
                 "Drowned God",
                 "Ironborn"
             ],
-            "text": "Renown.\n<b>Forced Reaction:</b> After a [greyjoy] character enters play from your dead pile, each player must discard 1 power from their faction card unless they kneel their faction card. (Limit twice per round.)",
+            "text": "<b>Reaction:</b> After a <i>Drowned God</i> or <i>Ironborn</i> character you control is placed in your dead pile, put that character into play. Then, kill a character you control. (Limit once per round.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/aa00360b-f860-4402-9311-d31138018a27"
+            "imageUrl": "https://hcti.io/v1/image/1fcc48c0-f85d-4bab-a434-21e3a22e75bc"
         },
         {
             "code": "25515",
@@ -802,20 +802,20 @@
         },
         {
             "code": "25535",
-            "version": "1.1",
+            "version": "1.2",
             "type": "event",
             "name": "A Lannister's Honor",
             "octgnId": null,
             "quantity": 3,
             "faction": "lannister",
-            "loyal": false,
+            "loyal": true,
             "cost": 1,
             "traits": [],
             "text": "<b>Reaction:</b> After you win an [intrigue] challenge as the attacking player, the losing opponent must choose and kill a character with the lowest STR among characters they control. (Max 1 per challenge.)",
             "flavor": "\"The Lannisters have no honor.\" <cite>Ser Jorah Mormont</cite>",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/6ad1c6fe-7e8c-4dda-a620-780d79eab6c9"
+            "imageUrl": "https://hcti.io/v1/image/1d34277a-f6b4-4e78-9490-b1857593fd93"
         },
         {
             "code": "25536",
@@ -1334,7 +1334,7 @@
         },
         {
             "code": "25558",
-            "version": "1.0",
+            "version": "1.1",
             "type": "attachment",
             "name": "Insubordination",
             "octgnId": null,
@@ -1346,11 +1346,11 @@
             "traits": [
                 "Condition"
             ],
-            "text": "<b>Reaction:</b> After a challenge is initiated against you in which attached character is attacking alone, sacrifice Insubordination to kill attached character.",
+            "text": "Terminal.\n<b>Reaction:</b> After a challenge is initiated against you in which attached character is attacking alone, kneel Insubordination to kill attached character.",
             "flavor": "\"Do you hear me, boy? I will not have it!\" <cite>Janos Slynt</cite>",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/51f226a8-7a06-474f-99ea-ee0ba1239538"
+            "imageUrl": "https://hcti.io/v1/image/cd0bb661-50a6-48a3-81a9-8683fb75e2ab"
         },
         {
             "code": "25559",
@@ -1573,7 +1573,7 @@
         },
         {
             "code": "25568",
-            "version": "1.0",
+            "version": "1.1",
             "type": "location",
             "name": "Lonely Hill",
             "octgnId": null,
@@ -1583,12 +1583,13 @@
             "loyal": false,
             "cost": 1,
             "traits": [
-                "House Umber"
+                "House Umber",
+                "The North"
             ],
-            "text": "While you have more than 1 plot in your plot deck, you are considered to have 1 fewer plot cards in your used pile.",
+            "text": "While Lonely Hill is standing, if you have more than 1 plot in your plot deck, you are considered to have 1 fewer plot cards in your used pile.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/a6b7680d-9622-4474-a249-025cd08444fc"
+            "imageUrl": "https://hcti.io/v1/image/2779210a-3670-4a17-a534-51c2d6fdb943"
         },
         {
             "code": "25569",
@@ -1805,7 +1806,7 @@
         },
         {
             "code": "25578",
-            "version": "1.1",
+            "version": "1.2",
             "type": "character",
             "name": "Pink Graces",
             "octgnId": null,
@@ -1819,7 +1820,7 @@
                 "intrigue": true,
                 "power": true
             },
-            "strength": 1,
+            "strength": 2,
             "traits": [
                 "Companion",
                 "Grace"
@@ -1827,7 +1828,7 @@
             "text": "<b>Interrupt:</b> When the challenges phase ends, each player who did not apply [military] claim this phase may draw 1 card.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/b06c6463-355f-477e-8e8a-11e62d957cf3"
+            "imageUrl": "https://hcti.io/v1/image/9a748cb4-43f7-46b3-b663-09487162c487"
         },
         {
             "code": "25579",
@@ -2353,7 +2354,7 @@
         },
         {
             "code": "25602",
-            "version": "1.0",
+            "version": "1.1",
             "type": "character",
             "name": "Little Bird",
             "octgnId": null,
@@ -2370,10 +2371,10 @@
             "traits": [
                 "Spy"
             ],
-            "text": "Shadow (1).\n<b>Reaction:</b> After Little Bird comes out of shadows, draw 1 card.",
+            "text": "Shadow (1).\n<b>Forced Reaction:</b> After Little Bird comes out of shadows, each player may draw 1 card.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/a83330ea-a59f-468f-a0d6-f763c01e25de"
+            "imageUrl": "https://hcti.io/v1/image/accd13d2-4df4-4308-959c-da15156881e0"
         },
         {
             "code": "25603",
@@ -2469,21 +2470,19 @@
         },
         {
             "code": "25608",
-            "version": "1.0",
+            "version": "1.1",
             "type": "event",
             "name": "Calm as Still Water",
             "octgnId": null,
             "quantity": 3,
             "faction": "neutral",
-            "cost": 1,
-            "traits": [
-                "Legacy"
-            ],
-            "text": "<b>Interrupt:</b> When a character with printed STR 3 or lower would be killed, save it and return it to your hand.",
+            "cost": 0,
+            "traits": [],
+            "text": "<b>Interrupt:</b> When a character with printed cost 3 or lower would be killed, save it and return it to its owner's hand.",
             "flavor": "\"The first sword of Braavos does not run\" <cite>Syrio Forel</cite>",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/bd9b91bb-6ca7-4e3c-90cb-f80a78570055"
+            "imageUrl": "https://hcti.io/v1/image/7395423e-9bc6-4b57-8659-08b9a33eef1f"
         },
         {
             "code": "25609",
@@ -2514,7 +2513,7 @@
                 "income": 5,
                 "initiative": 0,
                 "claim": 1,
-                "reserve": 6
+                "reserve": 5
             },
             "traits": [
                 "Edict",
@@ -2528,7 +2527,7 @@
         },
         {
             "code": "25611",
-            "version": "1.0",
+            "version": "1.1",
             "type": "plot",
             "name": "At the Tower of Joy",
             "octgnId": null,
@@ -2544,11 +2543,11 @@
                 "Legacy",
                 "War"
             ],
-            "text": "<b>When Revealed:</b> Choose a character. Until the end of the round, that character cannot be killed.",
+            "text": "<b>When Revealed:</b> Choose a character. Until you reveal a new plot card, that character cannot be killed.",
             "flavor": "It was said that Rhaegar had named that place the tower of joy, but for Ned it was a bitter memory.",
             "deckLimit": 1,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/e9368b86-9892-4c4d-8e7a-2461482333fe"
+            "imageUrl": "https://hcti.io/v1/image/9da2d48f-3800-4722-91a4-72aa9fe6e1ec"
         },
         {
             "code": "25612",
@@ -2599,15 +2598,15 @@
         },
         {
             "code": "25614",
-            "version": "1.0",
+            "version": "1.1",
             "type": "plot",
             "name": "City Blockade",
             "octgnId": null,
             "quantity": 3,
             "faction": "neutral",
             "plotStats": {
-                "income": 6,
-                "initiative": 1,
+                "income": 5,
+                "initiative": 2,
                 "claim": 1,
                 "reserve": 6
             },
@@ -2618,21 +2617,21 @@
             "text": "Each player cannot marshal, play, or put limited cards into play.",
             "deckLimit": 1,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/58f3d1a7-e5f6-4a27-bf9f-6dda3000430c"
+            "imageUrl": "https://hcti.io/v1/image/65d120cb-91b6-4dd2-b36b-8e67990a437b"
         },
         {
             "code": "25615",
-            "version": "1.0",
+            "version": "1.1",
             "type": "plot",
             "name": "Enemies In Every Shadow",
             "octgnId": null,
             "quantity": 3,
             "faction": "neutral",
             "plotStats": {
-                "income": 3,
+                "income": 4,
                 "initiative": 2,
                 "claim": 1,
-                "reserve": 5
+                "reserve": 6
             },
             "traits": [
                 "House Arryn"
@@ -2641,7 +2640,7 @@
             "flavor": "She wants all our swords kept close to home, to defend the Vale... against what, no one is certain. Shadows, some say.” - Ser Donnel Waynwood",
             "deckLimit": 2,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/2b6cc121-3e73-4b90-a316-ca30cfdbfd95"
+            "imageUrl": "https://hcti.io/v1/image/c726cf69-ef36-4762-9976-0542a30109e7"
         },
         {
             "code": "25616",
@@ -2699,7 +2698,7 @@
             "quantity": 3,
             "faction": "neutral",
             "traits": [],
-            "text": "Your plot deck cannot include <i>Omen</i> plot cards.\r\n<b>Reaction:</b> After an opponent loses a challenge, place a Valar Morghulis token on a participating character they control.\r\n<b>Interrupt:</b> When a character with 3 or more Valar Morghulis tokens is killed, gain 3 power for your faction.",
+            "text": "Your plot deck cannot include <i>Omen</i> plot cards.\n<b>Reaction:</b> After an opponent loses a challenge, place a Valar Morghulis token on a participating character they control.\n<b>Interrupt:</b> When a character with 3 or more Valar Morghulis tokens is killed, gain 3 power for your faction.",
             "deckLimit": 1,
             "illustrator": "?",
             "designer": "Card design by 2019 Joust European Champion, Alejandro Gomez.",
