@@ -282,7 +282,7 @@
         },
         {
             "code": "25513",
-            "version": "1.2",
+            "version": "1.3",
             "type": "character",
             "name": "The Knight",
             "octgnId": null,
@@ -301,10 +301,10 @@
                 "House Harlaw",
                 "Knight"
             ],
-            "text": "Pillage.\n<b>Challenges Action:</b> Choose an opponent. Return 2 characters from that player's discard pile to their hand. Then, raise the claim value on your revealed plot card by 1 during the next challenge you initiate against that player this phase. (Limit once per round.)",
+            "text": "Pillage.\r\n<b>Action:</b> During a challenge in which you control an attacking character, return 2 characters from the defending player's discard pile to their hand. Then, raise the claim on your revealed plot card by 1 until the end of the challenge. (Limit once per challenge.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/8b636bef-2f79-4bbb-94c8-7eed0db82c41"
+            "imageUrl": "https://hcti.io/v1/image/c3150686-f9d0-4fc9-9f40-6c37c503faed"
         },
         {
             "code": "25514",
@@ -334,7 +334,7 @@
         },
         {
             "code": "25515",
-            "version": "1.1",
+            "version": "1.2",
             "type": "character",
             "name": "Victarion Greyjoy",
             "octgnId": null,
@@ -348,7 +348,7 @@
                 "intrigue": false,
                 "power": true
             },
-            "strength": 4,
+            "strength": 5,
             "traits": [
                 "Drowned God",
                 "Ironborn",
@@ -358,7 +358,7 @@
             "text": "<b>Reaction:</b> After a phase begins, kneel a character you control. If it has the:\n- <i>R’hllor</i> trait, Victarion Greyjoy gains insight and is immune to opponent's character abilities until the end of the phase.\n- <i>Drowned God</i> trait, Victarion Greyjoy gains renown and cannot be killed until the end of the phase.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/de5e791f-07bb-449f-9815-b8a91137c70d"
+            "imageUrl": "https://hcti.io/v1/image/b568608c-9e93-47a8-a507-71067d295eb7"
         },
         {
             "code": "25516",
@@ -1148,7 +1148,7 @@
         },
         {
             "code": "25550",
-            "version": "1.0",
+            "version": "1.1",
             "type": "character",
             "name": "Maester Harmune",
             "octgnId": null,
@@ -1166,10 +1166,10 @@
             "traits": [
                 "Maester"
             ],
-            "text": "<b>Reaction:</b> After gold is moved from an opponent's gold pool to your own, draw 1 card. Then, you and that player each choose a card in hand, and place it on top of its owner's deck. (Limit once per phase.)",
+            "text": "<b>Reaction:</b> After gold is moved from an opponent's gold pool to your own, reveal the top card of that player's deck. If that card is a character, discard it and draw 1 card. (Limit twice per round.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/6d94c6bd-aa12-4116-b03a-6b692d2383f5"
+            "imageUrl": "https://hcti.io/v1/image/f6efa892-4b0f-4b9e-900b-3abf3158ff82"
         },
         {
             "code": "25551",
@@ -1953,7 +1953,7 @@
         },
         {
             "code": "25585",
-            "version": "1.2",
+            "version": "1.3",
             "type": "character",
             "name": "Margaery Tyrell",
             "octgnId": null,
@@ -1972,10 +1972,10 @@
                 "Lady",
                 "Queen"
             ],
-            "text": "Shadow (5). Insight.\n<b>Interrupt:</b> When a [tyrell] card is revealed from your hand or deck, place it in shadows. (Limit twice per round.)",
+            "text": "Shadow (5). Insight.\n<b>Interrupt:</b> When 1 or more [tyrell] cards are revealed from your hand or deck, place one of those cards in shadows. (Limit twice per round.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/5f681601-9b9a-4856-86d8-5d046912b264"
+            "imageUrl": "https://hcti.io/v1/image/05af353d-fa25-4b58-9a65-3f19873501ed"
         },
         {
             "code": "25586",
@@ -2302,7 +2302,7 @@
         },
         {
             "code": "25600",
-            "version": "1.0",
+            "version": "1.1",
             "type": "character",
             "name": "Varys",
             "octgnId": null,
@@ -2321,11 +2321,11 @@
                 "Small Council",
                 "Spy"
             ],
-            "text": "Bestow (3). Stealth.\nCards with printed cost X cannot be marshaled, played or put into play. X is the number of gold on Varys.\n<b>Reaction:</b> After you reveal a <i>Scheme</i> plot card, place 1 gold on Varys or discard 1 gold from Varys.",
+            "text": "Bestow (2). Stealth.\r\n<b>Action:</b> Discard 1 gold from Varys to name a card. Until the end of the phase, cards with that name cannot be played or enter play. (Limit once per phase.)\r\n<b>Reaction:</b> After a <i>Scheme</i> plot card is revealed, place 1 gold on Varys.",
             "deckLimit": 3,
             "illustrator": "?",
             "designer": "Card design by 2019 Joust Castle Stahleck Champion, Sebastian Eckl.",
-            "imageUrl": "https://hcti.io/v1/image/35143b75-0203-4dda-96aa-a58ea64383b1"
+            "imageUrl": "https://hcti.io/v1/image/4054dbcc-48af-422f-b54a-a1f32a76d148"
         },
         {
             "code": "25601",
@@ -2503,7 +2503,7 @@
         },
         {
             "code": "25610",
-            "version": "1.0",
+            "version": "1.1",
             "type": "plot",
             "name": "A Southron Peace",
             "octgnId": null,
@@ -2523,7 +2523,7 @@
             "flavor": "\"Shouldn't you northmen have a different sort of peace banner? What are the Seven to you?\" <cite>Ser Jaime Lannister</cite>",
             "deckLimit": 1,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/a714796c-8ccf-49c0-b042-7c46703fbe6e"
+            "imageUrl": "https://hcti.io/v1/image/55f36b7c-7864-4b33-bf5f-c777fe959d94"
         },
         {
             "code": "25611",
@@ -2691,18 +2691,18 @@
         },
         {
             "code": "25618",
-            "version": "1.1",
+            "version": "1.2",
             "type": "agenda",
             "name": "The Gift of Mercy",
             "octgnId": null,
             "quantity": 3,
             "faction": "neutral",
             "traits": [],
-            "text": "Your plot deck cannot include <i>Omen</i> plot cards.\n<b>Reaction:</b> After an opponent loses a challenge, place a Valar Morghulis token on a participating character they control.\n<b>Interrupt:</b> When a character with 3 or more Valar Morghulis tokens is killed, gain 3 power for your faction.",
+            "text": "Your plot deck cannot include <i>Omen</i> plot cards.\n<b>Reaction:</b> After an opponent loses a challenge, place a Valar Morghulis token on a character they control.\n<b>Interrupt:</b> When a character with 3 or more Valar Morghulis tokens leaves play, gain 3 power for your faction.",
             "deckLimit": 1,
             "illustrator": "?",
             "designer": "Card design by 2019 Joust European Champion, Alejandro Gomez.",
-            "imageUrl": "https://hcti.io/v1/image/1d274f5d-ade5-4473-821f-a27a8de2759a"
+            "imageUrl": "https://hcti.io/v1/image/4e620a9e-9e53-4454-a136-86d127027244"
         },
         {
             "code": "25619",
