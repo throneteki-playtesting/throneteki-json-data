@@ -29,7 +29,7 @@
             "text": "Renown.\n<b>Reaction:</b> After you win a challenge in which Beric Dondarrion is attacking, choose a character controlled by the losing opponent. Until the end of the round, that character cannot kneel or stand. (Limit once per round.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/5566a471-c477-4684-b75a-a54af47c6db5"
+            "imageUrl": "https://hcti.io/v1/image/2e0228e1-aae5-43a9-bf8e-45d420e15f92"
         },
         {
             "code": "25502",
@@ -55,7 +55,7 @@
             "text": "<b>Interrupt:</b> When a unique [baratheon] character you control would be killed, kill a <i>R'hllor</i> character to save that character. (Limit once per round.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/5a7c26f2-1355-4fe6-b3a0-47ff2b61fa0a"
+            "imageUrl": "https://hcti.io/v1/image/94ec9265-f20b-42ce-89e3-582a31d930b8"
         },
         {
             "code": "25503",
@@ -81,7 +81,7 @@
             "text": "<b>Dominance Action:</b> Discard a facedown card attached to a [baratheon] card you control to gain 1 power. (Limit once per phase.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/f4c785a8-ced3-422f-b5e5-46ad16807002"
+            "imageUrl": "https://hcti.io/v1/image/bb7b8559-facc-4b06-9a31-f9484c567997"
         },
         {
             "code": "25504",
@@ -106,7 +106,7 @@
             "text": "Shadow (1).\n<b>Reaction:</b> After Maester Cressen comes out of shadows or is killed, place the top 2 cards of your deck facedown under your agenda.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/657624ec-cd74-427e-8357-9a9fa44af32f"
+            "imageUrl": "https://hcti.io/v1/image/8753ef17-df04-44cb-8ac9-7b7fe04c3953"
         },
         {
             "code": "25505",
@@ -131,7 +131,7 @@
             "text": "<b>Reaction:</b> After Blackhaven Rider enters play, each player must kneel a loyal character they control, if able.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/fe406b1b-5be4-4fb7-981f-ce5fd9e18649"
+            "imageUrl": "https://hcti.io/v1/image/c4bc0ad5-f52d-43f7-b474-b13d3d33743e"
         },
         {
             "code": "25506",
@@ -156,7 +156,7 @@
             "text": "While an opponent controls a card in shadows, Shadowed Acolyte gains insight.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/b2679957-461e-40e7-9d9f-d4656d34f20b"
+            "imageUrl": "https://hcti.io/v1/image/88bbd83a-a6a9-4698-820c-8ce7ebea3948"
         },
         {
             "code": "25507",
@@ -175,7 +175,7 @@
             "text": "<b>Reaction:</b> After a <i>Winter</i> plot card is revealed, kneel Deepwood Motte to kneel X locations with printed cost 1 or lower. X is the reserve value on the revealed <i>Winter</i> plot card.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/b24a9acc-a95f-45da-be3f-22a60fc03591"
+            "imageUrl": "https://hcti.io/v1/image/8deb18b6-a62e-4b93-8d55-8494f3c16307"
         },
         {
             "code": "25508",
@@ -194,7 +194,7 @@
             "text": "You may marshal or play facedown cards attached to Lady Marya as if they were in your hand.\n<b>Reaction:</b> After you win a challenge as the attacking player, kneel Lady Marya to attach the top card of the losing opponent's deck to Lady Marya facedown under your control, as an attachment with the text: \"Location only. Terminal.\" ",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/1d568fb9-a62c-4c65-bc51-7fb12cc832f7"
+            "imageUrl": "https://hcti.io/v1/image/052b2fac-1ec5-47d2-bfe8-8613019ce420"
         },
         {
             "code": "25509",
@@ -216,7 +216,7 @@
             "deckLimit": 3,
             "illustrator": "?",
             "designer": "Card inspired by 2010 Joust World Champion, Alec Irwin.",
-            "imageUrl": "https://hcti.io/v1/image/8ae34eb8-271a-42ce-82f2-4b3299828e7b"
+            "imageUrl": "https://hcti.io/v1/image/99fd8b47-3077-4aa5-a7ac-c58110a8c6e0"
         },
         {
             "code": "25510",
@@ -235,7 +235,7 @@
             "text": "<i>Lord</i> character only.\nWhile no opponent controls a <i>King</i> character, attached character gains the <i>King</i> trait and renown.\nWhile an opponent controls a <i>King</i> character, attached character gets +4 STR.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/b540579e-51fb-4937-ac2c-b71dd266fb0b"
+            "imageUrl": "https://hcti.io/v1/image/5ecb51db-4874-4c64-86f0-bca092119e18"
         },
         {
             "code": "25511",
@@ -254,7 +254,7 @@
             "flavor": "\"Your Grace's royal brother was renowned for turning fallen foes into friends.\" <cite>Asha Greyjoy</cite>",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/e8779288-0351-4583-a5aa-4fea1f0cbd52"
+            "imageUrl": "https://hcti.io/v1/image/c5099f9b-3c05-417e-96ea-7bedd755c64f"
         },
         {
             "code": "25512",
@@ -278,7 +278,7 @@
             "text": "<b>Forced Interrupt:</b> When the challenges phase ends, if you have lost a [power] challenge this round, discard 3 power from your faction card, if able.",
             "deckLimit": 1,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/5b8e6c94-9137-4e5a-bae0-9c88fa36f3f2"
+            "imageUrl": "https://hcti.io/v1/image/30c1c006-76f5-43c3-9af8-1d74b0a0f0e2"
         },
         {
             "code": "25513",
@@ -304,7 +304,7 @@
             "text": "Pillage.\r\n<b>Action:</b> During a challenge in which you control an attacking character, return 2 characters from the defending player's discard pile to their hand. Then, raise the claim on your revealed plot card by 1 until the end of the challenge. (Limit once per challenge.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/c3150686-f9d0-4fc9-9f40-6c37c503faed"
+            "imageUrl": "https://hcti.io/v1/image/260e37ec-26c7-465c-843d-8d1e65312ef9"
         },
         {
             "code": "25514",
@@ -330,7 +330,7 @@
             "text": "<b>Reaction:</b> After a <i>Drowned God</i> or <i>Ironborn</i> character you control is placed in your dead pile, put that character into play. Then, kill a character you control. (Limit once per round.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/1fcc48c0-f85d-4bab-a434-21e3a22e75bc"
+            "imageUrl": "https://hcti.io/v1/image/d4415f3e-5a27-4d87-b022-5a40d091a92b"
         },
         {
             "code": "25515",
@@ -358,7 +358,7 @@
             "text": "<b>Reaction:</b> After a phase begins, kneel a character you control. If it has the:\n- <i>R’hllor</i> trait, Victarion Greyjoy gains insight and is immune to opponent's character abilities until the end of the phase.\n- <i>Drowned God</i> trait, Victarion Greyjoy gains renown and cannot be killed until the end of the phase.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/b568608c-9e93-47a8-a507-71067d295eb7"
+            "imageUrl": "https://hcti.io/v1/image/a4d15640-c077-4df7-a3ce-49aca8cf705b"
         },
         {
             "code": "25516",
@@ -385,8 +385,8 @@
             "text": "Pillage.\nReduce the income and reserve values of each opponent's revealed plot card by 1.",
             "deckLimit": 3,
             "illustrator": "?",
-            "designer": "Card design by 2022 Joust Castle Stahleck Champion, Marti Foz Hernandez",
-            "imageUrl": "https://hcti.io/v1/image/4f6a7d65-11dc-4c19-a1e3-6c2447a98651"
+            "designer": "Card design by 2022 Castle Stahleck Joust Champion, Marti Foz Hernandez",
+            "imageUrl": "https://hcti.io/v1/image/c8007e3e-704c-4bd9-9ad1-5c4502516e32"
         },
         {
             "code": "25517",
@@ -411,7 +411,7 @@
             "text": "<b>Reaction:</b> After you become the first player, each player places the top card of their deck facedown under their agenda.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/37a729c3-f4b9-4e1f-929a-76edcfc6a9ff"
+            "imageUrl": "https://hcti.io/v1/image/4086e182-c946-4455-890d-29edd45e68cf"
         },
         {
             "code": "25518",
@@ -436,7 +436,7 @@
             "text": "No attachments. Shadow (2).\n<b>Reaction:</b> After Great Kraken's Crew comes out of shadows, choose a defending character with printed cost 3 or lower. That character does not contribute its STR to the challenge.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/d5c00494-6bd1-4cdc-a225-b1dc52c73e76"
+            "imageUrl": "https://hcti.io/v1/image/ad947aa6-c748-4cb6-ab94-9937d0fd9809"
         },
         {
             "code": "25519",
@@ -462,7 +462,7 @@
             "text": "While Old Captain is standing, it gains renown.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/ec09c977-fe7a-408b-9a16-6da46b7fe0f3"
+            "imageUrl": "https://hcti.io/v1/image/6503c83c-c596-48f6-843b-f98c77bf8f3a"
         },
         {
             "code": "25520",
@@ -483,7 +483,7 @@
             "text": "<b>Reaction:</b> After a character is sacrificed or killed, if there is a <i>Winter</i> plot revealed, kneel Winterfell to discard the top X cards of its owner's deck. X is that characters printed cost.\n-2 Initiative.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/bcbb99bb-27de-41b5-9aff-e2dd31269efb"
+            "imageUrl": "https://hcti.io/v1/image/e050fffd-99d5-4ae2-9001-5253cdb2f43b"
         },
         {
             "code": "25521",
@@ -503,7 +503,7 @@
             "text": "Unique [greyjoy] location you control only.\n<b>Forced Reaction:</b> After a character you control discards a card using pillage, discard the top card of each player's deck.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/afd12c7c-d83f-4518-bbe6-628005ba83d0"
+            "imageUrl": "https://hcti.io/v1/image/c17b7a49-efd3-4a8c-a8c5-64495413ba5e"
         },
         {
             "code": "25522",
@@ -523,11 +523,11 @@
             "text": "While attached character has the <i>House Harlaw</i> trait, it gains renown.\n<b>Reaction:</b> After you win a challenge in which attached character is participating, kneel Nightfall to have each player check reserve.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/e84c8e92-3e4f-44ae-851a-57648aaa8bdf"
+            "imageUrl": "https://hcti.io/v1/image/321aca7d-4a50-49fb-b032-a4439c972bab"
         },
         {
             "code": "25523",
-            "version": "1.1",
+            "version": "1.2",
             "type": "event",
             "name": "The Drowned God Wakes",
             "octgnId": null,
@@ -538,10 +538,10 @@
             "traits": [
                 "Drowned God"
             ],
-            "text": "<b>Reaction:</b> After you win dominance by 15 or more STR, kneel your faction card to kill each character.",
+            "text": "<b>Reaction:</b> After you win dominance by 10 or more STR, each player chooses a character they control, if able. Kill each character not chosen.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/1e18a469-bc49-4b60-930c-3541cffea3b5"
+            "imageUrl": "https://hcti.io/v1/image/480325ff-b021-48f2-ab4a-12a6e02b5b8d"
         },
         {
             "code": "25524",
@@ -565,7 +565,7 @@
             "flavor": "\"When he cast me forth again he gave me eyes to see, ears to hear, and a voice to spread his word, that I might be his prophet and teach his truth to those who have forgotten.\" <cite>Aeron Damphair</cite>",
             "deckLimit": 1,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/30921257-397a-459b-98f4-365fdbd1fd92"
+            "imageUrl": "https://hcti.io/v1/image/8165b5c9-3c10-4bdf-87d4-a68e09453791"
         },
         {
             "code": "25525",
@@ -590,7 +590,7 @@
             "text": "<b>Reaction:</b> After you win a challenge in which Tywin Lannister is attacking, he gains 1 power for every 2 gold in your gold pool.\n+1 Income.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/3a4bcad0-aba5-4adf-a1dc-307dad231cdb"
+            "imageUrl": "https://hcti.io/v1/image/4f403397-df4b-4eab-ac67-c8c40f4f9c43"
         },
         {
             "code": "25526",
@@ -616,7 +616,7 @@
             "text": "<b>Interrupt:</b> When a card is discarded from a player's hand, place it facedown under its owner's agenda instead of placing it in its owner's discard pile. (Limit twice per round.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/7c4a3665-d33f-4d05-b1bc-65f4aef8224f"
+            "imageUrl": "https://hcti.io/v1/image/f950858e-a0da-49da-becb-56342de64a84"
         },
         {
             "code": "25527",
@@ -642,7 +642,7 @@
             "text": "Shadow (3).\n<b>Reaction:</b> After Qyburn comes out of shadows, choose a non-<i>Army</i> character in an opponent's dead pile and put it into play under your control. If that character is still in play at the end of the phase, shuffle it into it's owners deck.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/9fc8e049-91a2-4835-91d5-bf25e24a1b8a"
+            "imageUrl": "https://hcti.io/v1/image/9357b839-7af8-4a20-933a-095ed3ddffeb"
         },
         {
             "code": "25528",
@@ -667,7 +667,7 @@
             "text": "<b>Reaction:</b> After you win a challenge in which Myrcella Baratheon is participating, return her to your hand. Then, you may initiate an additional [intrigue] challenge against the losing opponent this phase.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/ab6570b0-1d0a-446d-9b75-a0771978e91a"
+            "imageUrl": "https://hcti.io/v1/image/18739862-6c9d-447d-8b8b-b7a296094bba"
         },
         {
             "code": "25529",
@@ -693,7 +693,7 @@
             "text": "No attachments.\n<b>Reaction:</b> After power is gained by or moved to Warrior's Sons, stand it. (Limit once per phase.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/8672284f-6798-441c-8990-db5e36325c54"
+            "imageUrl": "https://hcti.io/v1/image/23ae38e8-6dd8-437b-9ab9-a7969fbe7c52"
         },
         {
             "code": "25530",
@@ -719,7 +719,7 @@
             "text": "<b>Reaction:</b> After a character with printed cost 2 or lower is returned to an opponent's hand, put Tywin's Whisperer into play from your hand. Then, until the end of the phase, it gains a [power] icon and stealth.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/e58221a4-b839-4efc-8b53-a0b04c2f5efb"
+            "imageUrl": "https://hcti.io/v1/image/2a5b9f9e-ce7f-4a9e-a1bb-d6254c66475e"
         },
         {
             "code": "25531",
@@ -739,7 +739,7 @@
             "text": "<b>Reaction:</b> After claim is applied for an [intrigue] challenge in which you won by 5 or more STR, kneel and sacrifice Castamere to apply [military] claim.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/aabebdef-0348-4fff-8903-fa43be100cf5"
+            "imageUrl": "https://hcti.io/v1/image/cc94b1ad-7657-42d2-95ee-1b0b1c0a7698"
         },
         {
             "code": "25532",
@@ -758,7 +758,7 @@
             "text": "<b>Reaction:</b> After a character you control enters play using ambush, kneel Kingswood and return it to your hand to draw 1 card.\n+1 Initiative.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/a5735ef4-dd2d-4d9c-b04a-a5a143f4bd56"
+            "imageUrl": "https://hcti.io/v1/image/dcb86907-581b-4106-8502-43e8f65167e1"
         },
         {
             "code": "25533",
@@ -778,7 +778,7 @@
             "text": "Unique [lannister] location you control only.\n<b>Reaction:</b> After you win an [intrigue] challenge, kneel Lann the Clever and return a participating [lannister] character to your hand to gain 3 gold. (Cannot be canceled.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/8dfcb9b6-559a-4bdd-9e10-f7bf5fc7128d"
+            "imageUrl": "https://hcti.io/v1/image/8d40b01f-8689-4c1a-82e6-236994585887"
         },
         {
             "code": "25534",
@@ -798,7 +798,7 @@
             "text": "Unique character with printed cost 3 or lower only. Ambush (1).\nAttached character gains renown.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/75c771ec-0046-4baa-ae4f-4699edb035c5"
+            "imageUrl": "https://hcti.io/v1/image/39787c08-cdd2-435c-92ad-32551b0e0572"
         },
         {
             "code": "25535",
@@ -815,7 +815,7 @@
             "flavor": "\"The Lannisters have no honor.\" <cite>Ser Jorah Mormont</cite>",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/1d34277a-f6b4-4e78-9490-b1857593fd93"
+            "imageUrl": "https://hcti.io/v1/image/8ce4d1f8-48e0-499b-b97f-678bdecaab60"
         },
         {
             "code": "25536",
@@ -840,7 +840,7 @@
             "flavor": "\"The lion of Lannister flew over the ramparts, not the crowned stag. And they had taken the city by treachery.\" <cite>Eddard Stark</cite>",
             "deckLimit": 1,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/4cb1d806-c8ed-44e3-97d6-eead63536586"
+            "imageUrl": "https://hcti.io/v1/image/b3e2349d-6f82-4003-8da4-990e6bf4ca1c"
         },
         {
             "code": "25537",
@@ -866,7 +866,7 @@
             "flavor": "He had never gotten on with Anders Yronwood; there was bad blood between their Houses going back a thousand years, from when the Fowlers had chosen Martell over Yronwood during Nymeria's War.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/a22fb1c3-2a63-43e6-80c5-f4ea26d86aac"
+            "imageUrl": "https://hcti.io/v1/image/c3bee659-a220-47f9-98e3-0195366fd825"
         },
         {
             "code": "25538",
@@ -892,7 +892,7 @@
             "text": "Renown.\nWhile Ser Arys Oakheart is attacking, at least one character must be declared as a defender, if able.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/2516a3e7-c6d8-41ec-acf0-038631e08975"
+            "imageUrl": "https://hcti.io/v1/image/2d81ed55-4999-426f-8158-3c0d9c33a2cc"
         },
         {
             "code": "25539",
@@ -919,7 +919,7 @@
             "text": "Stealth.\n<b>Reaction:</b> After you lose dominance, move 1 power from the winning opponent's faction card to a character you control.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/8bd63e4f-1da5-429e-8aca-9a359b7f6bae"
+            "imageUrl": "https://hcti.io/v1/image/00f69575-8f4d-4eb6-9098-3a0c626699f7"
         },
         {
             "code": "25540",
@@ -944,7 +944,7 @@
             "text": "<b>Challenges Action:</b> Kill Ser Willam Wells to choose a character. Until the end of the phase, that character loses a [military], an [intrigue] and a [power] icon.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/7c102a69-699d-4e67-b0b1-b9a09248e8e7"
+            "imageUrl": "https://hcti.io/v1/image/1e1551be-fff0-468a-a5e1-09ec9f944404"
         },
         {
             "code": "25541",
@@ -970,7 +970,7 @@
             "text": "Shadow (2).\n<b>Reaction:</b> After Scheming Snake enters play, choose a participating character with fewer than 2 challenge icons. That character does not contribute its STR to this challenge.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/0600fcd3-eeaa-436d-9c3a-d9945dc8899f"
+            "imageUrl": "https://hcti.io/v1/image/3d70173a-a26f-4ec5-8013-c7390a9bbd1c"
         },
         {
             "code": "25542",
@@ -995,7 +995,7 @@
             "text": "While you control a [martell] <i>Lord</i> or <i>Lady</i> character, Water Gardens Sentry may be declared as a defender during [intrigue] challenges.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/6b71e66a-6b20-4c28-9e7c-f4092f44d0aa"
+            "imageUrl": "https://hcti.io/v1/image/d2d3f20f-0b02-4e45-8087-d51c4f216ad4"
         },
         {
             "code": "25543",
@@ -1014,28 +1014,27 @@
             "text": "<b>Reaction:</b> After you lose dominance, kneel The Throne of Dorne to choose a [martell] card you control and place it in shadows.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/e525f6f3-d85b-4c5b-a2a1-cc068b155704"
+            "imageUrl": "https://hcti.io/v1/image/c8223cdb-a2b1-4898-9bb6-f6a607c21965"
         },
         {
             "code": "25544",
-            "version": "1.1",
+            "version": "2.1",
             "type": "location",
-            "name": "The Stepstones",
+            "name": "Red Mountains",
             "octgnId": null,
             "quantity": 3,
-            "unique": true,
+            "unique": false,
             "faction": "martell",
             "loyal": false,
-            "cost": 1,
+            "cost": 2,
             "traits": [
-                "Contested",
-                "Essos",
-                "Westeros"
+                "Dorne"
             ],
-            "text": "Bestow (2).\n<b>Forced Reaction:</b> After you lose a [military] challenge, give control of The Stepstones to the winning opponent unless you discard 1 gold from it.\n+2 Income. +1 Initiative.",
+            "text": "<b>Challenges Action:</b> Kneel and sacrifice Red Mountains to choose an opponent. That player must initiate their next challenge this phase as a [military] challenge against you, if able.",
+            "flavor": "The Prince of Dorne was nothing if not subtle; here war meant wait.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/b9f86160-cf1b-4ca6-85fb-ea8340c06413"
+            "imageUrl": "https://hcti.io/v1/image/8822e5fd-c12a-4c2e-b73d-66bbc9876944"
         },
         {
             "code": "25545",
@@ -1055,7 +1054,7 @@
             "text": "Unique [martell] location you control only.\n<b>Reaction:</b> After you win a challenge by 5 or more STR, kneel your faction card to choose and reveal a [martell] or <i>Summer</i> plot card. (Cannot be canceled).",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/95b4de51-4bb2-42e6-a7fa-359b2718b656"
+            "imageUrl": "https://hcti.io/v1/image/46f9475f-efa6-4cfa-bfea-0ad834fc6254"
         },
         {
             "code": "25546",
@@ -1075,7 +1074,7 @@
             "text": "Attached character gains pillage.\r\n<b>Reaction:</b> After attached character discards an attachment or location using pillage, choose a character. Until the end of the phase, that character loses a [power] icon.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/af61c184-05af-4615-884d-263c078bb9e5"
+            "imageUrl": "https://hcti.io/v1/image/2fa314e7-2f2f-40d7-8840-f80d01591ee5"
         },
         {
             "code": "25547",
@@ -1094,7 +1093,7 @@
             "flavor": "Lord Tyrell and his train traveled to Sandstone, where his lordship was murdered in a bed of scorpions.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/35c7e548-ac21-49ea-a09f-319a6c29c7d6"
+            "imageUrl": "https://hcti.io/v1/image/e0d0636e-19aa-44c8-990c-cbca1d28f69f"
         },
         {
             "code": "25548",
@@ -1118,7 +1117,7 @@
             "text": "Each character controlled by an opponent cannot gain challenge icons.\n<b>Reaction:</b> After you win a challenge, choose a character. Until the end of the phase, that character loses a challenge icon of your choice. (Limit 3 times per phase.)",
             "deckLimit": 1,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/2aa3db7c-9f85-4db2-b894-bec45044a59d"
+            "imageUrl": "https://hcti.io/v1/image/7d0ab637-2be1-43a7-bd66-b6d9c7209c57"
         },
         {
             "code": "25549",
@@ -1144,7 +1143,7 @@
             "text": "Insight. Shadow (4).\n<b>Reaction:</b> After a card you control comes out of shadows, choose a character and a challenge type. Until the end of the phase, that character cannot be declared as an attacker in challenges of that type. (Limit 3 times per phase.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/7454e7be-c94b-45a9-936e-c80366adc5cf"
+            "imageUrl": "https://hcti.io/v1/image/f7d785c7-e7c5-430f-a16d-bc24f657d601"
         },
         {
             "code": "25550",
@@ -1169,7 +1168,7 @@
             "text": "<b>Reaction:</b> After gold is moved from an opponent's gold pool to your own, reveal the top card of that player's deck. If that card is a character, discard it and draw 1 card. (Limit twice per round.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/f6efa892-4b0f-4b9e-900b-3abf3158ff82"
+            "imageUrl": "https://hcti.io/v1/image/55105c14-02e4-44a9-a88a-3c1458135b48"
         },
         {
             "code": "25551",
@@ -1194,7 +1193,7 @@
             "text": "No attachments except <i>Weapon.</i>\n<b>Interrupt:</b> When an <i>Omen</i> plot card is revealed, kneel each opponent's faction card.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/85c185f5-8848-4a8c-be9c-1cffd4591739"
+            "imageUrl": "https://hcti.io/v1/image/302ca749-8b07-4cd5-9b5a-404b16f42b91"
         },
         {
             "code": "25552",
@@ -1220,7 +1219,7 @@
             "text": "Shadow (2).\n<b>Reaction:</b> After Marsh's Conspirator comes out of shadows, choose a character. Until the end of the phase, treat it as if its printed text box were blank (except for <i>Traits</i>).",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/e953a5c4-8502-4143-bb3e-c81d4123ca19"
+            "imageUrl": "https://hcti.io/v1/image/2a1c6f92-4435-41ce-922d-cca27a9b0544"
         },
         {
             "code": "25553",
@@ -1245,7 +1244,7 @@
             "text": "Shadow (0).\n<b>Forced Reaction:</b> After a card comes out of shadows under your control, give control of Desperate Deserter to an opponent.\n-1 Income.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/6b64a70e-5515-4d7d-a17f-30abb354fe99"
+            "imageUrl": "https://hcti.io/v1/image/da908162-9678-4451-9632-ab86a0fb7386"
         },
         {
             "code": "25554",
@@ -1271,7 +1270,7 @@
             "text": "<b>Action:</b> Kneel Highborn Recruit to choose a character with 1 or fewer challenge icons. Until the end of the phase, that character gains renown or insight.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/70fab5e3-12a3-4ea7-9184-e376d1aa46c2"
+            "imageUrl": "https://hcti.io/v1/image/98d7ff81-6b18-415b-a0f3-21abe0665fde"
         },
         {
             "code": "25555",
@@ -1290,7 +1289,7 @@
             "text": "While Sentinel Stand is standing, each character you control with 1 or fewer challenge icons gets +2 STR.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/b2ed8bed-5ba7-43fc-b8cd-d62b08475672"
+            "imageUrl": "https://hcti.io/v1/image/ddc4d969-82c1-469b-9699-7cb3c946852c"
         },
         {
             "code": "25556",
@@ -1310,11 +1309,11 @@
             "text": "<b>Reaction:</b> After an opponent reveals a non-<i>Omen</i> plot, kneel your faction card and remove Weirwood Grove from the game to initiate the when revealed ability on that card as if you had just revealed it.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/7d9ef605-2416-43c2-a0f3-cfd12677be9d"
+            "imageUrl": "https://hcti.io/v1/image/20098332-00a4-49aa-afc0-0aa98e9eb3bf"
         },
         {
             "code": "25557",
-            "version": "1.1",
+            "version": "1.2",
             "type": "attachment",
             "name": "Legacy of the Watch",
             "octgnId": null,
@@ -1327,10 +1326,10 @@
                 "Legacy",
                 "Tapestry"
             ],
-            "text": "Unique [thenightswatch] location you control only.\nYou may look at the bottom card of each opponent's deck.\nIf the bottom card of an opponent's deck is a character, you may marshal or ambush it as if it were in your hand.",
+            "text": "Unique [thenightswatch] location you control only.\n<b>Reaction:</b> After you win a challenge, if you control 2 or more participating:\r\n- <i>Ranger</i> characters, gain 1 power for your faction.\r\n- <i>Steward</i> characters, draw 2 cards.\r\n- <i>Builder</i> characters, stand a [nightswatch] location.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/eab32f13-c808-4c50-b552-77eb50d54528"
+            "imageUrl": "https://hcti.io/v1/image/92ef95ea-ee0e-4da2-9c33-23839f541831"
         },
         {
             "code": "25558",
@@ -1350,7 +1349,7 @@
             "flavor": "\"Do you hear me, boy? I will not have it!\" <cite>Janos Slynt</cite>",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/cd0bb661-50a6-48a3-81a9-8683fb75e2ab"
+            "imageUrl": "https://hcti.io/v1/image/9385c81f-e72e-4846-9e1a-8df0d83a3829"
         },
         {
             "code": "25559",
@@ -1366,7 +1365,7 @@
             "text": "<b>Reaction:</b> After a character controlled by an opponent is sacrificed or discarded from play, put it into play and attach Saved by the Watch to it as a <i>Condition</i> attachment with the text: \"Terminal. Take control of attached character.\"",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/caf3e50e-389f-4879-a78d-6c4495775665"
+            "imageUrl": "https://hcti.io/v1/image/bcd2dd90-0e9d-4a7a-83a0-4e320cafa5ae"
         },
         {
             "code": "25560",
@@ -1390,7 +1389,7 @@
             "flavor": "\"Good steel's always needed on the Wall.\" <cite>Yoren</cite>",
             "deckLimit": 1,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/9d6c1274-d812-44e3-aad2-9d8c39ac2a72"
+            "imageUrl": "https://hcti.io/v1/image/8aa71f4c-6698-4372-9811-6c7c44579aff"
         },
         {
             "code": "25561",
@@ -1418,7 +1417,7 @@
             "flavor": "\"A peaceful land, a quiet people.\"",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/0e814294-8ea5-423b-a4c5-736f65ca0022"
+            "imageUrl": "https://hcti.io/v1/image/f824f6ba-616d-4b6c-b722-8ed5e7b43d75"
         },
         {
             "code": "25562",
@@ -1444,7 +1443,7 @@
             "text": "While there are more <i>Winter</i> plot cards than <i>Summer</i> plot cards revealed, increase the cost for each opponent to marshal or ambush their first character each phase by 1.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/58b19a30-cf4c-4691-8ff3-b6922019324a"
+            "imageUrl": "https://hcti.io/v1/image/75c7fc10-a116-47e1-9ad3-0b932f20460c"
         },
         {
             "code": "25563",
@@ -1469,8 +1468,8 @@
             "text": "No attachments except <i>Direwolf</i>.\n<b>Interrupt:</b> When claim is applied for a [military] challenge, either: standing characters, or kneeling characters must be chosen for claim, if able.",
             "deckLimit": 3,
             "illustrator": "?",
-            "designer": "Card design by 2019 World Melee Champion, Richard Walker.",
-            "imageUrl": "https://hcti.io/v1/image/e96ed514-994b-4d6a-a45e-1b02aa8ef4fd"
+            "designer": "Card design by 2019 Melee World Champion, Richard Walker.",
+            "imageUrl": "https://hcti.io/v1/image/f3799542-a7c5-48ac-b43e-2dce58ce706e"
         },
         {
             "code": "25564",
@@ -1496,7 +1495,7 @@
             "deckLimit": 3,
             "illustrator": "?",
             "designer": "Card design by 2019 European Melee Champion, Chris Meeuwsen.",
-            "imageUrl": "https://hcti.io/v1/image/ee5b9cce-a6df-4ef6-8fe2-837c334125a4"
+            "imageUrl": "https://hcti.io/v1/image/1928a87b-d25d-401d-9e4d-53ba9b277227"
         },
         {
             "code": "25565",
@@ -1522,7 +1521,7 @@
             "text": "<b>Forced Reaction:</b> After you lose an [intrigue] challenge, give control of Bolton Loyalist to the winning opponent unless you sacrifice another character you control.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/bcc4f087-7e7e-40f0-b7c3-3f8d6b6c7326"
+            "imageUrl": "https://hcti.io/v1/image/b0afd08b-247f-49c9-8725-e7404924a0d0"
         },
         {
             "code": "25566",
@@ -1549,7 +1548,7 @@
             "flavor": "\"Rickard Karstark killed more than a Frey and a Lannister. He killed my honor.\" <cite>Robb Stark</cite>",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/6dcc1d8c-44eb-46da-9f62-f90162bed8f4"
+            "imageUrl": "https://hcti.io/v1/image/4411dfcf-8a82-4812-ade5-815f3dff453c"
         },
         {
             "code": "25567",
@@ -1569,7 +1568,7 @@
             "text": "<b>Reaction:</b> After power is gained by or moved to a character you control, gain 1 gold. (Limit once per phase.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/d841a189-f251-4a2b-b4e9-d5a45a498807"
+            "imageUrl": "https://hcti.io/v1/image/361fc6b0-5e83-472d-a63c-aa612535c356"
         },
         {
             "code": "25568",
@@ -1589,7 +1588,7 @@
             "text": "While Lonely Hill is standing, if you have more than 1 plot in your plot deck, you are considered to have 1 fewer plot cards in your used pile.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/2779210a-3670-4a17-a534-51c2d6fdb943"
+            "imageUrl": "https://hcti.io/v1/image/f28bc356-73c4-4c60-a2d4-c0591e6dbb06"
         },
         {
             "code": "25569",
@@ -1609,7 +1608,7 @@
             "text": "Unique [stark] location you control only.\nWhile you are the attacking player, each character with printed cost equal to or lower than your claim value cannot be killed.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/5d233e13-7f23-4a7f-b3ec-b87120b7f1ee"
+            "imageUrl": "https://hcti.io/v1/image/246c1f5f-fba3-441e-9f8a-5d15c3f79dc7"
         },
         {
             "code": "25570",
@@ -1630,7 +1629,7 @@
             "flavor": "His father took off the man's head with a single sure stroke. Blood sprayed out across the snow, as red as summerwine.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/be5da903-afa1-43b6-8276-8767879bb0d3"
+            "imageUrl": "https://hcti.io/v1/image/f978757a-638f-4a73-bfb1-cbdff7d7759a"
         },
         {
             "code": "25571",
@@ -1649,7 +1648,7 @@
             "flavor": "A white-haired woman stepped toward them through a drift of dark red leaves, a bronze sickle in her hand.\n",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/22a360b8-e22f-4789-91af-c77ffd85f4e6"
+            "imageUrl": "https://hcti.io/v1/image/f163bc46-ddc9-428b-bdbf-82d0213fb13a"
         },
         {
             "code": "25572",
@@ -1674,7 +1673,7 @@
             "flavor": "Lord Stark would not be dissuaded: the betrayers and poisoners of King Aegon II must pay the price.",
             "deckLimit": 1,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/97f35b03-42b5-4a50-8d65-911b8b555168"
+            "imageUrl": "https://hcti.io/v1/image/c6581974-fae5-441e-83a7-c19f7a469c62"
         },
         {
             "code": "25573",
@@ -1700,11 +1699,11 @@
             "text": "Renown. Shadow (6).\n<b>Reaction:</b> After a non-loyal [targaryen] character enters play during the challenges phase, stand Aegon Targaryen. (Limit twice per phase.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/75c04dd5-fbbf-4116-8ce4-2245ef71104e"
+            "imageUrl": "https://hcti.io/v1/image/598b7992-c1ad-4efd-b7ae-66958da97ae8"
         },
         {
             "code": "25574",
-            "version": "1.0",
+            "version": "1.1",
             "type": "character",
             "name": "Daenerys Targaryen",
             "octgnId": null,
@@ -1723,11 +1722,11 @@
                 "Dothraki",
                 "Lady"
             ],
-            "text": "While you control Khal Drogo, he gains intimidate.\nWhile you control a <i>Companion</i> character, Daenerys Targaryen gains insight.\n<b>Reaction:</b> After you win a challenge, gain 1 power for your faction for each unique attacking <i>Bloodrider</i> character. (Limit once per phase.)",
+            "text": "Insight.\nWhile you control Khal Drogo, he gains intimidate.\n<b>Reaction:</b> After you win a challenge, gain 1 power for your faction for each unique attacking <i>Bloodrider</i> character. (Limit once per phase.)",
             "deckLimit": 3,
             "illustrator": "?",
             "designer": "Card design by 2019 Joust World Champion, Francis Cote.",
-            "imageUrl": "https://hcti.io/v1/image/43cda6f4-7a6c-4108-a892-9fb7fc67a924"
+            "imageUrl": "https://hcti.io/v1/image/033079c8-8980-497e-992f-a3f94bf14fb2"
         },
         {
             "code": "25575",
@@ -1752,7 +1751,7 @@
             "text": "Bestow (1).\nWhile Black Balaq is attacking, each defending character gets -X STR. X is the number of gold on Black Balaq.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/b7572177-89ba-4e83-85a9-46930dabe37b"
+            "imageUrl": "https://hcti.io/v1/image/d8450fef-0e9f-4e4d-8809-c91dd8c9476e"
         },
         {
             "code": "25576",
@@ -1777,7 +1776,7 @@
             "text": "If you control Ser Barristan Selmy, sacrifice Arstan Whitebeard. \nWhile you control no <i>Lord</i> or <i>Lady</i> characters, Arstan Whitebeard cannot kneel.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/33a8ad3f-1eba-4941-879f-db3524fa7f10"
+            "imageUrl": "https://hcti.io/v1/image/421dd116-dbae-448d-80ca-7179e5f6ce1a"
         },
         {
             "code": "25577",
@@ -1802,7 +1801,7 @@
             "text": "<b>Reaction:</b> After Free Brothers enters play, search your deck for an <i>Ally</i> character with printed cost 3 or lower and place it in your discard pile.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/625f0357-3638-4ef2-bcd3-cb391aae97a4"
+            "imageUrl": "https://hcti.io/v1/image/f0b3545b-e40f-4c7d-8f53-5702bfbd0487"
         },
         {
             "code": "25578",
@@ -1828,7 +1827,7 @@
             "text": "<b>Interrupt:</b> When the challenges phase ends, each player who did not apply [military] claim this phase may draw 1 card.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/9a748cb4-43f7-46b3-b663-09487162c487"
+            "imageUrl": "https://hcti.io/v1/image/3862451a-a5cf-4902-acbe-fffefb6c843c"
         },
         {
             "code": "25579",
@@ -1848,7 +1847,7 @@
             "flavor": "\"And yet Summerhall was the place the prince loved best.\" <cite>Arstan Whitebeard</cite>",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/b8fc6863-19b3-468a-9dd2-106b0367cf2d"
+            "imageUrl": "https://hcti.io/v1/image/25b40e81-dd0b-4e09-9e00-968d95523d13"
         },
         {
             "code": "25580",
@@ -1868,7 +1867,7 @@
             "text": "<b>Interrupt:</b> When claim is applied for a [military] challenge in which you were the attacking player, kneel a <i>Grace</i> card you control to apply [intrigue] claim instead.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/01784f96-5a84-4958-a397-8eb8d5fee779"
+            "imageUrl": "https://hcti.io/v1/image/10bd4f6d-7b22-4c17-9042-0d327f169a73"
         },
         {
             "code": "25581",
@@ -1888,7 +1887,7 @@
             "text": "Unique [targaryen] location you control only.\nWhile you control an attacking <i>Dragon</i> character with printed cost 7 or higher, raise the claim value on your revealed plot card by 1.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/0ecf2085-4bed-45c5-bd98-20662c96b121"
+            "imageUrl": "https://hcti.io/v1/image/8dda83f6-286f-4f64-82ba-b9794457817b"
         },
         {
             "code": "25582",
@@ -1907,7 +1906,7 @@
             "text": "If attached character is Grey Worm, he gains a [power] icon and intimidate.\nWhile attached character is attacking, each defending character gets -1 STR. ",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/d228cc24-95ce-4fe9-bac9-7ec90f0dcb9e"
+            "imageUrl": "https://hcti.io/v1/image/62a8b4ed-7b52-4305-a07f-dd7a7d55fb39"
         },
         {
             "code": "25583",
@@ -1924,7 +1923,7 @@
             "flavor": "\"The traitors want my city, but I'll give them naught but ashes.\" <cite>The Mad King</cite>",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/10f3031a-b783-4e1c-a71b-9f6ebe87e635"
+            "imageUrl": "https://hcti.io/v1/image/fcb6f22b-9345-4130-879e-33c5099274a8"
         },
         {
             "code": "25584",
@@ -1949,7 +1948,7 @@
             "text": "<b>Interrupt:</b> When claim is applied for a [military] or [intrigue] challenge in which you were the attacking player, instead of the normal claim effects, kneel a <i>Dragon</i> character you control to move up to 2 power from the losing opponent's faction card to your own.",
             "deckLimit": 1,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/d1028269-9518-40ab-ba70-a6afc90e0fcd"
+            "imageUrl": "https://hcti.io/v1/image/0dfb3635-1cad-4d10-ab2e-bca121f94c10"
         },
         {
             "code": "25585",
@@ -2000,7 +1999,7 @@
             "text": "Insight.\nWhile a character you control is attacking or defending alone, Willas Tyrell contributes his STR towards your side this challenge.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/a8d50dcf-a465-4546-9c0c-f216bfc4e7a0"
+            "imageUrl": "https://hcti.io/v1/image/f72fd398-2c5d-4f25-8d2c-88ead9604e27"
         },
         {
             "code": "25587",
@@ -2027,7 +2026,7 @@
             "text": "While you control another <i>Rainbow Guard</i> character, Ser Parmen Crane gains renown.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/5e75845e-e758-41a1-8bbc-9bd52c98de52"
+            "imageUrl": "https://hcti.io/v1/image/2f913149-eda4-4ce6-8265-9910c3b30330"
         },
         {
             "code": "25588",
@@ -2052,7 +2051,7 @@
             "text": "<b>Reaction:</b> After a [tyrell] character you control stands, stand Dickon Tarly. (Limit once per round.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/0ad2f625-4537-4269-be67-6e2c31074e40"
+            "imageUrl": "https://hcti.io/v1/image/6d04fc63-b16a-494c-9a68-a8103f816c07"
         },
         {
             "code": "25589",
@@ -2078,7 +2077,7 @@
             "text": "No attachments except <i>Weapon</i>.\r\n<b>Reaction:</b> After Blackwater Forces stands during a challenge, choose a participating character. Until the end of the challenge, that character gets +2 STR.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/be3efc8e-9b19-4444-a6b2-a6de25c6a10f"
+            "imageUrl": "https://hcti.io/v1/image/a32d7400-1f00-436c-ae9c-0ebbce4ce183"
         },
         {
             "code": "25590",
@@ -2103,7 +2102,7 @@
             "text": "While you control exactly 1 unique [tyrell] <i>Knight</i> character, Red-Apple Knight gets +X STR, where X is that character's STR.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/1f117ae6-5ff1-4154-b36d-788e8a970383"
+            "imageUrl": "https://hcti.io/v1/image/52949b27-afc3-4fea-88f1-90e1e30bc47a"
         },
         {
             "code": "25591",
@@ -2122,7 +2121,7 @@
             "text": "<b>Reaction:</b> After a character is removed from a challenge, gain 1 gold. (Limit 3 times per round)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/6d6e5682-bacf-44d0-91cd-9ab6d74e8af0"
+            "imageUrl": "https://hcti.io/v1/image/a254fbf9-c19d-4f60-af19-a49414516787"
         },
         {
             "code": "25592",
@@ -2141,7 +2140,7 @@
             "text": "Bestow (2).\n<b>Marshaling Action:</b> Kneel Olenna's Wheelhouse and discard 1 gold from it to remove a [tyrell] character you control from the game until the beginning of the next phase.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/e387e359-0707-4714-905f-59f9dca49e93"
+            "imageUrl": "https://hcti.io/v1/image/c1b4cd8e-3997-422d-aa68-f286219d3dcc"
         },
         {
             "code": "25593",
@@ -2161,7 +2160,7 @@
             "text": "Unique [tyrell] location you control only.\nDuring a challenge, each participating unique [tyrell] character you control gets +1 STR.\n+1 Income.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/d7417ab7-984e-4290-acd9-e1ce6e9db47b"
+            "imageUrl": "https://hcti.io/v1/image/a95b52ae-c942-47f6-8454-bc4b4bac07db"
         },
         {
             "code": "25594",
@@ -2180,7 +2179,7 @@
             "text": "[tyrell] <i>Lord</i> character only.\nAttached character gains the <i>Commander</i> trait and gets +1 STR.\n<b>Reaction:</b> After attached characters STR is increased by a card effect, kneel The Warden of the South to stand attached character.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/b5e47591-d1bc-478f-b2fa-78af4e2e5c77"
+            "imageUrl": "https://hcti.io/v1/image/f8ff2fe1-ae21-4dca-ade9-550cda10e1e9"
         },
         {
             "code": "25595",
@@ -2199,7 +2198,7 @@
             "text": "<b>Challenges Action:</b> Reveal the top X cards of your deck. Choose up to 2 cards revealed in this way and add them to your hand. Shuffle the others back into your deck.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/ad6d9764-d9d5-437c-a6f6-cb2b2449f0b3"
+            "imageUrl": "https://hcti.io/v1/image/08388366-a793-4d3e-8eca-5e7fb88e9ceb"
         },
         {
             "code": "25596",
@@ -2223,7 +2222,7 @@
             "text": "<b>Reaction:</b> After a challenge ends in which there were no participating characters, gain 2 power for your faction.",
             "deckLimit": 1,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/8b93b7eb-4145-4332-b37f-77c9edba1acb"
+            "imageUrl": "https://hcti.io/v1/image/59221eee-5fe1-44c4-af30-328e8090dc16"
         },
         {
             "code": "25597",
@@ -2248,7 +2247,7 @@
             "deckLimit": 3,
             "illustrator": "?",
             "designer": "Card design by 2022 Online World Champion, Alexandre Carry.",
-            "imageUrl": "https://hcti.io/v1/image/6af661dc-02cd-46d7-a89e-4ed5c83ecae9"
+            "imageUrl": "https://hcti.io/v1/image/13e95899-b263-41b4-a224-30401a0a998d"
         },
         {
             "code": "25598",
@@ -2273,7 +2272,7 @@
             "text": "<b>Marshaling Action:</b> Discard 1 power from your faction card to take control of Jalabhar Xho. (Any player may initiate this ability.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/aa42beac-6f07-4715-9727-7412bcc66275"
+            "imageUrl": "https://hcti.io/v1/image/4052118a-5d52-4fa3-a38c-754d868a3461"
         },
         {
             "code": "25599",
@@ -2298,7 +2297,7 @@
             "flavor": "\"Shame upon the sinner, shame, shame.\"",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/a31a2dbd-4134-49d2-a3e7-fd182b0cfe0c"
+            "imageUrl": "https://hcti.io/v1/image/6da1ddd6-7f37-4148-8c49-35da4f9b0cf0"
         },
         {
             "code": "25600",
@@ -2324,8 +2323,8 @@
             "text": "Bestow (2). Stealth.\r\n<b>Action:</b> Discard 1 gold from Varys to name a card. Until the end of the phase, cards with that name cannot be played or enter play. (Limit once per phase.)\r\n<b>Reaction:</b> After a <i>Scheme</i> plot card is revealed, place 1 gold on Varys.",
             "deckLimit": 3,
             "illustrator": "?",
-            "designer": "Card design by 2019 Joust Castle Stahleck Champion, Sebastian Eckl.",
-            "imageUrl": "https://hcti.io/v1/image/4054dbcc-48af-422f-b54a-a1f32a76d148"
+            "designer": "Card design by 2019 Castle Stahleck Joust Champion, Sebastian Eckl.",
+            "imageUrl": "https://hcti.io/v1/image/1faef05c-f534-4791-8a75-4509eb1b83f8"
         },
         {
             "code": "25601",
@@ -2350,11 +2349,11 @@
             "text": "Belligerent Heir gets +1 STR for each gold it has.\n<b>Reaction:</b> After you initiate a challenge, place 1 gold on an attacking neutral character you control. If you lose this challenge, sacrifice that character. (Limit once per phase.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/490c3cd2-044a-410d-b813-b9efc9cbb998"
+            "imageUrl": "https://hcti.io/v1/image/fccb8e85-8030-4b9e-ad42-7b7d0a596c58"
         },
         {
             "code": "25602",
-            "version": "1.1",
+            "version": "1.2",
             "type": "character",
             "name": "Little Bird",
             "octgnId": null,
@@ -2371,10 +2370,10 @@
             "traits": [
                 "Spy"
             ],
-            "text": "Shadow (1).\n<b>Forced Reaction:</b> After Little Bird comes out of shadows, each player may draw 1 card.",
+            "text": "Shadow (1).\n<b>Reaction:</b> After Little Bird comes out of shadows, look at the top card of an opponent's deck. Then, you and that player may draw 1 card.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/accd13d2-4df4-4308-959c-da15156881e0"
+            "imageUrl": "https://hcti.io/v1/image/4f691d39-e945-4c1a-b42a-826fe166fcad"
         },
         {
             "code": "25603",
@@ -2392,7 +2391,7 @@
             "text": "<b>Reaction:</b> After you win a [power] challenge by 5 or more STR, put The Blue Fork into play from your discard pile.\n+2 Reserve.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/2464bfaa-bce7-4e53-98e1-cd6fd2cb928e"
+            "imageUrl": "https://hcti.io/v1/image/164fc5b4-231e-49ec-8c77-9c22fd7e303d"
         },
         {
             "code": "25604",
@@ -2410,7 +2409,7 @@
             "text": "<b>Reaction:</b> After you win an [intrigue] challenge by 5 or more STR, put The Green Fork into play from your discard pile.\n+1 Income.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/43a321d8-9c6b-4f41-b61c-ebe22e419e8e"
+            "imageUrl": "https://hcti.io/v1/image/cba6024b-beea-43f7-9107-4d6ae42f37c2"
         },
         {
             "code": "25605",
@@ -2428,7 +2427,7 @@
             "text": "<b>Reaction:</b> After you win a [military] challenge by 5 or more STR, put The Red Fork into play from your discard pile.\n+2 Initiative.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/7e3035fb-faff-46b3-b268-941ff2eaf188"
+            "imageUrl": "https://hcti.io/v1/image/3fa908aa-90a0-4149-ae08-9a2ce1a0dc4b"
         },
         {
             "code": "25606",
@@ -2447,11 +2446,11 @@
             "flavor": "The wretched boy had started it, looking down on him from a throne of carved weirwood beneath the moon-and-falcon banners of House Arryn.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/096aa12b-85dd-46e6-929d-ecd3b7e20e49"
+            "imageUrl": "https://hcti.io/v1/image/18ae80a7-3f0f-4150-add9-d930910643e8"
         },
         {
             "code": "25607",
-            "version": "1.0",
+            "version": "1.1",
             "type": "attachment",
             "name": "Greyscale",
             "octgnId": null,
@@ -2462,11 +2461,11 @@
             "traits": [
                 "Condition"
             ],
-            "text": "<b>Dominance Action:</b> Kneel Greyscale to choose an opponent. Reveal 1 card at random from that player's hand. If that card's printed cost is equal to or higher than attached character's, kill attached character and attach Greyscale to a different character. Otherwise, that player draws 1 card.",
+            "text": "Terminal.\n<b>Dominance Action:</b> Kneel Greyscale to choose an opponent. Reveal 1 card at random from that player's hand. If that card's printed cost is equal to or higher than attached character's, kill attached character and attach Greyscale to a different character. Otherwise, that player draws 1 card.",
             "deckLimit": 3,
             "illustrator": "?",
-            "designer": "Card design by 2017 Joust European Champion, Reinhard Schefcik.",
-            "imageUrl": "https://hcti.io/v1/image/c90ae91e-d9db-4302-a22d-3796addc176b"
+            "designer": "Card design by 2017 Joust World Champion, Reinhard Schefcik.",
+            "imageUrl": "https://hcti.io/v1/image/f5b35cd3-491a-490c-91bd-8a6c3aebf410"
         },
         {
             "code": "25608",
@@ -2482,7 +2481,7 @@
             "flavor": "\"The first sword of Braavos does not run\" <cite>Syrio Forel</cite>",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/7395423e-9bc6-4b57-8659-08b9a33eef1f"
+            "imageUrl": "https://hcti.io/v1/image/9adee006-13c5-413c-a84f-62d90098c731"
         },
         {
             "code": "25609",
@@ -2499,7 +2498,7 @@
             "text": "<b>Action:</b> Kneel your faction card to choose an opponent. Look at that players hand, or each card in their shadows area. Then, you and that player may each draw 1 card.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/b89d2c21-5b6f-4b7a-8931-09c4aecedad0"
+            "imageUrl": "https://hcti.io/v1/image/80d2ba30-e8a6-42be-a89a-4da89e558e2a"
         },
         {
             "code": "25610",
@@ -2523,7 +2522,7 @@
             "flavor": "\"Shouldn't you northmen have a different sort of peace banner? What are the Seven to you?\" <cite>Ser Jaime Lannister</cite>",
             "deckLimit": 1,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/55f36b7c-7864-4b33-bf5f-c777fe959d94"
+            "imageUrl": "https://hcti.io/v1/image/054a676d-d78b-4e81-a1ef-be61f9c953ec"
         },
         {
             "code": "25611",
@@ -2547,7 +2546,7 @@
             "flavor": "It was said that Rhaegar had named that place the tower of joy, but for Ned it was a bitter memory.",
             "deckLimit": 1,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/9da2d48f-3800-4722-91a4-72aa9fe6e1ec"
+            "imageUrl": "https://hcti.io/v1/image/7d65ff70-ee9c-4aa0-97da-d7d0a397a507"
         },
         {
             "code": "25612",
@@ -2570,7 +2569,7 @@
             "deckLimit": 1,
             "illustrator": "?",
             "designer": "Card design by 2023 Online World Champion, Jim Hansen.",
-            "imageUrl": "https://hcti.io/v1/image/437667ca-c8a5-466d-bf58-cf4415f0c5bc"
+            "imageUrl": "https://hcti.io/v1/image/6aee1231-d69f-44c4-b23a-e083c0af62f4"
         },
         {
             "code": "25613",
@@ -2594,7 +2593,7 @@
             "flavor": "Baelor the Blessed had ordered all Barth's writings destroyed when he came to the Iron Throne.",
             "deckLimit": 2,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/53fb79aa-a235-421b-b5c7-de8a1a6fe811"
+            "imageUrl": "https://hcti.io/v1/image/6aad83d0-c46f-4905-b700-623049ca63ed"
         },
         {
             "code": "25614",
@@ -2617,7 +2616,7 @@
             "text": "Each player cannot marshal, play, or put limited cards into play.",
             "deckLimit": 1,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/65d120cb-91b6-4dd2-b36b-8e67990a437b"
+            "imageUrl": "https://hcti.io/v1/image/9d3ed6c3-adbc-48eb-baac-ee49cc2ea8b3"
         },
         {
             "code": "25615",
@@ -2640,7 +2639,7 @@
             "flavor": "She wants all our swords kept close to home, to defend the Vale... against what, no one is certain. Shadows, some say.” - Ser Donnel Waynwood",
             "deckLimit": 2,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/c726cf69-ef36-4762-9976-0542a30109e7"
+            "imageUrl": "https://hcti.io/v1/image/6a7a3906-65dc-41fb-8609-3814068a6dfe"
         },
         {
             "code": "25616",
@@ -2663,7 +2662,7 @@
             "text": "<b>When Revealed:</b> Until you reveal a new plot card, switch the printed gold, claim, and reserve values on this plot card with those values on another revealed plot card.",
             "deckLimit": 1,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/373f144a-48dc-4c9e-9004-a9196163727c"
+            "imageUrl": "https://hcti.io/v1/image/45b03e15-9be9-4b85-bbc4-c764b3b91c7a"
         },
         {
             "code": "25617",
@@ -2687,7 +2686,7 @@
             "flavor": "And who are you, the proud lord said, that I must bow so low?",
             "deckLimit": 1,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/52fb19ea-e74c-4e25-8a64-ae89d0ded07e"
+            "imageUrl": "https://hcti.io/v1/image/3f972541-e738-4a3f-88d7-a2861a0a34c7"
         },
         {
             "code": "25618",
@@ -2701,8 +2700,8 @@
             "text": "Your plot deck cannot include <i>Omen</i> plot cards.\n<b>Reaction:</b> After an opponent loses a challenge, place a Valar Morghulis token on a character they control.\n<b>Interrupt:</b> When a character with 3 or more Valar Morghulis tokens leaves play, gain 3 power for your faction.",
             "deckLimit": 1,
             "illustrator": "?",
-            "designer": "Card design by 2019 Joust European Champion, Alejandro Gomez.",
-            "imageUrl": "https://hcti.io/v1/image/4e620a9e-9e53-4454-a136-86d127027244"
+            "designer": "Card design by 2019 European Joust Champion, Alejandro Gomez.",
+            "imageUrl": "https://hcti.io/v1/image/acb87693-4c88-4e6a-98d7-47236872acb9"
         },
         {
             "code": "25619",
@@ -2717,7 +2716,7 @@
             "deckLimit": 1,
             "illustrator": "?",
             "designer": "Card design by 2015 Draft World Champion, Ryan Jones.",
-            "imageUrl": "https://hcti.io/v1/image/137499e3-4be5-4639-be02-018476726493"
+            "imageUrl": "https://hcti.io/v1/image/1489cd52-a5ff-46ce-b184-57aa5534f323"
         },
         {
             "code": "25620",
@@ -2731,8 +2730,8 @@
             "text": "You may include non-loyal attachments, characters or locations from any faction in your deck.\nYour deck may not contain more than 3 different cards from any faction.",
             "deckLimit": 1,
             "illustrator": "?",
-            "designer": "Card design by 2018 Joust European Champion, James Waumsley.",
-            "imageUrl": "https://hcti.io/v1/image/0bd1c247-df08-435e-bfc7-986e67bad10a"
+            "designer": "Card design by 2018 European Joust Champion, James Waumsley.",
+            "imageUrl": "https://hcti.io/v1/image/3b956ecd-46ea-44dd-8167-d509f1a4a26c"
         }
     ]
 }
