@@ -160,7 +160,7 @@
         },
         {
             "code": "25507",
-            "version": "1.0",
+            "version": "1.1",
             "type": "location",
             "name": "Deepwood Motte",
             "octgnId": null,
@@ -168,14 +168,14 @@
             "unique": true,
             "faction": "baratheon",
             "loyal": false,
-            "cost": 2,
+            "cost": 0,
             "traits": [
                 "The North"
             ],
-            "text": "<b>Reaction:</b> After a <i>Winter</i> plot card is revealed, kneel Deepwood Motte to kneel X locations with printed cost 1 or lower. X is the reserve value on the revealed <i>Winter</i> plot card.",
+            "text": "<b>Reaction:</b> After a <i>Winter</i> plot card is revealed, kneel Deepwood Motte to kneel a non-limited location.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/8deb18b6-a62e-4b93-8d55-8494f3c16307"
+            "imageUrl": "https://hcti.io/v1/image/4b0f0b94-b26e-4240-8ade-214687459a57"
         },
         {
             "code": "25508",
@@ -220,22 +220,22 @@
         },
         {
             "code": "25510",
-            "version": "1.0",
+            "version": "2.0",
             "type": "attachment",
-            "name": "The Usurper",
+            "name": "Martial Law",
             "octgnId": null,
             "quantity": 3,
             "unique": false,
             "faction": "baratheon",
             "loyal": false,
-            "cost": 2,
+            "cost": 1,
             "traits": [
-                "Title"
+                "Condition"
             ],
-            "text": "<i>Lord</i> character only.\nWhile no opponent controls a <i>King</i> character, attached character gains the <i>King</i> trait and renown.\nWhile an opponent controls a <i>King</i> character, attached character gets +4 STR.",
+            "text": "Non-limited location only. Terminal.\nAttached location cannot stand.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/5ecb51db-4874-4c64-86f0-bca092119e18"
+            "imageUrl": "https://hcti.io/v1/image/3989ef23-4a2d-4dea-bb35-5faf8b70ef55"
         },
         {
             "code": "25511",
@@ -308,7 +308,7 @@
         },
         {
             "code": "25514",
-            "version": "1.1",
+            "version": "1.2",
             "type": "character",
             "name": "Tarle the Thrice-Drowned",
             "octgnId": null,
@@ -327,10 +327,10 @@
                 "Drowned God",
                 "Ironborn"
             ],
-            "text": "<b>Reaction:</b> After a <i>Drowned God</i> or <i>Ironborn</i> character you control is placed in your dead pile, put that character into play. Then, kill a character you control. (Limit once per round.)",
+            "text": "<b>Reaction:</b> After a <i>Drowned God</i> character you control is placed in your dead pile, put that character into play. Then, kill a character you control. (Limit once per round.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/d4415f3e-5a27-4d87-b022-5a40d091a92b"
+            "imageUrl": "https://hcti.io/v1/image/35e68bef-a8e4-4e9d-85a9-94bb827b8384"
         },
         {
             "code": "25515",
@@ -569,7 +569,7 @@
         },
         {
             "code": "25525",
-            "version": "1.0",
+            "version": "1.1",
             "type": "character",
             "name": "Tywin Lannister",
             "octgnId": null,
@@ -583,14 +583,14 @@
                 "intrigue": true,
                 "power": true
             },
-            "strength": 5,
+            "strength": 6,
             "traits": [
                 "Lord"
             ],
-            "text": "<b>Reaction:</b> After you win a challenge in which Tywin Lannister is attacking, he gains 1 power for every 2 gold in your gold pool.\n+1 Income.",
+            "text": "<b>Reaction:</b> After you win a challenge in which Tywin Lannister is participating, he gains 1 power for every 3 gold in your gold pool.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/4f403397-df4b-4eab-ac67-c8c40f4f9c43"
+            "imageUrl": "https://hcti.io/v1/image/5c75319c-12d1-473f-a111-aff256ff2dde"
         },
         {
             "code": "25526",
@@ -1369,7 +1369,7 @@
         },
         {
             "code": "25560",
-            "version": "1.0",
+            "version": "1.1",
             "type": "plot",
             "name": "The Watch Needs Good Men",
             "octgnId": null,
@@ -1385,39 +1385,39 @@
             "traits": [
                 "Edict"
             ],
-            "text": "You may marshal characters from any opponent's discard pile as if they were in your hand.",
+            "text": "You may marshal or ambush characters from any opponent's discard pile as if they were in your hand.",
             "flavor": "\"Good steel's always needed on the Wall.\" <cite>Yoren</cite>",
             "deckLimit": 1,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/8aa71f4c-6698-4372-9811-6c7c44579aff"
+            "imageUrl": "https://hcti.io/v1/image/7d9e28f0-c2a8-4453-bd16-158fdef20372"
         },
         {
             "code": "25561",
-            "version": "1.1",
+            "version": "1.2",
             "type": "character",
             "name": "Roose Bolton",
             "octgnId": null,
             "quantity": 3,
             "unique": true,
             "faction": "stark",
-            "loyal": true,
+            "loyal": false,
             "cost": 7,
             "icons": {
                 "military": true,
                 "intrigue": true,
                 "power": true
             },
-            "strength": 3,
+            "strength": 4,
             "traits": [
                 "Ally",
                 "House Bolton",
                 "Lord"
             ],
-            "text": "Intimidate.\n<b>Forced Reaction:</b> After you marshal Roose Bolton, kneel your faction card. Then, kill each other loyal character.",
+            "text": "Intimidate.\nLoyal characters cannot be saved.\r\n<b>Forced Reaction:</b> After Roose Bolton enters play, each player must choose and kill a loyal character they control, if able.",
             "flavor": "\"A peaceful land, a quiet people.\"",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/f824f6ba-616d-4b6c-b722-8ed5e7b43d75"
+            "imageUrl": "https://hcti.io/v1/image/9ce46642-d101-4b55-8994-d045cd876e03"
         },
         {
             "code": "25562",
@@ -2226,14 +2226,14 @@
         },
         {
             "code": "25597",
-            "version": "1.0",
+            "version": "1.1",
             "type": "character",
             "name": "Bloodraven",
             "octgnId": null,
             "quantity": 3,
             "unique": true,
             "faction": "neutral",
-            "cost": 4,
+            "cost": 3,
             "icons": {
                 "military": false,
                 "intrigue": true,
@@ -2243,11 +2243,11 @@
             "traits": [
                 "Old Gods"
             ],
-            "text": "Insight. No attachments.\n<b>Reaction:</b> After the plot phase begins, sacrifice Bloodraven to choose an opponent. You may look at that opponents chosen plot before you choose your plot this phase.",
+            "text": "Insight. No attachments except <i>Old Gods</i>.\n<b>Reaction:</b> After the plot phase begins, sacrifice Bloodraven to choose an opponent. You may look at that opponents chosen plot before you choose your plot this phase.",
             "deckLimit": 3,
             "illustrator": "?",
             "designer": "Card design by 2022 Online World Champion, Alexandre Carry.",
-            "imageUrl": "https://hcti.io/v1/image/13e95899-b263-41b4-a224-30401a0a998d"
+            "imageUrl": "https://hcti.io/v1/image/def0c0f1-d2dd-47e9-84c2-99875d52c971"
         },
         {
             "code": "25598",
@@ -2431,9 +2431,9 @@
         },
         {
             "code": "25606",
-            "version": "1.0",
+            "version": "2.0",
             "type": "location",
-            "name": "High Hall Throne",
+            "name": "The Moon Door",
             "octgnId": null,
             "quantity": 3,
             "unique": true,
@@ -2442,11 +2442,11 @@
             "traits": [
                 "House Arryn"
             ],
-            "text": "You win ties for initiative and dominance.\nWhile High Hall Throne is standing, each <i>House Arryn</i> character you control gets +1 STR.",
+            "text": "You win ties for initiative and dominance.\n<b>Reaction:</b> After The Moon Door is knelt during a challenge, kill a participating character with printed STR 3 or lower.",
             "flavor": "The wretched boy had started it, looking down on him from a throne of carved weirwood beneath the moon-and-falcon banners of House Arryn.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/18ae80a7-3f0f-4150-add9-d930910643e8"
+            "imageUrl": "https://hcti.io/v1/image/c9d9ecf6-5568-4dc0-858e-66e321d13a47"
         },
         {
             "code": "25607",
@@ -2573,7 +2573,7 @@
         },
         {
             "code": "25613",
-            "version": "1.0",
+            "version": "1.1",
             "type": "plot",
             "name": "Burning the Books",
             "octgnId": null,
@@ -2581,19 +2581,19 @@
             "faction": "neutral",
             "plotStats": {
                 "income": 5,
-                "initiative": 5,
+                "initiative": 0,
                 "claim": 1,
-                "reserve": 5
+                "reserve": 4
             },
             "traits": [
                 "Edict",
                 "The Seven"
             ],
-            "text": "Treat the text box of each plot in each opponents used pile as if it were blank.\n<b>When Revealed:</b> Each player must choose a non-<i>The Seven</i> attachment they control, if able, and remove it from the game (cannot be saved).",
+            "text": "<b>When Revealed:</b> Each opponent chooses a non-<i>The Seven</i> attachment they control, if able, and discards it from play. Then, you may discard 1 power from a character you control to initiate this effect again.",
             "flavor": "Baelor the Blessed had ordered all Barth's writings destroyed when he came to the Iron Throne.",
             "deckLimit": 2,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/6aad83d0-c46f-4905-b700-623049ca63ed"
+            "imageUrl": "https://hcti.io/v1/image/47f72a78-f55a-494b-8703-b9c1cd8f8d58"
         },
         {
             "code": "25614",
