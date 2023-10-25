@@ -179,7 +179,7 @@
         },
         {
             "code": "25508",
-            "version": "1.1",
+            "version": "1.2",
             "type": "location",
             "name": "Lady Marya",
             "octgnId": null,
@@ -191,14 +191,14 @@
             "traits": [
                 "Warship"
             ],
-            "text": "You may marshal or play facedown cards attached to Lady Marya as if they were in your hand.\n<b>Reaction:</b> After you win a challenge as the attacking player, kneel Lady Marya to attach the top card of the losing opponent's deck to Lady Marya facedown under your control, as an attachment with the text: \"Location only. Terminal.\" ",
+            "text": "You may marshal or play facedown cards attached to Lady Marya as if they were in your hand.\n<b>Reaction:</b> After you win a challenge in which you control an attacking <i>Captain</i> or <i>Smuggler</i> character, kneel Lady Marya to attach the top card of the losing opponent's deck to Lady Marya facedown under your control, as an attachment with the text: \"Location only. Terminal.\" ",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/052b2fac-1ec5-47d2-bfe8-8613019ce420"
+            "imageUrl": "https://hcti.io/v1/image/5d186fd4-18d6-4c7f-8678-1e349d94fd4e"
         },
         {
             "code": "25509",
-            "version": "1.1",
+            "version": "1.2",
             "type": "attachment",
             "name": "The Laughing Storm",
             "octgnId": null,
@@ -211,12 +211,12 @@
                 "Legacy",
                 "Tapestry"
             ],
-            "text": "Unique [baratheon] location you control only.\nWhile you control more standing characters than each opponent, cards cannot be discarded from your hand.",
+            "text": "Unique [baratheon] location you control only.\nWhile The Laughing Storm is standing during the challenges phase, cards cannot be discarded from your hand.\r\n<b>Reaction:</b> After you win a challenge, kneel The Laughing Storm to choose and kneel a character.",
             "flavor": "\"Ha ha ha! Ha ha ha ha ha!\"",
             "deckLimit": 3,
             "illustrator": "?",
             "designer": "Card inspired by 2010 Joust World Champion, Alec Irwin.",
-            "imageUrl": "https://hcti.io/v1/image/99fd8b47-3077-4aa5-a7ac-c58110a8c6e0"
+            "imageUrl": "https://hcti.io/v1/image/de8ae48c-88c9-48e4-a77c-f6417a0bb09b"
         },
         {
             "code": "25510",
@@ -362,7 +362,7 @@
         },
         {
             "code": "25516",
-            "version": "1.1",
+            "version": "1.2",
             "type": "character",
             "name": "Ralf Kenning",
             "octgnId": null,
@@ -376,17 +376,17 @@
                 "intrigue": true,
                 "power": false
             },
-            "strength": 2,
+            "strength": 3,
             "traits": [
                 "House Harlaw",
                 "Ironborn",
                 "Raider"
             ],
-            "text": "Pillage.\nReduce the income and reserve values of each opponent's revealed plot card by 1.",
+            "text": "Pillage.\nWhile there is a <i>Winter</i> plot revealed, reduce the income and reserve values of each opponent's revealed plot card by 1.",
             "deckLimit": 3,
             "illustrator": "?",
             "designer": "Card design by 2022 Castle Stahleck Joust Champion, Marti Foz Hernandez",
-            "imageUrl": "https://hcti.io/v1/image/c8007e3e-704c-4bd9-9ad1-5c4502516e32"
+            "imageUrl": "https://hcti.io/v1/image/9a11e9f6-cb5c-4702-8797-fe651eb1600b"
         },
         {
             "code": "25517",
@@ -466,7 +466,7 @@
         },
         {
             "code": "25520",
-            "version": "1.0",
+            "version": "1.1",
             "type": "location",
             "name": "Winterfell",
             "octgnId": null,
@@ -480,10 +480,10 @@
                 "The North",
                 "Winterfell"
             ],
-            "text": "<b>Reaction:</b> After a character is sacrificed or killed, if there is a <i>Winter</i> plot revealed, kneel Winterfell to discard the top X cards of its owner's deck. X is that characters printed cost.\n-2 Initiative.",
+            "text": "<b>Reaction:</b> After you discard a character using pillage, kneel and sacrifice Winterfell to put that character into play under your control. At the end of the phase, if that card is still in play, discard it from play (cannot be saved).\n-2 Initiative.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/e050fffd-99d5-4ae2-9001-5253cdb2f43b"
+            "imageUrl": "https://hcti.io/v1/image/b37e093c-ec6f-47c1-91f6-d25bde851616"
         },
         {
             "code": "25521",
@@ -646,7 +646,7 @@
         },
         {
             "code": "25528",
-            "version": "1.0",
+            "version": "1.1",
             "type": "character",
             "name": "Myrcella Baratheon",
             "octgnId": null,
@@ -657,17 +657,17 @@
             "cost": 2,
             "icons": {
                 "military": false,
-                "intrigue": false,
+                "intrigue": true,
                 "power": true
             },
             "strength": 2,
             "traits": [
                 "Lady"
             ],
-            "text": "<b>Reaction:</b> After you win a challenge in which Myrcella Baratheon is participating, return her to your hand. Then, you may initiate an additional [intrigue] challenge against the losing opponent this phase.",
+            "text": "<b>Reaction:</b> After you win a challenge in which Myrcella Baratheon is participating, return her to your hand. Then, you may initiate an additional [intrigue] challenge against the losing opponent this phase. (Max once per phase.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/18739862-6c9d-447d-8b8b-b7a296094bba"
+            "imageUrl": "https://hcti.io/v1/image/57a36992-3cf1-412c-b8b9-f3a3343727dc"
         },
         {
             "code": "25529",
@@ -844,7 +844,7 @@
         },
         {
             "code": "25537",
-            "version": "1.1",
+            "version": "1.2",
             "type": "character",
             "name": "The Old Hawk",
             "octgnId": null,
@@ -862,11 +862,11 @@
             "traits": [
                 "Lord"
             ],
-            "text": "While there is a <i>Summer</i> plot revealed, each [martell] character you control with 6 or more STR gains renown.",
+            "text": "Insight.\nWhile there is a <i>Summer</i> plot revealed, each [martell] character you control with 6 or more STR gains renown.",
             "flavor": "He had never gotten on with Anders Yronwood; there was bad blood between their Houses going back a thousand years, from when the Fowlers had chosen Martell over Yronwood during Nymeria's War.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/c3bee659-a220-47f9-98e3-0195366fd825"
+            "imageUrl": "https://hcti.io/v1/image/e1b6c17a-b6ea-4b76-b78f-2e94dc167a1e"
         },
         {
             "code": "25538",
@@ -1018,7 +1018,7 @@
         },
         {
             "code": "25544",
-            "version": "2.1",
+            "version": "2.2",
             "type": "location",
             "name": "Red Mountains",
             "octgnId": null,
@@ -1026,19 +1026,19 @@
             "unique": false,
             "faction": "martell",
             "loyal": false,
-            "cost": 2,
+            "cost": 1,
             "traits": [
                 "Dorne"
             ],
-            "text": "<b>Challenges Action:</b> Kneel and sacrifice Red Mountains to choose an opponent. That player must initiate their next challenge this phase as a [military] challenge against you, if able.",
+            "text": "<b>Challenges Action:</b> Kneel and sacrifice Red Mountains to choose an opponent. That player must initiate their next challenge this phase as a [military] challenge against you, if able.\n+1 Initiative.",
             "flavor": "The Prince of Dorne was nothing if not subtle; here war meant wait.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/8822e5fd-c12a-4c2e-b73d-66bbc9876944"
+            "imageUrl": "https://hcti.io/v1/image/b24f89a7-5e6f-491f-a185-6455653f0c67"
         },
         {
             "code": "25545",
-            "version": "1.2",
+            "version": "1.3",
             "type": "attachment",
             "name": "Nymeria of Ny Sar",
             "octgnId": null,
@@ -1051,14 +1051,14 @@
                 "Legacy",
                 "Tapestry"
             ],
-            "text": "Unique [martell] location you control only.\n<b>Reaction:</b> After you win a challenge by 5 or more STR, kneel your faction card to choose and reveal a [martell] or <i>Summer</i> plot card. (Cannot be canceled).",
+            "text": "Unique [martell] location you control only.\n<b>Reaction:</b> After you win a challenge by 5 or more STR, kneel Nymeria of Ny Sar to choose and reveal a [martell] or <i>Summer</i> plot card.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/46f9475f-efa6-4cfa-bfea-0ad834fc6254"
+            "imageUrl": "https://hcti.io/v1/image/2fe5ff3e-2448-402c-8169-7a41f7b80272"
         },
         {
             "code": "25546",
-            "version": "1.1",
+            "version": "1.2",
             "type": "attachment",
             "name": "Vulture King",
             "octgnId": null,
@@ -1071,14 +1071,14 @@
                 "Legacy",
                 "Title"
             ],
-            "text": "Attached character gains pillage.\r\n<b>Reaction:</b> After attached character discards an attachment or location using pillage, choose a character. Until the end of the phase, that character loses a [power] icon.",
+            "text": "Attached character gains pillage.\r\n<b>Reaction:</b> After you win a challenge in which attached character is participating, discard the top card of your deck to choose a character controlled by the losing opponent. Until the end of the phase, that character loses a challenge icon of your choice.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/2fa314e7-2f2f-40d7-8840-f80d01591ee5"
+            "imageUrl": "https://hcti.io/v1/image/386bc3e3-e13f-4a95-800c-cf4fda12d390"
         },
         {
             "code": "25547",
-            "version": "1.0",
+            "version": "1.1",
             "type": "event",
             "name": "A Bed of Scorpions",
             "octgnId": null,
@@ -1089,11 +1089,11 @@
             "traits": [
                 "House Qorgyle"
             ],
-            "text": "<b>Reaction:</b> After you win an [intrigue] challenge, choose and kill a participating character without an [intrigue] icon.",
+            "text": "<b>Reaction:</b> After you win an [intrigue] challenge, choose and kill a participating character.",
             "flavor": "Lord Tyrell and his train traveled to Sandstone, where his lordship was murdered in a bed of scorpions.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/e0d0636e-19aa-44c8-990c-cbca1d28f69f"
+            "imageUrl": "https://hcti.io/v1/image/f33ce80d-fc9a-4407-a2ef-962c80a043b8"
         },
         {
             "code": "25548",
@@ -1353,19 +1353,19 @@
         },
         {
             "code": "25559",
-            "version": "1.0",
+            "version": "1.1",
             "type": "event",
             "name": "Saved by the Watch",
             "octgnId": null,
             "quantity": 3,
             "faction": "thenightswatch",
             "loyal": true,
-            "cost": 2,
+            "cost": 0,
             "traits": [],
-            "text": "<b>Reaction:</b> After a character controlled by an opponent is sacrificed or discarded from play, put it into play and attach Saved by the Watch to it as a <i>Condition</i> attachment with the text: \"Terminal. Take control of attached character.\"",
+            "text": "<b>Reaction:</b> After a character controlled by an opponent is sacrificed or discarded from play, kneel your faction card to put it into play and attach Saved by the Watch to it as a <i>Condition</i> attachment with the text: \"Terminal. Take control of attached character.\"",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/bcd2dd90-0e9d-4a7a-83a0-4e320cafa5ae"
+            "imageUrl": "https://hcti.io/v1/image/a035908d-c269-47b5-9495-36224b22d8bf"
         },
         {
             "code": "25560",
@@ -1592,7 +1592,7 @@
         },
         {
             "code": "25569",
-            "version": "1.1",
+            "version": "1.2",
             "type": "attachment",
             "name": "Bran the Breaker",
             "octgnId": null,
@@ -1605,10 +1605,10 @@
                 "Legacy",
                 "Tapestry"
             ],
-            "text": "Unique [stark] location you control only.\nWhile you are the attacking player, each character with printed cost equal to or lower than your claim value cannot be killed.",
+            "text": "Unique [stark] location you control only.\n<b>Action:</b> During a challenge, if there is a <i>Winter</i> plot card revealed, kneel Bran the Breaker to to raise the claim value on your revealed plot card by 1 until the end of the challenge.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/246c1f5f-fba3-441e-9f8a-5d15c3f79dc7"
+            "imageUrl": "https://hcti.io/v1/image/a8fbb04c-5b38-49ac-baa8-7fdb4c9acc44"
         },
         {
             "code": "25570",
@@ -2251,7 +2251,7 @@
         },
         {
             "code": "25598",
-            "version": "1.0",
+            "version": "1.1",
             "type": "character",
             "name": "Jalabhar Xho",
             "octgnId": null,
@@ -2262,7 +2262,7 @@
             "icons": {
                 "military": true,
                 "intrigue": true,
-                "power": false
+                "power": true
             },
             "strength": 5,
             "traits": [
@@ -2272,7 +2272,7 @@
             "text": "<b>Marshaling Action:</b> Discard 1 power from your faction card to take control of Jalabhar Xho. (Any player may initiate this ability.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/4052118a-5d52-4fa3-a38c-754d868a3461"
+            "imageUrl": "https://hcti.io/v1/image/1eb8ba3b-f012-4e7a-ad7c-2a4bb6c67afb"
         },
         {
             "code": "25599",
