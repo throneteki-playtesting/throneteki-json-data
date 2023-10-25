@@ -1089,11 +1089,11 @@
             "traits": [
                 "House Qorgyle"
             ],
-            "text": "<b>Reaction:</b> After you win an [intrigue] challenge, choose and kill a participating character.",
+            "text": "<b>Reaction:</b> After you win an [intrigue] challenge, choose and kill a participating character. (Max 1 per challenge.)",
             "flavor": "Lord Tyrell and his train traveled to Sandstone, where his lordship was murdered in a bed of scorpions.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/f33ce80d-fc9a-4407-a2ef-962c80a043b8"
+            "imageUrl": "https://hcti.io/v1/image/ee796f82-afd8-4f6c-9709-1914f894d294"
         },
         {
             "code": "25548",
