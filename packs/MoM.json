@@ -33,7 +33,7 @@
         },
         {
             "code": "25502",
-            "version": "1.0",
+            "version": "1.1",
             "type": "character",
             "name": "Ser Andrew Estermont",
             "octgnId": null,
@@ -47,15 +47,15 @@
                 "intrigue": true,
                 "power": false
             },
-            "strength": 3,
+            "strength": 4,
             "traits": [
                 "Knight",
                 "The Seven"
             ],
-            "text": "<b>Interrupt:</b> When a unique [baratheon] character you control would be killed, kill a <i>R'hllor</i> character to save that character. (Limit once per round.)",
+            "text": "<b>Interrupt:</b> When a unique [baratheon] character you control would be killed, kill a <i>R'hllor</i> character to save that character and have it gain 1 power. (Limit once per round.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/94ec9265-f20b-42ce-89e3-582a31d930b8"
+            "imageUrl": "https://hcti.io/v1/image/b37b40a2-0b23-4844-a0e4-a6c9e73322ee"
         },
         {
             "code": "25503",
@@ -239,13 +239,13 @@
         },
         {
             "code": "25511",
-            "version": "1.0",
+            "version": "1.1",
             "type": "event",
             "name": "King Robert's Legacy",
             "octgnId": null,
             "quantity": 3,
             "faction": "baratheon",
-            "loyal": false,
+            "loyal": true,
             "cost": 3,
             "traits": [
                 "Legacy"
@@ -254,7 +254,7 @@
             "flavor": "\"Your Grace's royal brother was renowned for turning fallen foes into friends.\" <cite>Asha Greyjoy</cite>",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/c5099f9b-3c05-417e-96ea-7bedd755c64f"
+            "imageUrl": "https://hcti.io/v1/image/637841cd-a918-4387-b733-b42c1a371438"
         },
         {
             "code": "25512",
@@ -1223,7 +1223,7 @@
         },
         {
             "code": "25553",
-            "version": "1.0",
+            "version": "1.1",
             "type": "character",
             "name": "Desperate Deserter",
             "octgnId": null,
@@ -1241,10 +1241,10 @@
             "traits": [
                 "Ally"
             ],
-            "text": "Shadow (0).\n<b>Forced Reaction:</b> After a card comes out of shadows under your control, give control of Desperate Deserter to an opponent.\n-1 Income.",
+            "text": "Shadow (0).\n<b>Reaction:</b> After a card comes out of shadows under your control, give control of Desperate Deserter to an opponent.\n-1 Income.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/da908162-9678-4451-9632-ab86a0fb7386"
+            "imageUrl": "https://hcti.io/v1/image/4ba872cf-9e29-4509-a682-5ba8cd5a5c19"
         },
         {
             "code": "25554",
@@ -1313,7 +1313,7 @@
         },
         {
             "code": "25557",
-            "version": "1.2",
+            "version": "1.3",
             "type": "attachment",
             "name": "Legacy of the Watch",
             "octgnId": null,
@@ -1326,10 +1326,10 @@
                 "Legacy",
                 "Tapestry"
             ],
-            "text": "Unique [thenightswatch] location you control only.\n<b>Reaction:</b> After you win a challenge, if you control 2 or more participating:\r\n- <i>Ranger</i> characters, gain 1 power for your faction.\r\n- <i>Steward</i> characters, draw 2 cards.\r\n- <i>Builder</i> characters, stand a [nightswatch] location.",
+            "text": "Unique [thenightswatch] location you control only.\n<b>Reaction:</b> After you win a challenge, if you control 3 or more participating:\n- <i>Ranger</i> characters, gain 1 power for your faction.\n- <i>Steward</i> characters, draw 2 cards.\n- <i>Builder</i> characters, stand a [nightswatch] location.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/92ef95ea-ee0e-4da2-9c33-23839f541831"
+            "imageUrl": "https://hcti.io/v1/image/622a35ff-0d00-4183-b29e-a6dd869b1311"
         },
         {
             "code": "25558",
@@ -1393,7 +1393,7 @@
         },
         {
             "code": "25561",
-            "version": "1.2",
+            "version": "1.3",
             "type": "character",
             "name": "Roose Bolton",
             "octgnId": null,
@@ -1407,21 +1407,21 @@
                 "intrigue": true,
                 "power": true
             },
-            "strength": 4,
+            "strength": 5,
             "traits": [
                 "Ally",
                 "House Bolton",
                 "Lord"
             ],
-            "text": "Intimidate.\nLoyal characters cannot be saved.\r\n<b>Forced Reaction:</b> After Roose Bolton enters play, each player must choose and kill a loyal character they control, if able.",
+            "text": "Shadow (6). Intimidate.\n<b>Reaction:</b> After Roose Bolton comes out of shadows during a challenge, kill each participating loyal character.",
             "flavor": "\"A peaceful land, a quiet people.\"",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/9ce46642-d101-4b55-8994-d045cd876e03"
+            "imageUrl": "https://hcti.io/v1/image/21be97e6-bae4-46d7-9785-1e7988db965e"
         },
         {
             "code": "25562",
-            "version": "1.0",
+            "version": "1.1",
             "type": "character",
             "name": "Galbart Glover",
             "octgnId": null,
@@ -1435,7 +1435,7 @@
                 "intrigue": false,
                 "power": true
             },
-            "strength": 3,
+            "strength": 4,
             "traits": [
                 "House Glover",
                 "Lord"
@@ -1443,11 +1443,11 @@
             "text": "While there are more <i>Winter</i> plot cards than <i>Summer</i> plot cards revealed, increase the cost for each opponent to marshal or ambush their first character each phase by 1.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/75c7fc10-a116-47e1-9ad3-0b932f20460c"
+            "imageUrl": "https://hcti.io/v1/image/078f775b-b209-4d3b-a348-b452c45b401f"
         },
         {
             "code": "25563",
-            "version": "1.1",
+            "version": "1.2",
             "type": "character",
             "name": "Jon Snow",
             "octgnId": null,
@@ -1461,7 +1461,7 @@
                 "intrigue": false,
                 "power": false
             },
-            "strength": 4,
+            "strength": 5,
             "traits": [
                 "Bastard"
             ],
@@ -1469,7 +1469,7 @@
             "deckLimit": 3,
             "illustrator": "?",
             "designer": "Card design by 2019 Melee World Champion, Richard Walker.",
-            "imageUrl": "https://hcti.io/v1/image/f3799542-a7c5-48ac-b43e-2dce58ce706e"
+            "imageUrl": "https://hcti.io/v1/image/82fcbc7e-d54a-4859-93f0-c74d3ddffd34"
         },
         {
             "code": "25564",
@@ -1499,7 +1499,7 @@
         },
         {
             "code": "25565",
-            "version": "1.0",
+            "version": "1.1",
             "type": "character",
             "name": "Bolton Loyalist",
             "octgnId": null,
@@ -1513,7 +1513,7 @@
                 "intrigue": true,
                 "power": false
             },
-            "strength": 4,
+            "strength": 5,
             "traits": [
                 "Ally",
                 "House Bolton"
@@ -1521,11 +1521,11 @@
             "text": "<b>Forced Reaction:</b> After you lose an [intrigue] challenge, give control of Bolton Loyalist to the winning opponent unless you sacrifice another character you control.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/b0afd08b-247f-49c9-8725-e7404924a0d0"
+            "imageUrl": "https://hcti.io/v1/image/2400ee8e-7060-4a84-abd4-450f110982d6"
         },
         {
             "code": "25566",
-            "version": "1.0",
+            "version": "1.1",
             "type": "character",
             "name": "Karstark Bannerman",
             "octgnId": null,
@@ -1544,11 +1544,11 @@
                 "Ally",
                 "House Karstark"
             ],
-            "text": "<b>Interrupt:</b> When Karstark Bannerman is sacrificed or killed, each player chooses a character they control and have it gain 1 power, if able.",
+            "text": "<b>Forced Interrupt:</b> When Karstark Bannerman is sacrificed or killed, each player chooses a location they control and have it gain 1 power, if able.",
             "flavor": "\"Rickard Karstark killed more than a Frey and a Lannister. He killed my honor.\" <cite>Robb Stark</cite>",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/4411dfcf-8a82-4812-ade5-815f3dff453c"
+            "imageUrl": "https://hcti.io/v1/image/c71c0db8-f377-4fb2-b8d6-21c722dcd6ef"
         },
         {
             "code": "25567",
@@ -1572,9 +1572,9 @@
         },
         {
             "code": "25568",
-            "version": "1.1",
+            "version": "1.2",
             "type": "location",
-            "name": "Lonely Hill",
+            "name": "Lonely Hills",
             "octgnId": null,
             "quantity": 3,
             "unique": false,
@@ -1588,7 +1588,7 @@
             "text": "While Lonely Hill is standing, if you have more than 1 plot in your plot deck, you are considered to have 1 fewer plot cards in your used pile.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/f28bc356-73c4-4c60-a2d4-c0591e6dbb06"
+            "imageUrl": "https://hcti.io/v1/image/ade1944b-9e03-4134-9ff5-a688e0b041d2"
         },
         {
             "code": "25569",
@@ -1633,36 +1633,37 @@
         },
         {
             "code": "25571",
-            "version": "1.0",
+            "version": "1.1",
             "type": "event",
             "name": "Taste the Blood",
             "octgnId": null,
             "quantity": 3,
             "faction": "stark",
-            "loyal": false,
-            "cost": 0,
+            "loyal": true,
+            "cost": 1,
             "traits": [
+                "Dream",
                 "Old Gods"
             ],
-            "text": "<b>Reaction:</b> After an opponent's character is killed or sacrificed, stand each <i>Old Gods</i> card you control with an equal or lower printed cost.",
+            "text": "<b>Reaction:</b> After you win an [intrigue] challenge in which you control a participating <i>Old Gods</i> character, choose a plot in the losing opponents used pile. Initiate the when revealed ability on that card as if you had just revealed it. (Max 1 per phase.)",
             "flavor": "A white-haired woman stepped toward them through a drift of dark red leaves, a bronze sickle in her hand.\n",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/f163bc46-ddc9-428b-bdbf-82d0213fb13a"
+            "imageUrl": "https://hcti.io/v1/image/1836b61a-95cc-41ce-97c8-6206a8ec3e0e"
         },
         {
             "code": "25572",
-            "version": "2.0",
+            "version": "2.1",
             "type": "plot",
             "name": "The Hour of the Wolf",
             "octgnId": null,
             "quantity": 3,
             "faction": "stark",
             "plotStats": {
-                "income": 5,
-                "initiative": 8,
+                "income": 3,
+                "initiative": 6,
                 "claim": 1,
-                "reserve": 4
+                "reserve": 6
             },
             "loyal": true,
             "traits": [
@@ -1673,7 +1674,7 @@
             "flavor": "Lord Stark would not be dissuaded: the betrayers and poisoners of King Aegon II must pay the price.",
             "deckLimit": 1,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/c6581974-fae5-441e-83a7-c19f7a469c62"
+            "imageUrl": "https://hcti.io/v1/image/1ee9d6e4-bfec-4d85-8b91-83f5c1b30c6c"
         },
         {
             "code": "25573",
