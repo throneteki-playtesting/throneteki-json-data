@@ -220,7 +220,7 @@
         },
         {
             "code": "25510",
-            "version": "2.0",
+            "version": "2.1",
             "type": "attachment",
             "name": "Martial Law",
             "octgnId": null,
@@ -232,10 +232,10 @@
             "traits": [
                 "Condition"
             ],
-            "text": "Non-limited location only. Terminal.\nAttached location cannot stand.",
+            "text": "Non-limited location only. Terminal.\nAttached location cannot stand unless its controller has won a [power] challenge this round.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/3989ef23-4a2d-4dea-bb35-5faf8b70ef55"
+            "imageUrl": "https://hcti.io/v1/image/c11dd351-c780-48af-9a48-19eba87baf0b"
         },
         {
             "code": "25511",
@@ -440,7 +440,7 @@
         },
         {
             "code": "25519",
-            "version": "1.0",
+            "version": "1.1",
             "type": "character",
             "name": "Old Captain",
             "octgnId": null,
@@ -454,19 +454,19 @@
                 "intrigue": false,
                 "power": true
             },
-            "strength": 2,
+            "strength": 1,
             "traits": [
                 "Captain",
                 "Ironborn"
             ],
-            "text": "While Old Captain is standing, it gains renown.",
+            "text": "While Old Captain is standing, it gains pillage and renown.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/6503c83c-c596-48f6-843b-f98c77bf8f3a"
+            "imageUrl": "https://hcti.io/v1/image/84786246-9d44-477e-b198-ec766c8ba9a0"
         },
         {
             "code": "25520",
-            "version": "1.1",
+            "version": "1.2",
             "type": "location",
             "name": "Winterfell",
             "octgnId": null,
@@ -480,14 +480,14 @@
                 "The North",
                 "Winterfell"
             ],
-            "text": "<b>Reaction:</b> After you discard a character using pillage, kneel and sacrifice Winterfell to put that character into play under your control. At the end of the phase, if that card is still in play, discard it from play (cannot be saved).\n-2 Initiative.",
+            "text": "<b>Reaction:</b> After a character you control discards a character using pillage, kneel and sacrifice Winterfell to put that card into play under your control. At the end of the phase, if that card is still in play, discard it from play (cannot be saved).\n-2 Initiative.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/b37e093c-ec6f-47c1-91f6-d25bde851616"
+            "imageUrl": "https://hcti.io/v1/image/e3cfea15-4d5a-4265-aa84-a45b08247e8f"
         },
         {
             "code": "25521",
-            "version": "1.1",
+            "version": "1.2",
             "type": "attachment",
             "name": "Harren the Black",
             "octgnId": null,
@@ -500,10 +500,10 @@
                 "Legacy",
                 "Tapestry"
             ],
-            "text": "Unique [greyjoy] location you control only.\n<b>Forced Reaction:</b> After a character you control discards a card using pillage, discard the top card of each player's deck.",
+            "text": "Unique [greyjoy] location you control only.\nEach opponent cannot marshal copies of locations in their discard pile. \n<b>Forced Reaction:</b> After a character you control discards a card using pillage, discard the top card of each player's deck.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/c17b7a49-efd3-4a8c-a8c5-64495413ba5e"
+            "imageUrl": "https://hcti.io/v1/image/81e7cfdf-210f-4b03-9468-e269d50260e7"
         },
         {
             "code": "25522",
@@ -1223,7 +1223,7 @@
         },
         {
             "code": "25553",
-            "version": "1.1",
+            "version": "1.2",
             "type": "character",
             "name": "Desperate Deserter",
             "octgnId": null,
@@ -1241,10 +1241,10 @@
             "traits": [
                 "Ally"
             ],
-            "text": "Shadow (0).\n<b>Reaction:</b> After a card comes out of shadows under your control, give control of Desperate Deserter to an opponent.\n-1 Income.",
+            "text": "Shadow (0).\n<b>Reaction:</b> After a card comes out of shadows under your control, give control of Desperate Deserter to an opponent.\n-1 Income. -1 Initiative.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/4ba872cf-9e29-4509-a682-5ba8cd5a5c19"
+            "imageUrl": "https://hcti.io/v1/image/574da7ec-fecc-472b-9350-4982d772d0cf"
         },
         {
             "code": "25554",
@@ -1313,7 +1313,7 @@
         },
         {
             "code": "25557",
-            "version": "1.3",
+            "version": "1.4",
             "type": "attachment",
             "name": "Legacy of the Watch",
             "octgnId": null,
@@ -1326,10 +1326,10 @@
                 "Legacy",
                 "Tapestry"
             ],
-            "text": "Unique [thenightswatch] location you control only.\n<b>Reaction:</b> After you win a challenge, if you control 3 or more participating:\n- <i>Ranger</i> characters, gain 1 power for your faction.\n- <i>Steward</i> characters, draw 2 cards.\n- <i>Builder</i> characters, stand a [nightswatch] location.",
+            "text": "Unique [thenightswatch] location you control only.\n<b>Reaction:</b> After you win a challenge by 5 or more STR, if you control 2 or more participating:\n- <i>Ranger</i> characters, gain 1 power for your faction.\n- <i>Steward</i> characters, draw 2 cards.\n- <i>Builder</i> characters, stand a [thenightswatch] location.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/622a35ff-0d00-4183-b29e-a6dd869b1311"
+            "imageUrl": "https://hcti.io/v1/image/d2d083b1-f258-4122-961e-83f8e832d1c2"
         },
         {
             "code": "25558",
@@ -1585,14 +1585,14 @@
                 "House Umber",
                 "The North"
             ],
-            "text": "While Lonely Hill is standing, if you have more than 1 plot in your plot deck, you are considered to have 1 fewer plot cards in your used pile.",
+            "text": "While Lonely Hills is standing, if you have more than 1 plot in your plot deck, you are considered to have 1 fewer plot cards in your used pile.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/ade1944b-9e03-4134-9ff5-a688e0b041d2"
+            "imageUrl": "https://hcti.io/v1/image/b97bfb30-da00-4f82-a285-b9c3e8cd992e"
         },
         {
             "code": "25569",
-            "version": "1.2",
+            "version": "1.3",
             "type": "attachment",
             "name": "Bran the Breaker",
             "octgnId": null,
@@ -1605,10 +1605,10 @@
                 "Legacy",
                 "Tapestry"
             ],
-            "text": "Unique [stark] location you control only.\n<b>Action:</b> During a challenge, if there is a <i>Winter</i> plot card revealed, kneel Bran the Breaker to to raise the claim value on your revealed plot card by 1 until the end of the challenge.",
+            "text": "Unique [stark] location you control only.\n<b>Action:</b> During a challenge in which you control 2 or more unique attacking [stark] characters, kneel Bran the Breaker to to raise the claim value on your revealed plot card by 1 until the end of the challenge.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/a8fbb04c-5b38-49ac-baa8-7fdb4c9acc44"
+            "imageUrl": "https://hcti.io/v1/image/0ac54d00-3345-4838-af97-3fc7d3defe6b"
         },
         {
             "code": "25570",
@@ -1633,23 +1633,23 @@
         },
         {
             "code": "25571",
-            "version": "1.1",
+            "version": "1.2",
             "type": "event",
             "name": "Taste the Blood",
             "octgnId": null,
             "quantity": 3,
             "faction": "stark",
             "loyal": true,
-            "cost": 1,
+            "cost": 2,
             "traits": [
                 "Dream",
                 "Old Gods"
             ],
-            "text": "<b>Reaction:</b> After you win an [intrigue] challenge in which you control a participating <i>Old Gods</i> character, choose a plot in the losing opponents used pile. Initiate the when revealed ability on that card as if you had just revealed it. (Max 1 per phase.)",
+            "text": "<b>Reaction:</b> After you win an [intrigue] challenge in which you control a participating <i>Old Gods</i> character, kneel your faction card to choose a plot in any players used pile. Initiate the when revealed ability on that plot card as if you had just revealed it.",
             "flavor": "A white-haired woman stepped toward them through a drift of dark red leaves, a bronze sickle in her hand.\n",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/1836b61a-95cc-41ce-97c8-6206a8ec3e0e"
+            "imageUrl": "https://hcti.io/v1/image/564ec8dc-88e6-4daa-9153-dcf28c5e5e7c"
         },
         {
             "code": "25572",
