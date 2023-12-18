@@ -198,7 +198,7 @@
         },
         {
             "code": "25509",
-            "version": "1.2",
+            "version": "1.3",
             "type": "attachment",
             "name": "The Laughing Storm",
             "octgnId": null,
@@ -211,16 +211,16 @@
                 "Legacy",
                 "Tapestry"
             ],
-            "text": "Unique [baratheon] location you control only.\nWhile The Laughing Storm is standing during the challenges phase, cards cannot be discarded from your hand.\n<b>Reaction:</b> After you win a challenge, kneel The Laughing Storm to choose and kneel a character.",
+            "text": "Unique [baratheon] location you control only.\nWhile The Laughing Storm is standing, cards cannot be discarded at random from your hand.\n<b>Reaction:</b> After you win a challenge, kneel The Laughing Storm to choose and kneel a character.",
             "flavor": "\"Ha ha ha! Ha ha ha ha ha!\"",
             "deckLimit": 3,
             "illustrator": "?",
             "designer": "Card inspired by 2010 Joust World Champion, Alec Irwin.",
-            "imageUrl": "https://hcti.io/v1/image/de8ae48c-88c9-48e4-a77c-f6417a0bb09b"
+            "imageUrl": "https://hcti.io/v1/image/6ccf3b31-ab5d-42c7-98a0-cee11fe2e82d"
         },
         {
             "code": "25510",
-            "version": "2.1",
+            "version": "2.2",
             "type": "attachment",
             "name": "Martial Law",
             "octgnId": null,
@@ -228,14 +228,14 @@
             "unique": false,
             "faction": "baratheon",
             "loyal": false,
-            "cost": 1,
+            "cost": 0,
             "traits": [
                 "Condition"
             ],
             "text": "Non-limited location only. Terminal.\nAttached location cannot stand unless its controller has won a [power] challenge this round.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/c11dd351-c780-48af-9a48-19eba87baf0b"
+            "imageUrl": "https://hcti.io/v1/image/2f947a9f-c7d3-4a0b-8a8b-acf293b37a71"
         },
         {
             "code": "25511",
@@ -258,27 +258,27 @@
         },
         {
             "code": "25512",
-            "version": "1.1",
+            "version": "1.2",
             "type": "plot",
             "name": "Robert's Rebellion",
             "octgnId": null,
             "quantity": 3,
             "faction": "baratheon",
             "plotStats": {
-                "income": 2,
+                "income": 5,
                 "initiative": 9,
                 "claim": 2,
-                "reserve": 5
+                "reserve": 6
             },
             "loyal": true,
             "traits": [
                 "Legacy",
                 "War"
             ],
-            "text": "<b>Forced Interrupt:</b> When the challenges phase ends, each player who has lost a [power] challenge this round must discard 2 power from their faction card, if able.",
+            "text": "<b>Forced Interrupt:</b> When the challenges phase ends, if you have lost a [power] challenge this phase, discard 3 power from your faction card, if able.",
             "deckLimit": 1,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/4b09d88c-1ba7-4940-88de-3c6b4ced4eda"
+            "imageUrl": "https://hcti.io/v1/image/c4f3571c-5f8f-48e1-b919-a1815634449a"
         },
         {
             "code": "25513",
@@ -569,7 +569,7 @@
         },
         {
             "code": "25525",
-            "version": "1.2",
+            "version": "1.3",
             "type": "character",
             "name": "Tywin Lannister",
             "octgnId": null,
@@ -579,18 +579,18 @@
             "loyal": true,
             "cost": 7,
             "icons": {
-                "military": false,
+                "military": true,
                 "intrigue": true,
                 "power": true
             },
-            "strength": 7,
+            "strength": 5,
             "traits": [
                 "Lord"
             ],
-            "text": "<b>Reaction:</b> After you win a challenge in which Tywin Lannister is participating, he gains 1 power for every 3 gold in your gold pool. (Limit once per round.)",
+            "text": "Intimidate.\n<b>Reaction:</b> After you win a challenge in which Tywin Lannister is participating, he gains 1 power for every 3 gold in your gold pool. (Limit once per round.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/3b7eef9a-2861-4f34-8585-cc0ed5b07bbf"
+            "imageUrl": "https://hcti.io/v1/image/2ceac1af-ae4a-466e-bdc4-b1bae4b21af3"
         },
         {
             "code": "25526",
@@ -736,10 +736,10 @@
                 "Legacy",
                 "The Westerlands"
             ],
-            "text": "<b>Reaction:</b> After claim is applied for an [intrigue] challenge in which you won by 5 or more STR, kneel and sacrifice Castamere to apply [military] claim.",
+            "text": "<b>Reaction:</b> After claim is applied for an [intrigue] challenge you won by 5 or more STR, kneel and sacrifice Castamere to apply [military] claim.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/cc94b1ad-7657-42d2-95ee-1b0b1c0a7698"
+            "imageUrl": "https://hcti.io/v1/image/0a5a61b0-5601-4a47-a418-0f032636a009"
         },
         {
             "code": "25532",
@@ -775,7 +775,7 @@
                 "Legacy",
                 "Tapestry"
             ],
-            "text": "Unique [lannister] location you control only.\n<b>Reaction:</b> After you win an [intrigue] challenge, kneel Lann the Clever and return a participating [lannister] character to, either: gain 3 gold, or gain 1 power for your faction.",
+            "text": "Unique [lannister] location you control only.\n<b>Reaction:</b> After you win an [intrigue] challenge, kneel Lann the Clever and return a participating [lannister] character to your hand to, either: gain 3 gold, or gain 1 power for your faction.",
             "deckLimit": 3,
             "illustrator": "?",
             "imageUrl": "https://hcti.io/v1/image/d2fa92ca-6cc7-4714-8bbd-2eaab3ac5dd4"
@@ -1223,7 +1223,7 @@
         },
         {
             "code": "25553",
-            "version": "1.2",
+            "version": "1.3",
             "type": "character",
             "name": "Desperate Deserter",
             "octgnId": null,
@@ -1231,7 +1231,7 @@
             "unique": false,
             "faction": "thenightswatch",
             "loyal": false,
-            "cost": 2,
+            "cost": 1,
             "icons": {
                 "military": false,
                 "intrigue": false,
@@ -1244,7 +1244,7 @@
             "text": "Shadow (0).\n<b>Reaction:</b> After a card comes out of shadows under your control, give control of Desperate Deserter to an opponent.\n-1 Income. -1 Initiative.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/574da7ec-fecc-472b-9350-4982d772d0cf"
+            "imageUrl": "https://hcti.io/v1/image/e0ca2f9d-60bd-4921-a5ef-415f2b725928"
         },
         {
             "code": "25554",
@@ -1393,7 +1393,7 @@
         },
         {
             "code": "25561",
-            "version": "1.3",
+            "version": "1.4",
             "type": "character",
             "name": "Roose Bolton",
             "octgnId": null,
@@ -1401,23 +1401,23 @@
             "unique": true,
             "faction": "stark",
             "loyal": false,
-            "cost": 7,
+            "cost": 6,
             "icons": {
                 "military": true,
                 "intrigue": true,
                 "power": true
             },
-            "strength": 5,
+            "strength": 4,
             "traits": [
                 "Ally",
                 "House Bolton",
                 "Lord"
             ],
-            "text": "Shadow (6). Intimidate.\n<b>Reaction:</b> After Roose Bolton comes out of shadows during a challenge, kill each participating loyal character.",
+            "text": "Shadow (5). Intimidate.\n<b>Reaction:</b> After Roose Bolton comes out of shadows during a challenge, kill each participating loyal character.",
             "flavor": "\"A peaceful land, a quiet people.\"",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/21be97e6-bae4-46d7-9785-1e7988db965e"
+            "imageUrl": "https://hcti.io/v1/image/b7f07d25-270b-4d41-a730-e122ed35f1e6"
         },
         {
             "code": "25562",
@@ -1653,17 +1653,17 @@
         },
         {
             "code": "25572",
-            "version": "2.2",
+            "version": "2.3",
             "type": "plot",
             "name": "The Hour of the Wolf",
             "octgnId": null,
             "quantity": 3,
             "faction": "stark",
             "plotStats": {
-                "income": 3,
-                "initiative": 9,
+                "income": 5,
+                "initiative": 6,
                 "claim": 1,
-                "reserve": 7
+                "reserve": 4
             },
             "loyal": true,
             "traits": [
@@ -1674,7 +1674,7 @@
             "flavor": "Lord Stark would not be dissuaded: the betrayers and poisoners of King Aegon II must pay the price.",
             "deckLimit": 1,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/f49b20a8-5858-4ade-b5f3-2b17fbd30e06"
+            "imageUrl": "https://hcti.io/v1/image/f14b82d2-58c9-4a5d-bbd3-60b1c6558d8c"
         },
         {
             "code": "25573",
@@ -1953,7 +1953,7 @@
         },
         {
             "code": "25585",
-            "version": "1.3",
+            "version": "1.4",
             "type": "character",
             "name": "Margaery Tyrell",
             "octgnId": null,
@@ -1972,10 +1972,10 @@
                 "Lady",
                 "Queen"
             ],
-            "text": "Shadow (5). Insight.\n<b>Interrupt:</b> When 1 or more [tyrell] cards are revealed from your hand or deck, place one of those cards in shadows. (Limit twice per round.)",
+            "text": "Renown. Shadow (5).\n<b>Interrupt:</b> When 1 or more [tyrell] cards are revealed from your hand or deck, place one of those cards in shadows. (Limit twice per round.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/05af353d-fa25-4b58-9a65-3f19873501ed"
+            "imageUrl": "https://hcti.io/v1/image/11288ef8-2c1c-45c1-abc6-b6b4b6d6f60d"
         },
         {
             "code": "25586",
@@ -2698,7 +2698,7 @@
             "quantity": 3,
             "faction": "neutral",
             "traits": [],
-            "text": "Your plot deck cannot include <i>Omen</i> plot cards.\n<b>Reaction:</b> After you win a challenge, place a Valar Morghulis token on a character controlled by the losing opponent.\r\n<b>Interrupt:</b> When a character with 3 or more Valar Morghulis tokens leaves play, gain 2 power for your faction.",
+            "text": "Your plot deck cannot include <i>Omen</i> plot cards.\n<b>Reaction:</b> After you win a challenge, place a Valar Morghulis token on a character controlled by the losing opponent.\n<b>Interrupt:</b> When a character with 3 or more Valar Morghulis tokens leaves play, gain 2 power for your faction.",
             "deckLimit": 1,
             "illustrator": "?",
             "designer": "Card design by 2019 European Joust Champion, Alejandro Gomez.",
