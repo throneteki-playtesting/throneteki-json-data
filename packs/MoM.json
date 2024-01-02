@@ -967,10 +967,10 @@
                 "Bastard",
                 "Sand Snake"
             ],
-            "text": "Shadow (2).\n<b>Reaction:</b> After Scheming Snake enters play, choose a participating character with fewer than 2 challenge icons. That character does not contribute its STR to this challenge.",
+            "text": "Shadow (2).\n<b>Reaction:</b> After Scheming Snake enters play during a challenge, choose a participating character with fewer than 2 challenge icons. That character does not contribute its STR to this challenge.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/3d70173a-a26f-4ec5-8013-c7390a9bbd1c"
+            "imageUrl": "https://hcti.io/v1/image/3c7f8e1a-4b22-4dfe-a057-4f6a52108757"
         },
         {
             "code": "25542",
@@ -1190,10 +1190,10 @@
             "traits": [
                 "Ranger"
             ],
-            "text": "No attachments except <i>Weapon.</i>\n<b>Interrupt:</b> When an <i>Omen</i> plot card is revealed, kneel each opponent's faction card.",
+            "text": "No attachments except <i>Weapon</i>.\n<b>Interrupt:</b> When an <i>Omen</i> plot card is revealed, kneel each opponent's faction card.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/302ca749-8b07-4cd5-9b5a-404b16f42b91"
+            "imageUrl": "https://hcti.io/v1/image/9c4db1c7-fbee-4250-9471-994bedd36014"
         },
         {
             "code": "25552",
@@ -1287,6 +1287,7 @@
                 "The North"
             ],
             "text": "While Sentinel Stand is standing, each character you control with 1 or fewer challenge icons gets +2 STR.",
+            "flavor": "The other keeps, long deserted, were lonely, haunted places, where cold winds whistled through black windows and the spirits of the dead manned the parapets.",
             "deckLimit": 3,
             "illustrator": "?",
             "imageUrl": "https://hcti.io/v1/image/ddc4d969-82c1-469b-9699-7cb3c946852c"
@@ -1525,14 +1526,14 @@
         },
         {
             "code": "25566",
-            "version": "1.2",
+            "version": "1.3",
             "type": "character",
             "name": "Karstark Lancer",
             "octgnId": null,
             "quantity": 3,
             "unique": false,
             "faction": "stark",
-            "loyal": true,
+            "loyal": false,
             "cost": 2,
             "icons": {
                 "military": true,
@@ -1548,7 +1549,7 @@
             "flavor": "\"Rickard Karstark killed more than a Frey and a Lannister. He killed my honor.\" <cite>Robb Stark</cite>",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/fd1c0a83-9b1e-4469-859d-55287b191efe"
+            "imageUrl": "https://hcti.io/v1/image/2b2eb679-52de-4aef-8ac7-ab53a9e5769e"
         },
         {
             "code": "25567",
@@ -1653,7 +1654,7 @@
         },
         {
             "code": "25572",
-            "version": "2.3",
+            "version": "2.4",
             "type": "plot",
             "name": "The Hour of the Wolf",
             "octgnId": null,
@@ -1661,7 +1662,7 @@
             "faction": "stark",
             "plotStats": {
                 "income": 5,
-                "initiative": 6,
+                "initiative": 4,
                 "claim": 1,
                 "reserve": 4
             },
@@ -1674,7 +1675,7 @@
             "flavor": "Lord Stark would not be dissuaded: the betrayers and poisoners of King Aegon II must pay the price.",
             "deckLimit": 1,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/f14b82d2-58c9-4a5d-bbd3-60b1c6558d8c"
+            "imageUrl": "https://hcti.io/v1/image/646df16b-b263-484f-8d2f-04b994072135"
         },
         {
             "code": "25573",
@@ -1799,10 +1800,10 @@
             "traits": [
                 "Army"
             ],
-            "text": "<b>Reaction:</b> After Free Brothers enters play, search your deck for an <i>Ally</i> character with printed cost 3 or lower and place it in your discard pile.",
+            "text": "<b>Reaction:</b> After Free Brothers enters play, search your deck for an <i>Ally</i> character with printed cost 3 or lower and place it in your discard pile. Shuffle your deck.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/f0b3545b-e40f-4c7d-8f53-5702bfbd0487"
+            "imageUrl": "https://hcti.io/v1/image/336746cb-b9ca-4328-99fa-f30ed182d529"
         },
         {
             "code": "25578",
@@ -1946,10 +1947,10 @@
                 "Scheme",
                 "War"
             ],
-            "text": "<b>Interrupt:</b> When claim is applied for a [military] or [intrigue] challenge in which you were the attacking player, instead of the normal claim effects, kneel a <i>Dragon</i> character you control to move up to 2 power from the losing opponent's faction card to your own.",
+            "text": "<b>Interrupt:</b> When claim is applied for a [military] or [intrigue] challenge in which you are the attacking player, instead of the normal claim effects, kneel a <i>Dragon</i> character to move up to 2 power from the losing opponent's faction card to your own.",
             "deckLimit": 1,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/0dfb3635-1cad-4d10-ab2e-bca121f94c10"
+            "imageUrl": "https://hcti.io/v1/image/9ba8eacf-5456-4319-b50f-a3bf766c61f3"
         },
         {
             "code": "25585",
@@ -2119,10 +2120,10 @@
             "traits": [
                 "Highgarden"
             ],
-            "text": "<b>Reaction:</b> After a character is removed from a challenge, gain 1 gold. (Limit 3 times per round)",
+            "text": "<b>Reaction:</b> After a character is removed from a challenge, gain 1 gold. (Limit 3 times per round.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/a254fbf9-c19d-4f60-af19-a49414516787"
+            "imageUrl": "https://hcti.io/v1/image/878b310b-3296-4441-9a5d-df09aeb395c7"
         },
         {
             "code": "25592",
@@ -2432,7 +2433,7 @@
         },
         {
             "code": "25606",
-            "version": "2.0",
+            "version": "2.1",
             "type": "location",
             "name": "The Moon Door",
             "octgnId": null,
@@ -2443,11 +2444,11 @@
             "traits": [
                 "House Arryn"
             ],
-            "text": "You win ties for initiative and dominance.\n<b>Reaction:</b> After The Moon Door is knelt during a challenge, kill a participating character with printed STR 3 or lower.",
-            "flavor": "The wretched boy had started it, looking down on him from a throne of carved weirwood beneath the moon-and-falcon banners of House Arryn.",
+            "text": "You choose who wins ties for initiative and dominance.\n<b>Reaction:</b> After The Moon Door is knelt during a challenge, kill a participating character with printed STR 3 or lower.",
+            "flavor": "\"Mother, I want to see him fly.\" <cite>Sweetrobin</cite>",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/c9d9ecf6-5568-4dc0-858e-66e321d13a47"
+            "imageUrl": "https://hcti.io/v1/image/8f855874-f000-48a4-89ad-fc1208ee51fb"
         },
         {
             "code": "25607",
@@ -2486,7 +2487,7 @@
         },
         {
             "code": "25609",
-            "version": "1.0",
+            "version": "1.1",
             "type": "event",
             "name": "\"A Thousand Eyes, and One\"",
             "octgnId": null,
@@ -2496,14 +2497,14 @@
             "traits": [
                 "Song"
             ],
-            "text": "<b>Action:</b> Kneel your faction card to choose an opponent. Look at that players hand, or each card in their shadows area. Then, you and that player may each draw 1 card.",
+            "text": "<b>Action:</b> Kneel your faction card to choose an opponent. Look at that players hand, or each card in their shadows area. Then, draw 1 card.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/80d2ba30-e8a6-42be-a89a-4da89e558e2a"
+            "imageUrl": "https://hcti.io/v1/image/034db9f0-9f14-446b-b7af-981fdde694f9"
         },
         {
             "code": "25610",
-            "version": "1.2",
+            "version": "1.3",
             "type": "plot",
             "name": "A Southron Peace",
             "octgnId": null,
@@ -2513,7 +2514,7 @@
                 "income": 4,
                 "initiative": 0,
                 "claim": 1,
-                "reserve": 5
+                "reserve": 7
             },
             "traits": [
                 "Edict",
@@ -2523,7 +2524,7 @@
             "flavor": "\"Shouldn't you northmen have a different sort of peace banner? What are the Seven to you?\" <cite>Ser Jaime Lannister</cite>",
             "deckLimit": 1,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/7c6d82b5-e071-4b69-bc3e-4efa8271ae5c"
+            "imageUrl": "https://hcti.io/v1/image/6fddd574-9027-47d1-b590-1f29a3a9b21b"
         },
         {
             "code": "25611",
@@ -2683,26 +2684,26 @@
                 "Scheme",
                 "War"
             ],
-            "text": "<b>Interrupt:</b> When the challenges phase ends, if you have not lost an [intrigue] challenge this phase, gain 2 power for your faction (4 power instead if you have removed 3 or more <i>Scheme</i> or <i>War</i> plot cards from the game).",
+            "text": "<b>Interrupt:</b> When the challenges phase ends, if you have not lost an [intrigue] challenge this phase, gain 2 power for your faction. (4 power instead if you have removed 3 or more <i>Scheme</i> or <i>War</i> plot cards from the game.)",
             "flavor": "And who are you, the proud lord said, that I must bow so low?",
             "deckLimit": 1,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/d055385b-a5b8-40b1-bbec-c3479fa8ebc7"
+            "imageUrl": "https://hcti.io/v1/image/9eade62c-8af5-43bd-95a4-b81c179ee836"
         },
         {
             "code": "25618",
-            "version": "1.3",
+            "version": "1.4",
             "type": "agenda",
             "name": "The Gift of Mercy",
             "octgnId": null,
             "quantity": 3,
             "faction": "neutral",
             "traits": [],
-            "text": "Your plot deck cannot include <i>Omen</i> plot cards.\n<b>Reaction:</b> After you win a challenge, place a Valar Morghulis token on a character controlled by the losing opponent.\n<b>Interrupt:</b> When a character with 3 or more Valar Morghulis tokens leaves play, gain 2 power for your faction.",
+            "text": "Your plot deck cannot include <i>Omen</i> plot cards.\n<b>Reaction:</b> After you win a challenge, place a Valar Morghulis token on a character controlled by the losing opponent.\n<b>Interrupt:</b> When a character with 3 or more Valar Morghulis tokens leaves play, each player who does not control it gains 2 power for their faction.",
             "deckLimit": 1,
             "illustrator": "?",
             "designer": "Card design by 2019 European Joust Champion, Alejandro Gomez.",
-            "imageUrl": "https://hcti.io/v1/image/101bfc83-cce6-431e-a510-307dd1bf8087"
+            "imageUrl": "https://hcti.io/v1/image/6dbbdb58-cd3d-4c04-b3c5-2e7f21909ac7"
         },
         {
             "code": "25619",
