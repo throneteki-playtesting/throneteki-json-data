@@ -211,6 +211,7 @@
         "name": "Mists of Memory",
         "packs": [
             "ATT",
+            "ChoS",
             "MoM"
         ]
     }
