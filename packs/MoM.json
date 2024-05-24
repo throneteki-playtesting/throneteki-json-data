@@ -6,32 +6,6 @@
     "workInProgress": true,
     "cards": [
         {
-            "code": "25502",
-            "version": "1.1",
-            "type": "character",
-            "name": "Ser Andrew Estermont",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": true,
-            "faction": "baratheon",
-            "loyal": true,
-            "cost": 4,
-            "icons": {
-                "military": true,
-                "intrigue": true,
-                "power": false
-            },
-            "strength": 4,
-            "traits": [
-                "Knight",
-                "The Seven"
-            ],
-            "text": "<b>Interrupt:</b> When a unique [baratheon] character you control would be killed, kill a <i>R'hllor</i> character to save that character and have it gain 1 power. (Limit once per round.)",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/b37b40a2-0b23-4844-a0e4-a6c9e73322ee"
-        },
-        {
             "code": "25503",
             "version": "1.1",
             "type": "character",
@@ -127,28 +101,6 @@
             "imageUrl": "https://hcti.io/v1/image/4b0f0b94-b26e-4240-8ade-214687459a57"
         },
         {
-            "code": "25509",
-            "version": "1.3",
-            "type": "attachment",
-            "name": "The Laughing Storm",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": true,
-            "faction": "baratheon",
-            "loyal": true,
-            "cost": 3,
-            "traits": [
-                "Legacy",
-                "Tapestry"
-            ],
-            "text": "Unique [baratheon] location you control only.\nWhile The Laughing Storm is standing, cards cannot be discarded at random from your hand.\n<b>Reaction:</b> After you win a challenge, kneel The Laughing Storm to choose and kneel a character.",
-            "flavor": "\"Ha ha ha! Ha ha ha ha ha!\"",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "designer": "Card inspired by 2010 Joust World Champion, Alec Irwin.",
-            "imageUrl": "https://hcti.io/v1/image/6ccf3b31-ab5d-42c7-98a0-cee11fe2e82d"
-        },
-        {
             "code": "25510",
             "version": "2.2",
             "type": "attachment",
@@ -216,32 +168,6 @@
             "deckLimit": 3,
             "illustrator": "?",
             "imageUrl": "https://hcti.io/v1/image/260e37ec-26c7-465c-843d-8d1e65312ef9"
-        },
-        {
-            "code": "25514",
-            "version": "1.3",
-            "type": "character",
-            "name": "Tarle the Thrice-Drowned",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": true,
-            "faction": "greyjoy",
-            "loyal": true,
-            "cost": 6,
-            "icons": {
-                "military": false,
-                "intrigue": true,
-                "power": true
-            },
-            "strength": 5,
-            "traits": [
-                "Drowned God",
-                "Ironborn"
-            ],
-            "text": "Renown.\n<b>Reaction:</b> After a <i>Drowned God</i> character is placed in your dead pile, put that character into play. Then, kill a character you control. (Limit once per round.)",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/7fe4ce37-e25e-4d75-aa71-205e0a813b3a"
         },
         {
             "code": "25517",
@@ -355,24 +281,6 @@
             "imageUrl": "https://hcti.io/v1/image/321aca7d-4a50-49fb-b032-a4439c972bab"
         },
         {
-            "code": "25523",
-            "version": "1.2",
-            "type": "event",
-            "name": "The Drowned God Wakes",
-            "octgnId": null,
-            "quantity": 3,
-            "faction": "greyjoy",
-            "loyal": true,
-            "cost": 2,
-            "traits": [
-                "Drowned God"
-            ],
-            "text": "<b>Reaction:</b> After you win dominance by 10 or more STR, each player chooses a character they control, if able. Kill each character not chosen.",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/480325ff-b021-48f2-ab4a-12a6e02b5b8d"
-        },
-        {
             "code": "25526",
             "version": "1.1",
             "type": "character",
@@ -423,32 +331,6 @@
             "deckLimit": 3,
             "illustrator": "?",
             "imageUrl": "https://hcti.io/v1/image/af04c44a-63c2-45c5-83ce-68f580366426"
-        },
-        {
-            "code": "25529",
-            "version": "1.0",
-            "type": "character",
-            "name": "Warrior's Sons",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": false,
-            "faction": "lannister",
-            "loyal": false,
-            "cost": 6,
-            "icons": {
-                "military": true,
-                "intrigue": false,
-                "power": true
-            },
-            "strength": 5,
-            "traits": [
-                "Army",
-                "The Seven"
-            ],
-            "text": "No attachments.\n<b>Reaction:</b> After power is gained by or moved to Warrior's Sons, stand it. (Limit once per phase.)",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/23ae38e8-6dd8-437b-9ab9-a7969fbe7c52"
         },
         {
             "code": "25530",
@@ -531,57 +413,6 @@
             "deckLimit": 3,
             "illustrator": "?",
             "imageUrl": "https://hcti.io/v1/image/8ce4d1f8-48e0-499b-b97f-678bdecaab60"
-        },
-        {
-            "code": "25536",
-            "version": "1.1",
-            "type": "plot",
-            "name": "The Sack of King's Landing",
-            "octgnId": null,
-            "quantity": 3,
-            "faction": "lannister",
-            "plotStats": {
-                "income": 5,
-                "initiative": 7,
-                "claim": 1,
-                "reserve": 6
-            },
-            "loyal": true,
-            "traits": [
-                "Legacy",
-                "War"
-            ],
-            "text": "Each [lannister] character you control gains pillage during [intrigue] challenges.\n<b>Reaction:</b> After a location enters an opponent's discard pile, that player must choose and kill a character they control with equal printed cost.",
-            "flavor": "\"The lion of Lannister flew over the ramparts, not the crowned stag. And they had taken the city by treachery.\" <cite>Eddard Stark</cite>",
-            "deckLimit": 1,
-            "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/badf761d-906b-4632-9e3c-c252bac8340b"
-        },
-        {
-            "code": "25538",
-            "version": "1.0",
-            "type": "character",
-            "name": "Ser Arys Oakheart",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": true,
-            "faction": "martell",
-            "loyal": false,
-            "cost": 5,
-            "icons": {
-                "military": true,
-                "intrigue": false,
-                "power": true
-            },
-            "strength": 5,
-            "traits": [
-                "Knight",
-                "Kingsguard"
-            ],
-            "text": "Renown.\nWhile Ser Arys Oakheart is attacking, at least one character must be declared as a defender, if able.",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/2d81ed55-4999-426f-8158-3c0d9c33a2cc"
         },
         {
             "code": "25539",
@@ -701,26 +532,6 @@
             "imageUrl": "https://hcti.io/v1/image/2fe5ff3e-2448-402c-8169-7a41f7b80272"
         },
         {
-            "code": "25546",
-            "version": "1.2",
-            "type": "attachment",
-            "name": "Vulture King",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": true,
-            "faction": "martell",
-            "loyal": false,
-            "cost": 1,
-            "traits": [
-                "Legacy",
-                "Title"
-            ],
-            "text": "Attached character gains pillage.\n<b>Reaction:</b> After you win a challenge in which attached character is participating, discard the top card of your deck to choose a character controlled by the losing opponent. Until the end of the phase, that character loses a challenge icon of your choice.",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/386bc3e3-e13f-4a95-800c-cf4fda12d390"
-        },
-        {
             "code": "25548",
             "version": "1.1",
             "type": "plot",
@@ -796,32 +607,6 @@
             "imageUrl": "https://hcti.io/v1/image/55105c14-02e4-44a9-a88a-3c1458135b48"
         },
         {
-            "code": "25552",
-            "version": "1.0",
-            "type": "character",
-            "name": "Marsh's Conspirator",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": false,
-            "faction": "thenightswatch",
-            "loyal": false,
-            "cost": 3,
-            "icons": {
-                "military": false,
-                "intrigue": true,
-                "power": false
-            },
-            "strength": 3,
-            "traits": [
-                "Ally",
-                "Steward"
-            ],
-            "text": "Shadow (2).\n<b>Reaction:</b> After Marsh's Conspirator comes out of shadows, choose a character. Until the end of the phase, treat it as if its printed text box were blank (except for <i>Traits</i>).",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/2a1c6f92-4435-41ce-922d-cca27a9b0544"
-        },
-        {
             "code": "25553",
             "version": "1.3",
             "type": "character",
@@ -865,26 +650,6 @@
             "deckLimit": 3,
             "illustrator": "?",
             "imageUrl": "https://hcti.io/v1/image/20098332-00a4-49aa-afc0-0aa98e9eb3bf"
-        },
-        {
-            "code": "25557",
-            "version": "1.4",
-            "type": "attachment",
-            "name": "Legacy of the Watch",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": true,
-            "faction": "thenightswatch",
-            "loyal": true,
-            "cost": 3,
-            "traits": [
-                "Legacy",
-                "Tapestry"
-            ],
-            "text": "Unique [thenightswatch] location you control only.\n<b>Reaction:</b> After you win a challenge by 5 or more STR, if you control 2 or more participating:\n- <i>Ranger</i> characters, gain 1 power for your faction.\n- <i>Steward</i> characters, draw 2 cards.\n- <i>Builder</i> characters, stand a [thenightswatch] location.",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/d2d083b1-f258-4122-961e-83f8e832d1c2"
         },
         {
             "code": "25559",
@@ -953,32 +718,6 @@
             "deckLimit": 3,
             "illustrator": "?",
             "imageUrl": "https://hcti.io/v1/image/b7f07d25-270b-4d41-a730-e122ed35f1e6"
-        },
-        {
-            "code": "25562",
-            "version": "1.1",
-            "type": "character",
-            "name": "Galbart Glover",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": true,
-            "faction": "stark",
-            "loyal": true,
-            "cost": 5,
-            "icons": {
-                "military": true,
-                "intrigue": false,
-                "power": true
-            },
-            "strength": 4,
-            "traits": [
-                "House Glover",
-                "Lord"
-            ],
-            "text": "While there are more <i>Winter</i> plot cards than <i>Summer</i> plot cards revealed, increase the cost for each opponent to marshal or ambush their first character each phase by 1.",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/078f775b-b209-4d3b-a348-b452c45b401f"
         },
         {
             "code": "25563",
@@ -1073,27 +812,6 @@
             "imageUrl": "https://hcti.io/v1/image/0ac54d00-3345-4838-af97-3fc7d3defe6b"
         },
         {
-            "code": "25570",
-            "version": "1.1",
-            "type": "attachment",
-            "name": "Ice",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": true,
-            "faction": "stark",
-            "loyal": true,
-            "cost": 3,
-            "traits": [
-                "Valyrian Steel",
-                "Weapon"
-            ],
-            "text": "Unique [stark] character only.\r\nAttached character gets +2 STR.\r\n<b>Reaction:</b> After a character is saved, kneel Ice to kill it.",
-            "flavor": "His father took off the man's head with a single sure stroke. Blood sprayed out across the snow, as red as summerwine.",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/f978757a-638f-4a73-bfb1-cbdff7d7759a"
-        },
-        {
             "code": "25572",
             "version": "2.4",
             "type": "plot",
@@ -1143,33 +861,6 @@
             "deckLimit": 3,
             "illustrator": "?",
             "imageUrl": "https://hcti.io/v1/image/598b7992-c1ad-4efd-b7ae-66958da97ae8"
-        },
-        {
-            "code": "25574",
-            "version": "1.1",
-            "type": "character",
-            "name": "Daenerys Targaryen",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": true,
-            "faction": "targaryen",
-            "loyal": true,
-            "cost": 6,
-            "icons": {
-                "military": false,
-                "intrigue": true,
-                "power": true
-            },
-            "strength": 5,
-            "traits": [
-                "Dothraki",
-                "Lady"
-            ],
-            "text": "Insight.\nWhile you control Khal Drogo, he gains intimidate.\n<b>Reaction:</b> After you win a challenge, gain 1 power for your faction for each unique attacking <i>Bloodrider</i> character. (Limit once per phase.)",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "designer": "Card design by 2019 Joust World Champion, Francis Cote.",
-            "imageUrl": "https://hcti.io/v1/image/033079c8-8980-497e-992f-a3f94bf14fb2"
         },
         {
             "code": "25575",
@@ -1282,23 +973,6 @@
             "imageUrl": "https://hcti.io/v1/image/62a8b4ed-7b52-4305-a07f-dd7a7d55fb39"
         },
         {
-            "code": "25583",
-            "version": "1.2",
-            "type": "event",
-            "name": "Naught But Ashes",
-            "octgnId": null,
-            "quantity": 3,
-            "faction": "targaryen",
-            "loyal": true,
-            "cost": "-",
-            "traits": [],
-            "text": "Shadow (1).\n<b>Challenges Action:</b> Choose a participating character without attachments. Until the end of the phase, that character gets -1 STR for each other card in shadows.",
-            "flavor": "\"The traitors want my city, but I'll give them naught but ashes.\" <cite>The Mad King</cite>",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/95a07c9a-684d-4659-90ed-049cc7513721"
-        },
-        {
             "code": "25585",
             "version": "1.4",
             "type": "character",
@@ -1323,31 +997,6 @@
             "deckLimit": 3,
             "illustrator": "?",
             "imageUrl": "https://hcti.io/v1/image/11288ef8-2c1c-45c1-abc6-b6b4b6d6f60d"
-        },
-        {
-            "code": "25586",
-            "version": "1.0",
-            "type": "character",
-            "name": "Willas Tyrell",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": true,
-            "faction": "tyrell",
-            "loyal": true,
-            "cost": 5,
-            "icons": {
-                "military": false,
-                "intrigue": true,
-                "power": true
-            },
-            "strength": 2,
-            "traits": [
-                "Lord"
-            ],
-            "text": "Insight.\nWhile a character you control is attacking or defending alone, Willas Tyrell contributes his STR towards your side this challenge.",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/f72fd398-2c5d-4f25-8d2c-88ead9604e27"
         },
         {
             "code": "25588",
@@ -1440,25 +1089,6 @@
             "imageUrl": "https://hcti.io/v1/image/a95b52ae-c942-47f6-8454-bc4b4bac07db"
         },
         {
-            "code": "25594",
-            "version": "1.0",
-            "type": "attachment",
-            "name": "The Warden of the South",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": true,
-            "faction": "tyrell",
-            "loyal": true,
-            "cost": 2,
-            "traits": [
-                "Title"
-            ],
-            "text": "[tyrell] <i>Lord</i> character only.\nAttached character gains the <i>Commander</i> trait and gets +1 STR.\n<b>Reaction:</b> After attached characters STR is increased by a card effect, kneel The Warden of the South to stand attached character.",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/f8ff2fe1-ae21-4dca-ade9-550cda10e1e9"
-        },
-        {
             "code": "25595",
             "version": "1.0",
             "type": "event",
@@ -1530,31 +1160,6 @@
             "imageUrl": "https://hcti.io/v1/image/1faef05c-f534-4791-8a75-4509eb1b83f8"
         },
         {
-            "code": "25601",
-            "version": "1.0",
-            "type": "character",
-            "name": "Belligerent Heir",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": false,
-            "faction": "neutral",
-            "cost": 4,
-            "icons": {
-                "military": false,
-                "intrigue": true,
-                "power": true
-            },
-            "strength": 2,
-            "traits": [
-                "House Frey",
-                "Lord"
-            ],
-            "text": "Belligerent Heir gets +1 STR for each gold it has.\n<b>Reaction:</b> After you initiate a challenge, place 1 gold on an attacking neutral character you control. If you lose this challenge, sacrifice that character. (Limit once per phase.)",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/fccb8e85-8030-4b9e-ad42-7b7d0a596c58"
-        },
-        {
             "code": "25602",
             "version": "1.2",
             "type": "character",
@@ -1613,43 +1218,6 @@
             "deckLimit": 3,
             "illustrator": "?",
             "imageUrl": "https://hcti.io/v1/image/cba6024b-beea-43f7-9107-4d6ae42f37c2"
-        },
-        {
-            "code": "25605",
-            "version": "1.0",
-            "type": "location",
-            "name": "The Red Fork",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": true,
-            "faction": "neutral",
-            "cost": 2,
-            "traits": [
-                "Westeros"
-            ],
-            "text": "<b>Reaction:</b> After you win a [military] challenge by 5 or more STR, put The Red Fork into play from your discard pile.\n+2 Initiative.",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/3fa908aa-90a0-4149-ae08-9a2ce1a0dc4b"
-        },
-        {
-            "code": "25607",
-            "version": "1.1",
-            "type": "attachment",
-            "name": "Greyscale",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": false,
-            "faction": "neutral",
-            "cost": 1,
-            "traits": [
-                "Condition"
-            ],
-            "text": "Terminal.\n<b>Dominance Action:</b> Kneel Greyscale to choose an opponent. Reveal 1 card at random from that player's hand. If that card's printed cost is equal to or higher than attached character's, kill attached character and attach Greyscale to a different character. Otherwise, that player draws 1 card.",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "designer": "Card design by 2017 Joust World Champion, Reinhard Schefcik.",
-            "imageUrl": "https://hcti.io/v1/image/f5b35cd3-491a-490c-91bd-8a6c3aebf410"
         },
         {
             "code": "25609",
@@ -1714,29 +1282,6 @@
             "deckLimit": 2,
             "illustrator": "?",
             "imageUrl": "https://hcti.io/v1/image/47f72a78-f55a-494b-8703-b9c1cd8f8d58"
-        },
-        {
-            "code": "25614",
-            "version": "1.1",
-            "type": "plot",
-            "name": "City Blockade",
-            "octgnId": null,
-            "quantity": 3,
-            "faction": "neutral",
-            "plotStats": {
-                "income": 5,
-                "initiative": 2,
-                "claim": 1,
-                "reserve": 6
-            },
-            "traits": [
-                "City",
-                "Siege"
-            ],
-            "text": "Each player cannot marshal, play, or put limited cards into play.",
-            "deckLimit": 1,
-            "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/9d3ed6c3-adbc-48eb-baac-ee49cc2ea8b3"
         },
         {
             "code": "25615",
