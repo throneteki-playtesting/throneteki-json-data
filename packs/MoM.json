@@ -6,32 +6,6 @@
     "workInProgress": true,
     "cards": [
         {
-            "code": "25503",
-            "version": "1.1",
-            "type": "character",
-            "name": "Allard Seaworth",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": true,
-            "faction": "baratheon",
-            "loyal": false,
-            "cost": 3,
-            "icons": {
-                "military": true,
-                "intrigue": false,
-                "power": true
-            },
-            "strength": 3,
-            "traits": [
-                "Captain",
-                "Smuggler"
-            ],
-            "text": "<b>Dominance Action:</b> Discard a facedown card attached to a [baratheon] card you control to gain 1 power. (Limit once per phase.)",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/bb7b8559-facc-4b06-9a31-f9484c567997"
-        },
-        {
             "code": "25504",
             "version": "1.0",
             "type": "character",
@@ -99,25 +73,6 @@
             "deckLimit": 3,
             "illustrator": "?",
             "imageUrl": "https://hcti.io/v1/image/4b0f0b94-b26e-4240-8ade-214687459a57"
-        },
-        {
-            "code": "25510",
-            "version": "2.2",
-            "type": "attachment",
-            "name": "Martial Law",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": false,
-            "faction": "baratheon",
-            "loyal": false,
-            "cost": 0,
-            "traits": [
-                "Condition"
-            ],
-            "text": "Non-limited location only. Terminal.\nAttached location cannot stand unless its controller has won a [power] challenge this round.",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/2f947a9f-c7d3-4a0b-8a8b-acf293b37a71"
         },
         {
             "code": "25512",
@@ -195,31 +150,6 @@
             "imageUrl": "https://hcti.io/v1/image/bf1f8f50-5462-4bd0-9c8d-c62b5df59317"
         },
         {
-            "code": "25518",
-            "version": "1.1",
-            "type": "character",
-            "name": "Great Kraken's Crew",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": false,
-            "faction": "greyjoy",
-            "loyal": false,
-            "cost": 3,
-            "icons": {
-                "military": true,
-                "intrigue": false,
-                "power": true
-            },
-            "strength": 2,
-            "traits": [
-                "Raider"
-            ],
-            "text": "No attachments. Shadow (2).\n<b>Reaction:</b> After Great Kraken's Crew comes out of shadows, choose a defending character with printed cost 3 or lower. That character does not contribute its STR to the challenge.",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/ad947aa6-c748-4cb6-ab94-9937d0fd9809"
-        },
-        {
             "code": "25520",
             "version": "1.2",
             "type": "location",
@@ -259,52 +189,6 @@
             "deckLimit": 3,
             "illustrator": "?",
             "imageUrl": "https://hcti.io/v1/image/81e7cfdf-210f-4b03-9468-e269d50260e7"
-        },
-        {
-            "code": "25522",
-            "version": "1.1",
-            "type": "attachment",
-            "name": "Nightfall",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": true,
-            "faction": "greyjoy",
-            "loyal": false,
-            "cost": 1,
-            "traits": [
-                "Valyrian Steel",
-                "Weapon"
-            ],
-            "text": "While attached character has the <i>House Harlaw</i> trait, it gains renown.\n<b>Reaction:</b> After you win a challenge in which attached character is participating, kneel Nightfall to have each player check reserve.",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/321aca7d-4a50-49fb-b032-a4439c972bab"
-        },
-        {
-            "code": "25526",
-            "version": "1.1",
-            "type": "character",
-            "name": "Grand Maester Pycelle",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": true,
-            "faction": "lannister",
-            "loyal": true,
-            "cost": 4,
-            "icons": {
-                "military": false,
-                "intrigue": true,
-                "power": true
-            },
-            "strength": 4,
-            "traits": [
-                "Maester",
-                "Small Council"
-            ],
-            "text": "<b>Interrupt:</b> When a card is discarded from a player's hand, place it facedown under its owner's agenda instead of placing it in its owner's discard pile. (Limit twice per round.)",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/f950858e-a0da-49da-becb-56342de64a84"
         },
         {
             "code": "25527",
@@ -357,25 +241,6 @@
             "deckLimit": 3,
             "illustrator": "?",
             "imageUrl": "https://hcti.io/v1/image/2a5b9f9e-ce7f-4a9e-a1bb-d6254c66475e"
-        },
-        {
-            "code": "25532",
-            "version": "1.0",
-            "type": "location",
-            "name": "Kingswood",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": false,
-            "faction": "lannister",
-            "loyal": true,
-            "cost": 1,
-            "traits": [
-                "Westeros"
-            ],
-            "text": "<b>Reaction:</b> After a character you control enters play using ambush, kneel Kingswood and return it to your hand to draw 1 card.\n+1 Initiative.",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/dcb86907-581b-4106-8502-43e8f65167e1"
         },
         {
             "code": "25533",
@@ -467,31 +332,6 @@
             "imageUrl": "https://hcti.io/v1/image/1e1551be-fff0-468a-a5e1-09ec9f944404"
         },
         {
-            "code": "25542",
-            "version": "1.1",
-            "type": "character",
-            "name": "Water Gardens Sentry",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": false,
-            "faction": "martell",
-            "loyal": true,
-            "cost": 2,
-            "icons": {
-                "military": true,
-                "intrigue": false,
-                "power": false
-            },
-            "strength": 3,
-            "traits": [
-                "Guard"
-            ],
-            "text": "While you control a [martell] <i>Lord</i> or <i>Lady</i> character, Water Gardens Sentry may be declared as a defender during [intrigue] challenges.",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/d2d3f20f-0b02-4e45-8087-d51c4f216ad4"
-        },
-        {
             "code": "25544",
             "version": "2.2",
             "type": "location",
@@ -510,26 +350,6 @@
             "deckLimit": 3,
             "illustrator": "?",
             "imageUrl": "https://hcti.io/v1/image/b24f89a7-5e6f-491f-a185-6455653f0c67"
-        },
-        {
-            "code": "25545",
-            "version": "1.3",
-            "type": "attachment",
-            "name": "Nymeria of Ny Sar",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": true,
-            "faction": "martell",
-            "loyal": true,
-            "cost": 3,
-            "traits": [
-                "Legacy",
-                "Tapestry"
-            ],
-            "text": "Unique [martell] location you control only.\n<b>Reaction:</b> After you win a challenge by 5 or more STR, kneel Nymeria of Ny Sar to choose and reveal a [martell] or <i>Summer</i> plot card.",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/2fe5ff3e-2448-402c-8169-7a41f7b80272"
         },
         {
             "code": "25548",
@@ -554,32 +374,6 @@
             "deckLimit": 1,
             "illustrator": "?",
             "imageUrl": "https://hcti.io/v1/image/c5a86659-754e-4db5-893c-06e25ab6a893"
-        },
-        {
-            "code": "25549",
-            "version": "1.1",
-            "type": "character",
-            "name": "Bowen Marsh",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": true,
-            "faction": "thenightswatch",
-            "loyal": true,
-            "cost": 5,
-            "icons": {
-                "military": false,
-                "intrigue": true,
-                "power": true
-            },
-            "strength": 4,
-            "traits": [
-                "Lord",
-                "Steward"
-            ],
-            "text": "Insight. Shadow (4).\n<b>Reaction:</b> After a card you control comes out of shadows, choose a character and a challenge type. Until the end of the phase, that character cannot be declared as an attacker in challenges of that type. (Limit 3 times per phase.)",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/f7d785c7-e7c5-430f-a16d-bc24f657d601"
         },
         {
             "code": "25550",
@@ -628,7 +422,7 @@
             ],
             "text": "Shadow (0).\n<b>Reaction:</b> After a card comes out of shadows under your control, give control of Desperate Deserter to an opponent.\n-1 Income. -1 Initiative.",
             "deckLimit": 3,
-            "illustrator": "Stephen Patane (Midjourney)",
+            "illustrator": "?",
             "imageUrl": "https://hcti.io/v1/image/e0ca2f9d-60bd-4921-a5ef-415f2b725928"
         },
         {
@@ -668,30 +462,6 @@
             "imageUrl": "https://hcti.io/v1/image/a035908d-c269-47b5-9495-36224b22d8bf"
         },
         {
-            "code": "25560",
-            "version": "1.2",
-            "type": "plot",
-            "name": "The Watch Needs Good Men",
-            "octgnId": null,
-            "quantity": 3,
-            "faction": "thenightswatch",
-            "plotStats": {
-                "income": 3,
-                "initiative": 2,
-                "claim": 1,
-                "reserve": 6
-            },
-            "loyal": true,
-            "traits": [
-                "Edict"
-            ],
-            "text": "You may marshal or ambush characters from any opponent's discard pile as if they were in your hand.",
-            "flavor": "\"Good steel's always needed on the Wall.\" <cite>Yoren</cite>",
-            "deckLimit": 1,
-            "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/1827f31c-2ba1-4012-83dd-15a8583f9c65"
-        },
-        {
             "code": "25561",
             "version": "1.4",
             "type": "character",
@@ -718,32 +488,6 @@
             "deckLimit": 3,
             "illustrator": "?",
             "imageUrl": "https://hcti.io/v1/image/b7f07d25-270b-4d41-a730-e122ed35f1e6"
-        },
-        {
-            "code": "25563",
-            "version": "1.2",
-            "type": "character",
-            "name": "Jon Snow",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": true,
-            "faction": "stark",
-            "loyal": true,
-            "cost": 4,
-            "icons": {
-                "military": true,
-                "intrigue": false,
-                "power": false
-            },
-            "strength": 5,
-            "traits": [
-                "Bastard"
-            ],
-            "text": "No attachments except <i>Direwolf</i>.\n<b>Interrupt:</b> When claim is applied for a [military] challenge, either: standing characters, or kneeling characters must be chosen for claim, if able.",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "designer": "Card design by 2019 Melee World Champion, Richard Walker.",
-            "imageUrl": "https://hcti.io/v1/image/82fcbc7e-d54a-4859-93f0-c74d3ddffd34"
         },
         {
             "code": "25565",
@@ -812,31 +556,6 @@
             "imageUrl": "https://hcti.io/v1/image/0ac54d00-3345-4838-af97-3fc7d3defe6b"
         },
         {
-            "code": "25572",
-            "version": "2.4",
-            "type": "plot",
-            "name": "The Hour of the Wolf",
-            "octgnId": null,
-            "quantity": 3,
-            "faction": "stark",
-            "plotStats": {
-                "income": 5,
-                "initiative": 4,
-                "claim": 1,
-                "reserve": 4
-            },
-            "loyal": true,
-            "traits": [
-                "Edict",
-                "Legacy"
-            ],
-            "text": "<b>When Revealed:</b> Each player sacrifices a non-loyal character, if able.",
-            "flavor": "Lord Stark would not be dissuaded: the betrayers and poisoners of King Aegon II must pay the price.",
-            "deckLimit": 1,
-            "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/646df16b-b263-484f-8d2f-04b994072135"
-        },
-        {
             "code": "25573",
             "version": "1.1",
             "type": "character",
@@ -861,31 +580,6 @@
             "deckLimit": 3,
             "illustrator": "?",
             "imageUrl": "https://hcti.io/v1/image/598b7992-c1ad-4efd-b7ae-66958da97ae8"
-        },
-        {
-            "code": "25575",
-            "version": "1.0",
-            "type": "character",
-            "name": "Black Balaq",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": true,
-            "faction": "targaryen",
-            "loyal": false,
-            "cost": 3,
-            "icons": {
-                "military": true,
-                "intrigue": true,
-                "power": false
-            },
-            "strength": 2,
-            "traits": [
-                "Mercenary"
-            ],
-            "text": "Bestow (1).\nWhile Black Balaq is attacking, each defending character gets -X STR. X is the number of gold on Black Balaq.",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/d8450fef-0e9f-4e4d-8809-c91dd8c9476e"
         },
         {
             "code": "25578",
@@ -934,26 +628,6 @@
             "imageUrl": "https://hcti.io/v1/image/10bd4f6d-7b22-4c17-9042-0d327f169a73"
         },
         {
-            "code": "25581",
-            "version": "1.1",
-            "type": "attachment",
-            "name": "Aegon the Conqueror",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": true,
-            "faction": "targaryen",
-            "loyal": true,
-            "cost": 3,
-            "traits": [
-                "Legacy",
-                "Tapestry"
-            ],
-            "text": "Unique [targaryen] location you control only.\nWhile you control an attacking <i>Dragon</i> character with printed cost 7 or higher, raise the claim value on your revealed plot card by 1.",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/8dda83f6-286f-4f64-82ba-b9794457817b"
-        },
-        {
             "code": "25582",
             "version": "1.0",
             "type": "attachment",
@@ -999,31 +673,6 @@
             "imageUrl": "https://hcti.io/v1/image/11288ef8-2c1c-45c1-abc6-b6b4b6d6f60d"
         },
         {
-            "code": "25588",
-            "version": "1.1",
-            "type": "character",
-            "name": "Dickon Tarly",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": true,
-            "faction": "tyrell",
-            "loyal": false,
-            "cost": 2,
-            "icons": {
-                "military": true,
-                "intrigue": false,
-                "power": true
-            },
-            "strength": 2,
-            "traits": [
-                "House Tarly"
-            ],
-            "text": "<b>Reaction:</b> After a [tyrell] character you control stands, stand Dickon Tarly. (Limit once per phase.)",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/4ced35a0-ca7d-4049-ba67-430f4bd87a10"
-        },
-        {
             "code": "25589",
             "version": "1.2",
             "type": "character",
@@ -1048,25 +697,6 @@
             "deckLimit": 3,
             "illustrator": "?",
             "imageUrl": "https://hcti.io/v1/image/a32d7400-1f00-436c-ae9c-0ebbce4ce183"
-        },
-        {
-            "code": "25592",
-            "version": "1.1",
-            "type": "location",
-            "name": "Olenna's Wheelhouse",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": true,
-            "faction": "tyrell",
-            "loyal": true,
-            "cost": 1,
-            "traits": [
-                "Vehicle"
-            ],
-            "text": "Bestow (3).\n<b>Marshaling Action:</b> Kneel Olenna's Wheelhouse and discard 1 gold from it to remove a [tyrell] character you control from the game until the beginning of the next phase.",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/b5223e11-4236-4eae-a12d-f79f997e56f6"
         },
         {
             "code": "25593",
@@ -1133,33 +763,6 @@
             "imageUrl": "https://hcti.io/v1/image/6da1ddd6-7f37-4148-8c49-35da4f9b0cf0"
         },
         {
-            "code": "25600",
-            "version": "1.1",
-            "type": "character",
-            "name": "Varys",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": true,
-            "faction": "neutral",
-            "cost": 3,
-            "icons": {
-                "military": false,
-                "intrigue": true,
-                "power": false
-            },
-            "strength": 3,
-            "traits": [
-                "Lord",
-                "Small Council",
-                "Spy"
-            ],
-            "text": "Bestow (2). Stealth.\n<b>Action:</b> Discard 1 gold from Varys to name a card. Until the end of the phase, cards with that name cannot be played or enter play. (Limit once per phase.)\n<b>Reaction:</b> After a <i>Scheme</i> plot card is revealed, place 1 gold on Varys.",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "designer": "Card design by 2019 Castle Stahleck Joust Champion, Sebastian Eckl.",
-            "imageUrl": "https://hcti.io/v1/image/1faef05c-f534-4791-8a75-4509eb1b83f8"
-        },
-        {
             "code": "25602",
             "version": "1.2",
             "type": "character",
@@ -1185,7 +788,7 @@
         },
         {
             "code": "25603",
-            "version": "1.0",
+            "version": "1.1",
             "type": "location",
             "name": "The Blue Fork",
             "octgnId": null,
@@ -1194,30 +797,13 @@
             "faction": "neutral",
             "cost": 2,
             "traits": [
+                "The Riverlands",
                 "Westeros"
             ],
             "text": "<b>Reaction:</b> After you win a [power] challenge by 5 or more STR, put The Blue Fork into play from your discard pile.\n+2 Reserve.",
             "deckLimit": 3,
             "illustrator": "?",
             "imageUrl": "https://hcti.io/v1/image/164fc5b4-231e-49ec-8c77-9c22fd7e303d"
-        },
-        {
-            "code": "25604",
-            "version": "1.0",
-            "type": "location",
-            "name": "The Green Fork",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": true,
-            "faction": "neutral",
-            "cost": 2,
-            "traits": [
-                "Westeros"
-            ],
-            "text": "<b>Reaction:</b> After you win an [intrigue] challenge by 5 or more STR, put The Green Fork into play from your discard pile.\n+1 Income.",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/cba6024b-beea-43f7-9107-4d6ae42f37c2"
         },
         {
             "code": "25609",
@@ -1235,29 +821,6 @@
             "deckLimit": 3,
             "illustrator": "?",
             "imageUrl": "https://hcti.io/v1/image/034db9f0-9f14-446b-b7af-981fdde694f9"
-        },
-        {
-            "code": "25612",
-            "version": "1.1",
-            "type": "plot",
-            "name": "Battle on the Green Fork",
-            "octgnId": null,
-            "quantity": 3,
-            "faction": "neutral",
-            "plotStats": {
-                "income": 4,
-                "initiative": 7,
-                "claim": 0,
-                "reserve": 6
-            },
-            "traits": [
-                "War"
-            ],
-            "text": "<b>Reaction:</b> After you win a challenge as the attacking player, increase the claim on this plot card by 1 until the end of the phase. (Limit 3 times per phase.)",
-            "deckLimit": 1,
-            "illustrator": "?",
-            "designer": "Card design by 2023 Online World Champion, Jim Hansen.",
-            "imageUrl": "https://hcti.io/v1/image/2ea86c6d-3107-42bf-a7ce-01a91f3dff92"
         },
         {
             "code": "25613",
@@ -1328,21 +891,6 @@
             "deckLimit": 1,
             "illustrator": "?",
             "imageUrl": "https://hcti.io/v1/image/45b03e15-9be9-4b85-bbc4-c764b3b91c7a"
-        },
-        {
-            "code": "25618",
-            "version": "1.4",
-            "type": "agenda",
-            "name": "The Gift of Mercy",
-            "octgnId": null,
-            "quantity": 3,
-            "faction": "neutral",
-            "traits": [],
-            "text": "Your plot deck cannot include <i>Omen</i> plot cards.\n<b>Reaction:</b> After you win a challenge, place a Valar Morghulis token on a character controlled by the losing opponent.\n<b>Interrupt:</b> When a character with 3 or more Valar Morghulis tokens leaves play, each player who does not control it gains 2 power for their faction.",
-            "deckLimit": 1,
-            "illustrator": "?",
-            "designer": "Card design by 2019 European Joust Champion, Alejandro Gomez.",
-            "imageUrl": "https://hcti.io/v1/image/6dbbdb58-cd3d-4c04-b3c5-2e7f21909ac7"
         },
         {
             "code": "25620",
