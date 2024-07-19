@@ -57,7 +57,7 @@
         },
         {
             "code": "25507",
-            "version": "1.1",
+            "version": "1.2",
             "type": "location",
             "name": "Deepwood Motte",
             "octgnId": null,
@@ -67,12 +67,13 @@
             "loyal": false,
             "cost": 0,
             "traits": [
+                "Contested",
                 "The North"
             ],
             "text": "<b>Reaction:</b> After a <i>Winter</i> plot card is revealed, kneel Deepwood Motte to kneel a non-limited location.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/4b0f0b94-b26e-4240-8ade-214687459a57"
+            "imageUrl": "https://hcti.io/v1/image/b811c61b-a1d0-40f6-9b83-31c7b505a497"
         },
         {
             "code": "25512",
@@ -151,7 +152,7 @@
         },
         {
             "code": "25520",
-            "version": "1.2",
+            "version": "1.3",
             "type": "location",
             "name": "Winterfell",
             "octgnId": null,
@@ -165,10 +166,10 @@
                 "The North",
                 "Winterfell"
             ],
-            "text": "<b>Reaction:</b> After a character you control discards a character using pillage, kneel and sacrifice Winterfell to put that card into play under your control. At the end of the phase, if that card is still in play, discard it from play (cannot be saved).\n-2 Initiative.",
+            "text": "<b>Reaction:</b> After you win an unopposed challenge, kneel Winterfell to choose a character controlled by the losing opponent. Until the end of the phase, take control of that character.\r\n-2 Initiative.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/e3cfea15-4d5a-4265-aa84-a45b08247e8f"
+            "imageUrl": "https://hcti.io/v1/image/f4361d43-97b7-4c89-bd07-d429ab90006b"
         },
         {
             "code": "25521",
