@@ -217,5 +217,12 @@
             "TIC",
             "MoM"
         ]
+    },
+    {
+        "id": "sea",
+        "name": "Sea of Shadow",
+        "packs": [
+            "SoS"
+        ]
     }
 ]
