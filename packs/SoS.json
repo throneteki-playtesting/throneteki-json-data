@@ -171,7 +171,6 @@
             "faction": "baratheon",
             "loyal": false,
             "cost": 1,
-            "strength": null,
             "traits": [
                 "Title"
             ],
@@ -191,7 +190,6 @@
             "faction": "baratheon",
             "loyal": false,
             "cost": 2,
-            "strength": null,
             "traits": [
                 "Condition"
             ],
@@ -211,7 +209,6 @@
             "faction": "baratheon",
             "loyal": false,
             "cost": 2,
-            "strength": null,
             "traits": [
                 "Warship"
             ],
@@ -231,7 +228,6 @@
             "faction": "baratheon",
             "loyal": true,
             "cost": 1,
-            "strength": null,
             "traits": [
                 "R'hllor",
                 "The North"
@@ -252,7 +248,6 @@
             "faction": "baratheon",
             "loyal": false,
             "cost": 0,
-            "strength": null,
             "traits": [],
             "text": "<b>Reaction:</b> After a <i>Small Council</i> character you control is killed, kneel your faction card to search your deck for another <i>Small Council</i> character and put it into play, knelt. Shuffle your deck.",
             "deckLimit": 3,
@@ -270,7 +265,6 @@
             "faction": "baratheon",
             "loyal": true,
             "cost": 0,
-            "strength": null,
             "traits": [],
             "text": "<b>Interrupt</b>: When the effects of an opponent's character ability would initiate, kill a <i>Maester</i> character to cancel those effects and draw 1 card.",
             "flavor": "Now here is a riddle. A clever fool and a foolish wise man. A crown to match your chain, Lord Maester.",
@@ -447,7 +441,6 @@
             "faction": "greyjoy",
             "loyal": true,
             "cost": 1,
-            "strength": null,
             "traits": [
                 "Warhorse"
             ],
@@ -467,7 +460,6 @@
             "faction": "greyjoy",
             "loyal": false,
             "cost": 2,
-            "strength": null,
             "traits": [
                 "Weapon"
             ],
@@ -487,7 +479,6 @@
             "faction": "greyjoy",
             "loyal": true,
             "cost": 1,
-            "strength": null,
             "traits": [
                 "House Farwynd",
                 "Iron Islands"
@@ -508,7 +499,6 @@
             "faction": "greyjoy",
             "loyal": false,
             "cost": 2,
-            "strength": null,
             "traits": [
                 "Warship"
             ],
@@ -528,7 +518,6 @@
             "faction": "greyjoy",
             "loyal": true,
             "cost": 1,
-            "strength": null,
             "traits": [],
             "text": "Play only if there is a <i>War</i> plot card revealed.\n<b>Challenges Action:</b> Choose an opponent who controls fewer locations than you. Until the end of the phase, that player cannot initiate [intrigue] challenges against you.",
             "deckLimit": 3,
@@ -546,7 +535,6 @@
             "faction": "greyjoy",
             "loyal": false,
             "cost": 0,
-            "strength": null,
             "traits": [],
             "text": "<b>Reaction:</b> After you win a challenge in which you control an attacking <i>Raider</i> character, look at the top 3 cards of the losing opponent's deck. Discard 1 of those cards, and place the others on top of that deck in any order.",
             "deckLimit": 3,
@@ -717,7 +705,6 @@
             "faction": "lannister",
             "loyal": false,
             "cost": 2,
-            "strength": null,
             "traits": [
                 "Weapon"
             ],
@@ -737,7 +724,6 @@
             "faction": "lannister",
             "loyal": true,
             "cost": 2,
-            "strength": null,
             "traits": [
                 "Condition"
             ],
@@ -757,7 +743,6 @@
             "faction": "lannister",
             "loyal": true,
             "cost": 3,
-            "strength": null,
             "traits": [
                 "The Westerlands"
             ],
@@ -777,7 +762,6 @@
             "faction": "lannister",
             "loyal": false,
             "cost": 2,
-            "strength": null,
             "traits": [
                 "Warship"
             ],
@@ -797,7 +781,6 @@
             "faction": "lannister",
             "loyal": true,
             "cost": "-",
-            "strength": null,
             "traits": [],
             "text": "Shadow (0). Limited.\n<b>Reaction:</b> After you win an [intrigue] challenge, gain 2 gold for each card you control in shadows.",
             "deckLimit": 3,
@@ -815,7 +798,6 @@
             "faction": "lannister",
             "loyal": true,
             "cost": 0,
-            "strength": null,
             "traits": [
                 "Small Council"
             ],
@@ -990,7 +972,6 @@
             "faction": "martell",
             "loyal": true,
             "cost": 2,
-            "strength": null,
             "traits": [
                 "Weapon"
             ],
@@ -1010,7 +991,6 @@
             "faction": "martell",
             "loyal": false,
             "cost": 1,
-            "strength": null,
             "traits": [
                 "Skill"
             ],
@@ -1031,7 +1011,6 @@
             "faction": "martell",
             "loyal": true,
             "cost": 2,
-            "strength": null,
             "traits": [
                 "Dorne",
                 "House Yronwood"
@@ -1052,7 +1031,6 @@
             "faction": "martell",
             "loyal": false,
             "cost": 2,
-            "strength": null,
             "traits": [
                 "Warship"
             ],
@@ -1072,7 +1050,6 @@
             "faction": "martell",
             "loyal": true,
             "cost": "-",
-            "strength": null,
             "traits": [],
             "text": "Shadow (1).\n<b>Interrupt:</b> When the challenges phase ends, gain X power for your faction (to a maximum of 5). X is the number of characters with no challenge icons. (Max 1 per phase.)",
             "deckLimit": 3,
@@ -1090,7 +1067,6 @@
             "faction": "martell",
             "loyal": true,
             "cost": 1,
-            "strength": null,
             "traits": [],
             "text": "<b>Interrupt:</b> When a [martell] character you control is killed for [military] claim, if you control fewer characters than the attacking player, that player must choose and kill an attacking character.",
             "deckLimit": 3,
@@ -1260,7 +1236,6 @@
             "faction": "thenightswatch",
             "loyal": true,
             "cost": 3,
-            "strength": null,
             "traits": [
                 "Weapon"
             ],
@@ -1280,7 +1255,6 @@
             "faction": "thenightswatch",
             "loyal": false,
             "cost": 1,
-            "strength": null,
             "traits": [
                 "Item"
             ],
@@ -1300,7 +1274,6 @@
             "faction": "thenightswatch",
             "loyal": false,
             "cost": 1,
-            "strength": null,
             "traits": [
                 "The North",
                 "Old Gods"
@@ -1321,7 +1294,6 @@
             "faction": "thenightswatch",
             "loyal": false,
             "cost": 2,
-            "strength": null,
             "traits": [
                 "Warship"
             ],
@@ -1341,7 +1313,6 @@
             "faction": "thenightswatch",
             "loyal": true,
             "cost": 1,
-            "strength": null,
             "traits": [
                 "Legacy"
             ],
@@ -1362,7 +1333,6 @@
             "faction": "thenightswatch",
             "loyal": false,
             "cost": "-",
-            "strength": null,
             "traits": [],
             "text": "Shadow (2).\n<b>Reaction:</b> After a character enters play during a challenge, kneel your faction card to take control of it.",
             "deckLimit": 3,
@@ -1537,7 +1507,6 @@
             "faction": "stark",
             "loyal": true,
             "cost": 2,
-            "strength": null,
             "traits": [
                 "Title"
             ],
@@ -1557,7 +1526,6 @@
             "faction": "stark",
             "loyal": false,
             "cost": 1,
-            "strength": null,
             "traits": [
                 "Condition",
                 "House Bolton"
@@ -1578,7 +1546,6 @@
             "faction": "stark",
             "loyal": true,
             "cost": 3,
-            "strength": null,
             "traits": [
                 "The North",
                 "Winterfell"
@@ -1600,7 +1567,6 @@
             "faction": "stark",
             "loyal": false,
             "cost": 2,
-            "strength": null,
             "traits": [
                 "House Manderly",
                 "Warship"
@@ -1621,7 +1587,6 @@
             "faction": "stark",
             "loyal": false,
             "cost": 0,
-            "strength": null,
             "traits": [
                 "House Tully"
             ],
@@ -1641,7 +1606,6 @@
             "faction": "stark",
             "loyal": true,
             "cost": "-",
-            "strength": null,
             "traits": [
                 "Song"
             ],
@@ -1818,7 +1782,6 @@
             "faction": "targaryen",
             "loyal": false,
             "cost": 2,
-            "strength": null,
             "traits": [
                 "Title"
             ],
@@ -1838,7 +1801,6 @@
             "faction": "targaryen",
             "loyal": true,
             "cost": 1,
-            "strength": null,
             "traits": [
                 "Condition",
                 "Poison"
@@ -1860,7 +1822,6 @@
             "faction": "targaryen",
             "loyal": true,
             "cost": 3,
-            "strength": null,
             "traits": [
                 "Essos",
                 "Slaver's Bay"
@@ -1881,7 +1842,6 @@
             "faction": "targaryen",
             "loyal": false,
             "cost": 2,
-            "strength": null,
             "traits": [
                 "Qarth",
                 "Warship"
@@ -1902,7 +1862,6 @@
             "faction": "targaryen",
             "loyal": false,
             "cost": 0,
-            "strength": null,
             "traits": [],
             "text": "Play only if you control a <i>Dragon</i> character.\n<b>Interrupt:</b> When a <i>Dragon</i> or <i>Stormborn</i> character would be killed or discarded from play, save it and return it to its owner's hand.",
             "deckLimit": 3,
@@ -1920,7 +1879,6 @@
             "faction": "targaryen",
             "loyal": true,
             "cost": "-",
-            "strength": null,
             "traits": [
                 "Prophecy"
             ],
@@ -2093,7 +2051,6 @@
             "faction": "tyrell",
             "loyal": true,
             "cost": 3,
-            "strength": null,
             "traits": [
                 "Item"
             ],
@@ -2113,7 +2070,6 @@
             "faction": "tyrell",
             "loyal": false,
             "cost": 1,
-            "strength": null,
             "traits": [
                 "Skill"
             ],
@@ -2133,7 +2089,6 @@
             "faction": "tyrell",
             "loyal": true,
             "cost": 2,
-            "strength": null,
             "traits": [
                 "The Reach"
             ],
@@ -2153,7 +2108,6 @@
             "faction": "tyrell",
             "loyal": false,
             "cost": 2,
-            "strength": null,
             "traits": [
                 "House Redwyne",
                 "Warship"
@@ -2174,7 +2128,6 @@
             "faction": "tyrell",
             "loyal": true,
             "cost": 2,
-            "strength": null,
             "traits": [],
             "text": "Shadow (0).\n<b>Interrupt:</b> When Beneath the Petals is revealed from your hand or shadow area, choose a character. Until the end of the phase, that character gets +3 STR and gains stealth. (Max 1 per phase.)",
             "deckLimit": 3,
@@ -2192,7 +2145,6 @@
             "faction": "tyrell",
             "loyal": false,
             "cost": 1,
-            "strength": null,
             "traits": [],
             "text": "<b>Marshaling Action:</b> Give X gold from your gold pool to an opponent. Then, choose and take control of a character that player controls with printed cost X or lower.",
             "deckLimit": 3,
@@ -2365,7 +2317,6 @@
             "faction": "neutral",
             "loyal": false,
             "cost": 1,
-            "strength": null,
             "traits": [
                 "Item"
             ],
@@ -2385,7 +2336,6 @@
             "faction": "neutral",
             "loyal": false,
             "cost": 2,
-            "strength": null,
             "traits": [
                 "House Arryn",
                 "Title"
@@ -2406,7 +2356,6 @@
             "faction": "neutral",
             "loyal": false,
             "cost": 4,
-            "strength": null,
             "traits": [
                 "Essos",
                 "Free Cities"
@@ -2427,7 +2376,6 @@
             "faction": "neutral",
             "loyal": false,
             "cost": 2,
-            "strength": null,
             "traits": [
                 "Ibben",
                 "Warship"
@@ -2448,7 +2396,6 @@
             "faction": "neutral",
             "loyal": false,
             "cost": 1,
-            "strength": null,
             "traits": [
                 "The North"
             ],
@@ -2468,7 +2415,6 @@
             "faction": "neutral",
             "loyal": false,
             "cost": "-",
-            "strength": null,
             "traits": [
                 "Song"
             ],
@@ -2488,7 +2434,6 @@
             "faction": "neutral",
             "loyal": false,
             "cost": 2,
-            "strength": null,
             "traits": [
                 "Small Council"
             ],
@@ -2514,7 +2459,6 @@
             },
             "loyal": false,
             "cost": null,
-            "strength": null,
             "traits": [
                 "War"
             ],
@@ -2540,7 +2484,6 @@
             },
             "loyal": false,
             "cost": null,
-            "strength": null,
             "traits": [
                 "City",
                 "Scheme"
@@ -2567,7 +2510,6 @@
             },
             "loyal": false,
             "cost": null,
-            "strength": null,
             "traits": [
                 "Legacy",
                 "Omen"
@@ -2594,7 +2536,6 @@
             },
             "loyal": false,
             "cost": null,
-            "strength": null,
             "traits": [
                 "Noble",
                 "War"
@@ -2621,7 +2562,6 @@
             },
             "loyal": false,
             "cost": null,
-            "strength": null,
             "traits": [
                 "Noble"
             ],
@@ -2647,7 +2587,6 @@
             },
             "loyal": false,
             "cost": null,
-            "strength": null,
             "traits": [
                 "Legacy"
             ],
@@ -2673,7 +2612,6 @@
             },
             "loyal": false,
             "cost": null,
-            "strength": null,
             "traits": [
                 "Summer",
                 "War"
@@ -2700,7 +2638,6 @@
             },
             "loyal": false,
             "cost": null,
-            "strength": null,
             "traits": [
                 "Winter"
             ],
@@ -2720,7 +2657,6 @@
             "faction": "neutral",
             "loyal": false,
             "cost": null,
-            "strength": null,
             "traits": [],
             "text": "Your deck cannot include non-<i>Weapon</i> attachments. Before placing setup cards, search your deck for 7 <i>Weapon</i> cards, reveal them, and place them facedown under this agenda.\n<b>Action:</b> Kneel your faction card and pay X gold to put an attachment with printed cost X or lower into play from under this agenda.",
             "deckLimit": 1,
@@ -2739,7 +2675,6 @@
             "faction": "neutral",
             "loyal": false,
             "cost": null,
-            "strength": null,
             "traits": [
                 "Small Council"
             ],
@@ -2759,7 +2694,6 @@
             "faction": "neutral",
             "loyal": false,
             "cost": null,
-            "strength": null,
             "traits": [
                 "Banner"
             ],
