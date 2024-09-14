@@ -28,7 +28,7 @@
             ],
             "text": "Shadow (5).\n<b>Reaction:</b> After you win a challenge in which Melisandre is attacking, choose and reveal a card in shadows controlled by the losing opponent. If that card is a character, you may kneel your faction card to put it into play under your control.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/1@1.0.0.png"
         },
         {
@@ -54,7 +54,7 @@
             ],
             "text": "Stealth.\nEach player cannot gain more than 3 power each round.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/2@1.0.0.png"
         },
         {
@@ -81,7 +81,7 @@
             "text": "<b>Reaction:</b> After power is gained by or moved to a character, it gets +1 STR or -1 STR until the end of the phase.",
             "flavor": "\"What sort of god lets himself be pissed upon by dogs?\"",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/3@1.0.0.png"
         },
         {
@@ -107,7 +107,7 @@
             ],
             "text": "Renown.\n<b>Forced Reaction:</b> After the dominance phase begins, if you do not control a <i>King</i> character, sacrifice a character.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/4@1.0.0.png"
         },
         {
@@ -132,7 +132,7 @@
             ],
             "text": "While you control a <i>King's Landing</i> location, Red Keep Servant gains an [intrigue] icon and cannot be bypassed by stealth.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/5@1.0.0.png"
         },
         {
@@ -157,7 +157,7 @@
             ],
             "text": "Shadow (3).\nIf it is not the challenges phase, sacrifice Shadow Assassin.\n<b>Reaction:</b> After Shadow Assassin enters play, choose and kill a participating character with lower STR.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/6@1.0.0.png"
         },
         {
@@ -177,7 +177,7 @@
             ],
             "text": "<b>Reaction:</b> After you win a [power] challenge by 5 or more STR, kneel attached character to choose and kill a kneeling character with equal or lower printed cost controlled by the losing opponent.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/7@1.0.0.png"
         },
         {
@@ -197,7 +197,7 @@
             ],
             "text": "Ambush (3). Location only.\nWhile attached location is kneeling, take control of it.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/8@1.0.0.png"
         },
         {
@@ -217,7 +217,7 @@
             ],
             "text": "Shadow (1).\n<b>Reaction:</b> After Narrow Sea Galley comes out of shadows, choose a participating character with STR 1 or lower and place it in shadows with a shadow token on it. While that card is in shadows, it gains shadow (X). X is that card's printed cost.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/9@1.0.0.png"
         },
         {
@@ -238,7 +238,7 @@
             ],
             "text": "<b>Challenges Action:</b> If there is a <i>Winter</i> plot card revealed, kneel and sacrifice Northern Pyre to choose a participating character. Until the end of the challenge, set that character's STR to 3.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/10@1.0.0.png"
         },
         {
@@ -256,7 +256,7 @@
             "traits": [],
             "text": "<b>Reaction:</b> After a <i>Small Council</i> character you control is killed, kneel your faction card to search your deck for another <i>Small Council</i> character and put it into play, knelt. Shuffle your deck.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/11@1.0.0.png"
         },
         {
@@ -275,7 +275,7 @@
             "text": "<b>Interrupt</b>: When the effects of an opponent's character ability would initiate, kill a <i>Maester</i> character to cancel those effects and draw 1 card.",
             "flavor": "Now here is a riddle. A clever fool and a foolish wise man. A crown to match your chain, Lord Maester.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/12@1.0.0.png"
         },
         {
@@ -302,7 +302,7 @@
             ],
             "text": "Pillage. Shadow (5).\n<b>Reaction:</b> After Ralf the Limper discards a location using pillage, choose a card you control with shadow and return it to shadows. (Limit once per phase.)",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/13@1.0.0.png"
         },
         {
@@ -329,7 +329,7 @@
             ],
             "text": "<b>Forced Interrupt:</b> When Theon Greyjoy leaves play, each opponent gains 2 power for their faction.\n<b>Forced Reaction:</b> After a player counts income, they must choose and kill a character they control.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "designer": "Card Designed by 2012 European Joust Champion, Stefano Montanari",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/14@1.0.0.png"
         },
@@ -356,7 +356,7 @@
             ],
             "text": "Shadow (2).\n<b>Reaction:</b> After Moqorro comes out of shadows, choose a character. Until the end of the phase, that character gains an [intrigue] icon and stealth.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/15@1.0.0.png"
         },
         {
@@ -382,7 +382,7 @@
             ],
             "text": "Assault. Pillage.\n<b>Reaction:</b> After Orkmont Elite discards an attachment using pillage, attach it to an eligible character.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/16@1.0.0.png"
         },
         {
@@ -408,7 +408,7 @@
             ],
             "text": "X is the number of cards you control with initiative modifiers. \n+1 Initiative.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/17@1.0.0.png"
         },
         {
@@ -433,7 +433,7 @@
             ],
             "text": "Shadow (3).\n<b>Reaction:</b> After Wandering Disciple comes out of shadows, put a non-unique <i>Drowned God</i> character into play from your dead pile. At the end of the phase, if that card is still in play, discard it.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/18@1.0.0.png"
         },
         {
@@ -453,7 +453,7 @@
             ],
             "text": "Ambush (2).\n<b>Reaction:</b> After you win an unopposed challenge in which attached character is attacking, kneel Smiler to have attached character gain intimidate or renown until the end of the challenge.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/19@1.0.0.png"
         },
         {
@@ -473,7 +473,7 @@
             ],
             "text": "<i>Raider</i> character only.\nWhile attached character is attacking an opponent who controls fewer attachments than you, it does not kneel when declared as an attacker.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/20@1.0.0.png"
         },
         {
@@ -494,7 +494,7 @@
             ],
             "text": "Immune to events.\nIncrease the cost for each player to bring cards out of shadow by 1.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/21@1.0.0.png"
         },
         {
@@ -514,7 +514,7 @@
             ],
             "text": "Shadow (2).\n<b>Reaction:</b> After Southbound Galley comes out of shadows, choose an opponent and name a card. Then, reveal the top card of that player's deck. If the revealed card has that name, put it into play under your control. At the end of the phase, if that card is still in play, discard it.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/22@1.0.0.png"
         },
         {
@@ -532,7 +532,7 @@
             "traits": [],
             "text": "Play only if there is a <i>War</i> plot card revealed.\n<b>Challenges Action:</b> Choose an opponent who controls fewer locations than you. Until the end of the phase, that player cannot initiate [intrigue] challenges against you.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/23@1.0.0.png"
         },
         {
@@ -550,7 +550,7 @@
             "traits": [],
             "text": "<b>Reaction:</b> After you win a challenge in which you control an attacking <i>Raider</i> character, look at the top 3 cards of the losing opponent's deck. Discard 1 of those cards, and place the others on top of that deck in any order.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/24@1.0.0.png"
         },
         {
@@ -575,7 +575,7 @@
             ],
             "text": "Shadow (4). Stealth.\nYou may marshal Crawn, Son of Calor into shadows from your discard pile.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/25@1.0.0.png"
         },
         {
@@ -601,7 +601,7 @@
             ],
             "text": "While you have more cards in hand than any opponent, Ser Osney Kettleblack gains renown.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/26@1.0.0.png"
         },
         {
@@ -627,7 +627,7 @@
             ],
             "text": "Limited.\nIf you have no gold in your gold pool during the challenges phase, kill Gyles Rosby.\n+2 Income.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/27@1.0.0.png"
         },
         {
@@ -653,7 +653,7 @@
             ],
             "text": "X is the number of cards with 1 or more gold on it.\n<b>Reaction:</b> After Ashmark Councilor enters play, place 1 gold on up to 3 cards without gold.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/28@1.0.0.png"
         },
         {
@@ -678,7 +678,7 @@
             ],
             "text": "Shadow (2).\n<b>Reaction:</b> After you win a challenge in which Tyrion's Agent is participating, return it to shadows to place a card at random from the losing opponents hand on top of their deck.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/29@1.0.0.png"
         },
         {
@@ -703,7 +703,7 @@
             ],
             "text": "<b>Dominance Action:</b> Kneel Alchemist Apprentice to choose a non-limited location with printed cost 2 or lower and return it to its owner's hand.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/30@1.0.0.png"
         },
         {
@@ -723,7 +723,7 @@
             ],
             "text": "If attached character is Joffrey Baratheon, he gains intimidate.\nWhile attached character is participating in a [military] challenge, unique characters must be chosen for claim first.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/31@1.0.0.png"
         },
         {
@@ -743,7 +743,7 @@
             ],
             "text": "Opponent's character only. Ambush (2).\nAttached character gains renown.\nYou may spend power on attached character as if it were 2 gold in your gold pool.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/32@1.0.0.png"
         },
         {
@@ -763,7 +763,7 @@
             ],
             "text": "While an opponent has fewer cards in their hand than you, they cannot initiate [power] challenges against you.\n+1 Income.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/33@1.0.0.png"
         },
         {
@@ -783,7 +783,7 @@
             ],
             "text": "Shadow (0).\n<b>Plot Action:</b> Sacrifice Wildfire Barge to have each player who controls more than 3 characters choose and kill a character they control (cannot be saved).",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/34@1.0.0.png"
         },
         {
@@ -801,7 +801,7 @@
             "traits": [],
             "text": "Shadow (0). Limited.\n<b>Reaction:</b> After you win an [intrigue] challenge, gain 2 gold for each card you control in shadows.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/35@1.0.0.png"
         },
         {
@@ -821,7 +821,7 @@
             ],
             "text": "Play only if you control a <i>King</i> character or Cersei Lannister.\r\n<b>Challenges Action:</b> Choose a character you control. Until the end of the phase, that character gains the <i>Small Council</i> trait and does not kneel when declared as an attacker. At the end of the phase, if that card is still in play, discard it from play (cannot be saved).",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/36@1.0.0.png"
         },
         {
@@ -848,7 +848,7 @@
             "text": "Renown. Shadow (6).\n<b>Action:</b> During a challenge in which The Red Viper is attacking, discard a card from shadows to raise the claim value on your revealed plot card by 1 until the end of the challenge. (Limit once per challenge.)",
             "flavor": "\"I am going to kill that\"",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/37@1.0.0.png"
         },
         {
@@ -873,7 +873,7 @@
             ],
             "text": "Renown.\nWhile Ser Manfrey Martell is participating in a challenge, renown and insight trigger when losing the challenge instead of winning the challenge.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/38@1.0.0.png"
         },
         {
@@ -899,7 +899,7 @@
             ],
             "text": "<b>Reaction:</b> After a character is declared as an attacker or defender, it loses a challenge icon of your choice until the end of the phase. (Limit twice per phase.)",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/39@1.0.0.png"
         },
         {
@@ -924,7 +924,7 @@
             ],
             "text": "Ambush (6). No attachments.\n<b>Reaction:</b> After Ghost Hill Elite enters play, choose and kill a character with no challenge icons.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/40@1.0.0.png"
         },
         {
@@ -950,7 +950,7 @@
             ],
             "text": "Shadow (3).\n<b>Reaction:</b> After Dornish Diplomat comes out of shadows, search the top 10 cards of your deck for up to 3 [martell] attachments with printed cost 1 or lower, and put them into play.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "designer": "Card design by 2018 Worlds Joust Champion, Lennart Paga.",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/41@1.0.0.png"
         },
@@ -976,7 +976,7 @@
             ],
             "text": "<b>Reaction:</b> After Southron Informant enters play, give control of it to an opponent. Then, discard 1 card at random from that player's hand and draw 1 card.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/42@1.0.0.png"
         },
         {
@@ -996,7 +996,7 @@
             ],
             "text": "<i>Sand Snake</i> or The Red Viper only.\nAttached character does not kneel when declared as an attacker against an opponent who controls more characters than you.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/43@1.0.0.png"
         },
         {
@@ -1016,7 +1016,7 @@
             ],
             "text": "[martell] character you control only. Shadow (0).\n<b>Action:</b> Sacrifice Guerrilla Tactics to return attached character to shadows.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "designer": "Card design by 2022 Stahleck Melee Champion, Lennart Paga.",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/44@1.0.0.png"
         },
@@ -1038,7 +1038,7 @@
             ],
             "text": "<b>Interrupt:</b> When the effects of an opponent's triggered ability to winning a challenge would initiate, kneel Yronwood to cancel those effects.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/45@1.0.0.png"
         },
         {
@@ -1058,7 +1058,7 @@
             ],
             "text": "Shadow (0).\n<b>Reaction:</b> After River Barge comes out of shadows, choose a character. Until the end of the phase, that character gains or loses a [military] icon.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/46@1.0.0.png"
         },
         {
@@ -1076,7 +1076,7 @@
             "traits": [],
             "text": "Shadow (1).\n<b>Interrupt:</b> When the challenges phase ends, gain X power for your faction (to a maximum of 5). X is the number of characters with no challenge icons. (Max 1 per phase.)",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/47@1.0.0.png"
         },
         {
@@ -1094,7 +1094,7 @@
             "traits": [],
             "text": "<b>Interrupt:</b> When a [martell] character you control is killed for [military] claim, if you control fewer characters than the attacking player, that player must choose and kill an attacking character.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/48@1.0.0.png"
         },
         {
@@ -1119,7 +1119,7 @@
             ],
             "text": "<b>Reaction:</b> After you win a [military] challenge in which Benjen Stark is attacking, name a challenge type. Until the end of the phase, the losing opponent cannot initiate challenges of that type against you.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/49@1.0.0.png"
         },
         {
@@ -1145,7 +1145,7 @@
             ],
             "text": "<b>Forced Interrupt:</b> When a character would be discarded from play, place it in it's owners dead pile instead of placing it in their discard pile.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/50@1.0.0.png"
         },
         {
@@ -1171,7 +1171,7 @@
             ],
             "text": "Shadow (3).\n<b>Reaction:</b> After Wick Wittlestick comes out of shadows during a challenge in which you control a participating character, each player must sacrifice a participating character they control.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/51@1.0.0.png"
         },
         {
@@ -1196,7 +1196,7 @@
             ],
             "text": "<b>Reaction:</b> After you marshal Northern Envoy, reveal the top 10 cards of an opponent's deck. Choose 1 non-unique character revealed this way and place it in its owner's discard pile. Shuffle that player's deck.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/52@1.0.0.png"
         },
         {
@@ -1221,7 +1221,7 @@
             ],
             "text": "Shadow (2).\n<b>Reaction:</b> After Greyguard Artisan comes out of shadows, choose an attachment. Until the end of the phase, treat that card's text box as if it were blank (except for <i>Traits</i>).",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/53@1.0.0.png"
         },
         {
@@ -1246,7 +1246,7 @@
             ],
             "text": "While you do not control another <i>Wilding</i> character or Jon Snow, sacrifice Convert Beyond the Wall.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/54@1.0.0.png"
         },
         {
@@ -1266,7 +1266,7 @@
             ],
             "text": "Shadow (2).\n<b>Reaction:</b> After you win a challenge in which attached character is participating, kneel Mutineer's Blade and sacrifice attached character to choose and kill a participating character.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/55@1.0.0.png"
         },
         {
@@ -1286,7 +1286,7 @@
             ],
             "text": "<b>Reaction:</b> After an opponent draws a card, kneel Torch and Oil to reveal it. If that card is a character, discard it and stand attached character.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/56@1.0.0.png"
         },
         {
@@ -1307,7 +1307,7 @@
             ],
             "text": "<b>Action:</b> Kneel The Black Gate to sacrifice a [thenightswatch] character. Then, put a character with lower printed cost that shares a <i>Trait</i> with that character into play from your hand or shadow area.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/57@1.0.0.png"
         },
         {
@@ -1327,7 +1327,7 @@
             ],
             "text": "Shadow (1).\n<b>Dominance Action:</b> Kneel and sacrifice Grey Galley to place a character you control with printed STR 3 or lower in shadows.\n+1 Reserve.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/58@1.0.0.png"
         },
         {
@@ -1348,7 +1348,7 @@
             "text": "<b>Challenges Action:</b> During a challenge in which you control a defending [thenightswatch] character, kneel any number of [thenightswatch] characters with 1 or fewer challenge icons to have each participate in the challenge on your side.",
             "flavor": "\"They left their posts in life, so in death their watch goes on forever\" <cite>Bran Stark</cite>",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/59@1.0.0.png"
         },
         {
@@ -1366,7 +1366,7 @@
             "traits": [],
             "text": "Shadow (2).\n<b>Reaction:</b> After a character enters play during a challenge, kneel your faction card to take control of it.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/60@1.0.0.png"
         },
         {
@@ -1392,7 +1392,7 @@
             ],
             "text": "Renown.\nWhile Tytos Blackwood is participating in a challenge, treat the printed text box of each other character without power as if it were blank (except for <i>Traits</i>).",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/61@1.0.0.png"
         },
         {
@@ -1418,7 +1418,7 @@
             ],
             "text": "Shadow (4). Stealth.\nReduce the cost of the first [stark] card you bring out of shadows each round by 2.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/62@1.0.0.png"
         },
         {
@@ -1445,7 +1445,7 @@
             "text": "<b>Dominance Action:</b> Take control of a non-loyal character you own. (Limit once per phase.)",
             "flavor": "\"Steelshanks, he is called. A soldier of iron loyalty.\" <cite>Roose Bolton</cite>",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/63@1.0.0.png"
         },
         {
@@ -1471,7 +1471,7 @@
             ],
             "text": "Shadow (X). Intimidate. No attachments.\nX is the number of plot cards in your used pile (to a minimum of 1).",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/64@1.0.0.png"
         },
         {
@@ -1496,7 +1496,7 @@
             ],
             "text": "<b>Interrupt:</b> When the effects of an opponent's event or <i>Omen</i> plot would initiate, cancel those effects unless that player moves 1 power from their faction card to Northern Patriarch. (Limit once per round.)",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "designer": "Card Designed by 2012 World Champion, Derek Shoemaker. In Memory of Guy Gray.",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/65@1.0.0.png"
         },
@@ -1523,7 +1523,7 @@
             ],
             "text": "While an opponent's claim value is lower than yours, Trident Guard gains renown.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/66@1.0.0.png"
         },
         {
@@ -1543,7 +1543,7 @@
             ],
             "text": "[stark] <i>Lord</i> character only.\nAttached character gains the <i>Commander</i> trait and renown.\nWhile attached character is participating in a challenge, each opponent cannot play events or bring cards out of shadows.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/67@1.0.0.png"
         },
         {
@@ -1564,7 +1564,7 @@
             ],
             "text": "Non-loyal character only.\nAttached character gains the <i>House Bolton</i> trait.\n<b>Forced Reaction:</b> After a player wins a challenge in which attached character is participating, that player takes control of attached character.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/68@1.0.0.png"
         },
         {
@@ -1585,7 +1585,7 @@
             ],
             "text": "Each <i>Direwolf</i> character you control gets +1 STR.\n<b>Challenges Action:</b> Kneel Winterfell Kennels to put a <i>Direwolf</i> card into play from your hand. At the end of the phase, if that card is still in play, place it on the bottom of your deck.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "designer": "Card Designed by 2023 Stahleck Melee Champion, David Kennedy.",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/69@1.0.0.png"
         },
@@ -1607,7 +1607,7 @@
             ],
             "text": "Shadow (0).\n<b>Reaction:</b> After White Knife Barge comes out of shadows, name a card. Until the end of the phase, cards with that name cannot be sacrificed.\n+1 Initiative.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/70@1.0.0.png"
         },
         {
@@ -1627,7 +1627,7 @@
             ],
             "text": "<b>Challenges Action:</b> Kneel your faction card to choose a <i>House Tully</i> character. Until the end of the phase, that character gains an additional power using renown.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/71@1.0.0.png"
         },
         {
@@ -1647,7 +1647,7 @@
             ],
             "text": "Shadow (0).\n<b>Interrupt:</b> When claim is applied for a [military] challenge, return an attacking <i>Direwolf</i> character to your hand to apply [intrigue] or [power] claim instead.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/72@1.0.0.png"
         },
         {
@@ -1673,7 +1673,7 @@
             ],
             "text": "Insight. Shadow (5).\n<b>Reaction:</b> After you collect income, gain 1 gold for every 2 cards in shadows.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/73@1.0.0.png"
         },
         {
@@ -1700,7 +1700,7 @@
             ],
             "text": "Shadow (3).\n<b>Reaction:</b> After Harry Strickland comes out of shadows, put an <i>Army</i> or <i>Mercenary</i> character with printed cost 5 or lower into play from your discard pile. At the end of the phase, if that card is still in play, return it to your hand.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/74@1.0.0.png"
         },
         {
@@ -1726,7 +1726,7 @@
             ],
             "text": "Intimidate.\nWhile you control Ser Barristan Selmy, Red Lamb gains a [military] icon and the <i>Knight</i> trait.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/75@1.0.0.png"
         },
         {
@@ -1752,7 +1752,7 @@
             ],
             "text": "No attachments.\nWar Elephants cannot be placed during setup, or marshaled into play.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/76@1.0.0.png"
         },
         {
@@ -1778,7 +1778,7 @@
             "text": "Shadow (2).\n<b>Reaction:</b> After Sorrowful Man comes out of shadows, swap a character in an opponent's discard pile with a character in their dead pile.",
             "flavor": "\"I am so sorry.\"",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/77@1.0.0.png"
         },
         {
@@ -1804,7 +1804,7 @@
             ],
             "text": "<b>Interrupt:</b> When White Graces is discarded from your hand or deck, put it into play as a duplicate on a <i>Lady</i> or <i>Grace</i> character instead of placing it in your discard pile.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/78@1.0.0.png"
         },
         {
@@ -1824,7 +1824,7 @@
             ],
             "text": "<i>Lady</i> character only.\nAttached character gains the <i>Queen</i> trait and insight.\n<b>Action:</b> Discard X cards from your hand to reduce the cost of the next card you marshal or bring out of shadows this phase by X. (Limit once per round.)",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/79@1.0.0.png"
         },
         {
@@ -1846,7 +1846,7 @@
             "text": "Opponent's character only. Terminal.\nWhile attached character is participating in a challenge, it gets -1 STR for each attachment it has and is killed if its STR is 0.",
             "flavor": "\"They are rolled in spice before the honey, so they are sweet and hot at once.\" <cite>Hizdahr zo Loraq</cite>",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/80@1.0.0.png"
         },
         {
@@ -1867,7 +1867,7 @@
             ],
             "text": "Each participating character is killed if its STR is 1 or lower during:\n- [military] challenges, if you control Astapor.\n- [intrigue] challenges, if you control Yunkai.\n- [power] challenges, if you control Meereen.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/81@1.0.0.png"
         },
         {
@@ -1888,7 +1888,7 @@
             ],
             "text": "Shadow (1).\n<b>Taxation Action:</b> Kneel and shuffle Qartheen Galley into your deck to choose a card with shadow in your discard pile and place it in shadows.\n+1 Initiative.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/82@1.0.0.png"
         },
         {
@@ -1906,7 +1906,7 @@
             "traits": [],
             "text": "Play only if you control a <i>Dragon</i> character.\n<b>Interrupt:</b> When a <i>Dragon</i> or <i>Stormborn</i> character would be killed or discarded from play, save it and return it to its owner's hand.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/83@1.0.0.png"
         },
         {
@@ -1926,7 +1926,7 @@
             ],
             "text": "Shadow (2).\n<b>Reaction:</b> After you win a [power] challenge by 5 or more STR, kneel your faction card to search your deck for a unique <i>Dothraki</i> character and put it into play. Until the end of the phase, that character gains intimidate.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/84@1.0.0.png"
         },
         {
@@ -1952,7 +1952,7 @@
             ],
             "text": "Renown.\n<b>Reaction:</b> After you win a challenge by 5 or more STR in which Baelor Brightsmile is participating, place the top card of your deck facedown on him as a duplicate.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/85@1.0.0.png"
         },
         {
@@ -1977,7 +1977,7 @@
             ],
             "text": "<b>Reaction:</b> After a character is removed from a challenge, Megga Tyrell gains 1 power. (Limt once per round.)",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/86@1.0.0.png"
         },
         {
@@ -2002,7 +2002,7 @@
             ],
             "text": "Shadow (2).\n<b>Reaction:</b> After Butterbumps comes out of shadows during an [intrigue] challenge, stand and remove each non-unique character from the challenge.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/87@1.0.0.png"
         },
         {
@@ -2028,7 +2028,7 @@
             ],
             "text": "Intimidate. No attachments.\nWhile Horn Hill Elite is attacking, it gets +1 STR for each standing character you control.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/88@1.0.0.png"
         },
         {
@@ -2054,7 +2054,7 @@
             ],
             "text": "Shadow (3).\nX is the number of cards you control in shadows.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/89@1.0.0.png"
         },
         {
@@ -2079,7 +2079,7 @@
             ],
             "text": "<b>Reaction:</b> After you win a challenge in which Agent of the Citadel is participating, sacrifice it to reveal the top card of your deck. Reduce the cost of the next card you bring out of shadows this phase by X. X is the printed cost of the revealed card.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/90@1.0.0.png"
         },
         {
@@ -2099,7 +2099,7 @@
             ],
             "text": "Attached character gains renown.\n<b>Challenges Action:</b> During a challenge in which attached character is participating, kneel Enameled Green Armor to choose a participating character with lower STR. That character contributes its STR to your side this challenge.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/91@1.0.0.png"
         },
         {
@@ -2119,7 +2119,7 @@
             ],
             "text": "Character with printed STR 3 or lower only. \nAttached character gets +1 STR for each character you control with printed cost 3 or lower.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/92@1.0.0.png"
         },
         {
@@ -2139,7 +2139,7 @@
             ],
             "text": "<b>Taxation Action:</b> Kneel The Whispering Sound to reveal your hand. Then, if you revealed a <i>Warship</i> location this way, you may put it into play, knelt.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/93@1.0.0.png"
         },
         {
@@ -2160,7 +2160,7 @@
             ],
             "text": "Shadow (1).\n<b>Reaction:</b> After a card you control comes out of shadows, kneel Trading Galley to gain 3 gold and choose an opponent. Give control of Trading Galley to that player.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/94@1.0.0.png"
         },
         {
@@ -2178,7 +2178,7 @@
             "traits": [],
             "text": "Shadow (0).\n<b>Interrupt:</b> When Beneath the Petals is revealed from your hand or shadow area, choose a character. Until the end of the phase, that character gets +3 STR and gains stealth. (Max 1 per phase.)",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/95@1.0.0.png"
         },
         {
@@ -2196,7 +2196,7 @@
             "traits": [],
             "text": "<b>Marshaling Action:</b> Give X gold from your gold pool to an opponent. Then, choose and take control of a character that player controls with printed cost X or lower.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/96@1.0.0.png"
         },
         {
@@ -2223,7 +2223,7 @@
             ],
             "text": "Renown.\nWhile your initiative value is 0, Lysa Arryn contributes her STR to each challenge in which you control a participating loyal or <i>House Arryn</i> character.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/97@1.0.0.png"
         },
         {
@@ -2249,7 +2249,7 @@
             ],
             "text": "Intimidate.\n<b>Reaction:</b> After Biter kneels a character with lower STR using intimidate, sacrifice Biter to kill that character.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/98@1.0.0.png"
         },
         {
@@ -2275,7 +2275,7 @@
             ],
             "text": "<b>Taxation Action:</b> Search your deck for a <i>Warship</i> location, reveal it, and place it in shadows. Shuffle your deck. (Limit once per phase.)",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/99@1.0.0.png"
         },
         {
@@ -2301,7 +2301,7 @@
             ],
             "text": "<b>Reaction:</b> After you lose a challenge in which Alleras the Sphinx is participating, search the top 10 cards of your deck for a card, reveal it, and place it facedown under your agenda. Shuffle your deck.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/100@1.0.0.png"
         },
         {
@@ -2326,7 +2326,7 @@
             ],
             "text": "While your revealed plot card has the <i>The Seven</i> trait, Elder Brother cannot be killed.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/101@1.0.0.png"
         },
         {
@@ -2351,7 +2351,7 @@
             ],
             "text": "Shadow (3).\n<b>Reaction:</b> After you win a challenge in which Harrenhal Cupbearer is participating, return it to shadows to choose and kneel a non-<i>Spy</i> character controlled by the losing opponent.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/102@1.0.0.png"
         },
         {
@@ -2371,7 +2371,7 @@
             ],
             "text": "Attached character cannot be bypassed by stealth.\n<b>Interrupt:</b> When the effects of a triggered card ability would initiate, if that card has shadow, kneel attached character to cancel those effects.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/103@1.0.0.png"
         },
         {
@@ -2392,7 +2392,7 @@
             ],
             "text": "<i>House Arryn</i> character only.\nAttached character gains the <i>Commander</i> trait and +2 STR.\n<b>Reaction:</b> After a character is revealed from an opponent's hand, deck or shadow area, attached character gains 1 power. (Limit once per phase.)",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/104@1.0.0.png"
         },
         {
@@ -2413,7 +2413,7 @@
             ],
             "text": "<b>Challenges Action:</b> Kneel Myr to put an out-of-faction character into play from shadows. At the end of the phase, if that card is still in play, discard it from play.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/105@1.0.0.png"
         },
         {
@@ -2434,7 +2434,7 @@
             ],
             "text": "Shadow (2).\n<b>Taxation Action:</b> If you have no cards in hand, kneel and return Ibbenese Whaler to shadows to draw 2 cards.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/106@1.0.0.png"
         },
         {
@@ -2454,7 +2454,7 @@
             ],
             "text": "<b>Reaction:</b> After a phase begins, kneel and sacrifice The Milkwater to have each character lose all keywords and immunities until the end of the phase.\n+1 Initiative.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/107@1.0.0.png"
         },
         {
@@ -2474,7 +2474,7 @@
             ],
             "text": "Shadow (0).\n<b>Reaction:</b> After an attachment or location enters your discard pile, place it in shadows with a shadow token on it. While that card is in shadows, it gains shadow (X). X is its printed cost.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/108@1.0.0.png"
         },
         {
@@ -2494,7 +2494,7 @@
             ],
             "text": "<b>Standing Action:</b> Kneel your faction card to put a <i>Small Council</i> character into play from your discard pile.",
             "deckLimit": 3,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/109@1.0.0.png"
         },
         {
@@ -2520,7 +2520,7 @@
             ],
             "text": "<b>When Revealed:</b> Name a challenge type. Until you reveal a new plot card, a player must declare all eligible characters when declaring attackers or defenders during a challenge of that type.",
             "deckLimit": 2,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/110@1.0.0.png"
         },
         {
@@ -2547,7 +2547,7 @@
             ],
             "text": "<b>When Revealed:</b> Choose a card you control with shadow and return it to your hand. (You may return it to shadows instead if there is a <i>City</i> plot card in your used pile.)",
             "deckLimit": 2,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/111@1.0.0.png"
         },
         {
@@ -2574,7 +2574,7 @@
             ],
             "text": "<b>When Revealed:</b> Each player chooses any number of cards they control with a total printed cost of 14 or lower. Cards in shadow count as cards with printed cost 2. Discard each card not chosen (cannot be saved).",
             "deckLimit": 2,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/112@1.0.0.png"
         },
         {
@@ -2601,7 +2601,7 @@
             ],
             "text": "X is the number of opponent's you do not support.",
             "deckLimit": 2,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/113@1.0.0.png"
         },
         {
@@ -2627,7 +2627,7 @@
             ],
             "text": "You cannot play more than 3 events this round.\n<b>Reaction:</b> After a <i>Song</i> event is played, draw 1 card.",
             "deckLimit": 2,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/114@1.0.0.png"
         },
         {
@@ -2653,7 +2653,7 @@
             ],
             "text": "<b>Dominance Action:</b> Search your deck for an attachment, reveal it, and add it to your hand (you may put it into play instead if it is <i>Legacy</i> or <i>Valyrian Steel</i>). Shuffle your deck. (Limit once per phase.)",
             "deckLimit": 2,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/115@1.0.0.png"
         },
         {
@@ -2680,7 +2680,7 @@
             ],
             "text": "Each character's STR cannot be raised or lowered.",
             "deckLimit": 2,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/116@1.0.0.png"
         },
         {
@@ -2706,7 +2706,7 @@
             ],
             "text": "Each player without a <i>Summer</i> plot revealed cannot marshal, ambush or bring more than 2 cards out of shadows this round.",
             "deckLimit": 2,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/117@1.0.0.png"
         },
         {
@@ -2724,7 +2724,7 @@
             "traits": [],
             "text": "Your deck cannot include non-<i>Weapon</i> attachments. Before placing setup cards, search your deck for 7 <i>Weapon</i> cards, reveal them, and place them facedown under this agenda.\n<b>Action:</b> Kneel your faction card and pay X gold to put an attachment with printed cost X or lower into play from under this agenda.",
             "deckLimit": 1,
-            "illustrator": null,
+            "illustrator": "?",
             "designer": "Card design by 2022 Castle Stahleck Joust Champion, Marti Foz Hernandez.",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/118@1.0.0.png"
         },
@@ -2745,7 +2745,7 @@
             ],
             "text": "You may include non-loyal <i>Small Council</i> characters from any faction in your deck. You must include at least 7 different <i>Small Council</i> characters in your deck.\n<b>Reaction:</b> After you win dominance, kneel your faction card to choose a standing <i>Small Council</i> character you control, and have it gain 1 power (2 power instead if you control a <i>King</i> or <i>Queen</i> character.)",
             "deckLimit": 1,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/119@1.0.0.png"
         },
         {
@@ -2765,7 +2765,7 @@
             ],
             "text": "Your minimum deck size is 75 cards. Your deck may include non-loyal <i>Warship</i> locations from any faction. Your deck cannot include more than 1 copy of each <i>Warship</i> location.\n<b>Reaction:</b> After a neutral or out-of-faction location enters play under your control, draw 1 card. (Limit once per phase.)",
             "deckLimit": 1,
-            "illustrator": null,
+            "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/120@1.0.0.png"
         }
     ]
