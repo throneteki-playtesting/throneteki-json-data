@@ -2458,7 +2458,6 @@
                 "reserve": 5
             },
             "loyal": false,
-            "cost": null,
             "traits": [
                 "War"
             ],
@@ -2483,7 +2482,6 @@
                 "reserve": 5
             },
             "loyal": false,
-            "cost": null,
             "traits": [
                 "City",
                 "Scheme"
@@ -2509,7 +2507,6 @@
                 "reserve": 6
             },
             "loyal": false,
-            "cost": null,
             "traits": [
                 "Legacy",
                 "Omen"
@@ -2535,7 +2532,6 @@
                 "reserve": 4
             },
             "loyal": false,
-            "cost": null,
             "traits": [
                 "Noble",
                 "War"
@@ -2561,7 +2557,6 @@
                 "reserve": 7
             },
             "loyal": false,
-            "cost": null,
             "traits": [
                 "Noble"
             ],
@@ -2586,7 +2581,6 @@
                 "reserve": 7
             },
             "loyal": false,
-            "cost": null,
             "traits": [
                 "Legacy"
             ],
@@ -2611,7 +2605,6 @@
                 "reserve": 5
             },
             "loyal": false,
-            "cost": null,
             "traits": [
                 "Summer",
                 "War"
@@ -2637,7 +2630,6 @@
                 "reserve": 5
             },
             "loyal": false,
-            "cost": null,
             "traits": [
                 "Winter"
             ],
@@ -2656,7 +2648,6 @@
             "unique": false,
             "faction": "neutral",
             "loyal": false,
-            "cost": null,
             "traits": [],
             "text": "Your deck cannot include non-<i>Weapon</i> attachments. Before placing setup cards, search your deck for 7 <i>Weapon</i> cards, reveal them, and place them facedown under this agenda.\n<b>Action:</b> Kneel your faction card and pay X gold to put an attachment with printed cost X or lower into play from under this agenda.",
             "deckLimit": 1,
@@ -2674,7 +2665,6 @@
             "unique": false,
             "faction": "neutral",
             "loyal": false,
-            "cost": null,
             "traits": [
                 "Small Council"
             ],
@@ -2693,7 +2683,6 @@
             "unique": false,
             "faction": "neutral",
             "loyal": false,
-            "cost": null,
             "traits": [
                 "Banner"
             ],
