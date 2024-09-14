@@ -721,7 +721,7 @@
             "traits": [
                 "Weapon"
             ],
-            "text": "If attached character is Joffrey Baratheon, he gains intimidate.\nWhile attached character is participating in a [miliary] challenge, unique characters must be chosen for claim first.",
+            "text": "If attached character is Joffrey Baratheon, he gains intimidate.\nWhile attached character is participating in a [military] challenge, unique characters must be chosen for claim first.",
             "deckLimit": 3,
             "illustrator": null,
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/31@1.0.0.png"
