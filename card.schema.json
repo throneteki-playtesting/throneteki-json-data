@@ -5,6 +5,10 @@
             "pattern": "^[0-9]{5}$",
             "type": "string"
         },
+        "version": {
+            "pattern": "^\\d+.\\d+.\\d+|\\d+.\\d+$",
+            "type": "string"
+        },
         "intOrX": {
             "anyOf": [
                 {
@@ -31,6 +35,9 @@
     "properties": {
         "code": {
             "$ref": "#/definitions/cardCode"
+        },
+        "version": {
+            "$ref": "#/definitions/version"
         },
         "cost": {
             "$ref": "#/definitions/intOrX"
