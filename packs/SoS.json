@@ -264,7 +264,7 @@
             "loyal": true,
             "cost": 0,
             "traits": [],
-            "text": "<b>Interrupt</b>: When the effects of an opponent's character ability would initiate, kill a <i>Maester</i> character to cancel those effects and draw 1 card.",
+            "text": "<b>Interrupt:</b> When the effects of an opponent's character ability would initiate, kill a <i>Maester</i> character to cancel those effects and draw 1 card.",
             "flavor": "Now here is a riddle. A clever fool and a foolish wise man. A crown to match your chain, Lord Maester.",
             "deckLimit": 3,
             "illustrator": "?",
@@ -583,7 +583,7 @@
                 "Commander",
                 "Knight"
             ],
-            "text": "While you have more cards in hand than any opponent, Ser Osney Kettleblack gains renown.",
+            "text": "While you have more cards in hand than any opponent, Ser Osfryd Kettleblack gains renown.",
             "deckLimit": 3,
             "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/26@1.0.0.png"
@@ -635,7 +635,7 @@
                 "Ally",
                 "Spy"
             ],
-            "text": "X is the number of cards with 1 or more gold on it.\n<b>Reaction:</b> After Ashmark Councilor enters play, place 1 gold on up to 3 cards without gold.",
+            "text": "X is the number of cards with 1 or more gold on it.\n<b>Reaction:</b> After Ashemark Councilor enters play, place 1 gold on up to 3 cards without gold.",
             "deckLimit": 3,
             "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/28@1.0.0.png"
