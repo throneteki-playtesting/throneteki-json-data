@@ -932,7 +932,7 @@
         },
         {
             "code": "26542",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "type": "character",
             "name": "Southron Informant",
             "octgnId": null,
@@ -950,10 +950,10 @@
             "traits": [
                 "Spy"
             ],
-            "text": "<b>Reaction:</b> After Southron Informant enters play, give control of it to an opponent. Then, discard 1 card at random from that player's hand and draw 1 card.",
+            "text": "Ambush (1).\n<b>Reaction:</b> After Southron Informant enters play during the challenges phase, give control of it to an opponent. Then, discard 1 card at random from that player's hand and draw 1 card.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/42@1.0.0.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/42@1.0.1.png"
         },
         {
             "code": "26543",
