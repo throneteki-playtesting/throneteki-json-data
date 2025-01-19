@@ -299,7 +299,7 @@
         },
         {
             "code": "26514",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "type": "character",
             "name": "Theon Greyjoy",
             "octgnId": null,
@@ -307,7 +307,7 @@
             "unique": true,
             "faction": "greyjoy",
             "loyal": false,
-            "cost": 5,
+            "cost": 6,
             "icons": {
                 "military": true,
                 "intrigue": false,
@@ -323,7 +323,7 @@
             "deckLimit": 3,
             "illustrator": "?",
             "designer": "Card Designed by 2012 European Joust Champion, Stefano Montanari",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/14@1.0.0.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/14@1.0.1.png"
         },
         {
             "code": "26515",
@@ -590,14 +590,14 @@
         },
         {
             "code": "26527",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "type": "character",
             "name": "Gyles Rosby",
             "octgnId": null,
             "quantity": 3,
             "unique": true,
             "faction": "lannister",
-            "loyal": true,
+            "loyal": false,
             "cost": 3,
             "icons": {
                 "military": false,
@@ -609,14 +609,14 @@
                 "Lord",
                 "Small Council"
             ],
-            "text": "Limited.\nIf you have no gold in your gold pool during the challenges phase, kill Gyles Rosby.\n+2 Income.",
+            "text": "If you have no gold in your gold pool during the challenges phase, kill Gyles Rosby.\n+2 Income.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/27@1.0.0.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/27@1.0.1.png"
         },
         {
             "code": "26528",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "type": "character",
             "name": "Ashemark Councilor",
             "octgnId": null,
@@ -624,7 +624,7 @@
             "unique": false,
             "faction": "lannister",
             "loyal": false,
-            "cost": 5,
+            "cost": 4,
             "icons": {
                 "military": false,
                 "intrigue": true,
@@ -638,7 +638,7 @@
             "text": "X is the number of cards with 1 or more gold on it.\n<b>Reaction:</b> After Ashemark Councilor enters play, place 1 gold on up to 3 cards without gold.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/28@1.0.0.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/28@1.0.1.png"
         },
         {
             "code": "26529",
@@ -1315,7 +1315,7 @@
         },
         {
             "code": "26560",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "type": "event",
             "name": "When All is Darkest",
             "octgnId": null,
@@ -1324,10 +1324,10 @@
             "loyal": false,
             "cost": "-",
             "traits": [],
-            "text": "Shadow (2).\n<b>Reaction:</b> After a character enters play during a challenge, kneel your faction card to take control of it.",
+            "text": "Shadow (2).\n<b>Reaction:</b> After a character comes out of shadows, kneel your faction card to take control of it.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/60@1.0.0.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/60@1.0.1.png"
         },
         {
             "code": "26561",
@@ -1926,7 +1926,7 @@
         },
         {
             "code": "26587",
-            "version": "1.0.0",
+            "version": "1.1.0",
             "type": "character",
             "name": "Butterbumps",
             "octgnId": null,
@@ -1940,14 +1940,14 @@
                 "intrigue": true,
                 "power": false
             },
-            "strength": 2,
+            "strength": 3,
             "traits": [
                 "Fool"
             ],
-            "text": "Shadow (2).\n<b>Reaction:</b> After Butterbumps comes out of shadows during an [intrigue] challenge, stand and remove each non-unique character from the challenge.",
+            "text": "Shadow (3).\r\n<b>Challenges Action:</b> During a challenge in which Butterbumps is participating, return him to shadows to choose a participating character with higher STR than him. Stand that character and remove it from the challenge.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/87@1.0.0.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/87@1.1.0.png"
         },
         {
             "code": "26588",
@@ -1977,7 +1977,7 @@
         },
         {
             "code": "26589",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "type": "character",
             "name": "Undercity Spymaster",
             "octgnId": null,
@@ -1991,19 +1991,19 @@
                 "intrigue": true,
                 "power": true
             },
-            "strength": "X",
+            "strength": 2,
             "traits": [
                 "Ally",
                 "Spy"
             ],
-            "text": "Shadow (3).\nX is the number of cards you control in shadows.",
+            "text": "Shadow (3). Stealth.\r\nUndercity Spymaster gets +1 STR for each card in shadows.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/89@1.0.0.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/89@1.0.1.png"
         },
         {
             "code": "26590",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "type": "character",
             "name": "Agent of the Citadel",
             "octgnId": null,
@@ -2011,7 +2011,7 @@
             "unique": false,
             "faction": "tyrell",
             "loyal": false,
-            "cost": 3,
+            "cost": 2,
             "icons": {
                 "military": false,
                 "intrigue": false,
@@ -2021,10 +2021,10 @@
             "traits": [
                 "Maester"
             ],
-            "text": "<b>Reaction:</b> After you win a challenge in which Agent of the Citadel is participating, sacrifice it to reveal the top card of your deck. Reduce the cost of the next card you bring out of shadows this phase by X. X is the printed cost of the revealed card.",
+            "text": "<b>Reaction:</b> After you win a challenge in which Agent of the Citadel is participating, reveal the top card of your deck to reduce the cost of the next card you bring out of shadows this phase by 2.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/90@1.0.0.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/90@1.0.1.png"
         },
         {
             "code": "26591",
@@ -2593,18 +2593,18 @@
         },
         {
             "code": "26618",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "type": "agenda",
             "name": "Armed to the Teeth",
             "octgnId": null,
             "quantity": 3,
             "faction": "neutral",
             "traits": [],
-            "text": "Your deck cannot include non-<i>Weapon</i> attachments. Before placing setup cards, search your deck for 7 <i>Weapon</i> cards, reveal them, and place them facedown under this agenda.\n<b>Action:</b> Kneel your faction card and pay X gold to put an attachment with printed cost X or lower into play from under this agenda.",
+            "text": "Your deck cannot include non-<i>Weapon</i> attachments. While you control no attachments, reduce the number of cards you draw in the draw phase by 1. After all agendas are announced, search your deck for 7 attachments, reveal them, and place them facedown under this agenda.\n<b>Action:</b> Kneel your faction card and pay X gold to put an attachment with printed cost X or lower into play from under this agenda.",
             "deckLimit": 1,
             "illustrator": "?",
             "designer": "Card design by 2022 Castle Stahleck Joust Champion, Marti Foz Hernandez.",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/118@1.0.0.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/118@1.0.1.png"
         },
         {
             "code": "26619",
