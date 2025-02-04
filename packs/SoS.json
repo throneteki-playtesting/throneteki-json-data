@@ -162,7 +162,7 @@
         },
         {
             "code": "26507",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "type": "attachment",
             "name": "The King's Justice",
             "octgnId": null,
@@ -170,37 +170,38 @@
             "unique": true,
             "faction": "baratheon",
             "loyal": false,
-            "cost": 1,
+            "cost": 3,
             "traits": [
                 "Title"
             ],
-            "text": "<b>Reaction:</b> After you win a [power] challenge by 5 or more STR, kneel attached character to choose and kill a kneeling character with equal or lower printed cost controlled by the losing opponent.",
+            "text": "Unique character only.\r\n<b>Reaction:</b> After you win a [power] challenge, kneel attached character to choose and kill a kneeling character controlled by the losing opponent.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/7@1.0.0.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/7@1.0.1.png"
         },
         {
             "code": "26508",
-            "version": "1.0.0",
+            "version": "2.0.0",
             "type": "attachment",
-            "name": "Aquired by the Crown",
+            "name": "Roast Boar",
             "octgnId": null,
             "quantity": 3,
             "unique": false,
             "faction": "baratheon",
             "loyal": false,
-            "cost": 2,
+            "cost": 1,
             "traits": [
-                "Condition"
+                "Item"
             ],
-            "text": "Ambush (3). Location only.\nWhile attached location is kneeling, take control of it.",
+            "text": "Opponent's character only.\r\n<b>Reaction:</b> After attached character is knelt, draw 1 card.",
+            "flavor": "\"You should have been at the feast, Tyrion. There has never been a boar so delicious. They cooked it with mushrooms and apples, and it tasted like triumph.\" <cite>Cersei Lannister </cite>",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/8@1.0.0.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/8@2.0.0.png"
         },
         {
             "code": "26509",
-            "version": "1.1.0",
+            "version": "1.1.1",
             "type": "location",
             "name": "Narrow Sea Galley",
             "octgnId": null,
@@ -212,30 +213,30 @@
             "traits": [
                 "Warship"
             ],
-            "text": "Shadow (0).\r\nNarrow Sea Galley contributes 2 STR to your total for dominance.\r\n<b>Reaction:</b> After Narrow Sea Galley comes out of shadows, choose and kneel a character with printed cost 4 or lower.",
+            "text": "Shadow (1).\nNarrow Sea Galley contributes 2 STR to your total for dominance.\n<b>Reaction:</b> After Narrow Sea Galley comes out of shadows, choose and kneel a character with printed cost 4 or lower.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/9@1.1.0.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/9@1.1.1.png"
         },
         {
             "code": "26510",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "type": "location",
             "name": "Northern Pyre",
             "octgnId": null,
             "quantity": 3,
             "unique": false,
             "faction": "baratheon",
-            "loyal": true,
+            "loyal": false,
             "cost": 1,
             "traits": [
                 "R'hllor",
                 "The North"
             ],
-            "text": "<b>Challenges Action:</b> If there is a <i>Winter</i> plot card revealed, kneel and sacrifice Northern Pyre to choose a participating character. Until the end of the challenge, set that character's STR to 3.",
+            "text": "<b>Challenges Action:</b> If there is a <i>Winter</i> plot card revealed, kneel Northern Pyre to choose a participating character. Until the end of the challenge, set that character's STR to 3.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/10@1.0.0.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/10@1.0.1.png"
         },
         {
             "code": "26511",
@@ -272,7 +273,7 @@
         },
         {
             "code": "26513",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "type": "character",
             "name": "Ralf the Limper",
             "octgnId": null,
@@ -292,10 +293,10 @@
                 "Ironborn",
                 "Raider"
             ],
-            "text": "Pillage. Shadow (5).\n<b>Reaction:</b> After Ralf the Limper discards a location using pillage, choose a card you control with shadow and return it to shadows. (Limit once per phase.)",
+            "text": "Pillage. Shadow (5).\r\n<b>Reaction:</b> After a location enters an opponents discard pile, choose a card you control with shadow and return it to shadows. (Limit twice per phase.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/13@1.0.0.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/13@1.0.1.png"
         },
         {
             "code": "26514",
@@ -468,7 +469,7 @@
         },
         {
             "code": "26521",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "type": "location",
             "name": "Lonely Light",
             "octgnId": null,
@@ -481,10 +482,10 @@
                 "House Farwynd",
                 "Iron Islands"
             ],
-            "text": "Immune to events.\nIncrease the cost for each player to bring cards out of shadow by 1.",
+            "text": "While Lonely Light is standing, increase the cost for each player to bring cards out of shadow by 1.\r\n+1 Reserve.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/21@1.0.0.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/21@1.0.1.png"
         },
         {
             "code": "26522",
@@ -507,19 +508,19 @@
         },
         {
             "code": "26523",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "type": "event",
             "name": "Naval Bombardment",
             "octgnId": null,
             "quantity": 3,
             "faction": "greyjoy",
             "loyal": true,
-            "cost": 1,
+            "cost": 0,
             "traits": [],
-            "text": "Play only if there is a <i>War</i> plot card revealed.\n<b>Challenges Action:</b> Choose an opponent who controls fewer locations than you. Until the end of the phase, that player cannot initiate [intrigue] challenges against you.",
+            "text": "<b>Challenges Action:</b> Choose an opponent who controls fewer locations than you. Until the end of the phase, that player cannot initiate [intrigue] challenges against you.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/23@1.0.0.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/23@1.0.1.png"
         },
         {
             "code": "26524",
@@ -1410,7 +1411,7 @@
         },
         {
             "code": "26564",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "type": "character",
             "name": "House Umber Berserkers",
             "octgnId": null,
@@ -1429,10 +1430,10 @@
                 "Army",
                 "House Umber"
             ],
-            "text": "Shadow (X). Intimidate. No attachments.\nX is the number of plot cards in your used pile (to a minimum of 1).",
+            "text": "Assault. Shadow (X). No attachments.\nX is the number of plot cards in your used pile (to a minimum of 1).",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/64@1.0.0.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/64@1.0.1.png"
         },
         {
             "code": "26565",
@@ -1630,9 +1631,9 @@
         },
         {
             "code": "26574",
-            "version": "1.0.0",
+            "version": "1.1.0",
             "type": "character",
-            "name": "Harry Strickland",
+            "name": "Ser Harry Strickland",
             "octgnId": null,
             "quantity": 3,
             "unique": true,
@@ -1650,10 +1651,10 @@
                 "Mercenary",
                 "Knight"
             ],
-            "text": "Shadow (3).\n<b>Reaction:</b> After Harry Strickland comes out of shadows, put an <i>Army</i> or <i>Mercenary</i> character with printed cost 5 or lower into play from your discard pile. At the end of the phase, if that card is still in play, return it to your hand.",
+            "text": "Shadow (3). Renown.\n<b>Reaction:</b> After Ser Harry Strickland enters play, choose an <i>Army</i> or <i>Mercenary</i> character. Stand that character and have it gain a challenge icon of your choice until the end of the phase.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/74@1.0.0.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/74@1.1.0.png"
         },
         {
             "code": "26575",
@@ -1683,7 +1684,7 @@
         },
         {
             "code": "26576",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "type": "character",
             "name": "War Elephants",
             "octgnId": null,
@@ -1702,10 +1703,10 @@
                 "Elephant",
                 "Mercenary"
             ],
-            "text": "No attachments.\nWar Elephants cannot be placed during setup, or marshaled into play.",
+            "text": "Intimidate. No attachments.\nWar Elephants cannot be placed during setup, or marshaled into play.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/76@1.0.0.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/76@1.0.1.png"
         },
         {
             "code": "26577",
@@ -1780,7 +1781,7 @@
         },
         {
             "code": "26580",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "type": "attachment",
             "name": "Poisoned Locusts",
             "octgnId": null,
@@ -1793,11 +1794,11 @@
                 "Condition",
                 "Poison"
             ],
-            "text": "Opponent's character only. Terminal.\nWhile attached character is participating in a challenge, it gets -1 STR for each attachment it has and is killed if its STR is 0.",
+            "text": "Opponent's character only.\nWhile attached character is participating in a challenge, it gets -1 STR for each attachment it has and is killed if its STR is 0.",
             "flavor": "\"They are rolled in spice before the honey, so they are sweet and hot at once.\" <cite>Hizdahr zo Loraq</cite>",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/80@1.0.0.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/80@1.0.1.png"
         },
         {
             "code": "26581",
@@ -1857,21 +1858,21 @@
         },
         {
             "code": "26584",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "type": "event",
             "name": "Stallion Who Mounts the World",
             "octgnId": null,
             "quantity": 3,
             "faction": "targaryen",
             "loyal": true,
-            "cost": "-",
+            "cost": 3,
             "traits": [
                 "Prophecy"
             ],
-            "text": "Shadow (2).\n<b>Reaction:</b> After you win a [power] challenge by 5 or more STR, kneel your faction card to search your deck for a unique <i>Dothraki</i> character and put it into play. Until the end of the phase, that character gains intimidate.",
+            "text": "<b>Reaction:</b> After you win a [power] challenge as the attacking player, kneel your faction card to search your deck for a <i>Dothraki</i> character and put it into play unless the losing opponent chooses and kills 2 characters they control.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/84@1.0.0.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/84@1.0.1.png"
         },
         {
             "code": "26585",
@@ -2066,7 +2067,7 @@
         },
         {
             "code": "26593",
-            "version": "1.0.0",
+            "version": "1.1.0",
             "type": "location",
             "name": "The Whispering Sound",
             "octgnId": null,
@@ -2076,12 +2077,13 @@
             "loyal": true,
             "cost": 2,
             "traits": [
+                "House Hightower",
                 "The Reach"
             ],
-            "text": "<b>Taxation Action:</b> Kneel The Whispering Sound to reveal your hand. Then, if you revealed a <i>Warship</i> location this way, you may put it into play, knelt.",
+            "text": "Shadow (2).\r\n<b>Reaction:</b> After a location enters play during the challenges phase, kneel The Whispering Sound to draw 2 cards. Then, choose a card in your hand and place it on top of your deck.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/93@1.0.0.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/93@1.1.0.png"
         },
         {
             "code": "26594",
@@ -2458,7 +2460,7 @@
         },
         {
             "code": "26612",
-            "version": "1.0.0",
+            "version": "1.1.0",
             "type": "plot",
             "name": "Doom of Valyria",
             "octgnId": null,
@@ -2466,18 +2468,18 @@
             "faction": "neutral",
             "plotStats": {
                 "income": 3,
-                "initiative": 0,
-                "claim": 2,
-                "reserve": 6
+                "initiative": 2,
+                "claim": 0,
+                "reserve": 4
             },
             "traits": [
                 "Legacy",
                 "Omen"
             ],
-            "text": "<b>When Revealed:</b> Each player chooses any number of cards they control with a total printed cost of 14 or lower. Cards in shadow count as cards with printed cost 2. Discard each card not chosen (cannot be saved).",
-            "deckLimit": 2,
+            "text": "<b>When Revealed:</b> Each player draws cards until they have 3 cards in hand, if able. Then, they may discard X cards from their hand to choose X cards. Discard each card not chosen from play.",
+            "deckLimit": 1,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/112@1.0.0.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/112@1.1.0.png"
         },
         {
             "code": "26613",
@@ -2526,7 +2528,7 @@
         },
         {
             "code": "26615",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "type": "plot",
             "name": "The Age of Heroes",
             "octgnId": null,
@@ -2541,10 +2543,10 @@
             "traits": [
                 "Legacy"
             ],
-            "text": "<b>Dominance Action:</b> Search your deck for an attachment, reveal it, and add it to your hand (you may put it into play instead if it is <i>Legacy</i> or <i>Valyrian Steel</i>). Shuffle your deck. (Limit once per phase.)",
+            "text": "<b>When Revealed:</b> Search your deck for an attachment, reveal it, and add it to your hand (you may put it into play instead if it is <i>Legacy</i> or <i>Valyrian Steel</i>). Shuffle your deck.",
             "deckLimit": 2,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/115@1.0.0.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/115@1.0.1.png"
         },
         {
             "code": "26616",
