@@ -273,7 +273,7 @@
         },
         {
             "code": "26513",
-            "version": "1.0.1",
+            "version": "1.0.2",
             "type": "character",
             "name": "Ralf the Limper",
             "octgnId": null,
@@ -293,10 +293,10 @@
                 "Ironborn",
                 "Raider"
             ],
-            "text": "Pillage. Shadow (5).\r\n<b>Reaction:</b> After a location enters an opponents discard pile, choose a card you control with shadow and return it to shadows. (Limit twice per phase.)",
+            "text": "Pillage. Shadow (5).\n<b>Reaction:</b> After a location is discarded from an opponent's deck, choose a card you control with shadow and return it to shadows. (Limit twice per round.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/13@1.0.1.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/13@1.0.2.png"
         },
         {
             "code": "26514",
@@ -450,7 +450,7 @@
         },
         {
             "code": "26520",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "type": "attachment",
             "name": "Raider's Scythe",
             "octgnId": null,
@@ -458,14 +458,14 @@
             "unique": false,
             "faction": "greyjoy",
             "loyal": false,
-            "cost": 2,
+            "cost": 1,
             "traits": [
                 "Weapon"
             ],
-            "text": "<i>Raider</i> character only.\nWhile attached character is attacking an opponent who controls fewer attachments than you, it does not kneel when declared as an attacker.",
+            "text": "Non-unique [greyjoy] character only.\nWhile attached character is attacking an opponent who controls fewer attachments than you, it does not kneel in the first challenge you initiate each phase.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/20@1.0.0.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/20@1.0.1.png"
         },
         {
             "code": "26521",
@@ -803,7 +803,7 @@
         },
         {
             "code": "26537",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "type": "character",
             "name": "The Red Viper",
             "octgnId": null,
@@ -811,22 +811,22 @@
             "unique": true,
             "faction": "martell",
             "loyal": true,
-            "cost": 7,
+            "cost": 6,
             "icons": {
                 "military": true,
                 "intrigue": true,
                 "power": true
             },
-            "strength": 6,
+            "strength": 5,
             "traits": [
                 "Lord",
                 "Small Council"
             ],
-            "text": "Renown. Shadow (6).\n<b>Action:</b> During a challenge in which The Red Viper is attacking, discard a card from shadows to raise the claim value on your revealed plot card by 1 until the end of the challenge. (Limit once per challenge.)",
+            "text": "Shadow (5). Stealth.\n<b>Action:</b> During a challenge in which The Red Viper is attacking, discard a card from shadows to raise the claim value on your revealed plot card by 1 until the end of the challenge. (Limit once per challenge.)",
             "flavor": "\"I am going to kill that\"",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/37@1.0.0.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/37@1.0.1.png"
         },
         {
             "code": "26538",
@@ -1052,7 +1052,7 @@
         },
         {
             "code": "26548",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "type": "event",
             "name": "Retribution",
             "octgnId": null,
@@ -1061,10 +1061,10 @@
             "loyal": true,
             "cost": 1,
             "traits": [],
-            "text": "<b>Interrupt:</b> When a [martell] character you control is killed for [military] claim, if you control fewer characters than the attacking player, that player must choose and kill an attacking character.",
+            "text": "<b>Reaction:</b> After a character you control is killed for [military] claim, if you control fewer characters than the attacking player, that player must choose and kill an attacking character.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/48@1.0.0.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/48@1.0.1.png"
         },
         {
             "code": "26549",
@@ -1239,7 +1239,7 @@
         },
         {
             "code": "26556",
-            "version": "1.0.1",
+            "version": "1.0.2",
             "type": "attachment",
             "name": "Torch and Oil",
             "octgnId": null,
@@ -1251,10 +1251,10 @@
             "traits": [
                 "Item"
             ],
-            "text": "<b>Reaction:</b> After an opponent draws a card or marshals a card into shadows, kneel Torch and Oil to reveal it. If it is a character, discard it, have that player draw 1 card and stand attached character.",
+            "text": "<b>Reaction:</b> After an opponent draws a card or marshals a card into shadows, kneel Torch and Oil to reveal it. If that card is a character, you may sacrifice Torch and Oil to discard that card and stand attached character.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/56@1.0.1.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/56@1.0.2.png"
         },
         {
             "code": "26557",
@@ -1437,7 +1437,7 @@
         },
         {
             "code": "26565",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "type": "character",
             "name": "Northern Patriarch",
             "octgnId": null,
@@ -1455,11 +1455,11 @@
             "traits": [
                 "Lord"
             ],
-            "text": "<b>Interrupt:</b> When the effects of an opponent's event or <i>Omen</i> plot would initiate, cancel those effects unless that player moves 1 power from their faction card to Northern Patriarch. (Limit once per round.)",
+            "text": "Immune to opponent's <i>Omen</i> plot effects.\n<b>Interrupt:</b> When the effects of an opponent's event would initiate, cancel those effects unless that player moves 1 power from a card they control to Northern Patriarch. (Limit once per round.)",
             "deckLimit": 3,
             "illustrator": "?",
             "designer": "Card Designed by 2012 World Champion, Derek Shoemaker. In Memory of Guy Gray.",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/65@1.0.0.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/65@1.0.1.png"
         },
         {
             "code": "26566",
@@ -1658,7 +1658,7 @@
         },
         {
             "code": "26575",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "type": "character",
             "name": "Red Lamb",
             "octgnId": null,
@@ -1668,23 +1668,23 @@
             "loyal": true,
             "cost": 2,
             "icons": {
-                "military": false,
+                "military": true,
                 "intrigue": false,
-                "power": true
+                "power": false
             },
-            "strength": 3,
+            "strength": 4,
             "traits": [
                 "Companion",
                 "Lhazareen"
             ],
-            "text": "Intimidate.\nWhile you control Ser Barristan Selmy, Red Lamb gains a [military] icon and the <i>Knight</i> trait.",
+            "text": "While you control Ser Barristan Selmy, Red Lamb gains a [power] icon and the <i>Knight</i> trait.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/75@1.0.0.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/75@1.0.1.png"
         },
         {
             "code": "26576",
-            "version": "1.0.1",
+            "version": "1.0.2",
             "type": "character",
             "name": "War Elephants",
             "octgnId": null,
@@ -1700,13 +1700,14 @@
             },
             "strength": 10,
             "traits": [
+                "Army",
                 "Elephant",
                 "Mercenary"
             ],
             "text": "Intimidate. No attachments.\nWar Elephants cannot be placed during setup, or marshaled into play.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/76@1.0.1.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/76@1.0.2.png"
         },
         {
             "code": "26577",
@@ -2325,7 +2326,7 @@
         },
         {
             "code": "26605",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "type": "location",
             "name": "Myr",
             "octgnId": null,
@@ -2337,10 +2338,10 @@
                 "Essos",
                 "Free Cities"
             ],
-            "text": "<b>Challenges Action:</b> Kneel Myr to put an out-of-faction character into play from shadows. At the end of the phase, if that card is still in play, discard it from play.",
+            "text": "<b>Action:</b> Kneel Myr to reduce the cost of the next out-of-faction card you ambush or bring out of shadows this phase by 3.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/105@1.0.0.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/105@1.0.1.png"
         },
         {
             "code": "26606",
@@ -2415,7 +2416,7 @@
         },
         {
             "code": "26610",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "type": "plot",
             "name": "Battle Beneath the Wall",
             "octgnId": null,
@@ -2431,9 +2432,9 @@
                 "War"
             ],
             "text": "<b>When Revealed:</b> Name a challenge type. Until you reveal a new plot card, a player must declare all eligible characters when declaring attackers or defenders during a challenge of that type.",
-            "deckLimit": 2,
+            "deckLimit": 1,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/110@1.0.0.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/110@1.0.1.png"
         },
         {
             "code": "26611",
@@ -2483,7 +2484,7 @@
         },
         {
             "code": "26613",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "type": "plot",
             "name": "The War of the Five Kings",
             "octgnId": null,
@@ -2500,9 +2501,9 @@
                 "War"
             ],
             "text": "X is the number of opponent's you do not support.",
-            "deckLimit": 2,
+            "deckLimit": 1,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/113@1.0.0.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/113@1.0.1.png"
         },
         {
             "code": "26614",
@@ -2573,7 +2574,7 @@
         },
         {
             "code": "26617",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "type": "plot",
             "name": "Strained Reserves",
             "octgnId": null,
@@ -2589,28 +2590,28 @@
                 "Winter"
             ],
             "text": "Each player without a <i>Summer</i> plot revealed cannot marshal, ambush or bring more than 2 cards out of shadows this round.",
-            "deckLimit": 2,
+            "deckLimit": 1,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/117@1.0.0.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/117@1.0.1.png"
         },
         {
             "code": "26618",
-            "version": "1.0.1",
+            "version": "1.0.2",
             "type": "agenda",
             "name": "Armed to the Teeth",
             "octgnId": null,
             "quantity": 3,
             "faction": "neutral",
             "traits": [],
-            "text": "Your deck cannot include non-<i>Weapon</i> attachments. While you control no attachments, reduce the number of cards you draw in the draw phase by 1. After all agendas are announced, search your deck for 7 attachments, reveal them, and place them facedown under this agenda.\n<b>Action:</b> Kneel your faction card and pay X gold to put an attachment with printed cost X or lower into play from under this agenda.",
+            "text": "Your deck cannot include non-<i>Weapon</i> attachments. After all agendas are announced, search your deck for up to 7 different attachments, reveal them, and place them facedown under this agenda.\r\n<b>Reaction:</b> After you win a challenge, kneel your faction card and pay X gold to put an attachment with printed cost X or lower into play from under this agenda.",
             "deckLimit": 1,
             "illustrator": "?",
             "designer": "Card design by 2022 Castle Stahleck Joust Champion, Marti Foz Hernandez.",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/118@1.0.1.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/118@1.0.2.png"
         },
         {
             "code": "26619",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "type": "agenda",
             "name": "The Small Council",
             "octgnId": null,
@@ -2619,10 +2620,10 @@
             "traits": [
                 "Small Council"
             ],
-            "text": "You may include non-loyal <i>Small Council</i> characters from any faction in your deck. You must include at least 7 different <i>Small Council</i> characters in your deck.\n<b>Reaction:</b> After you win dominance, kneel your faction card to choose a standing <i>Small Council</i> character you control, and have it gain 1 power (2 power instead if you control a <i>King</i> or <i>Queen</i> character.)",
+            "text": "You may include non-loyal <i>Small Council</i> characters from any faction in your deck. You must include at least 7 different <i>Small Council</i> characters in your deck.\n<b>Reaction:</b> After you win dominance, choose a standing <i>Small Council</i> character you control, and have it gain 1 power. Then, if you control a <i>King</i> or <i>Queen</i> character, draw 1 card.",
             "deckLimit": 1,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/119@1.0.0.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/119@1.0.1.png"
         },
         {
             "code": "26620",
