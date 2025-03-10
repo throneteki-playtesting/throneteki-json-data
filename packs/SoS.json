@@ -174,7 +174,7 @@
             "traits": [
                 "Title"
             ],
-            "text": "Unique character only.\r\n<b>Reaction:</b> After you win a [power] challenge, kneel attached character to choose and kill a kneeling character controlled by the losing opponent.",
+            "text": "Unique character only.\n<b>Reaction:</b> After you win a [power] challenge, kneel attached character to choose and kill a kneeling character controlled by the losing opponent.",
             "deckLimit": 3,
             "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/7@1.0.1.png"
@@ -193,7 +193,7 @@
             "traits": [
                 "Item"
             ],
-            "text": "Opponent's character only.\r\n<b>Reaction:</b> After attached character is knelt, draw 1 card.",
+            "text": "Opponent's character only.\n<b>Reaction:</b> After attached character is knelt, draw 1 card.",
             "flavor": "\"You should have been at the feast, Tyrion. There has never been a boar so delicious. They cooked it with mushrooms and apples, and it tasted like triumph.\" <cite>Cersei Lannister </cite>",
             "deckLimit": 3,
             "illustrator": "?",
@@ -482,7 +482,7 @@
                 "House Farwynd",
                 "Iron Islands"
             ],
-            "text": "While Lonely Light is standing, increase the cost for each player to bring cards out of shadow by 1.\r\n+1 Reserve.",
+            "text": "While Lonely Light is standing, increase the cost for each player to bring cards out of shadow by 1.\n+1 Reserve.",
             "deckLimit": 3,
             "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/21@1.0.1.png"
@@ -501,7 +501,7 @@
             "traits": [
                 "Warship"
             ],
-            "text": "Shadow (0).\r\n<b>Reaction:</b> After Southbound Galley comes out of shadows, choose a defending character with printed STR 4 or lower. That character does not contribute its STR to this challenge.\r\n+1 Initiative.",
+            "text": "Shadow (0).\n<b>Reaction:</b> After Southbound Galley comes out of shadows, choose a defending character with printed STR 4 or lower. That character does not contribute its STR to this challenge.\n+1 Initiative.",
             "deckLimit": 3,
             "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/22@1.1.0.png"
@@ -762,7 +762,7 @@
             "traits": [
                 "Warship"
             ],
-            "text": "Shadow (1).\r\nYou do not return 1 unspent gold to the treasury during the taxation phase.\r\n<b>Reaction:</b> After King's Landing Dromon comes out of shadows, choose a character with printed cost 2 or lower and return it to its owner's hand.",
+            "text": "Shadow (1).\nYou do not return 1 unspent gold to the treasury during the taxation phase.\n<b>Reaction:</b> After King's Landing Dromon comes out of shadows, choose a character with printed cost 2 or lower and return it to its owner's hand.",
             "deckLimit": 3,
             "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/34@1.1.0.png"
@@ -796,7 +796,7 @@
             "traits": [
                 "Small Council"
             ],
-            "text": "Play only if you control a <i>King</i> character or Cersei Lannister.\r\n<b>Challenges Action:</b> Choose a character you control. Until the end of the phase, that character gains the <i>Small Council</i> trait and does not kneel when declared as an attacker. At the end of the phase, if that card is still in play, discard it from play (cannot be saved).",
+            "text": "Play only if you control a <i>King</i> character or Cersei Lannister.\n<b>Challenges Action:</b> Choose a character you control. Until the end of the phase, that character gains the <i>Small Council</i> trait and does not kneel when declared as an attacker. At the end of the phase, if that card is still in play, discard it from play (cannot be saved).",
             "deckLimit": 3,
             "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/36@1.0.0.png"
@@ -906,15 +906,15 @@
         },
         {
             "code": "26541",
-            "version": "1.0.0",
+            "version": "2.0.0",
             "type": "character",
-            "name": "Dornish Diplomat",
+            "name": "Maester of the Tor",
             "octgnId": null,
             "quantity": 3,
             "unique": false,
             "faction": "martell",
             "loyal": false,
-            "cost": 4,
+            "cost": 3,
             "icons": {
                 "military": false,
                 "intrigue": true,
@@ -922,14 +922,12 @@
             },
             "strength": 3,
             "traits": [
-                "Ally",
-                "Spy"
+                "Maester"
             ],
-            "text": "Shadow (3).\n<b>Reaction:</b> After Dornish Diplomat comes out of shadows, search the top 10 cards of your deck for up to 3 [martell] attachments with printed cost 1 or lower, and put them into play.",
+            "text": "Shadow (2).\n<b>Reaction:</b> After Maester of the Tor comes out of shadows, place the top card of your deck in shadows.",
             "deckLimit": 3,
             "illustrator": "?",
-            "designer": "Card design by 2018 Worlds Joust Champion, Lennart Paga.",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/41@1.0.0.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/41@2.0.0.png"
         },
         {
             "code": "26542",
@@ -1045,7 +1043,7 @@
             "loyal": true,
             "cost": 0,
             "traits": [],
-            "text": "Play only if you control a [martell] <i>Lord</i> or <i>Lady</i> character.\r\n<b>Interrupt:</b> When the challenges phase ends, choose an opponent and challenge type. If that player does not control a character with a challenge icon of that type, they must satisfy the claim of that challenge type as if you were the winning opponent. (Max 1 per phase.)",
+            "text": "Play only if you control a [martell] <i>Lord</i> or <i>Lady</i> character.\n<b>Interrupt:</b> When the challenges phase ends, choose an opponent and challenge type. If that player does not control a character with a challenge icon of that type, they must satisfy the claim of that challenge type as if you were the winning opponent. (Max 1 per phase.)",
             "deckLimit": 3,
             "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/47@1.1.0.png"
@@ -1290,7 +1288,7 @@
             "traits": [
                 "Warship"
             ],
-            "text": "Shadow (1).\r\nGrey Galley contributes 1 STR to your side (3 STR instead if it came out of shadows this phase) during any challenge in which you control a defending character.",
+            "text": "Shadow (1).\nGrey Galley contributes 1 STR to your side (3 STR instead if it came out of shadows this phase) during any challenge in which you control a defending character.",
             "deckLimit": 3,
             "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/58@1.1.0.png"
@@ -1782,7 +1780,7 @@
         },
         {
             "code": "26580",
-            "version": "1.0.1",
+            "version": "1.0.2",
             "type": "attachment",
             "name": "Poisoned Locusts",
             "octgnId": null,
@@ -1795,11 +1793,11 @@
                 "Condition",
                 "Poison"
             ],
-            "text": "Opponent's character only.\nWhile attached character is participating in a challenge, it gets -1 STR for each attachment it has and is killed if its STR is 0.",
+            "text": "Opponent's character only. Shadow (0). Terminal.\nWhile attached character is participating in a challenge, it gets -1 STR for each attachment it has and is killed if its STR is 0.",
             "flavor": "\"They are rolled in spice before the honey, so they are sweet and hot at once.\" <cite>Hizdahr zo Loraq</cite>",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/80@1.0.1.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/80@1.0.2.png"
         },
         {
             "code": "26581",
@@ -1836,7 +1834,7 @@
                 "Qarth",
                 "Warship"
             ],
-            "text": "Shadow (1).\r\nYou are considered to have 1 fewer card in hand.\r\n<b>Reaction:</b> After Qartheen Galley comes out of shadows, choose a card with shadow in your discard pile and return it to your hand.",
+            "text": "Shadow (1).\nYou are considered to have 1 fewer card in hand.\n<b>Reaction:</b> After Qartheen Galley comes out of shadows, choose a card with shadow in your discard pile and return it to your hand.",
             "deckLimit": 3,
             "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/82@1.1.0.png"
@@ -1877,7 +1875,7 @@
         },
         {
             "code": "26585",
-            "version": "1.0.1",
+            "version": "1.0.2",
             "type": "character",
             "name": "Baelor Brightsmile",
             "octgnId": null,
@@ -1885,13 +1883,13 @@
             "unique": true,
             "faction": "tyrell",
             "loyal": true,
-            "cost": 7,
+            "cost": 6,
             "icons": {
                 "military": true,
                 "intrigue": false,
                 "power": true
             },
-            "strength": 6,
+            "strength": 5,
             "traits": [
                 "House Hightower",
                 "Knight"
@@ -1899,11 +1897,11 @@
             "text": "Renown.\n<b>Reaction:</b> After you win a challenge by 5 or more STR in which Baelor Brightsmile is participating, reveal the top card of your deck. You may place that card facedown under Baelor Brightsmile as a duplicate.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/85@1.0.1.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/85@1.0.2.png"
         },
         {
             "code": "26586",
-            "version": "1.0.1",
+            "version": "1.0.2",
             "type": "character",
             "name": "Megga Tyrell",
             "octgnId": null,
@@ -1921,10 +1919,10 @@
             "traits": [
                 "Lady"
             ],
-            "text": "<b>Reaction:</b> After a character is removed from a challenge, gain 1 power for your faction. (Limit twice per round.)",
+            "text": "<b>Reaction:</b> After 1 or more characters are removed from a challenge, gain 1 power for your faction. (Limit twice per round.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/86@1.0.1.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/86@1.0.2.png"
         },
         {
             "code": "26587",
@@ -1946,14 +1944,14 @@
             "traits": [
                 "Fool"
             ],
-            "text": "Shadow (3).\r\n<b>Challenges Action:</b> During a challenge in which Butterbumps is participating, return him to shadows to choose a participating character with higher STR than him. Stand that character and remove it from the challenge.",
+            "text": "Shadow (3).\n<b>Challenges Action:</b> During a challenge in which Butterbumps is participating, return him to shadows to choose a participating character with higher STR than him. Stand that character and remove it from the challenge.",
             "deckLimit": 3,
             "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/87@1.1.0.png"
         },
         {
             "code": "26588",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "type": "character",
             "name": "Horn Hill Elite",
             "octgnId": null,
@@ -1972,40 +1970,40 @@
                 "Army",
                 "House Tarly"
             ],
-            "text": "Intimidate. No attachments.\nWhile Horn Hill Elite is attacking, it gets +1 STR for each standing character you control.",
+            "text": "Assault. Intimidate. No attachments.\nWhile Horn Hill Elite is attacking, it gets +1 STR for each standing [tyrell] character you control.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/88@1.0.0.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/88@1.0.1.png"
         },
         {
             "code": "26589",
-            "version": "1.0.1",
+            "version": "1.0.2",
             "type": "character",
             "name": "Undercity Spymaster",
             "octgnId": null,
             "quantity": 3,
             "unique": false,
             "faction": "tyrell",
-            "loyal": true,
+            "loyal": false,
             "cost": 4,
             "icons": {
                 "military": false,
                 "intrigue": true,
                 "power": true
             },
-            "strength": 2,
+            "strength": 3,
             "traits": [
                 "Ally",
                 "Spy"
             ],
-            "text": "Shadow (3). Stealth.\r\nUndercity Spymaster gets +1 STR for each card in shadows.",
+            "text": "Shadow (3). Stealth.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/89@1.0.1.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/89@1.0.2.png"
         },
         {
             "code": "26590",
-            "version": "1.0.1",
+            "version": "1.0.2",
             "type": "character",
             "name": "Agent of the Citadel",
             "octgnId": null,
@@ -2019,14 +2017,14 @@
                 "intrigue": false,
                 "power": true
             },
-            "strength": 3,
+            "strength": 2,
             "traits": [
                 "Maester"
             ],
             "text": "<b>Reaction:</b> After you win a challenge in which Agent of the Citadel is participating, reveal the top card of your deck to reduce the cost of the next card you bring out of shadows this phase by 2.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/90@1.0.1.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/90@1.0.2.png"
         },
         {
             "code": "26591",
@@ -2081,14 +2079,14 @@
                 "House Hightower",
                 "The Reach"
             ],
-            "text": "Shadow (2).\r\n<b>Reaction:</b> After a location enters play during the challenges phase, kneel The Whispering Sound to draw 2 cards. Then, choose a card in your hand and place it on top of your deck.",
+            "text": "Shadow (2).\n<b>Reaction:</b> After a location enters play during the challenges phase, kneel The Whispering Sound to draw 2 cards. Then, choose a card in your hand and place it on top of your deck.",
             "deckLimit": 3,
             "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/93@1.1.0.png"
         },
         {
             "code": "26594",
-            "version": "1.1.0",
+            "version": "1.1.1",
             "type": "location",
             "name": "Trading Galley",
             "octgnId": null,
@@ -2101,10 +2099,10 @@
                 "House Redwyne",
                 "Warship"
             ],
-            "text": "Shadow (1).\r\n<b>Reaction:</b> After Trading Galley comes out of shadows, choose a participating character. Until the end of the challenge, that character gets +3 STR.\r\n+1 Income",
+            "text": "Shadow (1).\n<b>Reaction:</b> After Trading Galley comes out of shadows, choose a character. Until the end of the phase, that character gets +2 STR.\n+1 Income",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/94@1.1.0.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/94@1.1.1.png"
         },
         {
             "code": "26595",
@@ -2133,7 +2131,7 @@
             "loyal": false,
             "cost": 0,
             "traits": [],
-            "text": "Play only if you are the first player.\r\n<b>Marshaling Action:</b> Give X gold from your gold pool to an opponent. Then, choose a character with printed cost X or lower controlled by that player and remove it from the game. At the beginning of the next phase, put that character into play under your control.",
+            "text": "Play only if you are the first player.\n<b>Marshaling Action:</b> Give X gold from your gold pool to an opponent. Then, choose a character with printed cost X or lower controlled by that player and remove it from the game. At the beginning of the next phase, put that character into play under your control.",
             "deckLimit": 3,
             "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/96@1.0.1.png"
@@ -2603,7 +2601,7 @@
             "quantity": 3,
             "faction": "neutral",
             "traits": [],
-            "text": "Your deck cannot include non-<i>Weapon</i> attachments. After all agendas are announced, search your deck for up to 7 different attachments, reveal them, and place them facedown under this agenda.\r\n<b>Reaction:</b> After you win a challenge, kneel your faction card and pay X gold to put an attachment with printed cost X or lower into play from under this agenda.",
+            "text": "Your deck cannot include non-<i>Weapon</i> attachments. After all agendas are announced, search your deck for up to 7 different attachments, reveal them, and place them facedown under this agenda.\n<b>Reaction:</b> After you win a challenge, kneel your faction card and pay X gold to put an attachment with printed cost X or lower into play from under this agenda.",
             "deckLimit": 1,
             "illustrator": "?",
             "designer": "Card design by 2022 Castle Stahleck Joust Champion, Marti Foz Hernandez.",
