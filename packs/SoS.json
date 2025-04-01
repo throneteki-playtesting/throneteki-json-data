@@ -201,9 +201,9 @@
         },
         {
             "code": "26509",
-            "version": "1.1.1",
+            "version": "1.1.2",
             "type": "location",
-            "name": "Narrow Sea Galley",
+            "name": "Narrow Sea Dromond",
             "octgnId": null,
             "quantity": 3,
             "unique": false,
@@ -213,10 +213,10 @@
             "traits": [
                 "Warship"
             ],
-            "text": "Shadow (1).\nNarrow Sea Galley contributes 2 STR to your total for dominance.\n<b>Reaction:</b> After Narrow Sea Galley comes out of shadows, choose and kneel a character with printed cost 4 or lower.",
+            "text": "Shadow (1).\nNarrow Sea Galley contributes 2 STR to your total for dominance.\n<b>Reaction:</b> After Narrow Sea Dromond comes out of shadows, choose and kneel a character with printed cost 4 or lower.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/9@1.1.1.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/9@1.1.2.png"
         },
         {
             "code": "26510",
@@ -489,9 +489,9 @@
         },
         {
             "code": "26522",
-            "version": "1.1.0",
+            "version": "1.1.1",
             "type": "location",
-            "name": "Southbound Galley",
+            "name": "Swift Longship",
             "octgnId": null,
             "quantity": 3,
             "unique": false,
@@ -501,10 +501,10 @@
             "traits": [
                 "Warship"
             ],
-            "text": "Shadow (0).\n<b>Reaction:</b> After Southbound Galley comes out of shadows, choose a defending character with printed STR 4 or lower. That character does not contribute its STR to this challenge.\n+1 Initiative.",
+            "text": "Shadow (0).\n<b>Reaction:</b> After Swift Longship comes out of shadows, choose a defending character with printed STR 4 or lower. That character does not contribute its STR to this challenge.\n+1 Initiative.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/22@1.1.0.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/22@1.1.1.png"
         },
         {
             "code": "26523",
@@ -750,9 +750,9 @@
         },
         {
             "code": "26534",
-            "version": "1.1.0",
+            "version": "1.1.1",
             "type": "location",
-            "name": "King's Landing Dromon",
+            "name": "King's Landing Dromond",
             "octgnId": null,
             "quantity": 3,
             "unique": false,
@@ -762,10 +762,10 @@
             "traits": [
                 "Warship"
             ],
-            "text": "Shadow (1).\nYou do not return 1 unspent gold to the treasury during the taxation phase.\n<b>Reaction:</b> After King's Landing Dromon comes out of shadows, choose a character with printed cost 2 or lower and return it to its owner's hand.",
+            "text": "Shadow (1).\nYou do not return 1 unspent gold to the treasury during the taxation phase.\n<b>Reaction:</b> After King's Landing Dromond comes out of shadows, choose a character with printed cost 2 or lower and return it to its owner's hand.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/34@1.1.0.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/34@1.1.1.png"
         },
         {
             "code": "26535",
@@ -881,7 +881,7 @@
         },
         {
             "code": "26540",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "type": "character",
             "name": "Ghost Hill Elite",
             "octgnId": null,
@@ -899,10 +899,10 @@
             "traits": [
                 "Army"
             ],
-            "text": "Ambush (6). No attachments.\n<b>Reaction:</b> After Ghost Hill Elite enters play, choose and kill a character with no challenge icons.",
+            "text": "Ambush (6). No attachments.\n<b>Reaction:</b> After Ghost Hill Elite enters play, choose a character. Until the end of the phase, that character loses an [intrigue] or [power] icon and Ghost Hill Elite gains that icon. Then, if that character has no challenge icons, kill it.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/40@1.0.0.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/40@1.0.1.png"
         },
         {
             "code": "26541",
@@ -1015,9 +1015,9 @@
         },
         {
             "code": "26546",
-            "version": "1.1.0",
+            "version": "1.1.1",
             "type": "location",
-            "name": "Greenblood Cog",
+            "name": "Dornish Sea Vessel",
             "octgnId": null,
             "quantity": 3,
             "unique": false,
@@ -1027,10 +1027,10 @@
             "traits": [
                 "Warship"
             ],
-            "text": "Shadow (0).\n<b>Reaction:</b> After Greenblood Cog comes out of shadows, choose a character with printed cost 5 or lower. Until the end of the phase, that character loses a challenge icon of your choice.\n+1 Reserve.",
+            "text": "Shadow (0).\n<b>Reaction:</b> After Dornish Sea Vessel comes out of shadows, choose a character with printed cost 5 or lower. Until the end of the phase, that character loses a challenge icon of your choice.\n+1 Reserve.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/46@1.1.0.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/46@1.1.1.png"
         },
         {
             "code": "26547",
@@ -1547,9 +1547,9 @@
         },
         {
             "code": "26570",
-            "version": "1.1.0",
+            "version": "1.1.1",
             "type": "location",
-            "name": "White Harbor Dromon",
+            "name": "White Harbor Galley",
             "octgnId": null,
             "quantity": 3,
             "unique": false,
@@ -1560,10 +1560,10 @@
                 "House Manderly",
                 "Warship"
             ],
-            "text": "Shadow (1).\nDuring a challenge, each participating character gets +1 STR.\n<b>Reaction:</b> After White Harbor Dromon comes out of shadows during a challenge in which you control a participating character, kneel a character you control to have it participate in the challenge on your side.",
+            "text": "Shadow (1).\nDuring a challenge, each participating character gets +1 STR.\n<b>Reaction:</b> After White Harbor Galley comes out of shadows during a challenge in which you control a participating character, kneel a character you control to have it participate in the challenge on your side.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/70@1.1.0.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/70@1.1.1.png"
         },
         {
             "code": "26571",
@@ -1821,9 +1821,9 @@
         },
         {
             "code": "26582",
-            "version": "1.1.0",
+            "version": "1.1.1",
             "type": "location",
-            "name": "Qartheen Galley",
+            "name": "Qartheen Galleas",
             "octgnId": null,
             "quantity": 3,
             "unique": false,
@@ -1834,10 +1834,10 @@
                 "Qarth",
                 "Warship"
             ],
-            "text": "Shadow (1).\nYou are considered to have 1 fewer card in hand.\n<b>Reaction:</b> After Qartheen Galley comes out of shadows, choose a card with shadow in your discard pile and return it to your hand.",
+            "text": "Shadow (1).\nYou are considered to have 1 fewer card in hand.\n<b>Reaction:</b> After Qartheen Galleas comes out of shadows, choose a card with shadow in your discard pile and return it to your hand.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/82@1.1.0.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/82@1.1.1.png"
         },
         {
             "code": "26583",
@@ -2028,7 +2028,7 @@
         },
         {
             "code": "26591",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "type": "attachment",
             "name": "Enameled Green Armor",
             "octgnId": null,
@@ -2040,10 +2040,10 @@
             "traits": [
                 "Item"
             ],
-            "text": "Attached character gains renown.\n<b>Challenges Action:</b> During a challenge in which attached character is participating, kneel Enameled Green Armor to choose a participating character with lower STR. That character contributes its STR to your side this challenge.",
+            "text": "Attached character gains renown.\n<b>Challenges Action:</b> During a challenge in which attached character is participating, kneel Enameled Green Armor to choose a participating character. That character contributes it's STR to your side this challenge.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/91@1.0.0.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/91@1.0.1.png"
         },
         {
             "code": "26592",
@@ -2086,9 +2086,9 @@
         },
         {
             "code": "26594",
-            "version": "1.1.1",
+            "version": "1.1.2",
             "type": "location",
-            "name": "Trading Galley",
+            "name": "Redwyne Merchanter",
             "octgnId": null,
             "quantity": 3,
             "unique": false,
@@ -2099,42 +2099,42 @@
                 "House Redwyne",
                 "Warship"
             ],
-            "text": "Shadow (1).\n<b>Reaction:</b> After Trading Galley comes out of shadows, choose a character. Until the end of the phase, that character gets +2 STR.\n+1 Income",
+            "text": "Shadow (1).\n<b>Reaction:</b> After Redwyne Merchanter comes out of shadows, choose a character. Until the end of the phase, that character gets +2 STR.\n+1 Income",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/94@1.1.1.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/94@1.1.2.png"
         },
         {
             "code": "26595",
-            "version": "1.0.0",
+            "version": "1.1.0",
             "type": "event",
             "name": "Beneath the Petals",
             "octgnId": null,
             "quantity": 3,
             "faction": "tyrell",
             "loyal": true,
-            "cost": 2,
+            "cost": "-",
             "traits": [],
-            "text": "Shadow (0).\n<b>Interrupt:</b> When Beneath the Petals is revealed from your hand or shadow area, choose a character. Until the end of the phase, that character gets +3 STR and gains stealth. (Max 1 per phase.)",
+            "text": "Shadow (0).\n<b>Action:</b> Choose a character with shadow. Until the end of the phase, that character gains a challenge icon of your choice and insight.\n<b>Interrupt:</b> When Beneath the Petals is revealed from your deck, place it in shadows and gain 1 gold.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/95@1.0.0.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/95@1.1.0.png"
         },
         {
             "code": "26596",
-            "version": "1.0.1",
+            "version": "1.1.0",
             "type": "event",
             "name": "Growing Influence",
             "octgnId": null,
             "quantity": 3,
             "faction": "tyrell",
-            "loyal": false,
+            "loyal": true,
             "cost": 0,
             "traits": [],
-            "text": "Play only if you are the first player.\n<b>Marshaling Action:</b> Give X gold from your gold pool to an opponent. Then, choose a character with printed cost X or lower controlled by that player and remove it from the game. At the beginning of the next phase, put that character into play under your control.",
+            "text": "<b>Interrupt:</b> When the effects of an opponent's triggered character or location ability would initiate, give that player 2 gold from your gold pool to cancel those effects.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/96@1.0.1.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/96@1.1.0.png"
         },
         {
             "code": "26597",
@@ -2459,26 +2459,27 @@
         },
         {
             "code": "26612",
-            "version": "1.1.0",
+            "version": "1.2.0",
             "type": "plot",
             "name": "Doom of Valyria",
             "octgnId": null,
             "quantity": 3,
             "faction": "neutral",
             "plotStats": {
-                "income": 3,
-                "initiative": 2,
-                "claim": 0,
+                "income": 2,
+                "initiative": 5,
+                "claim": 1,
                 "reserve": 4
             },
             "traits": [
                 "Legacy",
-                "Omen"
+                "Omen",
+                "Prophecy"
             ],
-            "text": "<b>When Revealed:</b> Each player draws cards until they have 3 cards in hand, if able. Then, they may discard X cards from their hand to choose X cards. Discard each card not chosen from play.",
+            "text": "Skip the draw phase this round.\n<b>When Revealed:</b> Discard each non-limited card from play. An opponent may discard their hand (of at least 3 cards) to cancel this effect.",
             "deckLimit": 1,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/112@1.1.0.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/112@1.2.0.png"
         },
         {
             "code": "26613",
@@ -2625,7 +2626,7 @@
         },
         {
             "code": "26620",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "type": "agenda",
             "name": "Trading with Braavos",
             "octgnId": null,
@@ -2634,10 +2635,10 @@
             "traits": [
                 "Banner"
             ],
-            "text": "Your minimum deck size is 75 cards. Your deck may include non-loyal <i>Warship</i> locations from any faction. Your deck cannot include more than 1 copy of each <i>Warship</i> location.\n<b>Reaction:</b> After a neutral or out-of-faction location enters play under your control, draw 1 card. (Limit once per phase.)",
+            "text": "Your deck may include non-loyal <i>Warship</i> locations from any faction. Your deck cannot include more than 1 copy of each non-limited location.\n<b>Reaction:</b> After claim is applied for a challenge in which you won, kneel your faction card to search the top 10 cards of your deck for a non-limited location, reveal it, and add it to your hand (you may place it in shadows instead if it has the <i>Warship</i> trait).",
             "deckLimit": 1,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/120@1.0.0.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/120@1.0.1.png"
         }
     ]
 }
