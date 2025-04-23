@@ -7,7 +7,7 @@
     "cards": [
         {
             "code": "26501",
-            "version": "1.0.0",
+            "version": "1.1.0",
             "type": "character",
             "name": "Melisandre",
             "octgnId": null,
@@ -26,10 +26,10 @@
                 "Lady",
                 "R'hllor"
             ],
-            "text": "Shadow (5).\n<b>Reaction:</b> After you win a challenge in which Melisandre is attacking, choose and reveal a card in shadows controlled by the losing opponent. If that card is a character, you may kneel your faction card to put it into play under your control.",
+            "text": "Shadow (5). Stealth.\n<b>Reaction:</b> After you win a challenge in which Melisandre is participating, choose a character that came out of shadows this round. Return that character to shadows. (Limit once per phase.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/1@1.0.0.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/1@1.1.0.png"
         },
         {
             "code": "26502",
@@ -181,23 +181,23 @@
         },
         {
             "code": "26508",
-            "version": "2.0.0",
+            "version": "2.1.0",
             "type": "attachment",
             "name": "Roast Boar",
             "octgnId": null,
             "quantity": 3,
             "unique": false,
             "faction": "baratheon",
-            "loyal": false,
-            "cost": 1,
+            "loyal": true,
+            "cost": 0,
             "traits": [
                 "Item"
             ],
-            "text": "Opponent's character only.\n<b>Reaction:</b> After attached character is knelt, draw 1 card.",
+            "text": "Opponent's character only.\nAttached character's controller may choose not to stand attached character during the standing phase.\n<b>Reaction:</b> After attached character stands, sacrifice Roast Boar to draw 3 cards.",
             "flavor": "\"You should have been at the feast, Tyrion. There has never been a boar so delicious. They cooked it with mushrooms and apples, and it tasted like triumph.\" <cite>Cersei Lannister </cite>",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/8@2.0.0.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/8@2.1.0.png"
         },
         {
             "code": "26509",
@@ -731,7 +731,7 @@
         },
         {
             "code": "26533",
-            "version": "1.1.0",
+            "version": "1.1.1",
             "type": "location",
             "name": "Lannisport",
             "octgnId": null,
@@ -743,10 +743,10 @@
             "traits": [
                 "The Westerlands"
             ],
-            "text": "<b>Reaction:</b> After a [power] challenge is initiated against you, end the challenge immediately with no winner or loser unless the attacking player chooses and discards 1 card from their hand.\n+1 Income.",
+            "text": "<b>Reaction:</b> After a [power] challenge is initiated against you, kneel Lannisport to end the challenge immediately with no winner or loser unless the attacking player chooses and discards 1 card from their hand.\n+1 Income.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/33@1.1.0.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/33@1.1.1.png"
         },
         {
             "code": "26534",
@@ -1487,7 +1487,7 @@
         },
         {
             "code": "26567",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "type": "attachment",
             "name": "The Warden of the North",
             "octgnId": null,
@@ -1499,14 +1499,14 @@
             "traits": [
                 "Title"
             ],
-            "text": "[stark] <i>Lord</i> character only.\nAttached character gains the <i>Commander</i> trait and renown.\nWhile attached character is participating in a challenge, each opponent cannot play events or bring cards out of shadows.",
+            "text": "[stark] <i>Lord</i> character only.\nAttached character gains the <i>Commander</i> trait and renown.\nWhile attached character is participating in a challenge, each player cannot play events or bring cards out of shadows.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/67@1.0.0.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/67@1.0.1.png"
         },
         {
             "code": "26568",
-            "version": "1.0.0",
+            "version": "1.1.0",
             "type": "attachment",
             "name": "Dubious Loyalties",
             "octgnId": null,
@@ -1519,10 +1519,10 @@
                 "Condition",
                 "House Bolton"
             ],
-            "text": "Non-loyal character only.\nAttached character gains the <i>House Bolton</i> trait.\n<b>Forced Reaction:</b> After a player wins a challenge in which attached character is participating, that player takes control of attached character.",
+            "text": "Character you own only.\nWhile you control no loyal characters, attached character gains stealth, renown and the <i>House Bolton</i> trait.\n<b>Reaction:</b> After you win a challenge, kneel your faction card to take control of attached character. (Any player may initiate this ability.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/68@1.0.0.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/68@1.1.0.png"
         },
         {
             "code": "26569",
@@ -1801,7 +1801,7 @@
         },
         {
             "code": "26581",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "type": "location",
             "name": "Slaver's Bay",
             "octgnId": null,
@@ -1814,10 +1814,10 @@
                 "Essos",
                 "Slaver's Bay"
             ],
-            "text": "Each participating character is killed if its STR is 1 or lower during:\n- [military] challenges, if you control Astapor.\n- [intrigue] challenges, if you control Yunkai.\n- [power] challenges, if you control Meereen.",
+            "text": "Each participating character is killed if its STR is 0 during:\n- [military] challenges, if you control Astapor.\n- [intrigue] challenges, if you control Yunkai.\n- [power] challenges, if you control Meereen.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/81@1.0.0.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/81@1.0.1.png"
         },
         {
             "code": "26582",
