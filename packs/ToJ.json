@@ -2209,6 +2209,30 @@
         {
             "code": "00195",
             "type": "character",
+            "name": "Dywen",
+            "octgnId": "null",
+            "quantity": 3,
+            "unique": true,
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 6,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 4,
+            "traits": [
+                "Ranger"
+            ],
+            "text": "Stealth.\nEach [thenightswatch] character you control with stealth does not kneel when declared as an attacker during a [military] challenge.\n+1 Reserve.",
+            "deckLimit": 3,
+            "illustrator": "Tony Nguyen",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FH/9_Dywen.png"
+        },
+        {
+            "code": "00196",
+            "type": "character",
             "name": "Bowen Marsh",
             "octgnId": null,
             "quantity": 3,
@@ -2230,31 +2254,6 @@
             "deckLimit": 3,
             "illustrator": "Melle (Midjourney)",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TTS/69_Bowen_Marsh.png"
-        },
-        {
-            "code": "00196",
-            "type": "character",
-            "name": "Samwell Tarly",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": true,
-            "faction": "thenightswatch",
-            "loyal": true,
-            "cost": 6,
-            "icons": {
-                "military": false,
-                "intrigue": true,
-                "power": true
-            },
-            "strength": 5,
-            "traits": [
-                "Maester",
-                "Steward"
-            ],
-            "text": "<b>Reaction:</b> After you win a challenge in which Samwell Tarly is participating, if your reserve value is:\n - 6 or higher, draw 1 card.\n - 8 or higher, gain 1 power for your faction.\n - 10 or higher, choose and stand another character that shares a <i>Trait</i> with him, if able.",
-            "deckLimit": 3,
-            "illustrator": "Colin Boyer",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/13_Samwell%20Tarly.png"
         },
         {
             "code": "00197",
@@ -2341,26 +2340,27 @@
         {
             "code": "00201",
             "type": "character",
-            "name": "Dywen",
-            "octgnId": "null",
+            "name": "Samwell Tarly",
+            "octgnId": null,
             "quantity": 3,
             "unique": true,
             "faction": "thenightswatch",
-            "loyal": false,
+            "loyal": true,
             "cost": 6,
             "icons": {
-                "military": true,
+                "military": false,
                 "intrigue": true,
-                "power": false
+                "power": true
             },
-            "strength": 4,
+            "strength": 5,
             "traits": [
-                "Ranger"
+                "Maester",
+                "Steward"
             ],
-            "text": "Stealth.\nEach [thenightswatch] character you control with stealth does not kneel when declared as an attacker during a [military] challenge.\n+1 Reserve.",
+            "text": "<b>Reaction:</b> After you win a challenge in which Samwell Tarly is participating, if your reserve value is:\n - 6 or higher, draw 1 card.\n - 8 or higher, gain 1 power for your faction.\n - 10 or higher, choose and stand another character that shares a <i>Trait</i> with him, if able.",
             "deckLimit": 3,
-            "illustrator": "Tony Nguyen",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FH/9_Dywen.png"
+            "illustrator": "Colin Boyer",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/13_Samwell%20Tarly.png"
         },
         {
             "code": "00202",
@@ -2754,27 +2754,27 @@
         {
             "code": "00219",
             "type": "character",
-            "name": "Ghost (M)",
+            "name": "Rickard Karstark (M)",
             "octgnId": null,
             "quantity": 3,
             "unique": true,
             "faction": "stark",
-            "loyal": false,
-            "cost": 3,
+            "loyal": true,
+            "cost": 5,
             "icons": {
                 "military": true,
                 "intrigue": false,
-                "power": false
+                "power": true
             },
-            "strength": 3,
+            "strength": 5,
             "traits": [
-                "Direwolf"
+                "House Karstark",
+                "Lord"
             ],
-            "text": "No attachments.\n<b>Reaction:</b> After you win a challenge in which you control an attacking character that is a <i>Direwolf</i> or has a <i>Direwolf</i> attachment, draw 1 card.\n<b>Interrupt:</b> When Jon Snow would be killed, sacrifice Ghost to save him.\n<b>Draft format only.</b>",
+            "text": "<b>Challenges Action:</b> Kneel a non-limited location to have each player sacrifice a character or location. (Limit once per phase.)\n<b>Reaction:</b> After a <i>Winter</i> plot card is revealed, return a non-limited location from your discard pile to your hand. (Limit once per phase.)\n<b>Draft format only.</b>",
             "deckLimit": 3,
-            "illustrator": "Ertaç Altınöz",
-            "designer": "Card design by 2019 European Melee Champion, Chris Meeuwsen.",
-            "imageUrl": "https://i.imgur.com/hMZCeJm.png"
+            "illustrator": "Jeff Lee Johnson",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/27_Reek.png"
         },
         {
             "code": "00220",
@@ -2934,6 +2934,31 @@
         {
             "code": "00227",
             "type": "character",
+            "name": "Ghost (M)",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 3,
+            "traits": [
+                "Direwolf"
+            ],
+            "text": "No attachments.\n<b>Reaction:</b> After you win a challenge in which you control an attacking character that is a <i>Direwolf</i> or has a <i>Direwolf</i> attachment, draw 1 card.\n<b>Interrupt:</b> When Jon Snow would be killed, sacrifice Ghost to save him.\n<b>Draft format only.</b>",
+            "deckLimit": 3,
+            "illustrator": "Ertaç Altınöz",
+            "designer": "Card design by 2019 European Melee Champion, Chris Meeuwsen.",
+            "imageUrl": "https://i.imgur.com/hMZCeJm.png"
+        },
+        {
+            "code": "00228",
+            "type": "character",
             "name": "Harwin",
             "octgnId": "null",
             "quantity": 3,
@@ -2955,31 +2980,6 @@
             "deckLimit": 3,
             "illustrator": "JB Casacop",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FH/12_Harwin.png"
-        },
-        {
-            "code": "00228",
-            "type": "character",
-            "name": "Rickard Karstark",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": true,
-            "faction": "stark",
-            "loyal": true,
-            "cost": 5,
-            "icons": {
-                "military": true,
-                "intrigue": false,
-                "power": true
-            },
-            "strength": 5,
-            "traits": [
-                "House Karstark",
-                "Lord"
-            ],
-            "text": "<b>Challenges Action:</b> Kneel a non-limited location to have each player sacrifice a character or location. (Limit once per phase.)\n<b>Reaction:</b> After a <i>Winter</i> plot card is revealed, return a non-limited location from your discard pile to your hand. (Limit once per phase.)\n<b>Draft format only.</b>",
-            "deckLimit": 3,
-            "illustrator": "Jeff Lee Johnson",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/27_Reek.png"
         },
         {
             "code": "00229",
