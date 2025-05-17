@@ -102,10 +102,10 @@
                 "King",
                 "R'hllor"
             ],
-            "text": "Renown.\n<b>Reaction:</b> After power is gained by or moved to a character, kneel your faction card to kneel a character.\n<b>Draft format only.</b>",
+            "text": "Renown.\n<b>Reaction:</b> After power is gained by or moved to a character, kneel a non-limited location to kneel a character. (Limit once per phase.)\n<b>Draft format only.</b>",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/OfgccfP.png"
+            "imageUrl": "https://i.imgur.com/htqnebw.png"
         },
         {
             "code": "00105",
@@ -3904,7 +3904,7 @@
                 "Legacy",
                 "Tapestry"
             ],
-            "text": "Non-limited location you control only.\nDuring a challenge, each unique participating [tyrell] character you control gets +1 STR.\n+1 Income.\n<b>Draft format only.</b>",
+            "text": "Non-limited location you control only.\nDuring a challenge, each unique participating character you control gets +1 STR.\n+1 Income.\n<b>Draft format only.</b>",
             "deckLimit": 3,
             "illustrator": "Kris Cooper",
             "imageUrl": "https://i.imgur.com/1F2zN6Q.png"
@@ -4170,7 +4170,7 @@
                 "Knight",
                 "Mercenary"
             ],
-            "text": "While you control exactly 1 unique <i>Knight</i> character, Red-Apple Knight gets +X STR. X is that character's STR.\n<b>Draft format only.</b>",
+            "text": "<b>Reaction:</b> After Wandering Knight enters play, draw 1 card. Then, choose a card in your hand and place it on top of your deck.\n<b>Draft format only.</b>",
             "deckLimit": 3,
             "illustrator": "?",
             "imageUrl": "https://i.imgur.com/NU3BkMh.png"
@@ -4851,10 +4851,10 @@
             "traits": [
                 "Fool"
             ],
-            "text": "Mummer's Troupe gets +1 STR for each gold on it. While it has 3 or more gold, it gains renown.\n<b>Reaction:</b> After Mummer's Troupe stands, move 1 gold from the treasury to a card you control.\n<b>Draft format only.</b>",
+            "text": "Mummer's Troupe gets +1 STR for each gold on it. While it has 3 or more gold, it gains renown.\n<b>Reaction:</b> After Mummer's Troupe stands, move 1 gold from the treasury to a card you control. (Limit once per round.)\n<b>Draft format only.</b>",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/pVzrrF7.png"
+            "imageUrl": "https://i.imgur.com/7nGYgkn.png"
         },
         {
             "code": "00312",
@@ -5054,10 +5054,10 @@
                 "Item",
                 "Weapon"
             ],
-            "text": "Ambush (1).\nAttached character gets +1 STR.\n<b>Action:</b> Kneel and sacrifice Poisoned Arrowhead to choose a character. Until the end of the challenge, treat that card as if its printed text box were blank (except for <i>Traits</i>).\n<b>Draft format only.</b>",
+            "text": "Ambush (1).\nAttached character gets +1 STR.\n<b>Action:</b> Kneel and sacrifice Poisoned Arrowhead to choose a character. Until the end of the phase, treat that card as if its printed text box were blank (except for <i>Traits</i>).\n<b>Draft format only.</b>",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/1oVgn3B.png"
+            "imageUrl": "https://i.imgur.com/9qw8ot0.png"
         },
         {
             "code": "00321",
