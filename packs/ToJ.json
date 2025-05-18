@@ -227,32 +227,6 @@
         {
             "code": "00110",
             "type": "character",
-            "name": "Ser Andrew Estermont",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": true,
-            "faction": "baratheon",
-            "loyal": true,
-            "cost": 4,
-            "icons": {
-                "military": true,
-                "intrigue": true,
-                "power": false
-            },
-            "strength": 4,
-            "traits": [
-                "Knight",
-                "The Seven"
-            ],
-            "text": "<b>Interrupt:</b> When a unique [baratheon] character would be killed, kill a <i>R'hllor</i> character to save that character and have it gain 1 power. (Limit once per round.)",
-            "flavor": "\"I shall go with you, Cousin. There's nothing to be frightened of.\"",
-            "deckLimit": 3,
-            "illustrator": "Melle (DALL-E)",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FUtG/41_Ser_Andrew_Estermont.png"
-        },
-        {
-            "code": "00111",
-            "type": "character",
             "name": "Ser Gilbert Farring",
             "octgnId": null,
             "quantity": 3,
@@ -276,7 +250,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/02_Ser%20Gilbert%20Farring.png"
         },
         {
-            "code": "00112",
+            "code": "00111",
             "type": "character",
             "name": "Jon Arryn",
             "octgnId": null,
@@ -300,6 +274,33 @@
             "deckLimit": 3,
             "illustrator": "Allen Douglas",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/1%20-%20Jon%20Arryn.png"
+        },
+        {
+            "code": "00112",
+            "version": "1.0.0",
+            "type": "character",
+            "name": "Ser Clayton Suggs",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Knight",
+                "R'hllor"
+            ],
+            "text": "<b>Reaction:</b> After power is gained by or moved to a character, it gets +1 STR or -1 STR until the end of the phase.",
+            "flavor": "\"What sort of god lets himself be pissed upon by dogs?\"",
+            "deckLimit": 3,
+            "illustrator": "?",
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/3@1.0.0.png"
         },
         {
             "code": "00113",
@@ -5876,9 +5877,9 @@
             "quantity": 3,
             "faction": "neutral",
             "traits": [
-                "Essos"
+                "Asshai"
             ],
-            "text": "You may include cards with the printed shadow keyword from any faction in your deck.\n<b>Reaction:</b> After you bring a card out of shadows, choose 1 that you haven’t chosen this round:\n - Gain 1 gold.\n - Pay 1 gold to draw a card.\n - Give a character +2 STR until the end of the phase.\n<b>Draft format only.</b>",
+            "text": "You may include cards with the printed shadow keyword from any faction in your deck.\n<b>Reaction:</b> After a card you control comes out of shadows, choose 1 that you haven’t chosen this round:\n - Gain 1 gold.\n - Pay 1 gold to draw a card.\n - Give a character +2 STR until the end of the phase.\n<b>Draft format only.</b>",
             "deckLimit": 1,
             "illustrator": "?",
             "imageUrl": "https://i.imgur.com/pQO5yLb.png"
