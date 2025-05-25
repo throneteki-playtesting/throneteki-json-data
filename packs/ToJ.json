@@ -381,10 +381,10 @@
                 "Smuggler",
                 "The Seven"
             ],
-            "text": "Shadow (3).\n<b>Reaction:</b> After Myrish Pirates enters play, either: move 1 power, or move 1 gold from a character you don't control to a character you control.\n<b>Draft format only.</b>",
+            "text": "Shadow (3).\n<b>Reaction:</b> After Myrish Pirates enters play during the challenges phase, either: move 1 power, or move 1 gold from a character you don't control to a character you control.\n<b>Draft format only.</b>",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/Uq5bD8p.png"
+            "imageUrl": "https://i.imgur.com/Q3ahFM3.png"
         },
         {
             "code": "00117",
@@ -592,42 +592,44 @@
                 "intrigue": false,
                 "power": true
             },
-            "strength": 8,
+            "strength": 5,
             "traits": [
                 "Captain",
                 "Ironborn",
                 "Lord",
                 "Raider"
             ],
-            "text": "Renown. Pillage.\nEach <i>Raider</i> character you control with gold on it gets +1 STR.\n<b>Reaction:</b> After a <i>Raider</i> character discards a card using pillage, move 1 gold from the treasury to that character. (Limit 3 times per round.)\n<b>Draft format only.</b>",
+            "text": "Intimidate. Pillage.\n<b>Reaction:</b> After a character you control discards a non-character card using pillage, that character gains 1 power. (Limit twice per round.)\n<b>Draft format only.</b>",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/ZjEDXA2.png"
+            "imageUrl": "https://i.imgur.com/SUe8BN8.png"
         },
         {
             "code": "00126",
             "type": "character",
-            "name": "Tarle the Thrice-Drowned (M)",
+            "name": "Victarion Greyjoy (M)",
             "octgnId": null,
             "quantity": 3,
             "unique": true,
             "faction": "greyjoy",
-            "loyal": true,
-            "cost": 6,
+            "loyal": false,
+            "cost": 5,
             "icons": {
-                "military": false,
-                "intrigue": true,
+                "military": true,
+                "intrigue": false,
                 "power": true
             },
             "strength": 5,
             "traits": [
                 "Drowned God",
-                "Ironborn"
+                "Ironborn",
+                "Lord",
+                "R'hllor"
             ],
-            "text": "Renown.\n<b>Reaction:</b> After a <i>Drowned God</i> or <i>Raider</i> character is placed in your dead pile, put it into play. Then, kill a character you control. (Limit once per round.)\n<b>Draft format only.</b>",
+            "text": "<b>Reaction:</b> After a phase begins, kneel a character you control. If it has the:\n- <i>R’hllor</i> trait, Victarion Greyjoy gains insight and \"immune to opponents' character abilities\" until the end of the phase.\n- <i>Drowned God</i> or <i>Raider</i> trait, Victarion Greyjoy gains renown and cannot be killed until the end of the phase.\n<b>Draft format only.</b>",
             "deckLimit": 3,
-            "illustrator": "Stephen Patane (Midjourney)",
-            "imageUrl": "https://i.imgur.com/aTK9db8.png"
+            "illustrator": "Nikolai Kalinin",
+            "imageUrl": "https://i.imgur.com/Hol0kyS.png"
         },
         {
             "code": "00127",
@@ -750,7 +752,7 @@
         {
             "code": "00132",
             "type": "character",
-            "name": "Victarion Greyjoy (M)",
+            "name": "Dagmer Cleftjaw",
             "octgnId": null,
             "quantity": 3,
             "unique": true,
@@ -759,20 +761,20 @@
             "cost": 5,
             "icons": {
                 "military": true,
-                "intrigue": false,
-                "power": true
+                "intrigue": true,
+                "power": false
             },
-            "strength": 5,
+            "strength": 4,
             "traits": [
-                "Drowned God",
+                "Captain",
                 "Ironborn",
-                "Lord",
-                "R'hllor"
+                "Raider"
             ],
-            "text": "<b>Reaction:</b> After a phase begins, kneel a character you control. If it has the:\n- <i>R’hllor</i> trait, Victarion Greyjoy gains insight and \"immune to opponents' character abilities\" until the end of the phase.\n- <i>Drowned God</i> or <i>Raider</i> trait, Victarion Greyjoy gains renown and cannot be killed until the end of the phase.\n<b>Draft format only.</b>",
+            "text": "Pillage. Shadow (4). Stealth.\nWhile there is a <i>Winter</i> plot card revealed, you may marshal Dagmer Cleftjaw into shadows from your dead pile as if he were in your hand.",
+            "flavor": "\"Dagmer lives, be grateful for that much.\" <cite>Asha Greyjoy</cite>",
             "deckLimit": 3,
-            "illustrator": "Nikolai Kalinin",
-            "imageUrl": "https://i.imgur.com/Hol0kyS.png"
+            "illustrator": "Roman Papsuev",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/04_Dagmer%20Cleftjaw.png"
         },
         {
             "code": "00133",
@@ -2197,15 +2199,15 @@
                 "intrigue": true,
                 "power": true
             },
-            "strength": 6,
+            "strength": 5,
             "traits": [
                 "Lady",
                 "R'hllor"
             ],
-            "text": "Insight.\n<b>Reaction:</b> After you win a challenge in which Melisandre is participating, sacrifice another character to choose a non-loyal character with lower printed cost and take control of it.\n<b>Draft format only.</b>",
+            "text": "Insight.\n<b>Reaction:</b> After you win a challenge in which Melisandre is attacking, sacrifice another character to choose a non-loyal character with lower printed cost and take control of it. (Limit once per round.)\n<b>Draft format only.</b>",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/USsL28P.png"
+            "imageUrl": "https://i.imgur.com/kRkXIPu.png"
         },
         {
             "code": "00195",
@@ -3096,7 +3098,7 @@
             "text": "Bestow (2).\n<b>Reaction:</b> After Merman's Guard is declared as an attacker or defender, kneel your faction card and discard 1 gold from Merman's Guard to choose a unique character. Stand that character and it gains renown until the end of the phase.\n<b>Draft format only.</b>",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/5iC44oX.png"
+            "imageUrl": "https://i.imgur.com/BOW7RG6.png"
         },
         {
             "code": "00234",
@@ -3723,10 +3725,10 @@
             "traits": [
                 "Meereen"
             ],
-            "text": "<b>Challenges Action:</b> Discard a card and sacrifice Fighting Pit to put a character with printed cost 3 or lower into play from your discard pile. At the end of the phase, if that card is still in play, return it to its owner's hand.\n<b>Draft format only.</b>",
+            "text": "<b>Challenges Action:</b> Sacrifice Fighting Pit to choose and discard a card from your hand. Then, put a character with printed cost 3 or lower into play from your discard pile. At the end of the phase, if that card is still in play, return it to its owner's hand.\n<b>Draft format only.</b>",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/WUaI6HK.png"
+            "imageUrl": "https://i.imgur.com/wFuzob7.png"
         },
         {
             "code": "00261",
@@ -4196,10 +4198,10 @@
                 "Fool",
                 "House Redwyne"
             ],
-            "text": "Bestow (3).\n<b>Challenges Action:</b> Discard 1 gold from Arbor Jester to choose a character and reveal the top card of your deck. Until the end of the phase, that character gains that card's <i>Traits</i> and gets +X STR. X is the printed cost of the revealed card.\n<b>Draft format only.</b>",
+            "text": "Shadow (2).\n<b>Reaction:</b> After Arbor Jester comes out of shadows, choose a character. Until the end of the phase, that character gains insight and gets +1 STR for each card you control in shadows.\n<b>Draft format only.</b>",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/8GQiiGj.png"
+            "imageUrl": "https://i.imgur.com/bjHMheq.png"
         },
         {
             "code": "00281",
@@ -4852,7 +4854,7 @@
             "traits": [
                 "Fool"
             ],
-            "text": "Mummer's Troupe gets +1 STR for each gold on it. While it has 3 or more gold, it gains renown.\n<b>Reaction:</b> After Mummer's Troupe stands, move 1 gold from the treasury to a card you control. (Limit once per round.)\n<b>Draft format only.</b>",
+            "text": "Mummer's Troupe gets +1 STR for each gold on it. While it has 3 or more gold, it gains renown.\n<b>Reaction:</b> After Mummer's Troupe stands, move 1 gold from the treasury to it or another card you control without gold. (Limit once per round.)\n<b>Draft format only.</b>",
             "deckLimit": 3,
             "illustrator": "?",
             "imageUrl": "https://i.imgur.com/7nGYgkn.png"
@@ -5072,10 +5074,10 @@
             "traits": [
                 "Item"
             ],
-            "text": "Character you control only.\nAttached character gets +1 STR and gains the named <i>Trait</i>.\n<b>Reaction:</b> After Face Mask enters play, name a <i>Trait</i>.\n<b>Draft format only.</b>",
+            "text": "Character you control only.\nAttached character gains the named <i>Trait</i>.\n<b>Reaction:</b> After Face Mask enters play, name a <i>Trait</i>.\n<b>Draft format only.</b>",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/1oVgn3B.png"
+            "imageUrl": "https://i.imgur.com/5a8PalL.png"
         },
         {
             "code": "00322",
@@ -5849,10 +5851,10 @@
             "quantity": 3,
             "faction": "neutral",
             "traits": [],
-            "text": "When you announce Sealing the Pact as your agenda, name 1 faction. You may include cards from that faction in your draw deck and plot deck.\n<b>Reaction:</b> After you win a challenge in which you control an attacking in-faction character, kneel your faction card to have an out-of-faction character you control gain 1 power.\n<b>Draft format only.</b>",
+            "text": "When you announce Sealing the Pact as your agenda, name 1 faction. You may include cards from that faction in your draw deck and plot deck.\n<b>Reaction:</b> After you win a challenge in which you control a participating in-faction character, kneel your faction card to have an out-of-faction character you control gain 1 power.\n<b>Draft format only.</b>",
             "deckLimit": 1,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/3GmEjuP.png"
+            "imageUrl": "https://i.imgur.com/Z8gsdZu.png"
         },
         {
             "code": "00358",
@@ -5894,10 +5896,10 @@
             "traits": [
                 "Braavos"
             ],
-            "text": "You may include cards with the printed bestow keyword from any faction in your deck.\n<b>Action:</b> Kneel your faction card to either: reduce the cost of the next card with bestow you marshal this phase by 1, or move 1 gold from a card you control to your gold pool.\n<b>Draft format only.</b>",
+            "text": "You may include cards with the printed bestow keyword from any faction in your deck.\n<b>Action:</b> Kneel your faction card to either: reduce the cost of the next card with bestow you marshal this phase by 1, or move 1 gold from your gold pool to a card you control without gold.\n<b>Draft format only.</b>",
             "deckLimit": 1,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/LF5MsA2.png"
+            "imageUrl": "https://i.imgur.com/divykV7.png"
         },
         {
             "code": "00361",
@@ -6041,42 +6043,42 @@
         {
             "code": "00369",
             "type": "plot",
-            "name": "Building Orders",
-            "octgnId": "34e54ffc-9806-49da-a8a0-d38a17f6753d",
+            "name": "Confiscation",
+            "octgnId": "446ac0b9-746f-4aa3-b8bf-f132d2b29499",
             "quantity": 1,
             "faction": "neutral",
             "plotStats": {
                 "income": 4,
-                "initiative": 1,
+                "initiative": 5,
                 "claim": 1,
-                "reserve": 7
+                "reserve": 6
             },
             "traits": [
-                "Kingdom"
+                "Edict"
             ],
-            "text": "<b>When Revealed:</b> Search the top 10 cards of your deck for an attachment or a location, reveal it, and add it to your hand. Shuffle your deck.",
+            "text": "<b>When Revealed:</b> Choose an attachment, and discard it from play.",
             "deckLimit": 2,
-            "illustrator": "Tomasz Jedruszek"
+            "illustrator": "Sebastian Giacobino"
         },
         {
             "code": "00370",
             "type": "plot",
-            "name": "Summons",
-            "octgnId": "a380b0e0-610c-47f9-ac9f-ae12163b45fd",
-            "quantity": 2,
+            "name": "Jousting Contest",
+            "octgnId": "0b94080f-2207-4663-8990-f9370ab77709",
+            "quantity": 1,
             "faction": "neutral",
             "plotStats": {
                 "income": 4,
-                "initiative": 0,
+                "initiative": 3,
                 "claim": 1,
-                "reserve": 7
+                "reserve": 6
             },
             "traits": [
-                "Kingdom"
+                "War"
             ],
-            "text": "<b>When Revealed:</b> Search the top 10 cards of your deck for a character, reveal it, and add it to your hand. Shuffle your deck.",
+            "text": "Each player cannot declare more than 1 character as an attacker or defender in each challenge.",
             "deckLimit": 2,
-            "illustrator": "Tomasz Jedruszek"
+            "illustrator": "John Gravato"
         },
         {
             "code": "00371",
