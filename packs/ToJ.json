@@ -2209,6 +2209,31 @@
         {
             "code": "00195",
             "type": "character",
+            "name": "Benjen Stark",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "thenightswatch",
+            "loyal": true,
+            "cost": 6,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 5,
+            "traits": [
+                "Ranger"
+            ],
+            "text": "Renown.\n<b>Reaction:</b> After you win a [military] challenge in which Benjen Stark is attacking, name a challenge type. Until the end of the phase, the losing opponent cannot initiate challenges of that type against you.",
+            "flavor": "\"Our wife is duty. Our mistress is honor.\"",
+            "deckLimit": 3,
+            "illustrator": "Christine Griffin",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WAID/9_Benjen_Stark.png"
+        },
+        {
+            "code": "00196",
+            "type": "character",
             "name": "Dywen",
             "octgnId": "null",
             "quantity": 3,
@@ -2231,7 +2256,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FH/9_Dywen.png"
         },
         {
-            "code": "00196",
+            "code": "00197",
             "type": "character",
             "name": "Bowen Marsh",
             "octgnId": null,
@@ -2256,7 +2281,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TTS/69_Bowen_Marsh.png"
         },
         {
-            "code": "00197",
+            "code": "00198",
             "type": "location",
             "name": "Castle Black",
             "octgnId": null,
@@ -2275,7 +2300,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/14_Castle%20Black.png"
         },
         {
-            "code": "00198",
+            "code": "00199",
             "type": "location",
             "name": "Sentinel Stand",
             "octgnId": null,
@@ -2295,50 +2320,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ATT/10_Sentinel_Stand.png"
         },
         {
-            "code": "00199",
-            "type": "attachment",
-            "name": "Lord Steward",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": true,
-            "faction": "thenightswatch",
-            "loyal": true,
-            "cost": 2,
-            "traits": [
-                "Title"
-            ],
-            "text": "Unique character only.\nAttached character gains an [intrigue] icon and the <i>Steward</i> trait.\n<b>Reaction:</b> After you win an [intrigue] challenge in which you control a participating <i>Steward</i> character, choose a character with printed cost X or lower controlled by the losing opponent. Take control of it until the end of the phase. X is the number of <i>Steward</i> characters you control. (Limit once per phase.)",
-            "deckLimit": 3,
-            "illustrator": "Roman Papsuev",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/23_Lord%20Steward.png"
-        },
-        {
             "code": "00200",
-            "type": "character",
-            "name": "Benjen Stark",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": true,
-            "faction": "thenightswatch",
-            "loyal": true,
-            "cost": 6,
-            "icons": {
-                "military": true,
-                "intrigue": false,
-                "power": true
-            },
-            "strength": 5,
-            "traits": [
-                "Ranger"
-            ],
-            "text": "Renown.\n<b>Reaction:</b> After you win a [military] challenge in which Benjen Stark is attacking, name a challenge type. Until the end of the phase, the losing opponent cannot initiate challenges of that type against you.",
-            "flavor": "\"Our wife is duty. Our mistress is honor.\"",
-            "deckLimit": 3,
-            "illustrator": "Christine Griffin",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WAID/9_Benjen_Stark.png"
-        },
-        {
-            "code": "00201",
             "type": "character",
             "name": "Samwell Tarly",
             "octgnId": null,
@@ -2363,7 +2345,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/13_Samwell%20Tarly.png"
         },
         {
-            "code": "00202",
+            "code": "00201",
             "type": "character",
             "name": "Iron Emmett",
             "octgnId": null,
@@ -2389,7 +2371,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/13_Iron%20Emmett.png"
         },
         {
-            "code": "00203",
+            "code": "00202",
             "type": "character",
             "name": "Old Tattersalt (M)",
             "octgnId": null,
@@ -2413,7 +2395,7 @@
             "imageUrl": "https://i.imgur.com/r0ywbME.png"
         },
         {
-            "code": "00204",
+            "code": "00203",
             "type": "character",
             "name": "Gared",
             "octgnId": null,
@@ -2436,6 +2418,26 @@
             "deckLimit": 3,
             "illustrator": "Stephen Patane (DALL-E)",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ATT/9_Gared.png"
+        },
+        {
+            "code": "00204",
+            "type": "location",
+            "name": "Weirwood Grove",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "thenightswatch",
+            "loyal": true,
+            "cost": 2,
+            "traits": [
+                "Old Gods",
+                "The North"
+            ],
+            "text": "<b>Reaction:</b> After an opponent reveals a non-<i>Omen</i> plot card, kneel your faction card and remove Weirwood Grove from the game to initiate the when revealed ability on that card as if you had just revealed it.",
+            "flavor": "\"Small wonder men feared them when they first came to Westeros.\" <cite>Thoren Smallwood</cite>",
+            "deckLimit": 3,
+            "illustrator": "Franz Miklis",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WK/110_Weirwood_Grove.png"
         },
         {
             "code": "00205",
