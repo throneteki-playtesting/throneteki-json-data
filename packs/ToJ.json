@@ -277,7 +277,6 @@
         },
         {
             "code": "00112",
-            "version": "1.0.0",
             "type": "character",
             "name": "Ser Clayton Suggs",
             "octgnId": null,
@@ -296,11 +295,11 @@
                 "Knight",
                 "R'hllor"
             ],
-            "text": "<b>Reaction:</b> After power is gained by or moved to a character, it gets +1 STR or -1 STR until the end of the phase.",
+            "text": "<b>Reaction:</b> After power is gained by or moved to a character, that character gets +1 STR or -1 STR until the end of the phase. (Limit 3 times per phase.)",
             "flavor": "\"What sort of god lets himself be pissed upon by dogs?\"",
             "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/3@1.0.0.png"
+            "illustrator": "Chillyraven",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WAID/1_Ser_Clayton_Suggs.png"
         },
         {
             "code": "00113",
@@ -831,7 +830,6 @@
         },
         {
             "code": "00135",
-            "version": "1.0.0",
             "type": "character",
             "name": "Moqorro",
             "octgnId": null,
@@ -851,9 +849,10 @@
                 "R'hllor"
             ],
             "text": "Shadow (2).\n<b>Reaction:</b> After Moqorro comes out of shadows, choose a character. Until the end of the phase, that character gains an [intrigue] icon and stealth.",
+            "flavor": "\"Every night in my fires I glimpse the glory that awaits you.\"",
             "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/15@1.0.0.png"
+            "illustrator": "Elena María Vacas",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WAID/3_Moqorro.png"
         },
         {
             "code": "00136",
@@ -1251,7 +1250,6 @@
         },
         {
             "code": "00153",
-            "version": "1.1.1",
             "type": "location",
             "name": "Lannisport",
             "octgnId": null,
@@ -1263,10 +1261,10 @@
             "traits": [
                 "The Westerlands"
             ],
-            "text": "<b>Reaction:</b> After a [power] challenge is initiated against you, kneel Lannisport to end the challenge immediately with no winner or loser unless the attacking player chooses and discards 1 card from their hand.\n+1 Income.",
+            "text": "<b>Reaction:</b> After a [power] challenge is initiated against you, kneel Lannisport to end the challenge with no winner or loser unless the attacking player chooses and discards 1 card from their hand.\n+1 Income.",
             "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/33@1.1.1.png"
+            "illustrator": "Félix Sotomayor",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WAID/6_Lannisport.png"
         },
         {
             "code": "00154",
@@ -1474,7 +1472,6 @@
         },
         {
             "code": "00163",
-            "version": "1.0.1",
             "type": "character",
             "name": "Ashemark Councilor",
             "octgnId": null,
@@ -1493,10 +1490,10 @@
                 "Ally",
                 "Spy"
             ],
-            "text": "X is the number of cards with 1 or more gold on it.\n<b>Reaction:</b> After Ashemark Councilor enters play, place 1 gold on up to 3 cards without gold.",
+            "text": "X is the number of cards with 1 or more gold.\n<b>Reaction:</b> After Ashemark Councilor enters play, choose up to 3 cards. Each of those cards gains 1 gold.",
             "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/28@1.0.1.png"
+            "illustrator": "Owen William Weber",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WAID/5_Ashemark_Councilor.png"
         },
         {
             "code": "00164",
@@ -2317,7 +2314,6 @@
         },
         {
             "code": "00200",
-            "version": "1.0.0",
             "type": "character",
             "name": "Benjen Stark",
             "octgnId": null,
@@ -2335,10 +2331,11 @@
             "traits": [
                 "Ranger"
             ],
-            "text": "<b>Reaction:</b> After you win a [military] challenge in which Benjen Stark is attacking, name a challenge type. Until the end of the phase, the losing opponent cannot initiate challenges of that type against you.",
+            "text": "Renown.\n<b>Reaction:</b> After you win a [military] challenge in which Benjen Stark is attacking, name a challenge type. Until the end of the phase, the losing opponent cannot initiate challenges of that type against you.",
+            "flavor": "\"Our wife is duty. Our mistress is honor.\"",
             "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/49@1.0.0.png"
+            "illustrator": "Christine Griffin",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WAID/9_Benjen_Stark.png"
         },
         {
             "code": "00201",
@@ -2477,19 +2474,19 @@
         },
         {
             "code": "00207",
-            "version": "1.0.1",
             "type": "event",
-            "name": "When All is Darkest",
+            "name": "When All Is Darkest",
             "octgnId": null,
             "quantity": 3,
             "faction": "thenightswatch",
             "loyal": false,
             "cost": "-",
             "traits": [],
-            "text": "Shadow (2).\n<b>Reaction:</b> After a character comes out of shadows, kneel your faction card to take control of it.",
+            "text": "Shadow (2).\n<b>Reaction:</b> After a character comes out of shadows, kneel your faction card to take control of that character.",
+            "flavor": "\"If the Wall falls, night falls as well, the long night that never ends.\" <cite>Melisandre</cite>",
             "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/60@1.0.1.png"
+            "illustrator": "Pedro H. Cardoso",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WAID/10_When_All_Is_Darkest.png"
         },
         {
             "code": "00208",
@@ -3102,7 +3099,6 @@
         },
         {
             "code": "00234",
-            "version": "1.0.0",
             "type": "character",
             "name": "Trident Guard",
             "octgnId": null,
@@ -3121,10 +3117,11 @@
                 "Guard",
                 "House Tully"
             ],
-            "text": "While an opponent's claim value is lower than yours, Trident Guard gains renown.",
+            "text": "While your claim value is higher than an opponent's, Trident Guard gains renown.",
+            "flavor": "\"They shall not cross.\" <cite>Ser Edmure Tully</cite>",
             "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/66@1.0.0.png"
+            "illustrator": "Andrius Anezin",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WAID/11_Trident_Guard.png"
         },
         {
             "code": "00235",
@@ -4068,7 +4065,6 @@
         },
         {
             "code": "00275",
-            "version": "2.0.0",
             "type": "attachment",
             "name": "Highgarden Destrier",
             "octgnId": null,
@@ -4080,10 +4076,11 @@
             "traits": [
                 "Warhorse"
             ],
-            "text": "Limit 1 copy per character.\nCharacter with printed STR 3 or lower only. \nAttached character gets +1 STR for each character you control with printed cost 3 or lower.",
+            "text": "Limit 1 copy per character. Character with printed STR 3 or lower only. \nAttached character gets +1 STR for each character you control with printed cost 3 or lower.",
+            "flavor": "Destriers were trained to kick and bite. In war they were a weapon, like the men who rode them.",
             "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/92@2.0.0.png"
+            "illustrator": "Storn Cook",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WAID/16_Highgarden_Destrier.png"
         },
         {
             "code": "00276",
@@ -4707,9 +4704,8 @@
         },
         {
             "code": "00304",
-            "version": "1.0.0",
             "type": "location",
-            "name": "The Milkwater",
+            "name": "Milkwater Crossing",
             "octgnId": null,
             "quantity": 3,
             "unique": false,
@@ -4718,10 +4714,10 @@
             "traits": [
                 "The North"
             ],
-            "text": "<b>Reaction:</b> After a phase begins, kneel and sacrifice The Milkwater to have each character lose all keywords and immunities until the end of the phase.\n+1 Initiative.",
+            "text": "<b>Reaction:</b> After a phase begins, kneel and sacrifice Milkwater Crossing to have each character lose all keywords and immunities until the end of the phase.\n+1 Initiative.",
             "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/107@1.0.0.png"
+            "illustrator": "Andreas Rocha",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WAID/18_Milkwater_Crossing.png"
         },
         {
             "code": "00305",
@@ -5492,7 +5488,6 @@
         },
         {
             "code": "00341",
-            "version": "1.0.0",
             "type": "plot",
             "name": "City of Shadows",
             "octgnId": null,
@@ -5509,9 +5504,9 @@
                 "Scheme"
             ],
             "text": "<b>When Revealed:</b> Choose a card you control with shadow and return it to your hand. (You may return it to shadows instead if there is a <i>City</i> plot card in your used pile.)",
-            "deckLimit": 2,
-            "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/111@1.0.0.png"
+            "deckLimit": 1,
+            "illustrator": "Rene Aigner",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WAID/19_City_of_Shadows.png"
         },
         {
             "code": "00342",
