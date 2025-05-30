@@ -1535,7 +1535,7 @@
                 "intrigue": true,
                 "power": false
             },
-            "strength": 3,
+            "strength": 2,
             "traits": [
                 "Mercenary",
                 "Spy"
@@ -1543,7 +1543,7 @@
             "text": "Bestow (1).\n<b>Challenges Action:</b> Discard 1 gold from Red Keep Infiltrator to put a character with printed cost 4 or lower into play from your hand. At the end of the phase, if that card is still in play, discard it from play.\n<b>Draft format only.</b>",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/jM7Mq0e.png"
+            "imageUrl": "https://i.imgur.com/1ZnMIfD.png"
         },
         {
             "code": "00166",
@@ -1585,14 +1585,14 @@
                 "intrigue": true,
                 "power": true
             },
-            "strength": 1,
+            "strength": 2,
             "traits": [
                 "Ally"
             ],
             "text": "<b>Challenges Action:</b> Move 1 gold from a character you control to your gold pool to have Debt Collector gain insight until the end of the phase. (Limit once per phase.)\n<b>Draft format only.</b>",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/wWaGqku.png"
+            "imageUrl": "https://i.imgur.com/bn2iMiX.png"
         },
         {
             "code": "00168",
@@ -1772,7 +1772,7 @@
         {
             "code": "00176",
             "type": "attachment",
-            "name": "Sword of the Morning",
+            "name": "Sword of the Morning (M)",
             "octgnId": null,
             "quantity": 3,
             "unique": true,
@@ -1785,7 +1785,7 @@
             "text": "Unique [martell] character or <i>House Dayne</i> character only.\nWhile attached character is attacking, it gets +1 STR for each defending character.\n<b>Reaction:</b> After attached character is declared as an attacker, choose up to 3 characters controlled by the defending player. Each of those characters must be declared as a defender for this challenge, if able.",
             "deckLimit": 3,
             "illustrator": "Henning Ludvigsen",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/18_Sword%20of%20the%20Morning.png"
+            "imageUrl": "https://i.imgur.com/AfgWETJ.png"
         },
         {
             "code": "00177",
@@ -3748,31 +3748,6 @@
         {
             "code": "00262",
             "type": "character",
-            "name": "The Redwyne Fleet",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": true,
-            "faction": "tyrell",
-            "loyal": true,
-            "cost": 8,
-            "icons": {
-                "military": true,
-                "intrigue": false,
-                "power": true
-            },
-            "strength": 8,
-            "traits": [
-                "Army",
-                "House Redwyne"
-            ],
-            "text": "Assault. No attachments.\nWhile you control Paxter Redwyne, he gains a [military] and a [power] icon, and the <i>Commander</i> trait.\n<b>Reaction:</b> After a <i>House Redwyne</i> card you control is knelt, gain 1 gold. (Limit 3 times per round.)",
-            "deckLimit": 3,
-            "illustrator": "Tomasz Jedruszek",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/22_Redwyne%20Fleet.png"
-        },
-        {
-            "code": "00263",
-            "type": "character",
             "name": "Randyll Tarly (M)",
             "octgnId": "",
             "quantity": 3,
@@ -3797,7 +3772,7 @@
             "imageUrl": "https://i.imgur.com/zekkL5e.png"
         },
         {
-            "code": "00264",
+            "code": "00263",
             "type": "character",
             "name": "Margaery Tyrell",
             "octgnId": null,
@@ -3823,7 +3798,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TIC/95_Margaery_Tyrell.png"
         },
         {
-            "code": "00265",
+            "code": "00264",
             "type": "character",
             "name": "Mace Tyrell",
             "octgnId": null,
@@ -3848,30 +3823,55 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/22_Mace%20Tyrell.png"
         },
         {
+            "code": "00265",
+            "type": "character",
+            "name": "Willas Tyrell",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "tyrell",
+            "loyal": true,
+            "cost": 5,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "Lord"
+            ],
+            "text": "Insight.\nWillas Tyrell contributes his STR to your side during any challenge in which a character you control is attacking or defending alone.",
+            "flavor": "\"Willas has a bad leg but a good heart.\" <cite>Margaery Tyrell</cite>",
+            "deckLimit": 3,
+            "illustrator": "Stephen Patane (Midjourney)",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FUtG/55_Willas_Tyrell.png"
+        },
+        {
             "code": "00266",
             "type": "character",
-            "name": "Paxter Redwyne",
+            "name": "The Knight of Flowers",
             "octgnId": "",
             "quantity": 3,
             "unique": true,
             "faction": "tyrell",
-            "loyal": false,
+            "loyal": true,
             "cost": 4,
             "icons": {
-                "military": false,
-                "intrigue": true,
-                "power": false
+                "military": true,
+                "intrigue": false,
+                "power": true
             },
             "strength": 4,
             "traits": [
                 "Commander",
-                "House Redwyne",
-                "Lord"
+                "Knight",
+                "Rainbow Guard"
             ],
-            "text": "<b>Reaction:</b> After you play an event, choose a character. Until the end of the challenge, that character gets +1 STR and gains insight or renown.\n+1 Initiative.\n<b>Draft format only.</b>",
+            "text": "Renown.\n<b>Reaction:</b> After you win a challenge in which a <i>Knight</i> character you control is attacking alone, stand that character. (Limit once per round.)\n<b>Draft format only.</b>",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/pu11CrO.png"
+            "imageUrl": "https://i.imgur.com/9iNrAWC.png"
         },
         {
             "code": "00267",
@@ -3966,31 +3966,6 @@
         {
             "code": "00271",
             "type": "character",
-            "name": "Willas Tyrell",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": true,
-            "faction": "tyrell",
-            "loyal": true,
-            "cost": 5,
-            "icons": {
-                "military": false,
-                "intrigue": true,
-                "power": true
-            },
-            "strength": 2,
-            "traits": [
-                "Lord"
-            ],
-            "text": "Insight.\nWillas Tyrell contributes his STR to your side during any challenge in which a character you control is attacking or defending alone.",
-            "flavor": "\"Willas has a bad leg but a good heart.\" <cite>Margaery Tyrell</cite>",
-            "deckLimit": 3,
-            "illustrator": "Stephen Patane (Midjourney)",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FUtG/55_Willas_Tyrell.png"
-        },
-        {
-            "code": "00272",
-            "type": "character",
             "name": "Alla Tyrell",
             "octgnId": null,
             "quantity": 3,
@@ -4014,7 +3989,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/22_Alla%20Tyrell.png"
         },
         {
-            "code": "00273",
+            "code": "00272",
             "type": "character",
             "name": "Ser Robar Royce",
             "octgnId": null,
@@ -4038,6 +4013,31 @@
             "deckLimit": 3,
             "illustrator": "Anh Bui",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/15%20-%20Robar%20Royce.png"
+        },
+        {
+            "code": "00273",
+            "type": "character",
+            "name": "Dickon Tarly",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "House Tarly"
+            ],
+            "text": "<b>Reaction:</b> After a [tyrell] character you control stands, stand Dickon Tarly. (Limit once per phase.)",
+            "flavor": "His own mother was a thousand leagues south, safe with his sisters and his little brother Dickon in the keep at Horn Hill.",
+            "deckLimit": 3,
+            "illustrator": "Stephen Patane (Midjourney)",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TTS/75_Dickon_Tarly.png"
         },
         {
             "code": "00274",
@@ -4167,7 +4167,7 @@
                 "intrigue": true,
                 "power": false
             },
-            "strength": 2,
+            "strength": 3,
             "traits": [
                 "Knight",
                 "Mercenary"
@@ -4175,7 +4175,7 @@
             "text": "<b>Reaction:</b> After Wandering Knight enters play, draw 1 card. Then, choose a card in your hand and place it on top of your deck.\n<b>Draft format only.</b>",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/NU3BkMh.png"
+            "imageUrl": "https://i.imgur.com/MiagLdr.png"
         },
         {
             "code": "00280",
@@ -4431,20 +4431,20 @@
         {
             "code": "00292",
             "type": "location",
-            "name": "The Trident",
+            "name": "The Tower of Joy",
             "octgnId": null,
             "quantity": 3,
             "unique": true,
             "faction": "neutral",
             "cost": 2,
             "traits": [
-                "The Riverlands",
-                "Westeros"
+                "Contested",
+                "Dorne"
             ],
-            "text": "<b>Forced Reaction:</b> After you win a challenge as the attacking player, give control of The Trident to the losing opponent unless you sacrifice another neutral location. (Cannot be canceled.)\n+1 Claim",
+            "text": "Each unique character you control gets +1 STR. (+2 STR instead if The Tower of Joy is kneeling.)\n<b>Reaction:</b> After the dominance phase begins, remove The Tower of Joy from the game to have each player choose a unique character they control. Then, at the end of the phase, if any of those characters are still in play, kill them.\n<b>Draft format only.</b>",
             "deckLimit": 3,
-            "illustrator": "Philipp Urlich",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/28_The%20Trident.png"
+            "illustrator": "Henning Ludvigsen",
+            "imageUrl": "https://i.imgur.com/n65bUpK.png"
         },
         {
             "code": "00293",
