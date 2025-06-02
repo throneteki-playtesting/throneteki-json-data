@@ -1678,30 +1678,6 @@
         {
             "code": "00172",
             "type": "character",
-            "name": "Arianne Martell",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": true,
-            "faction": "martell",
-            "loyal": false,
-            "cost": 5,
-            "icons": {
-                "military": false,
-                "intrigue": true,
-                "power": true
-            },
-            "strength": 4,
-            "traits": [
-                "Lady"
-            ],
-            "text": "Insight.\n<b>Action:</b> Return Arianne Martell to your hand to choose a character. Until the end of the phase, that character loses a challenge icon of your choice and each non-[martell] character you control gains that challenge icon.",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/hrYv9MB.png"
-        },
-        {
-            "code": "00173",
-            "type": "character",
             "name": "Ser Arys Oakheart",
             "octgnId": null,
             "quantity": 3,
@@ -1724,6 +1700,30 @@
             "deckLimit": 3,
             "illustrator": "Harry Platt",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FUtG/47_Ser_Arys_Oakheart.png"
+        },
+        {
+            "code": "00173",
+            "type": "character",
+            "name": "Arianne Martell",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "martell",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Lady"
+            ],
+            "text": "Insight.\n<b>Action:</b> Return Arianne Martell to your hand to choose a character. Until the end of the phase, that character loses a challenge icon of your choice and each non-[martell] character you control gains that challenge icon.",
+            "deckLimit": 3,
+            "illustrator": "?",
+            "imageUrl": "https://i.imgur.com/WSkQiRB.png"
         },
         {
             "code": "00174",
@@ -4436,15 +4436,15 @@
             "quantity": 3,
             "unique": true,
             "faction": "neutral",
-            "cost": 2,
+            "cost": 1,
             "traits": [
                 "Contested",
                 "Dorne"
             ],
-            "text": "Each unique character you control gets +1 STR. (+2 STR instead if The Tower of Joy is kneeling.)\n<b>Reaction:</b> After the dominance phase begins, remove The Tower of Joy from the game to have each player choose a unique character they control. Then, at the end of the phase, if any of those characters are still in play, kill them.\n<b>Draft format only.</b>",
+            "text": "Each unique character you control gets +2 STR while attacking or defending alone.\r<b>Reaction:</b> After a unique character leaves play, The Tower of Joy gains 1 power. (Limit once per phase.)\n<b>Draft format only.</b>",
             "deckLimit": 3,
             "illustrator": "Henning Ludvigsen",
-            "imageUrl": "https://i.imgur.com/n65bUpK.png"
+            "imageUrl": "https://i.imgur.com/V2O3NYw.png"
         },
         {
             "code": "00293",
