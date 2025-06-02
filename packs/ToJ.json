@@ -1583,10 +1583,10 @@
             "traits": [
                 "Westeros"
             ],
-            "text": "Interrupt: When claim would be applied for an [intrigue] challenge in which you are the attacking player, if the losing opponent has no cards in hand, sacrifice Crownlands Village to apply [power] claim instead.\n+1 Income.\n+1 Initiative.\n<b>Draft format only.</b>",
+            "text": "Interrupt: When claim would be applied for an [intrigue] challenge in which you are the attacking player, if the losing opponent has no cards in hand, sacrifice Crownlands Village to apply [power] claim instead.\n+1 Income.\n<b>Draft format only.</b>",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/qNoYrMa.png"
+            "imageUrl": "https://i.imgur.com/jK49Cmm.png"
         },
         {
             "code": "00168",
