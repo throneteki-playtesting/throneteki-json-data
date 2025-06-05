@@ -154,7 +154,7 @@
         {
             "code": "00107",
             "type": "attachment",
-            "name": "The Laughing Storm (M)",
+            "name": "The Laughing Storm",
             "octgnId": null,
             "quantity": 3,
             "unique": true,
@@ -489,7 +489,7 @@
         {
             "code": "00121",
             "type": "character",
-            "name": "Sellsails (M)",
+            "name": "Sellsails",
             "octgnId": null,
             "quantity": 3,
             "unique": false,
@@ -606,7 +606,7 @@
         {
             "code": "00126",
             "type": "character",
-            "name": "Victarion Greyjoy (M)",
+            "name": "Victarion Greyjoy",
             "octgnId": null,
             "quantity": 3,
             "unique": true,
@@ -1498,7 +1498,7 @@
         {
             "code": "00164",
             "type": "character",
-            "name": "Oxcross Survivors (M)",
+            "name": "Oxcross Survivors",
             "octgnId": null,
             "quantity": 3,
             "unique": false,
@@ -1766,7 +1766,7 @@
         {
             "code": "00176",
             "type": "attachment",
-            "name": "Sword of the Morning (M)",
+            "name": "Sword of the Morning",
             "octgnId": null,
             "quantity": 3,
             "unique": true,
@@ -2152,7 +2152,7 @@
         {
             "code": "00193",
             "type": "character",
-            "name": "Great Ranging (M)",
+            "name": "Great Ranging",
             "octgnId": null,
             "quantity": 3,
             "unique": true,
@@ -2367,7 +2367,7 @@
         {
             "code": "00202",
             "type": "character",
-            "name": "Old Tattersalt (M)",
+            "name": "Old Tattersalt",
             "octgnId": null,
             "quantity": 3,
             "unique": true,
@@ -2750,7 +2750,7 @@
         {
             "code": "00219",
             "type": "character",
-            "name": "Rickard Karstark (M)",
+            "name": "Rickard Karstark",
             "octgnId": null,
             "quantity": 3,
             "unique": true,
@@ -2930,7 +2930,7 @@
         {
             "code": "00227",
             "type": "character",
-            "name": "Ghost (M)",
+            "name": "Ghost",
             "octgnId": null,
             "quantity": 3,
             "unique": true,
@@ -3122,7 +3122,7 @@
         {
             "code": "00235",
             "type": "character",
-            "name": "Brynden's Outriders (M)",
+            "name": "Brynden's Outriders",
             "octgnId": null,
             "quantity": 3,
             "unique": false,
@@ -3262,7 +3262,7 @@
         {
             "code": "00241",
             "type": "character",
-            "name": "Daenerys Targaryen (M)",
+            "name": "Daenerys Targaryen",
             "octgnId": null,
             "quantity": 3,
             "unique": true,
@@ -3660,7 +3660,7 @@
         {
             "code": "00258",
             "type": "character",
-            "name": "Free Brothers (M)",
+            "name": "Free Brothers",
             "octgnId": null,
             "quantity": 3,
             "unique": false,
@@ -3742,7 +3742,7 @@
         {
             "code": "00262",
             "type": "character",
-            "name": "Randyll Tarly (M)",
+            "name": "Randyll Tarly",
             "octgnId": "",
             "quantity": 3,
             "unique": true,
@@ -3889,7 +3889,7 @@
         {
             "code": "00268",
             "type": "attachment",
-            "name": "Garth Greenhand (M)",
+            "name": "Garth Greenhand",
             "octgnId": null,
             "quantity": 3,
             "unique": true,
@@ -3908,7 +3908,7 @@
         {
             "code": "00269",
             "type": "character",
-            "name": "Mina Redwyne (M)",
+            "name": "Mina Redwyne",
             "octgnId": null,
             "quantity": 3,
             "unique": true,
@@ -4125,7 +4125,7 @@
         {
             "code": "00278",
             "type": "character",
-            "name": "Red-Apple Knight (M)",
+            "name": "Red-Apple Knight",
             "octgnId": null,
             "quantity": 3,
             "unique": false,
@@ -4239,7 +4239,7 @@
         {
             "code": "00283",
             "type": "event",
-            "name": "Behold our Bounty (M)",
+            "name": "Behold our Bounty",
             "octgnId": null,
             "quantity": 3,
             "faction": "tyrell",
@@ -5146,7 +5146,7 @@
         {
             "code": "00326",
             "type": "plot",
-            "name": "Cast Me Forth (M)",
+            "name": "Cast Me Forth",
             "octgnId": null,
             "quantity": 3,
             "faction": "greyjoy",
@@ -5169,7 +5169,7 @@
         {
             "code": "00327",
             "type": "plot",
-            "name": "The Sack of King's Landing (M)",
+            "name": "The Sack of King's Landing",
             "octgnId": null,
             "quantity": 3,
             "faction": "lannister",
@@ -5261,7 +5261,7 @@
         {
             "code": "00331",
             "type": "plot",
-            "name": "Dance of the Dragons (M)",
+            "name": "Dance of the Dragons",
             "octgnId": null,
             "quantity": 3,
             "faction": "targaryen",
@@ -5550,7 +5550,7 @@
         {
             "code": "00344",
             "type": "plot",
-            "name": "Open Revolt (M)",
+            "name": "Open Revolt",
             "octgnId": null,
             "quantity": 3,
             "faction": "neutral",
