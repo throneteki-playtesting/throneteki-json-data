@@ -5959,7 +5959,8 @@
             ],
             "text": "Limited.\n<b>Marshaling Action:</b> Kneel and sacrifice The Kingsroad to reduce the cost of the next character you marshal this phase by 3.\n+1 Initiative.",
             "deckLimit": 3,
-            "illustrator": "Julepe"
+            "illustrator": "Julepe",
+            "imageUrl": "https://lcg-cdn.fantasyflightgames.com/got2nd/GT01_39.jpg"
         },
         {
             "code": "00365",
@@ -5975,23 +5976,11 @@
             ],
             "text": "Limited.\n+1 Income.",
             "deckLimit": 3,
-            "illustrator": "Ted Nasmith"
+            "illustrator": "Ted Nasmith",
+            "imageUrl": "https://lcg-cdn.fantasyflightgames.com/got2nd/GT01_40.jpg"
         },
         {
             "code": "00366",
-            "type": "event",
-            "name": "The Hand's Judgment",
-            "octgnId": "c5d78fb6-ff52-4012-ac95-547ed9feec0f",
-            "quantity": 1,
-            "faction": "neutral",
-            "cost": "X",
-            "traits": [],
-            "text": "<b>Interrupt:</b> When the effects of an opponent's event would initiate, cancel those effects. X is that event's printed cost.",
-            "deckLimit": 3,
-            "illustrator": "Tiziano Baracchi"
-        },
-        {
-            "code": "00367",
             "type": "plot",
             "name": "Feast or Famine",
             "octgnId": "89134355-fcb8-4979-9dd4-f3f0f66754b1",
@@ -6012,7 +6001,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/VDS/00006.png"
         },
         {
-            "code": "00368",
+            "code": "00367",
             "type": "plot",
             "name": "The Pale Mare",
             "octgnId": "6f43f7fa-bf71-4817-8746-39c046b9d66b",
@@ -6032,7 +6021,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/VDS/00008.png"
         },
         {
-            "code": "00369",
+            "code": "00368",
             "type": "plot",
             "name": "Confiscation",
             "octgnId": "446ac0b9-746f-4aa3-b8bf-f132d2b29499",
@@ -6049,10 +6038,11 @@
             ],
             "text": "<b>When Revealed:</b> Choose an attachment, and discard it from play.",
             "deckLimit": 2,
-            "illustrator": "Sebastian Giacobino"
+            "illustrator": "Sebastian Giacobino",
+            "imageUrl": "https://lcg-cdn.fantasyflightgames.com/got2nd/GT01_9.jpg"
         },
         {
-            "code": "00370",
+            "code": "00369",
             "type": "plot",
             "name": "Jousting Contest",
             "octgnId": "0b94080f-2207-4663-8990-f9370ab77709",
@@ -6069,10 +6059,11 @@
             ],
             "text": "Each player cannot declare more than 1 character as an attacker or defender in each challenge.",
             "deckLimit": 2,
-            "illustrator": "John Gravato"
+            "illustrator": "John Gravato",
+            "imageUrl": "https://lcg-cdn.fantasyflightgames.com/got2nd/GT01_14.jpg"
         },
         {
-            "code": "00371",
+            "code": "00370",
             "type": "plot",
             "name": "Calling the Banners",
             "octgnId": "3a3577a4-5ee1-4e9f-a674-49e9f9e81568",
@@ -6089,10 +6080,11 @@
             ],
             "text": "<b>When Revealed:</b> Choose an opponent. Gain 1 gold for each character that player controls.",
             "deckLimit": 2,
-            "illustrator": "Jason Engle"
+            "illustrator": "Jason Engle",
+            "imageUrl": "https://lcg-cdn.fantasyflightgames.com/got2nd/GT01_7.jpg"
         },
         {
-            "code": "00372",
+            "code": "00371",
             "type": "plot",
             "name": "False Spring",
             "octgnId": "028a35d4-2b16-4386-b1d8-e405adde4a37",
@@ -6109,10 +6101,11 @@
             ],
             "text": "<b>When Revealed:</b> Each opponent chooses and reveals 3 cards from his or her hand, if able. You may choose and discard 1 revealed card from any number of those hands.",
             "deckLimit": 1,
-            "illustrator": "Sebastian Rodriguez"
+            "illustrator": "Sebastian Rodriguez",
+            "imageUrl": "https://lcg-cdn.fantasyflightgames.com/got2nd/GT30_52.jpg"
         },
         {
-            "code": "00373",
+            "code": "00372",
             "type": "plot",
             "name": "City of Secrets",
             "octgnId": "70fb1269-9ee6-4d45-b19e-8c79e2be0fda",
@@ -6129,10 +6122,11 @@
             ],
             "text": "<b>When Revealed:</b> Each player draws 2 cards. Then, each player without a <i>City</i> plot card in his or her used pile chooses and discards 2 cards from his or her hand.",
             "deckLimit": 2,
-            "illustrator": "Paolo Puggioni"
+            "illustrator": "Paolo Puggioni",
+            "imageUrl": "https://lcg-cdn.fantasyflightgames.com/got2nd/GT46_19.jpg"
         },
         {
-            "code": "00374",
+            "code": "00373",
             "type": "plot",
             "name": "Manning the City Walls",
             "octgnId": null,
@@ -6150,10 +6144,11 @@
             ],
             "text": "<b>When Revealed:</b> Put a non-unique character with printed cost 3 or lower into play from your hand. (Printed cost 6 or lower instead if there is a <i>City</i> plot card in your used pile.)",
             "deckLimit": 2,
-            "illustrator": "Joshua Cairós"
+            "illustrator": "Joshua Cairós",
+            "imageUrl": "https://lcg-cdn.fantasyflightgames.com/got2nd/GT48_60.jpg"
         },
         {
-            "code": "00375",
+            "code": "00374",
             "type": "plot",
             "name": "A Clash of Kings",
             "octgnId": "de88edda-f5a4-4985-8ac1-2b8205c13416",
@@ -6170,10 +6165,11 @@
             ],
             "text": "<b>Reaction:</b> After you win a [power] challenge, move 1 power from the losing opponent's faction card to your own.",
             "deckLimit": 2,
-            "illustrator": "Smirtouille"
+            "illustrator": "Smirtouille",
+            "imageUrl": "https://lcg-cdn.fantasyflightgames.com/got2nd/GT01_1.jpg"
         },
         {
-            "code": "00376",
+            "code": "00375",
             "type": "plot",
             "name": "Varys's Riddle",
             "octgnId": "d68d7083-089d-4d28-8249-e70613639680",
@@ -6192,7 +6188,8 @@
             "text": "<b>When Revealed:</b> Initiate the when revealed ability on a revealed non-<i>Riddle</i> plot card as if you had just revealed it.",
             "flavor": "\"In a room sit three great men, a king, a priest, and a rich man with his gold. Between them stands a sellsword, a little man of common birth and no great mind. Each of the great ones bids him slay the other two.\" <cite>Varys</cite>",
             "deckLimit": 2,
-            "illustrator": "Serena Malyon"
+            "illustrator": "Serena Malyon",
+            "imageUrl": "https://lcg-cdn.fantasyflightgames.com/got2nd/GT09_20.jpg"
         }
     ]
 }
