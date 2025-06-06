@@ -593,7 +593,7 @@
             },
             "strength": 5,
             "traits": [
-                "Captain",
+                "King",
                 "Ironborn",
                 "Lord",
                 "Raider"
@@ -601,7 +601,7 @@
             "text": "Intimidate. Pillage.\n<b>Reaction:</b> After a character you control discards a non-character card using pillage, that character gains 1 power. (Limit twice per round.)\n<b>Draft format only.</b>",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/SUe8BN8.png"
+            "imageUrl": "https://i.imgur.com/Mgpnttp.png"
         },
         {
             "code": "00126",
@@ -1063,7 +1063,7 @@
             "text": "<b>Reaction:</b> After a card enters play during the challenges phase, kneel Stony Shore Thrall to choose an opponent. Reduce the reserve value on that player's revealed plot card by 1 (to a minimum of 2) until they reveal a new plot card. Then you may have that player check reserve.\n<b>Draft format only.</b>",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/gGSXD73.png"
+            "imageUrl": "https://i.imgur.com/mN0aXoE.png"
         },
         {
             "code": "00145",
@@ -1227,7 +1227,7 @@
             "text": "Tommen contributes 2 STR to your total for dominance even while kneeling.\nWhile you control:\n - 1 or more <i>Cats</i>, Tommen gains an [intrigue] icon.\n - 2 or more <i>Cats</i>, Tommen gains insight.\n - 3 or more <i>Cats</i>, Tommen gets +3 STR.\n<b>Draft format only.</b>",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/hAZygZo.png"
+            "imageUrl": "https://i.imgur.com/Ae8zID7.png"
         },
         {
             "code": "00152",
@@ -2770,7 +2770,7 @@
             "text": "<b>Challenges Action:</b> Kneel a non-limited location to have each player sacrifice a character or location. (Limit once per phase.)\n<b>Reaction:</b> After a <i>Winter</i> plot card is revealed, return a non-limited location from your discard pile to your hand. (Limit once per phase.)\n<b>Draft format only.</b>",
             "deckLimit": 3,
             "illustrator": "Jeff Lee Johnson",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/27_Reek.png"
+            "imageUrl": "https://i.imgur.com/I6GyCTh.png"
         },
         {
             "code": "00220",
