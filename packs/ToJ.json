@@ -5841,26 +5841,28 @@
             "octgnId": null,
             "quantity": 3,
             "faction": "neutral",
-            "traits": [],
+            "traits": [
+                "Summer"
+            ],
             "text": "When you announce Sealing the Pact as your agenda, name 1 faction. You may include cards from that faction in your draw deck and plot deck.\n<b>Reaction:</b> After you win a challenge in which you control a participating in-faction character, kneel your faction card to have an out-of-faction character you control gain 1 power.\n<b>Draft format only.</b>",
             "deckLimit": 1,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/Z8gsdZu.png"
+            "imageUrl": "https://i.imgur.com/AjGRMDR.png"
         },
         {
             "code": "00358",
             "type": "agenda",
-            "name": "Three Heads of the Dragon",
+            "name": "Unknown and Unknowable",
             "octgnId": null,
             "quantity": 3,
             "faction": "neutral",
             "traits": [
-                "Prophecy"
+                "Omen"
             ],
-            "text": "When you announce Three Heads of the Dragon as your agenda, name 2 factions. You may include cards from those factions in your draw deck and plot deck.\n<b>Action:</b> Kneel your faction card to choose a character you control. Until the end of the phase, that character gains a <i>Trait</i> of your choice.\n<b>Draft format only.</b>",
+            "text": "When you announce Unknown and Unknowable as your agenda, name 2 factions. You may include cards from those factions in your draw deck and plot deck.\n<b>Action:</b> Kneel your faction card to choose a character you control. Until the end of the phase, that character gains a <i>Trait</i> of your choice.\n<b>Draft format only.</b>",
             "deckLimit": 1,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/sietSaR.png"
+            "imageUrl": "https://i.imgur.com/oiJg4lj.png"
         },
         {
             "code": "00359",
@@ -5880,17 +5882,17 @@
         {
             "code": "00360",
             "type": "agenda",
-            "name": "The Iron Bank of Braavos",
+            "name": "Seeking Fortunes",
             "octgnId": null,
             "quantity": 3,
             "faction": "neutral",
             "traits": [
-                "Braavos"
+                "Essos"
             ],
             "text": "You may include cards with the printed bestow keyword from any faction in your deck.\n<b>Action:</b> Kneel your faction card to either: reduce the cost of the next card with bestow you marshal this phase by 1, or move 1 gold from your gold pool to a card you control without gold.\n<b>Draft format only.</b>",
             "deckLimit": 1,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/divykV7.png"
+            "imageUrl": "https://i.imgur.com/m3Cyk5D.png"
         },
         {
             "code": "00361",
@@ -5905,7 +5907,7 @@
             "text": "When you announce Join Forces as your agenda, name 1 <i>Trait</i>. You may include cards with that printed <i>Trait</i> from any faction in your draw deck and plot deck.\nReduce the cost of the first card with the named <i>Trait</i> you marshal or play each round by 1.\n<b>Draft format only.</b>",
             "deckLimit": 1,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/VCSxezj.png"
+            "imageUrl": "https://i.imgur.com/Xfp5tkI.png"
         },
         {
             "code": "00362",
@@ -5915,17 +5917,17 @@
             "quantity": 3,
             "faction": "neutral",
             "traits": [
-                "Westeros"
+                "War"
             ],
             "text": "You may include cards from any faction in your draw deck and plot deck.\nYou cannot spend more than 6 gold during setup.\n-1 Income. -1 Initiative. -1 Reserve.\n<b>Draft format only.</b>",
             "deckLimit": 1,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/fmPRS9t.png"
+            "imageUrl": "https://i.imgur.com/zv2B4zn.png"
         },
         {
             "code": "00363",
             "type": "character",
-            "name": "Crossroads Innkeeper",
+            "name": "Pentoshi Trader",
             "octgnId": null,
             "quantity": 3,
             "unique": false,
@@ -5938,12 +5940,12 @@
             },
             "strength": 1,
             "traits": [
-                "Ally"
+                "Merchant"
             ],
-            "text": "<b>Marshaling Action:</b> Kneel Crossroads Innkeeper to reduce the cost of the next character you marshal this phase by 1.\n<b>Draft format only.</b>",
+            "text": "<b>Marshaling Action:</b> Kneel Pentoshi Trader to reduce the cost of the next character you marshal this phase by 1.\n<b>Draft format only.</b>",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/BlzxSCL.png"
+            "imageUrl": "https://i.imgur.com/rSY4n3i.png"
         },
         {
             "code": "00364",
