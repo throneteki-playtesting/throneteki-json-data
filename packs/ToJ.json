@@ -1060,10 +1060,10 @@
                 "Steward",
                 "Old Gods"
             ],
-            "text": "<b>Reaction:</b> After a card enters play during the challenges phase, kneel Stony Shore Thrall to choose an opponent. Reduce the reserve value on that player's revealed plot card by 1 (to a minimum of 2) until they reveal a new plot card. Then you may have that player check reserve.\n<b>Draft format only.</b>",
+            "text": "<b>Reaction:</b> After a card enters play during the challenges phase, kneel Stony Shore Thrall to choose an opponent. Reduce the reserve value on that player's revealed plot card by 1 (to a minimum of 2) until they reveal a new plot card. Then you may have each player check reserve.\n<b>Draft format only.</b>",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/mN0aXoE.png"
+            "imageUrl": "https://i.imgur.com/Ho3Lwd5.png"
         },
         {
             "code": "00145",
