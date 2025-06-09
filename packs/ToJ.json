@@ -1714,10 +1714,10 @@
             "traits": [
                 "Lady"
             ],
-            "text": "Insight.\n<b>Action:</b> Return Arianne Martell to your hand to choose a character. Until the end of the phase, that character loses a challenge icon of your choice and each non-[martell] character you control gains that challenge icon.",
+            "text": "Insight.\n<b>Action:</b> Choose a character. Until the end of the phase, that character loses a challenge icon of your choice and each non-Martell character you control gains that challenge icon. Then, return Arianne to your hand (cannot be saved). (Limit once per phase.)\n<b>Draft format only.</b>",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/WSkQiRB.png"
+            "imageUrl": "https://i.imgur.com/1uDaxz5.png"
         },
         {
             "code": "00174",
@@ -1776,7 +1776,7 @@
             "traits": [
                 "Title"
             ],
-            "text": "Unique [martell] character or <i>House Dayne</i> character only.\nWhile attached character is attacking, it gets +1 STR for each defending character.\n<b>Reaction:</b> After attached character is declared as an attacker, choose up to 3 characters controlled by the defending player. Each of those characters must be declared as a defender for this challenge, if able.",
+            "text": "Unique character or <i>House Dayne</i> character only.\nWhile attached character is attacking, it gets +1 STR for each defending character.\n<b>Reaction:</b> After attached character is declared as an attacker, choose up to 3 characters controlled by the defending player. Each of those characters must be declared as a defender for this challenge, if able.\n<b>Draft format only.</b>",
             "deckLimit": 3,
             "illustrator": "Henning Ludvigsen",
             "imageUrl": "https://i.imgur.com/AfgWETJ.png"
@@ -3331,10 +3331,10 @@
                 "Knight",
                 "Lord"
             ],
-            "text": "Shadow (4).\n<b>Action:</b> Return Quentyn to shadows to put a character with lower STR into play from your hand or discard pile. At the end of the phase, if it's still in play, return it to your hand.\n<b>Draft format only.</b>",
+            "text": "Shadow (4).\n<b>Action:</b> Return Quentyn to shadows to put a character with lower STR into play from your hand or discard pile. At the end of the phase, if it's still in play, return it to your hand. (Max 1 per round.)\n<b>Draft format only.</b>",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/dyPXejV.png"
+            "imageUrl": "https://i.imgur.com/EToYQRd.png"
         },
         {
             "code": "00244",
