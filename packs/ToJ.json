@@ -6080,7 +6080,7 @@
             "text": "During the first [military] challenge you initiate during the challenges phase, raise the claim value on Razed to the Ground by 1.\n<b>Draft format only.</b>",
             "deckLimit": 2,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/JQVIPnv.png"
+            "imageUrl": "https://i.imgur.com/tOLthud.png"
         },
         {
             "code": "00371",
@@ -6097,10 +6097,10 @@
             "traits": [
                 "Scheme"
             ],
-            "text": "<b>Reaction:</b> After you win an [intrigue] challenge, draw X cards, then discard 1 card. X is the claim value on Bitter Accusation.\n<b>Draft format only.</b>",
+            "text": "<b>Reaction:</b> After you win an [intrigue] challenge, draw X cards. Then, choose and discard 1 card from your hand. X is the claim value on Bitter Accusation.\n<b>Draft format only.</b>",
             "deckLimit": 2,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/lFKyuRX.png"
+            "imageUrl": "https://i.imgur.com/uXK1TNc.png"
         },
         {
             "code": "00372",
@@ -6177,10 +6177,10 @@
             "traits": [
                 "War"
             ],
-            "text": "<b>Action:</b> Choose a character. Until the end of the phase, that character gains a challenge icon or <i>Trait</i> of your choice. (Limit once per phase.)\n<b>Draft format only.</b>",
+            "text": "<b>Action:</b> Choose a character. Until the end of the phase, that character gains a challenge icon or <i>Trait</i> of your choice. (Limit once per round.)\n<b>Draft format only.</b>",
             "deckLimit": 2,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/fB5SEnI.png"
+            "imageUrl": "https://i.imgur.com/XiF3oxr.png"
         }
     ]
 }
