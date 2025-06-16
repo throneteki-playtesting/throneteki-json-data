@@ -5983,7 +5983,6 @@
             "code": "00366",
             "type": "plot",
             "name": "Feast or Famine",
-            "octgnId": "89134355-fcb8-4979-9dd4-f3f0f66754b1",
             "quantity": 1,
             "faction": "neutral",
             "plotStats": {
@@ -5998,13 +5997,12 @@
             ],
             "text": "<b>When Revealed:</b> Either, increase the gold value on Feast or Famine by 5, or increase the claim value on Feast or Famine by 2.\n<b>Draft format only.</b>",
             "deckLimit": 2,
-            "imageUrl": "https://i.imgur.com/rYLDLUT.png"
+            "imageUrl": "https://i.imgur.com/2a8HQkD.png"
         },
         {
             "code": "00367",
             "type": "plot",
             "name": "The Pale Mare",
-            "octgnId": "6f43f7fa-bf71-4817-8746-39c046b9d66b",
             "quantity": 1,
             "faction": "neutral",
             "plotStats": {
@@ -6018,7 +6016,7 @@
             ],
             "text": "<b>When Revealed:</b> Each player chooses any number of characters he or she controls with total printed cost 10 or lower. Kill each character not chosen.\n<b>Draft format only.</b>",
             "deckLimit": 2,
-            "imageUrl": "https://i.imgur.com/kzWtF3h.png"
+            "imageUrl": "https://i.imgur.com/12YRebN.png"
         },
         {
             "code": "00368",
@@ -6038,7 +6036,7 @@
             "text": "<b>When Revealed:</b> Draw 1 card. (Draw 2 cards instead if there is a <i>City</i> plot card in your used pile.)\n<b>Draft format only.</b>",
             "deckLimit": 2,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/zIQzLTt.png"
+            "imageUrl": "https://i.imgur.com/DyDoJBb.png"
         },
         {
             "code": "00369",
@@ -6060,7 +6058,7 @@
             "text": "<b>When Revealed:</b> Put a character with printed cost 3 or lower into play from your hand. (Printed cost 6 or lower instead if there is a <i>City</i> plot card in your used pile.)\n<b>Draft format only.</b>",
             "deckLimit": 2,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/6TPIFPR.png"
+            "imageUrl": "https://i.imgur.com/svmOre6.png"
         },
         {
             "code": "00370",
@@ -6080,7 +6078,7 @@
             "text": "During the first [military] challenge you initiate during the challenges phase, raise the claim value on Razed to the Ground by 1.\n<b>Draft format only.</b>",
             "deckLimit": 2,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/tOLthud.png"
+            "imageUrl": "https://i.imgur.com/EwDF3u5.png"
         },
         {
             "code": "00371",
@@ -6100,7 +6098,7 @@
             "text": "<b>Reaction:</b> After you win an [intrigue] challenge, draw X cards. Then, choose and discard 1 card from your hand. X is the claim value on Bitter Accusation.\n<b>Draft format only.</b>",
             "deckLimit": 2,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/uXK1TNc.png"
+            "imageUrl": "https://i.imgur.com/z5aFBcx.png"
         },
         {
             "code": "00372",
@@ -6120,7 +6118,7 @@
             "text": "You may initiate an additional [power] challenge during the challenges phase.\n<b>Draft format only.</b>",
             "deckLimit": 2,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/uz6KLTp.png"
+            "imageUrl": "https://i.imgur.com/JkuAbaE.png"
         },
         {
             "code": "00373",
@@ -6140,7 +6138,7 @@
             "text": "Each player cannot declare more than 1 character as an attacker or defender in each challenge.\n<b>Draft format only.</b>",
             "deckLimit": 2,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/NnL5ig2.png"
+            "imageUrl": "https://i.imgur.com/nG6fVsk.png"
         },
         {
             "code": "00374",
@@ -6160,7 +6158,7 @@
             "text": "<b>When Revealed:</b> Kneel each character with printed cost 2 or lower.\n<b>Draft format only.</b>",
             "deckLimit": 2,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/yekbpQO.png"
+            "imageUrl": "https://i.imgur.com/9Gpsk2C.png"
         },
         {
             "code": "00375",
@@ -6180,7 +6178,7 @@
             "text": "<b>Action:</b> Choose a character. Until the end of the phase, that character gains a challenge icon or <i>Trait</i> of your choice. (Limit once per round.)\n<b>Draft format only.</b>",
             "deckLimit": 2,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/XiF3oxr.png"
+            "imageUrl": "https://i.imgur.com/79AiykF.png"
         }
     ]
 }
