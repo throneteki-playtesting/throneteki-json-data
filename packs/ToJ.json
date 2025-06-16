@@ -5950,36 +5950,34 @@
         {
             "code": "00364",
             "type": "location",
-            "name": "The Kingsroad",
-            "octgnId": "90452d99-6a6f-4d0d-b3a1-bb92e7110d1d",
-            "quantity": 4,
+            "name": "Castle Gate",
+            "quantity": 3,
             "unique": false,
             "faction": "neutral",
             "cost": 1,
             "traits": [
                 "Westeros"
             ],
-            "text": "Limited.\n<b>Marshaling Action:</b> Kneel and sacrifice The Kingsroad to reduce the cost of the next character you marshal this phase by 3.\n+1 Initiative.",
+            "text": "Limited.\n<b>Marshaling Action:</b> Kneel Castle Gate to gain 1 gold.\n<b>Action:</b> Sacrifice Castle Gate to draw 1 card.\n<b>Draft format only.</b>",
             "deckLimit": 3,
-            "illustrator": "Julepe",
-            "imageUrl": "https://lcg-cdn.fantasyflightgames.com/got2nd/GT01_39.jpg"
+            "illustrator": "?",
+            "imageUrl": "https://i.imgur.com/pHkFPAR.png"
         },
         {
             "code": "00365",
             "type": "location",
-            "name": "The Roseroad",
-            "octgnId": "51a3e04f-3f44-4417-8d7c-1f116acd5c80",
-            "quantity": 4,
+            "name": "Market Square",
+            "quantity": 3,
             "unique": false,
             "faction": "neutral",
             "cost": 0,
             "traits": [
                 "Westeros"
             ],
-            "text": "Limited.\n+1 Income.",
+            "text": "Limited.\n<b>Marshaling Action:</b> Kneel Market Square to reduce the cost of the next card you marshal or marshal into shadows this phase by 1.\n<b>Draft format only.</b>",
             "deckLimit": 3,
-            "illustrator": "Ted Nasmith",
-            "imageUrl": "https://lcg-cdn.fantasyflightgames.com/got2nd/GT01_40.jpg"
+            "illustrator": "?",
+            "imageUrl": "https://i.imgur.com/4YcounC.png"
         },
         {
             "code": "00366",
@@ -5991,16 +5989,16 @@
             "plotStats": {
                 "income": 2,
                 "initiative": 5,
-                "claim": 2,
+                "claim": 0,
                 "reserve": 5
             },
             "traits": [
                 "Summer",
                 "Winter"
             ],
-            "text": "<b>When Revealed:</b> You may increase the gold value on Feast or Famine by 5. If you do, reduce the claim value on Feast of Famine by 2.\n<b>Draft format only.</b>",
+            "text": "<b>When Revealed:</b> Either, increase the gold value on Feast or Famine by 5, or increase the claim value on Feast or Famine by 2.\n<b>Draft format only.</b>",
             "deckLimit": 2,
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/VDS/00006.png"
+            "imageUrl": "https://i.imgur.com/rYLDLUT.png"
         },
         {
             "code": "00367",
@@ -6011,124 +6009,39 @@
             "faction": "neutral",
             "plotStats": {
                 "income": 4,
-                "initiative": 8,
+                "initiative": 2,
                 "claim": 1,
                 "reserve": 6
             },
             "traits": [
                 "Omen"
             ],
-            "text": "<b>When Revealed:</b> Each player chooses any number of characters he or she controls with total printed cost 10 or lower. Kill each character not chosen (cannot be saved).\n<b>Draft format only.</b>",
+            "text": "<b>When Revealed:</b> Each player chooses any number of characters he or she controls with total printed cost 10 or lower. Kill each character not chosen.\n<b>Draft format only.</b>",
             "deckLimit": 2,
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/VDS/00008.png"
+            "imageUrl": "https://i.imgur.com/kzWtF3h.png"
         },
         {
             "code": "00368",
             "type": "plot",
-            "name": "Confiscation",
-            "octgnId": "446ac0b9-746f-4aa3-b8bf-f132d2b29499",
-            "quantity": 1,
-            "faction": "neutral",
-            "plotStats": {
-                "income": 4,
-                "initiative": 5,
-                "claim": 1,
-                "reserve": 6
-            },
-            "traits": [
-                "Edict"
-            ],
-            "text": "<b>When Revealed:</b> Choose an attachment, and discard it from play.",
-            "deckLimit": 2,
-            "illustrator": "Sebastian Giacobino",
-            "imageUrl": "https://lcg-cdn.fantasyflightgames.com/got2nd/GT01_9.jpg"
-        },
-        {
-            "code": "00369",
-            "type": "plot",
-            "name": "Jousting Contest",
-            "octgnId": "0b94080f-2207-4663-8990-f9370ab77709",
-            "quantity": 1,
-            "faction": "neutral",
-            "plotStats": {
-                "income": 4,
-                "initiative": 3,
-                "claim": 1,
-                "reserve": 6
-            },
-            "traits": [
-                "War"
-            ],
-            "text": "Each player cannot declare more than 1 character as an attacker or defender in each challenge.",
-            "deckLimit": 2,
-            "illustrator": "John Gravato",
-            "imageUrl": "https://lcg-cdn.fantasyflightgames.com/got2nd/GT01_14.jpg"
-        },
-        {
-            "code": "00370",
-            "type": "plot",
-            "name": "Calling the Banners",
-            "octgnId": "3a3577a4-5ee1-4e9f-a674-49e9f9e81568",
-            "quantity": 1,
-            "faction": "neutral",
-            "plotStats": {
-                "income": 3,
-                "initiative": 6,
-                "claim": 1,
-                "reserve": 6
-            },
-            "traits": [
-                "Kingdom"
-            ],
-            "text": "<b>When Revealed:</b> Choose an opponent. Gain 1 gold for each character that player controls.",
-            "deckLimit": 2,
-            "illustrator": "Jason Engle",
-            "imageUrl": "https://lcg-cdn.fantasyflightgames.com/got2nd/GT01_7.jpg"
-        },
-        {
-            "code": "00371",
-            "type": "plot",
-            "name": "False Spring",
-            "octgnId": "028a35d4-2b16-4386-b1d8-e405adde4a37",
+            "name": "City of Arts",
             "quantity": 3,
             "faction": "neutral",
             "plotStats": {
                 "income": 5,
                 "initiative": 3,
                 "claim": 1,
-                "reserve": 5
-            },
-            "traits": [
-                "Winter"
-            ],
-            "text": "<b>When Revealed:</b> Each opponent chooses and reveals 3 cards from his or her hand, if able. You may choose and discard 1 revealed card from any number of those hands.",
-            "deckLimit": 1,
-            "illustrator": "Sebastian Rodriguez",
-            "imageUrl": "https://lcg-cdn.fantasyflightgames.com/got2nd/GT30_52.jpg"
-        },
-        {
-            "code": "00372",
-            "type": "plot",
-            "name": "City of Secrets",
-            "octgnId": "70fb1269-9ee6-4d45-b19e-8c79e2be0fda",
-            "quantity": 3,
-            "faction": "neutral",
-            "plotStats": {
-                "income": 4,
-                "initiative": 4,
-                "claim": 1,
-                "reserve": 8
+                "reserve": 7
             },
             "traits": [
                 "City"
             ],
-            "text": "<b>When Revealed:</b> Each player draws 2 cards. Then, each player without a <i>City</i> plot card in his or her used pile chooses and discards 2 cards from his or her hand.",
+            "text": "<b>When Revealed:</b> Draw 1 card. (Draw 2 cards instead if there is a <i>City</i> plot card in your used pile.)\n<b>Draft format only.</b>",
             "deckLimit": 2,
-            "illustrator": "Paolo Puggioni",
-            "imageUrl": "https://lcg-cdn.fantasyflightgames.com/got2nd/GT46_19.jpg"
+            "illustrator": "?",
+            "imageUrl": "https://i.imgur.com/zIQzLTt.png"
         },
         {
-            "code": "00373",
+            "code": "00369",
             "type": "plot",
             "name": "Manning the City Walls",
             "octgnId": null,
@@ -6144,54 +6057,130 @@
                 "City",
                 "War"
             ],
-            "text": "<b>When Revealed:</b> Put a non-unique character with printed cost 3 or lower into play from your hand. (Printed cost 6 or lower instead if there is a <i>City</i> plot card in your used pile.)",
+            "text": "<b>When Revealed:</b> Put a character with printed cost 3 or lower into play from your hand. (Printed cost 6 or lower instead if there is a <i>City</i> plot card in your used pile.)\n<b>Draft format only.</b>",
             "deckLimit": 2,
-            "illustrator": "Joshua Cairós",
-            "imageUrl": "https://lcg-cdn.fantasyflightgames.com/got2nd/GT48_60.jpg"
+            "illustrator": "?",
+            "imageUrl": "https://i.imgur.com/6TPIFPR.png"
         },
         {
-            "code": "00374",
+            "code": "00370",
             "type": "plot",
-            "name": "A Clash of Kings",
-            "octgnId": "de88edda-f5a4-4985-8ac1-2b8205c13416",
+            "name": "Razed to the Ground",
             "quantity": 1,
             "faction": "neutral",
             "plotStats": {
                 "income": 4,
-                "initiative": 9,
+                "initiative": 6,
                 "claim": 1,
-                "reserve": 6
+                "reserve": 4
             },
             "traits": [
-                "Noble"
+                "Siege"
             ],
-            "text": "<b>Reaction:</b> After you win a [power] challenge, move 1 power from the losing opponent's faction card to your own.",
+            "text": "During the first [military] challenge you initiate during the challenges phase, raise the claim value on Razed to the Ground by 1.\n<b>Draft format only.</b>",
             "deckLimit": 2,
-            "illustrator": "Smirtouille",
-            "imageUrl": "https://lcg-cdn.fantasyflightgames.com/got2nd/GT01_1.jpg"
+            "illustrator": "?",
+            "imageUrl": "https://i.imgur.com/JQVIPnv.png"
         },
         {
-            "code": "00375",
+            "code": "00371",
             "type": "plot",
-            "name": "Varys's Riddle",
-            "octgnId": "d68d7083-089d-4d28-8249-e70613639680",
+            "name": "Bitter Accusation",
             "quantity": 3,
             "faction": "neutral",
             "plotStats": {
                 "income": 5,
-                "initiative": 6,
+                "initiative": 4,
                 "claim": 1,
                 "reserve": 7
             },
             "traits": [
-                "Riddle",
                 "Scheme"
             ],
-            "text": "<b>When Revealed:</b> Initiate the when revealed ability on a revealed non-<i>Riddle</i> plot card as if you had just revealed it.",
-            "flavor": "\"In a room sit three great men, a king, a priest, and a rich man with his gold. Between them stands a sellsword, a little man of common birth and no great mind. Each of the great ones bids him slay the other two.\" <cite>Varys</cite>",
+            "text": "<b>Reaction:</b> After you win an [intrigue] challenge, draw X cards, then discard 1 card. X is the claim value on Bitter Accusation.\n<b>Draft format only.</b>",
             "deckLimit": 2,
-            "illustrator": "Serena Malyon",
-            "imageUrl": "https://lcg-cdn.fantasyflightgames.com/got2nd/GT09_20.jpg"
+            "illustrator": "?",
+            "imageUrl": "https://i.imgur.com/lFKyuRX.png"
+        },
+        {
+            "code": "00372",
+            "type": "plot",
+            "name": "Royal Decree",
+            "quantity": 1,
+            "faction": "neutral",
+            "plotStats": {
+                "income": 3,
+                "initiative": 7,
+                "claim": 1,
+                "reserve": 4
+            },
+            "traits": [
+                "Edict"
+            ],
+            "text": "You may initiate an additional [power] challenge during the challenges phase.\n<b>Draft format only.</b>",
+            "deckLimit": 2,
+            "illustrator": "?",
+            "imageUrl": "https://i.imgur.com/uz6KLTp.png"
+        },
+        {
+            "code": "00373",
+            "type": "plot",
+            "name": "Jousting Contest",
+            "quantity": 1,
+            "faction": "neutral",
+            "plotStats": {
+                "income": 4,
+                "initiative": 4,
+                "claim": 1,
+                "reserve": 5
+            },
+            "traits": [
+                "War"
+            ],
+            "text": "Each player cannot declare more than 1 character as an attacker or defender in each challenge.\n<b>Draft format only.</b>",
+            "deckLimit": 2,
+            "illustrator": "?",
+            "imageUrl": "https://i.imgur.com/NnL5ig2.png"
+        },
+        {
+            "code": "00374",
+            "type": "plot",
+            "name": "Freezing Cold",
+            "quantity": 1,
+            "faction": "neutral",
+            "plotStats": {
+                "income": 3,
+                "initiative": 5,
+                "claim": 1,
+                "reserve": 5
+            },
+            "traits": [
+                "Winter"
+            ],
+            "text": "<b>When Revealed:</b> Kneel each character with printed cost 2 or lower.\n<b>Draft format only.</b>",
+            "deckLimit": 2,
+            "illustrator": "?",
+            "imageUrl": "https://i.imgur.com/yekbpQO.png"
+        },
+        {
+            "code": "00375",
+            "type": "plot",
+            "name": "Devious Assault",
+            "quantity": 3,
+            "faction": "neutral",
+            "plotStats": {
+                "income": 4,
+                "initiative": 6,
+                "claim": 1,
+                "reserve": 6
+            },
+            "traits": [
+                "War"
+            ],
+            "text": "<b>Action:</b> Choose a character. Until the end of the phase, that character gains a challenge icon or <i>Trait</i> of your choice. (Limit once per phase.)\n<b>Draft format only.</b>",
+            "deckLimit": 2,
+            "illustrator": "?",
+            "imageUrl": "https://i.imgur.com/fB5SEnI.png"
         }
     ]
 }
