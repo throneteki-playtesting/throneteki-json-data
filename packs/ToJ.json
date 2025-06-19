@@ -383,7 +383,7 @@
             "text": "Shadow (3).\n<b>Reaction:</b> After Myrish Pirates enters play during the challenges phase, either: move 1 power, or move 1 gold from a character you don't control to a character you control.\n<b>Draft format only.</b>",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/Q3ahFM3.png"
+            "imageUrl": "https://i.imgur.com/eXUnvWw.png"
         },
         {
             "code": "00117",
@@ -530,7 +530,7 @@
             "text": "Nightfort Ruins contributes 1 STR to any [power] challenge in which you control a participating character. (2 STR instead if Nightfort Ruins is kneeling.)\n+1 Reserve.\n<b>Draft format only.</b>",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/3fUE0hx.png"
+            "imageUrl": "https://i.imgur.com/EB05WwF.png"
         },
         {
             "code": "00123",
@@ -549,7 +549,7 @@
             "text": "Attached character gains a [power] icon and intimidate.\n<b>Forced Reaction:</b> After attached character is declared as an attacker, at the end of the phase, sacrifice Flaming Sword.\n<b>Draft format only.</b>",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/mzzP7B3.png"
+            "imageUrl": "https://i.imgur.com/WLW12iE.png"
         },
         {
             "code": "00124",
@@ -593,15 +593,15 @@
             },
             "strength": 5,
             "traits": [
-                "King",
                 "Ironborn",
+                "King",
                 "Lord",
                 "Raider"
             ],
             "text": "Intimidate. Pillage.\n<b>Reaction:</b> After a character you control discards a non-character card using pillage, that character gains 1 power. (Limit twice per round.)\n<b>Draft format only.</b>",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/Mgpnttp.png"
+            "imageUrl": "https://i.imgur.com/jENj7LC.png"
         },
         {
             "code": "00126",
@@ -987,7 +987,7 @@
             "text": "Bestow (3). Pillage.\nWhile Saltcliffe Marauder has 1 or more gold, it gains stealth.<b>Action:</b> Discard 1 gold from Saltcliffe Marauder to choose a character. Until the end of the phase, that character gains stealth.\n<b>Draft format only.</b>",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/yMsmSdc.png"
+            "imageUrl": "https://i.imgur.com/Q0Ha0zP.png"
         },
         {
             "code": "00142",
@@ -1057,17 +1057,16 @@
             },
             "strength": 1,
             "traits": [
-                "Steward",
-                "Old Gods"
+                "Old Gods",
+                "Steward"
             ],
             "text": "<b>Reaction:</b> After a card enters play during the challenges phase, kneel Stony Shore Thrall to choose an opponent. Reduce the reserve value on that player's revealed plot card by 1 (to a minimum of 2) until they reveal a new plot card. Then you may have each player check reserve.\n<b>Draft format only.</b>",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/Ho3Lwd5.png"
+            "imageUrl": "https://i.imgur.com/B3NRu7y.png"
         },
         {
             "code": "00145",
-            "version": "1.0.1",
             "type": "attachment",
             "name": "Raider's Axe",
             "octgnId": null,
@@ -1544,7 +1543,7 @@
             "text": "Bestow (1).\n<b>Challenges Action:</b> Discard 1 gold from Cruel Brigand to put a character with printed cost 4 or lower into play from your hand. At the end of the phase, if that card is still in play, discard it from play.\n<b>Draft format only.</b>",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/ccdzBpc.png"
+            "imageUrl": "https://i.imgur.com/zLbVDa4.png"
         },
         {
             "code": "00166",
@@ -1568,7 +1567,7 @@
             "text": "<b>Challenges Action:</b> Move 1 gold from a character you control to your gold pool to have Debt Collector gain insight until the end of the phase. (Limit once per phase.)\n<b>Draft format only.</b>",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/bn2iMiX.png"
+            "imageUrl": "https://i.imgur.com/hf5BL6V.png"
         },
         {
             "code": "00167",
@@ -1986,7 +1985,7 @@
             "text": "Shadow (3).\n<b>Reaction:</b> After Starfall Servant enters play, choose a character. Until the end of the phase, that character loses a challenge icon of your choice.\n<b>Draft format only.</b>",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/QrCaUKl.png"
+            "imageUrl": "https://i.imgur.com/JLKCcrE.png"
         },
         {
             "code": "00186",
@@ -2087,7 +2086,7 @@
             "text": "Bestow (2).\n<b>Challenges Action:</b> Discard 1 gold from Desert Freerider to choose a character. Until the end of the phase, that character gains or loses an [intrigue] icon.\n<b>Draft format only.</b>",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/VKdiFd3.png"
+            "imageUrl": "https://i.imgur.com/uLmZMDC.png"
         },
         {
             "code": "00190",
@@ -2111,7 +2110,7 @@
             "text": "<b>Interrupt:</b> When Vengeful Lordling is killed, choose a character. Until the end of the phase, that character loses a challenge icon of your choice.\n<b>Draft format only.</b>",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/lYuoySz.png"
+            "imageUrl": "https://i.imgur.com/TW3xdLS.png"
         },
         {
             "code": "00191",
@@ -2509,7 +2508,7 @@
             "text": "Intimidate.\n<b>Reaction:</b> After you win a challenge in which Mance's Warriors is attacking, reveal the top card of each player's deck. You may either: discard each of those cards, or have each player draw 1 card.\n<b>Draft format only.</b>",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/Cu7qvfu.png"
+            "imageUrl": "https://i.imgur.com/4HQVIuQ.png"
         },
         {
             "code": "00209",
@@ -2609,7 +2608,7 @@
             "text": "Shadow (2).\n<b>Reaction:</b> After Wall-Bound Knight enters play during the challenges phase, move 1 gold from an opponent's gold pool or a card an opponent controls to your gold pool.\n<b>Draft format only.</b>",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/AIYfaUk.png"
+            "imageUrl": "https://i.imgur.com/PUPB2wk.png"
         },
         {
             "code": "00213",
@@ -2688,10 +2687,10 @@
                 "Lord",
                 "Old Gods"
             ],
-            "text": "Intimidate. Renown.\n<b>Action:</b> Kneel a non-limited location to give a participating character +X STR until the end of the challenge. X is that location's printed cost. (+X+1 STR instead if you control Grey Wind.) (Limit twice per round.)",
+            "text": "Intimidate. Renown.\n<b>Action:</b> Kneel a non-limited location to give a participating character +X STR until the end of the challenge. X is that location's printed cost. (X is 1 higher than that location's printed cost instead if you control Grey Wind.) (Limit twice per round.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/yExocf7.png"
+            "imageUrl": "https://i.imgur.com/IYIojjh.png"
         },
         {
             "code": "00217",
@@ -3091,7 +3090,7 @@
             "text": "Bestow (2).\n<b>Reaction:</b> After Merman's Guard is declared as an attacker or defender, kneel your faction card and discard 1 gold from Merman's Guard to choose a unique character. Stand that character and it gains renown until the end of the phase.\n<b>Draft format only.</b>",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/BOW7RG6.png"
+            "imageUrl": "https://i.imgur.com/bw6nKfz.png"
         },
         {
             "code": "00234",
@@ -3186,7 +3185,7 @@
             "text": "<b>Reaction:</b> After you initiate a challenge, kneel and sacrifice The Wolfswood to raise the claim by 1 until the end of the challenge. (Max 1 per challenge.)\n+1 Initiative.\n<b>Draft format only.</b>",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/fEsaDi5.png"
+            "imageUrl": "https://i.imgur.com/EPUQRdg.png"
         },
         {
             "code": "00238",
@@ -3607,7 +3606,7 @@
             "text": "Bestow (2).\n<b>Forced Interrupt:</b> When the challenges phase ends, return Long Lances to its owner's hand unless you discard 1 gold from it.\n<b>Draft format only.</b>",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/gKXLLbe.png"
+            "imageUrl": "https://i.imgur.com/wyG5XOc.png"
         },
         {
             "code": "00256",
@@ -3703,7 +3702,7 @@
             "text": "Shadow (2).\nYou may marshal Stormcrows into shadows from your discard pile.\n<b>Reaction:</b> After Stormcrows comes out of shadows, choose a participating character without attachments. Until the end of the challenge, that character gets -1 STR and is killed if its STR is 0.\n<b>Draft format only.</b>",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/ConrNvN.png"
+            "imageUrl": "https://i.imgur.com/NA5f8Id.png"
         },
         {
             "code": "00260",
@@ -3721,7 +3720,7 @@
             "text": "<b>Challenges Action:</b> Sacrifice Fighting Pit to choose and discard a card from your hand. Then, put a character with printed cost 3 or lower into play from your discard pile. At the end of the phase, if that card is still in play, return it to its owner's hand.\n<b>Draft format only.</b>",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/wFuzob7.png"
+            "imageUrl": "https://i.imgur.com/hDqSWXK.png"
         },
         {
             "code": "00261",
@@ -4169,7 +4168,7 @@
             "text": "<b>Reaction:</b> After Wandering Knight enters play, draw 1 card. Then, choose a card in your hand and place it on top of your deck.\n<b>Draft format only.</b>",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/MiagLdr.png"
+            "imageUrl": "https://i.imgur.com/NceV1xG.png"
         },
         {
             "code": "00280",
@@ -4219,7 +4218,7 @@
             "text": "Shadow (2).\n<b>Reaction:</b> After Devout Attendant enters play during a challenge, stand a participating character you control and remove it from the challenge.\n<b>Draft format only.</b>",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/Octxy2K.png"
+            "imageUrl": "https://i.imgur.com/lDoGdMH.png"
         },
         {
             "code": "00282",
@@ -4849,7 +4848,7 @@
             "text": "Mummer's Troupe gets +1 STR for each gold on it. While it has 3 or more gold, it gains renown.\n<b>Reaction:</b> After Mummer's Troupe stands, move 1 gold from the treasury to it or another card you control without gold. (Limit once per round.)\n<b>Draft format only.</b>",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/7nGYgkn.png"
+            "imageUrl": "https://i.imgur.com/juHyE4n.png"
         },
         {
             "code": "00312",
@@ -4870,7 +4869,7 @@
             "text": "Shadow (2).\n<b>Reaction:</b> After Faceless Man enters play, it gains a <i>Trait</i> and a challenge icon of your choice until it leaves play.\n<b>Draft format only.</b>",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/QvSQw0z.png"
+            "imageUrl": "https://i.imgur.com/8lW6XPd.png"
         },
         {
             "code": "00313",
@@ -5052,7 +5051,7 @@
             "text": "Ambush (1).\nAttached character gets +1 STR.\n<b>Action:</b> Kneel and sacrifice Poisoned Arrowhead to choose a character. Until the end of the phase, treat that card as if its printed text box were blank (except for <i>Traits</i>).\n<b>Draft format only.</b>",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/9qw8ot0.png"
+            "imageUrl": "https://i.imgur.com/bZemiVW.png"
         },
         {
             "code": "00321",
@@ -5069,7 +5068,7 @@
             "text": "Character you control only.\nAttached character gains the named <i>Trait</i>.\n<b>Reaction:</b> After Face Mask enters play, name a <i>Trait</i>.\n<b>Draft format only.</b>",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/5a8PalL.png"
+            "imageUrl": "https://i.imgur.com/w3mGt0M.png"
         },
         {
             "code": "00322",
@@ -5974,7 +5973,7 @@
             "traits": [
                 "Westeros"
             ],
-            "text": "Limited.\n<b>Marshaling Action:</b> Kneel Market Square to reduce the cost of the next card you marshal or marshal into shadows this phase by 1.\n<b>Draft format only.</b>",
+            "text": "Limited.\n<b>Marshaling Action:</b> Kneel Market Square to reduce the cost of the next card you marshal <em>(or marshal into shadows)</em> this phase by 1.\n<b>Draft format only.</b>",
             "deckLimit": 3,
             "illustrator": "?",
             "imageUrl": "https://i.imgur.com/4YcounC.png"
