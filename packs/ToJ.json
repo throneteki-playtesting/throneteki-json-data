@@ -515,7 +515,6 @@
         },
         {
             "code": "00122",
-            "version": "1.0.1",
             "type": "location",
             "name": "Nightfort Ruins",
             "octgnId": null,
@@ -5950,6 +5949,7 @@
             "code": "00364",
             "type": "location",
             "name": "Castle Gate",
+            "octgnId": null,
             "quantity": 3,
             "unique": false,
             "faction": "neutral",
@@ -5966,6 +5966,7 @@
             "code": "00365",
             "type": "location",
             "name": "Market Square",
+            "octgnId": null,
             "quantity": 3,
             "unique": false,
             "faction": "neutral",
@@ -5982,6 +5983,7 @@
             "code": "00366",
             "type": "plot",
             "name": "Feast or Famine",
+            "octgnId": null,
             "quantity": 1,
             "faction": "neutral",
             "plotStats": {
@@ -6002,6 +6004,7 @@
             "code": "00367",
             "type": "plot",
             "name": "The Pale Mare",
+            "octgnId": null,
             "quantity": 1,
             "faction": "neutral",
             "plotStats": {
@@ -6021,7 +6024,8 @@
             "code": "00368",
             "type": "plot",
             "name": "City of Arts",
-            "quantity": 3,
+            "octgnId": null,
+            "quantity": 1,
             "faction": "neutral",
             "plotStats": {
                 "income": 5,
@@ -6042,7 +6046,7 @@
             "type": "plot",
             "name": "Manning the City Walls",
             "octgnId": null,
-            "quantity": 3,
+            "quantity": 1,
             "faction": "neutral",
             "plotStats": {
                 "income": 4,
@@ -6063,6 +6067,7 @@
             "code": "00370",
             "type": "plot",
             "name": "Razed to the Ground",
+            "octgnId": null,
             "quantity": 1,
             "faction": "neutral",
             "plotStats": {
@@ -6083,7 +6088,8 @@
             "code": "00371",
             "type": "plot",
             "name": "Bitter Accusation",
-            "quantity": 3,
+            "octgnId": null,
+            "quantity": 1,
             "faction": "neutral",
             "plotStats": {
                 "income": 5,
@@ -6103,6 +6109,7 @@
             "code": "00372",
             "type": "plot",
             "name": "Royal Decree",
+            "octgnId": null,
             "quantity": 1,
             "faction": "neutral",
             "plotStats": {
@@ -6123,6 +6130,7 @@
             "code": "00373",
             "type": "plot",
             "name": "Jousting Contest",
+            "octgnId": null,
             "quantity": 1,
             "faction": "neutral",
             "plotStats": {
@@ -6143,6 +6151,7 @@
             "code": "00374",
             "type": "plot",
             "name": "Freezing Cold",
+            "octgnId": null,
             "quantity": 1,
             "faction": "neutral",
             "plotStats": {
@@ -6163,7 +6172,8 @@
             "code": "00375",
             "type": "plot",
             "name": "Devious Assault",
-            "quantity": 3,
+            "octgnId": null,
+            "quantity": 1,
             "faction": "neutral",
             "plotStats": {
                 "income": 4,
