@@ -1484,7 +1484,7 @@
                 "name": "Brienne of Tarth (ToJ)",
                 "mana_cost": "5",
                 "type": "Creature",
-                "image": "https://i.imgur.com/fekTNFz.png",
+                "image": "https://i.imgur.com/Zh0nCAK.png",
                 "rarity": "rare"
         },
         {

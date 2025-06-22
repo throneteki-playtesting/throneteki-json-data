@@ -4328,7 +4328,7 @@
                 "intrigue": false,
                 "power": true
             },
-            "strength": 5,
+            "strength": 4,
             "traits": [
                 "Knight",
                 "Lady"
@@ -4336,7 +4336,7 @@
             "text": "While there is an attachment attached to Brienne, she gains renown. Brienne gets +1 STR for each attachment attached to her.\n<b>Draft format only.</b>",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/fekTNFz.png"
+            "imageUrl": "https://i.imgur.com/Zh0nCAK.png"
         },
         {
             "code": "00288",
