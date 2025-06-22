@@ -1260,7 +1260,7 @@
                 "name": "Long Lances",
                 "mana_cost": "3",
                 "type": "Creature",
-                "image": "https://i.imgur.com/wyG5XOc.png",
+                "image": "https://i.imgur.com/15gqB4P.png",
                 "rarity": "common"
         },
         {

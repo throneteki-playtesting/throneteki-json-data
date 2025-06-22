@@ -3598,14 +3598,14 @@
                 "intrigue": false,
                 "power": true
             },
-            "strength": 4,
+            "strength": 5,
             "traits": [
                 "Mercenary"
             ],
             "text": "Bestow (2).\n<b>Forced Interrupt:</b> When the challenges phase ends, return Long Lances to its owner's hand unless you discard 1 gold from it.\n<b>Draft format only.</b>",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/wyG5XOc.png"
+            "imageUrl": "https://i.imgur.com/15gqB4P.png"
         },
         {
             "code": "00256",
