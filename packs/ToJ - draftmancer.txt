@@ -1103,7 +1103,7 @@
                 "rarity": "common"
         },
         {
-                "name": "Merman’s Guard",
+                "name": "Merman's Guard",
                 "mana_cost": "3",
                 "type": "Creature",
                 "image": "https://i.imgur.com/bw6nKfz.png",
@@ -2382,7 +2382,7 @@ You Know Nothing (ToJ)
 Corn, Corn, Corn (ToJ)
 The Bastard's Boys (ToJ)
 Crannogmen (ToJ)
-Merman’s Guard
+Merman's Guard
 Trident Guard (ToJ)
 Brynden's Outriders (ToJ)
 Karstark Lancer (ToJ)
@@ -2463,7 +2463,7 @@ You Know Nothing (ToJ)
 Corn, Corn, Corn (ToJ)
 The Bastard's Boys (ToJ)
 Crannogmen (ToJ)
-Merman’s Guard
+Merman's Guard
 Trident Guard (ToJ)
 Brynden's Outriders (ToJ)
 Karstark Lancer (ToJ)
