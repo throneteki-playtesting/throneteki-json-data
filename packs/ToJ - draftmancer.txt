@@ -644,7 +644,7 @@
                 "name": "Crownlands Village",
                 "mana_cost": "2",
                 "type": "Artifact",
-                "image": "https://i.imgur.com/jK49Cmm.png",
+                "image": "https://i.imgur.com/gyzqxdG.png",
                 "rarity": "common"
         },
         {            
@@ -770,7 +770,7 @@
                 "name": "Starfall Servant",
                 "mana_cost": "4",
                 "type": "Creature",
-                "image": "https://i.imgur.com/JLKCcrE.png",
+                "image": "https://i.imgur.com/MXNIl6l.png",
                 "rarity": "common"
         },
         {
@@ -798,7 +798,7 @@
                 "name": "Vengeful Lordling",
                 "mana_cost": "2",
                 "type": "Creature",
-                "image": "https://i.imgur.com/TW3xdLS.png",
+                "image": "https://i.imgur.com/c34FO2U.png",
                 "rarity": "common"
         },
         {
@@ -1337,7 +1337,7 @@
                 "name": "The Knight of Flowers (ToJ)",
                 "mana_cost": "4",
                 "type": "Creature",
-                "image": "https://i.imgur.com/9iNrAWC.png",
+                "image": "https://i.imgur.com/CpXxhDn.png",
                 "rarity": "rare"
         },
         {
@@ -1435,7 +1435,7 @@
                 "name": "Devout Attendant",
                 "mana_cost": "2",
                 "type": "Creature",
-                "image": "https://i.imgur.com/lDoGdMH.png",
+                "image": "https://i.imgur.com/1E241xp.png",
                 "rarity": "common"
         },
         {
