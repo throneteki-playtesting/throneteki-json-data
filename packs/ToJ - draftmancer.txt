@@ -84,7 +84,7 @@
                         "sheets": [
                             {"name": "Rare",   "weight": 1},
                             {"name": "Uncommon",   "weight": 2},
-                            {"name": "CommonAndStarter",   "weight": 4},
+                            {"name": "Common",   "weight": 4},
                             {"name": "Plot",   "weight": 1},
                         ]
                     },
@@ -525,7 +525,7 @@
                 "name": "Ser Lancel Lannister (ToJ)",
                 "mana_cost": "4",
                 "type": "Creature",
-                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/11_Ser%20Lancel%20Lannister.png",
+                "image": "https://i.imgur.com/rCxoqHi.png",
                 "rarity": "rare"
         },
         {            
@@ -641,10 +641,10 @@
                 "rarity": "common"
         },
         {            
-                "name": "Crownlands Village",
+                "name": "Hillside River",
                 "mana_cost": "2",
                 "type": "Artifact",
-                "image": "https://i.imgur.com/gyzqxdG.png",
+                "image": "https://i.imgur.com/4CCAPjZ.png",
                 "rarity": "common"
         },
         {            
@@ -690,17 +690,17 @@
                 "rarity": "rare"
         },
         {
+                "name": "Elia Sand (ToJ)",
+                "mana_cost": "4",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/JS/7_Elia_Sand_ENG.png",
+                "rarity": "rare"
+        },
+        {
                 "name": "The Tattered Prince (ToJ)",
                 "mana_cost": "3",
                 "type": "Creature",
                 "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FH/8_Tattered.png",
-                "rarity": "rare"
-        },
-        {
-                "name": "Sunspear (ToJ)",
-                "mana_cost": "5",
-                "type": "Artifact",
-                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/12_Sunspear%20copy.png",
                 "rarity": "rare"
         },
         {
@@ -2076,17 +2076,17 @@
                 "rarity": "special"
         },
         {
-                "name": "Castle Gate",
+                "name": "Holdfast Village",
                 "mana_cost": "1",
                 "type": "Artifact",
-                "image": "https://i.imgur.com/pHkFPAR.png",
+                "image": "https://i.imgur.com/lHXF6lf.png",
                 "rarity": "special"
         },
         {
                 "name": "Market Square",
                 "mana_cost": "0",
                 "type": "Artifact",
-                "image": "https://i.imgur.com/4YcounC.png",
+                "image": "https://i.imgur.com/JUiHN6F.png",
                 "rarity": "special"
         },
         {
@@ -2104,10 +2104,10 @@
                 "rarity": "special"
         },
         {
-                "name": "City of Arts",
+                "name": "City Fair",
                 "mana_cost": "4",
                 "type": "Sorcery",
-                "image": "https://i.imgur.com/zIQzLTt.png",
+                "image": "https://i.imgur.com/bJKlIcu.png",
                 "rarity": "special"
         },
         {
@@ -2153,10 +2153,10 @@
                 "rarity": "special"
         },
         {
-                "name": "Devious Assault",
+                "name": "Secrets of Oldtown",
                 "mana_cost": "4",
                 "type": "Sorcery",
-                "image": "https://i.imgur.com/XiF3oxr.png",
+                "image": "https://i.imgur.com/Mw7ehoy.png",
                 "rarity": "special"
         }
 ]
@@ -2187,7 +2187,7 @@ Anders Yronwood (ToJ)
 Arianne Martell (ToJ)
 Ser Arys Oakheart (ToJ)
 The Tattered Prince (ToJ)
-Sunspear (ToJ)
+Elia Sand (ToJ)
 Sword of the Morning (ToJ)
 Great Ranging (ToJ)
 Melisandre (ToJ)
@@ -2361,7 +2361,7 @@ Cruel Brigand
 Oxcross Survivors (ToJ)
 Ashemark Councillor (ToJ)
 Debt Collector
-Crownlands Village
+Hillside River
 Burning Bright (ToJ)
 One, Two, Three (ToJ)
 Starfall Servant
@@ -2420,90 +2420,6 @@ Face Mask
 "Florian and Jonquil" (ToJ)
 Calm as Still Water (ToJ)
 "A Thousand Eyes, and One" (ToJ)
-[CommonAndStarter]
-Myrish Pirates
-Blackhaven Rider (ToJ)
-The Holy Hundred (ToJ)
-Acolyte of the Shadow (ToJ)
-Antler Men (ToJ)
-Sellsails (ToJ)
-Nightfort Ruins
-Flaming Sword
-Fleet from Ten Towers (ToJ)
-Great Kraken's Crew (ToJ)
-Saltcliffe Marauder
-Harlaw Scout (ToJ)
-Old Captain (ToJ)
-Stony Shore Thrall
-Raider's Axe
-Though All Men Do Despise Us (ToJ)
-Warrior's Sons (ToJ)
-Cruel Brigand
-Oxcross Survivors (ToJ)
-Ashemark Councillor (ToJ)
-Debt Collector
-Crownlands Village
-Burning Bright (ToJ)
-One, Two, Three (ToJ)
-Starfall Servant
-Windblown (ToJ)
-Scheming Snake (ToJ)
-Scorpion Knight (ToJ)
-Vengeful Lordling
-Desert Freerider
-A Bed of Scorpions (ToJ)
-Red Mountains (ToJ)
-Mance's Warriors
-Abel's Washerwoman
-Marsh's Conspirator (ToJ)
-Old Steward (ToJ)
-Wall-Bound Knight
-Highborn Recruit (ToJ)
-You Know Nothing (ToJ)
-Corn, Corn, Corn (ToJ)
-The Bastard's Boys (ToJ)
-Crannogmen (ToJ)
-Merman's Guard
-Trident Guard (ToJ)
-Brynden's Outriders (ToJ)
-Karstark Lancer (ToJ)
-The Wolfswood (ToJ)
-Wolf Dreams (ToJ)
-Golden Company (ToJ)
-Long Lances
-Stalwart Shields (ToJ)
-Warlock of Qarth (ToJ)
-Free Brothers (ToJ)
-Stormcrows (ToJ)
-Fighting Pit
-Naught but Ashes (ToJ)
-Blackwater Forces (ToJ)
-Wandering Knight
-Red-Apple Knight (ToJ)
-Devout Attendant
-Arbor Jester
-Brienne the Blue (ToJ)
-Behold our Bounty (ToJ)
-A Wall of Roses (ToJ)
-Gulltown City Guard (ToJ)
-King's Landing Mob (ToJ)
-Mummer's Troupe
-Faceless Man (ToJ)
-Thenns (ToJ)
-Winged Knight (ToJ)
-King's Landing Smuggler (ToJ)
-Squire (ToJ)
-Little Bird (ToJ)
-Gulltown Merchant (ToJ)
-The Highroad (ToJ)
-Poisoned Arrowhead
-Face Mask
-"Florian and Jonquil" (ToJ)
-Calm as Still Water (ToJ)
-"A Thousand Eyes, and One" (ToJ)
-Pentoshi Trader
-Market Square
-Castle Gate
 [Starter {"collation": "printRun", "groupSize": 33}]
 House Baratheon
 House Greyjoy
@@ -2525,16 +2441,16 @@ Pentoshi Trader
 Market Square
 Market Square
 Market Square
-Castle Gate
-Castle Gate
-Castle Gate
+Holdfast Village
+Holdfast Village
+Holdfast Village
 Feast or Famine (ToJ)
 The Pale Mare (ToJ)
-City of Arts
+City Fair
 Manning the City Walls (ToJ)
 Razed to the Ground
 Bitter Accusation
 Royal Decree
 Jousting Contest (ToJ)
 Freezing Cold
-Devious Assault
+Secrets of Oldtown

@@ -1196,11 +1196,11 @@
                 "Knight",
                 "The Seven"
             ],
-            "text": "Power on <i>Lord</i> or <i>Lady</i> characters does not count towards their controllers' power total.\n<b>Action:</b> Kneel Ser Lancel Lannister to put Warrior's Sons into play from your hand or discard pile.",
+            "text": "Power on <i>Lord</i> or <i>Lady</i> characters does not count towards their controllers' power total.\n<b>Action:</b> Kneel Ser Lancel Lannister to put a <i>The Seven</i> character into play from your hand or discard pile.",
             "flavor": "\"On the morrow I will return to King's Landing and swear my sword to the new High Septon and the Seven. I mean to take vows and join the Warrior's Sons.\"",
             "deckLimit": 40,
             "illustrator": "Tomasz Jedruszek",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/11_Ser%20Lancel%20Lannister.png"
+            "imageUrl": "https://i.imgur.com/rCxoqHi.png"
         },
         {
             "code": "00151",
@@ -1571,7 +1571,7 @@
         {
             "code": "00167",
             "type": "location",
-            "name": "Crownlands Village",
+            "name": "Hillside River",
             "octgnId": null,
             "quantity": 3,
             "unique": false,
@@ -1579,12 +1579,12 @@
             "loyal": false,
             "cost": 2,
             "traits": [
-                "Westeros"
+                "The Westerlands"
             ],
-            "text": "Interrupt: When claim would be applied for an [intrigue] challenge in which you are the attacking player, if the losing opponent has fewer cards in hand than you, sacrifice Crownlands Village to apply [power] claim instead.\n+1 Income.\n<b>Draft format only.</b>",
+            "text": "Interrupt: When claim would be applied for an [intrigue] challenge in which you are the attacking player, if the losing opponent has fewer cards in hand than you, sacrifice Hillside River to apply [power] claim instead.\n+1 Income.\n<b>Draft format only.</b>",
             "deckLimit": 40,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/gyzqxdG.png"
+            "imageUrl": "https://i.imgur.com/4CCAPjZ.png"
         },
         {
             "code": "00168",
@@ -1720,6 +1720,32 @@
         {
             "code": "00174",
             "type": "character",
+            "name": "Elia Sand",
+            "octgnId": null,
+            "quantity":3,
+            "unique":true,
+            "faction":"martell",
+            "loyal":true,
+            "cost":4,
+            "icons":{
+                "military":true,
+                "intrigue":true,
+                "power":false
+            },
+            "strength":3,
+            "traits":[
+                "Bastard",
+                "Sand Snake"
+            ],
+            "text":"While Elia Sand is attacking, if you control another attacking <i>Sand Snake</i> character, raise the claim value on your revealed plot card by 1.",
+            "flavor": "The girl was mad for horses, which might be why she often smelled like one, to the despair of her mother.",
+            "deckLimit": 40,
+            "illustrator":"Cristina Vela",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/JS/7_Elia_Sand_ENG.png"
+        },
+        {
+            "code": "00175",
+            "type": "character",
             "name": "The Tattered Prince",
             "octgnId": "null",
             "quantity": 3,
@@ -1741,25 +1767,6 @@
             "deckLimit": 40,
             "illustrator": "Diego Gisbert Llorens",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FH/8_Tattered.png"
-        },
-        {
-            "code": "00175",
-            "type": "location",
-            "name": "Sunspear",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": true,
-            "faction": "martell",
-            "loyal": true,
-            "cost": 5,
-            "traits": [
-                "Dorne",
-                "Stronghold"
-            ],
-            "text": "During the challenges phase, you may spend gold on Sunspear as if it were in your gold pool.\n<b>Reaction:</b> After a [martell] card enters play under your control, Sunspear gains 1 gold. (2 gold instead if that card is a <i>Lord</i> or <i>Lady</i> character.) (Limit once per phase.)",
-            "deckLimit": 40,
-            "illustrator": "Ted Nasmith",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/12_Sunspear%20copy.png"
         },
         {
             "code": "00176",
@@ -5941,14 +5948,14 @@
                 "Merchant"
             ],
             "text": "<b>Marshaling Action:</b> Kneel Pentoshi Trader to reduce the cost of the next character you marshal this phase by 1.\n<b>Draft format only.</b>",
-            "deckLimit": 40,
+            "deckLimit": 3,
             "illustrator": "?",
             "imageUrl": "https://i.imgur.com/rSY4n3i.png"
         },
         {
             "code": "00364",
             "type": "location",
-            "name": "Castle Gate",
+            "name": "Holdfast Village",
             "octgnId": null,
             "quantity": 3,
             "unique": false,
@@ -5957,10 +5964,10 @@
             "traits": [
                 "Westeros"
             ],
-            "text": "Limited.\n<b>Marshaling Action:</b> Kneel Castle Gate to gain 1 gold.\n<b>Action:</b> Sacrifice Castle Gate to draw 1 card.\n<b>Draft format only.</b>",
-            "deckLimit": 40,
+            "text": "Limited.\n<b>Marshaling Action:</b> Kneel Holdfast Village to reduce the cost of the next card you marshal <em>(or marshal into shadows)</em> this phase by 1.\n<b>Action:</b> Sacrifice Holdfast Village to either: gain 1 gold, or draw 1 card.\n<b>Draft format only.</b>",
+            "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/pHkFPAR.png"
+            "imageUrl": "https://i.imgur.com/lHXF6lf.png"
         },
         {
             "code": "00365",
@@ -5974,10 +5981,10 @@
             "traits": [
                 "Westeros"
             ],
-            "text": "Limited.\n<b>Marshaling Action:</b> Kneel Market Square to reduce the cost of the next card you marshal <em>(or marshal into shadows)</em> this phase by 1.\n<b>Draft format only.</b>",
-            "deckLimit": 40,
+            "text": "Limited.\n<b>Marshaling Action:</b> Kneel and sacrifice Market Square to gain 2 gold.\n<b>Draft format only.</b>",
+            "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/4YcounC.png"
+            "imageUrl": "https://i.imgur.com/JUiHN6F.png"
         },
         {
             "code": "00366",
@@ -6023,7 +6030,7 @@
         {
             "code": "00368",
             "type": "plot",
-            "name": "City of Arts",
+            "name": "City Fair",
             "octgnId": null,
             "quantity": 1,
             "faction": "neutral",
@@ -6039,7 +6046,7 @@
             "text": "<b>When Revealed:</b> Draw 1 card. (Draw 2 cards instead if there is a <i>City</i> plot card in your used pile.)\n<b>Draft format only.</b>",
             "deckLimit": 2,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/DyDoJBb.png"
+            "imageUrl": "https://i.imgur.com/3B82lG0.png"
         },
         {
             "code": "00369",
@@ -6171,7 +6178,7 @@
         {
             "code": "00375",
             "type": "plot",
-            "name": "Devious Assault",
+            "name": "Secrets of Oldtown",
             "octgnId": null,
             "quantity": 1,
             "faction": "neutral",
@@ -6182,12 +6189,12 @@
                 "reserve": 6
             },
             "traits": [
-                "War"
+                "Riddle"
             ],
             "text": "<b>Action:</b> Choose a character. Until the end of the phase, that character gains a challenge icon or <i>Trait</i> of your choice. (Limit once per round.)\n<b>Draft format only.</b>",
             "deckLimit": 2,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/79AiykF.png"
+            "imageUrl": "https://i.imgur.com/NfFXKy3.png"
         }
     ]
 }
