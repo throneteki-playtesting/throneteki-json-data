@@ -1712,10 +1712,10 @@
                 "rarity": "common"
         },
         {
-                "name": "Poisoned Arrowhead",
+                "name": "Quill and Parchment",
                 "mana_cost": "1",
                 "type": "Enchantment",
-                "image": "https://i.imgur.com/bZemiVW.png",
+                "image": "https://i.imgur.com/YZgjGHO.png",
                 "rarity": "common"
         },
         {
@@ -2359,7 +2359,7 @@ Though All Men Do Despise Us (ToJ)
 Warrior's Sons (ToJ)
 Cruel Brigand
 Oxcross Survivors (ToJ)
-Ashemark Councillor (ToJ)
+Ashemark Councilor (ToJ)
 Debt Collector
 Hillside River
 Burning Bright (ToJ)
@@ -2415,7 +2415,7 @@ Squire (ToJ)
 Little Bird (ToJ)
 Gulltown Merchant (ToJ)
 The Highroad (ToJ)
-Poisoned Arrowhead
+Quill and Parchment
 Face Mask
 "Florian and Jonquil" (ToJ)
 Calm as Still Water (ToJ)
