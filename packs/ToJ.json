@@ -553,31 +553,6 @@
         {
             "code": "00124",
             "type": "character",
-            "name": "The Iron Fleet",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": true,
-            "faction": "greyjoy",
-            "loyal": true,
-            "cost": 8,
-            "icons": {
-                "military": true,
-                "intrigue": false,
-                "power": true
-            },
-            "strength": 8,
-            "traits": [
-                "Army",
-                "Raider"
-            ],
-            "text": "Assault. No attachments. Pillage.\nReduce the cost of each <i>Raider</i> character you marshal by 1.\n<b>Reaction:</b> After you initiate a challenge in which you control an attacking <i>Raider</i> character, discard the top card of each opponent's deck.",
-            "deckLimit": 40,
-            "illustrator": "Tomasz Jedruszek",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/04_The%20Iron%20Fleet.png"
-        },
-        {
-            "code": "00125",
-            "type": "character",
             "name": "Euron Crow's Eye",
             "octgnId": null,
             "quantity": 3,
@@ -601,6 +576,33 @@
             "deckLimit": 40,
             "illustrator": "?",
             "imageUrl": "https://i.imgur.com/jENj7LC.png"
+        },
+        {
+            "code": "00125",
+            "type": "character",
+            "name": "Ralf the Limper",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "greyjoy",
+            "loyal": true,
+            "cost": 6,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 5,
+            "traits": [
+                "Captain",
+                "Ironborn",
+                "Raider"
+            ],
+            "text": "Pillage. Shadow (5).\n<b>Reaction:</b> After a non-character card is discarded from an opponent's deck, choose a card you control with shadow and return it to shadows. (Limit twice per round.)",
+            "flavor": "\"The Crow's Eye has been too long away. He knows us not.\"",
+            "deckLimit": 40,
+            "illustrator": "Rafal Hrynkiewicz",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WoW/23_Ralf_the_Limper.png"
         },
         {
             "code": "00126",
@@ -1496,31 +1498,6 @@
         {
             "code": "00164",
             "type": "character",
-            "name": "Oxcross Survivors",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": false,
-            "faction": "lannister",
-            "loyal": false,
-            "cost": 3,
-            "icons": {
-                "military": true,
-                "intrigue": false,
-                "power": true
-            },
-            "strength": 1,
-            "traits": [
-                "Army"
-            ],
-            "text": "No attachments.\nWhile you control a <i>Lord</i> or <i>Commander</i> character, Oxcross Survivors gets +3 STR and gains assault.",
-            "flavor": "\"Our cousin Ser Daven is reforming the remnants of his late father's army at Lannisport.\" <cite>Tywin Lannister</cite>",
-            "deckLimit": 40,
-            "illustrator": "Tomasz Jedruszek",
-            "imageUrl": "https://i.imgur.com/CTNHfy5.png"
-        },
-        {
-            "code": "00165",
-            "type": "character",
             "name": "Cruel Brigand",
             "octgnId": null,
             "quantity": 3,
@@ -1543,6 +1520,30 @@
             "deckLimit": 40,
             "illustrator": "?",
             "imageUrl": "https://i.imgur.com/zLbVDa4.png"
+        },
+        {
+            "code": "00165",
+            "type": "character",
+            "name": "The Imp's Agent",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "Spy"
+            ],
+            "text": "Shadow (3).\n<b>Reaction:</b> After you win a challenge in which The Imp's Agent is participating, return it to shadows to have the losing opponent choose a card in their hand and place it on the top or bottom of their deck.",
+            "deckLimit": 40,
+            "illustrator": "Marc Scheff",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WoW/25_The_Imps_Agent.png"
         },
         {
             "code": "00166",
@@ -1722,25 +1723,25 @@
             "type": "character",
             "name": "Elia Sand",
             "octgnId": null,
-            "quantity":3,
-            "unique":true,
-            "faction":"martell",
-            "loyal":true,
-            "cost":4,
-            "icons":{
-                "military":true,
-                "intrigue":true,
-                "power":false
+            "quantity": 3,
+            "unique": true,
+            "faction": "martell",
+            "loyal": true,
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
             },
-            "strength":3,
-            "traits":[
+            "strength": 3,
+            "traits": [
                 "Bastard",
                 "Sand Snake"
             ],
-            "text":"While Elia Sand is attacking, if you control another attacking <i>Sand Snake</i> character, raise the claim value on your revealed plot card by 1.",
+            "text": "While Elia Sand is attacking, if you control another attacking <i>Sand Snake</i> character, raise the claim value on your revealed plot card by 1.",
             "flavor": "The girl was mad for horses, which might be why she often smelled like one, to the despair of her mother.",
             "deckLimit": 40,
-            "illustrator":"Cristina Vela",
+            "illustrator": "Cristina Vela",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/JS/7_Elia_Sand_ENG.png"
         },
         {
@@ -3617,6 +3618,31 @@
         {
             "code": "00256",
             "type": "character",
+            "name": "Sorrowful Man",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "targaryen",
+            "loyal": true,
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Ally"
+            ],
+            "text": "Shadow (2).\n<b>Reaction:</b> After Sorrowful Man comes out of shadows, switch a character in an opponent's discard pile with a character in that player's dead pile.",
+            "flavor": "\"I am so sorry.\"",
+            "deckLimit": 40,
+            "illustrator": "Jon Bosco",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WoW/33_Sorrowful_Man.png"
+        },
+        {
+            "code": "00257",
+            "type": "character",
             "name": "Stalwart Shields",
             "octgnId": null,
             "quantity": 3,
@@ -3637,30 +3663,6 @@
             "deckLimit": 40,
             "illustrator": "Stephen Patane (Midjourney)",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/20_Stalwart%20Shields.png"
-        },
-        {
-            "code": "00257",
-            "type": "character",
-            "name": "Warlock of Qarth",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": false,
-            "faction": "targaryen",
-            "loyal": true,
-            "cost": 3,
-            "icons": {
-                "military": false,
-                "intrigue": true,
-                "power": true
-            },
-            "strength": 2,
-            "traits": [
-                "Warlock"
-            ],
-            "text": "<b>Reaction:</b> After a character enters an opponent's dead pile, sacrifice Warlock of Qarth to put that character into play under your control. Until the end of the phase, that character gains insight. At the end of the phase, if that card is still in play, place it in its owner's dead pile (cannot be saved).",
-            "deckLimit": 40,
-            "illustrator": "Carlo Bocchio",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/20_Warlock%20of%20Qarth.png"
         },
         {
             "code": "00258",
@@ -4196,15 +4198,15 @@
                 "Fool",
                 "House Redwyne"
             ],
-            "text": "Shadow (2).\n<b>Reaction:</b> After Arbor Jester comes out of shadows, choose a character. Until the end of the phase, that character gains insight and gets +1 STR for each card you control in shadows.\n<b>Draft format only.</b>",
+            "text": "Shadow (2).\n<b>Reaction:</b> After Arbor Jester comes out of shadows, choose a character and reveal the top two cards of your deck. Place one of them on the bottom of your deck. Until the end of the phase, that character gets +X STR. X is the printed cost of the other revealed card.\n<b>Draft format only.</b>",
             "deckLimit": 40,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/bjHMheq.png"
+            "imageUrl": "https://i.imgur.com/bNyTxwb.png"
         },
         {
             "code": "00281",
             "type": "character",
-            "name": "Devout Attendant",
+            "name": "Youthful Acolyte",
             "octgnId": null,
             "quantity": 3,
             "unique": false,
@@ -4221,10 +4223,10 @@
                 "Steward",
                 "The Seven"
             ],
-            "text": "Shadow (2).\n<b>Reaction:</b> After Devout Attendant enters play during a challenge, stand a participating character you control and remove it from the challenge. Until the end of the phase, that character gains renown.\n<b>Draft format only.</b>",
+            "text": "Shadow (1).\n<b>Reaction:</b> After Youthful Acolyte enters play during a challenge, stand a participating character you control and remove it from the challenge. Until the end of the phase, that character gains renown.\n<b>Draft format only.</b>",
             "deckLimit": 40,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/1E241xp.png"
+            "imageUrl": "https://i.imgur.com/t4Cdwkz.png"
         },
         {
             "code": "00282",
@@ -4259,17 +4261,17 @@
         {
             "code": "00284",
             "type": "event",
-            "name": "A Wall of Roses",
+            "name": "Beneath the Petals",
             "octgnId": null,
             "quantity": 3,
             "faction": "tyrell",
             "loyal": true,
             "cost": "-",
             "traits": [],
-            "text": "Shadow (1).\n<b>Reaction:</b> After a challenge is initiated against you, reveal your hand (of at least 1 card). Then, choose up to 2 attacking characters. Stand each of those characters and remove them from the challenge. (Max 1 per challenge.)",
+            "text": "Shadow (0).\n<b>Action:</b> Choose a character with shadow. Until the end of the phase, that character gains insight and a challenge icon of your choice.\n<b>Interrupt:</b> When Beneath the Petals is revealed from your deck, place it in shadows and gain 1 gold.",
             "deckLimit": 40,
-            "illustrator": "Rene Aigner",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/16%20-%20A%20Wall%20of%20Roses.png"
+            "illustrator": "Katalin Illés",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WoW/36_Beneath_the_Petals.png"
         },
         {
             "code": "00285",
@@ -4670,6 +4672,31 @@
         },
         {
             "code": "00302",
+            "type": "character",
+            "name": "Jinglebell",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "neutral",
+            "cost": 1,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 1,
+            "traits": [
+                "Fool",
+                "House Frey"
+            ],
+            "text": "<b>Interrupt:</b> When Jinglebell is killed, search your deck for a card that shares a <i>Trait</i> with him, reveal it, and add it to your hand. Shuffle your deck.",
+            "deckLimit": 40,
+            "flavor": "\"A son for a son, heh. But that’s a grandson… and he never was much use.\" <cite>Walder Frey</cite>",
+            "illustrator": "Polina Kirillova",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/46_Jinglebell.png"
+        },
+        {
+            "code": "00303",
             "type": "location",
             "name": "Gulltown",
             "octgnId": null,
@@ -4686,7 +4713,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/JS/19_Gulltown_ENG.png"
         },
         {
-            "code": "00303",
+            "code": "00304",
             "type": "location",
             "name": "The Bloody Gate",
             "octgnId": null,
@@ -4704,7 +4731,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/33%20-%20The%20Bloody%20Gate.png"
         },
         {
-            "code": "00304",
+            "code": "00305",
             "type": "location",
             "name": "Milkwater Crossing",
             "octgnId": null,
@@ -4721,7 +4748,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WAID/18_Milkwater_Crossing.png"
         },
         {
-            "code": "00305",
+            "code": "00306",
             "type": "attachment",
             "name": "Sweetsleep",
             "octgnId": null,
@@ -4738,7 +4765,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/47_Sweetsleep.png"
         },
         {
-            "code": "00306",
+            "code": "00307",
             "type": "event",
             "name": "As High as Honor",
             "octgnId": null,
@@ -4753,20 +4780,6 @@
             "deckLimit": 40,
             "illustrator": "Stephen Najarian",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/49_As%20High%20As%20Honor.png"
-        },
-        {
-            "code": "00307",
-            "type": "event",
-            "name": "Lysa's Letter",
-            "octgnId": null,
-            "quantity": 3,
-            "faction": "neutral",
-            "cost": 1,
-            "traits": [],
-            "text": "<b>Reaction:</b> After the challenges phase begins, choose a player and a challenge type. Until the end of the phase, if that player has not initiated a challenge of that type this phase, set the claim value on their revealed plot card to 0.",
-            "deckLimit": 40,
-            "illustrator": "Pastén (Midjourney)",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/36%20-%20Lysa_s%20Letter.png"
         },
         {
             "code": "00308",
@@ -5577,6 +5590,29 @@
         {
             "code": "00345",
             "type": "plot",
+            "name": "Striking at Dawn",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "neutral",
+            "plotStats": {
+                "income": 5,
+                "initiative": 4,
+                "claim": 1,
+                "reserve": 5
+            },
+            "traits": [
+                "Summer",
+                "War"
+            ],
+            "text": "Each character's STR cannot be increased or reduced by card effects.",
+            "flavor": "“We shall see, brother. Come the dawn, we shall see.” - Stannis Baratheon",
+            "deckLimit": 2,
+            "illustrator": "Piotr Chrzanowski",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WoW/39_Striking_at_Dawn.png"
+        },
+        {
+            "code": "00346",
+            "type": "plot",
             "name": "The Crone",
             "octgnId": null,
             "quantity": 3,
@@ -5597,7 +5633,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/53_The%20Crone.png"
         },
         {
-            "code": "00346",
+            "code": "00347",
             "type": "plot",
             "name": "The Defiance of Duskendale",
             "octgnId": null,
@@ -5620,7 +5656,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/38%20-%20The%20Defiance%20of%20Duskendale.png"
         },
         {
-            "code": "00347",
+            "code": "00348",
             "type": "plot",
             "name": "The Father",
             "octgnId": null,
@@ -5640,28 +5676,6 @@
             "deckLimit": 1,
             "illustrator": "Niten",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/54_The%20Father.png"
-        },
-        {
-            "code": "00348",
-            "type": "plot",
-            "name": "The Last Greenseer",
-            "octgnId": null,
-            "quantity": 3,
-            "faction": "neutral",
-            "plotStats": {
-                "income": 4,
-                "initiative": 1,
-                "claim": 1,
-                "reserve": 5
-            },
-            "traits": [
-                "Old Gods",
-                "Omen"
-            ],
-            "text": "<b>When Revealed:</b> Switch the base gold, claim, and reserve values on The Last Greenseer with those values on another revealed plot card until either card leaves play.",
-            "deckLimit": 1,
-            "illustrator": "Owen William Weber",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TIC/100_The_Last_Greenseer.png"
         },
         {
             "code": "00349",
@@ -5841,6 +5855,29 @@
         },
         {
             "code": "00357",
+            "type": "character",
+            "name": "Hot Pie",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "neutral",
+            "cost": 1,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 1,
+            "traits": [
+                "Companion"
+            ],
+            "text": "Each character you control gets +1 STR for each pie token on it.\n<b>Marshaling Action:</b> Kneel Hot Pie to place a pie token on a character.\n<b>Draft format only.</b>",
+            "deckLimit": 3,
+            "illustrator": "?",
+            "imageUrl": "https://i.imgur.com/aRS1jKk.png"
+        },
+        {
+            "code": "00358",
             "type": "agenda",
             "name": "Sealing the Pact",
             "octgnId": null,
@@ -5855,7 +5892,7 @@
             "imageUrl": "https://i.imgur.com/AjGRMDR.png"
         },
         {
-            "code": "00358",
+            "code": "00359",
             "type": "agenda",
             "name": "Unknown and Unknowable",
             "octgnId": null,
@@ -5870,7 +5907,7 @@
             "imageUrl": "https://i.imgur.com/oiJg4lj.png"
         },
         {
-            "code": "00359",
+            "code": "00360",
             "type": "agenda",
             "name": "Shadowbinders of Asshai",
             "octgnId": null,
@@ -5885,7 +5922,7 @@
             "imageUrl": "https://i.imgur.com/wIOHx3n.png"
         },
         {
-            "code": "00360",
+            "code": "00361",
             "type": "agenda",
             "name": "Seeking Fortunes",
             "octgnId": null,
@@ -5900,7 +5937,7 @@
             "imageUrl": "https://i.imgur.com/m3Cyk5D.png"
         },
         {
-            "code": "00361",
+            "code": "00362",
             "type": "agenda",
             "name": "Join Forces",
             "octgnId": null,
@@ -5915,7 +5952,7 @@
             "imageUrl": "https://i.imgur.com/Xfp5tkI.png"
         },
         {
-            "code": "00362",
+            "code": "00363",
             "type": "agenda",
             "name": "Desperate Hope",
             "octgnId": null,
@@ -5930,7 +5967,7 @@
             "imageUrl": "https://i.imgur.com/zv2B4zn.png"
         },
         {
-            "code": "00363",
+            "code": "00364",
             "type": "character",
             "name": "Pentoshi Trader",
             "octgnId": null,
@@ -5953,7 +5990,7 @@
             "imageUrl": "https://i.imgur.com/rSY4n3i.png"
         },
         {
-            "code": "00364",
+            "code": "00365",
             "type": "location",
             "name": "Holdfast Village",
             "octgnId": null,
@@ -5970,7 +6007,7 @@
             "imageUrl": "https://i.imgur.com/lHXF6lf.png"
         },
         {
-            "code": "00365",
+            "code": "00366",
             "type": "location",
             "name": "Market Square",
             "octgnId": null,
@@ -5987,7 +6024,7 @@
             "imageUrl": "https://i.imgur.com/JUiHN6F.png"
         },
         {
-            "code": "00366",
+            "code": "00367",
             "type": "plot",
             "name": "Feast or Famine",
             "octgnId": null,
@@ -6008,7 +6045,7 @@
             "imageUrl": "https://i.imgur.com/2a8HQkD.png"
         },
         {
-            "code": "00367",
+            "code": "00368",
             "type": "plot",
             "name": "The Pale Mare",
             "octgnId": null,
@@ -6025,17 +6062,17 @@
             ],
             "text": "<b>When Revealed:</b> Each player chooses any number of characters he or she controls with total printed cost 10 or lower. Kill each character not chosen.\n<b>Draft format only.</b>",
             "deckLimit": 2,
-            "imageUrl": "https://i.imgur.com/12YRebN.png"
+            "imageUrl": "https://i.imgur.com/HGAaCpU.png"
         },
         {
-            "code": "00368",
+            "code": "00369",
             "type": "plot",
             "name": "City Fair",
             "octgnId": null,
             "quantity": 1,
             "faction": "neutral",
             "plotStats": {
-                "income": 5,
+                "income": 4,
                 "initiative": 3,
                 "claim": 1,
                 "reserve": 7
@@ -6046,10 +6083,10 @@
             "text": "<b>When Revealed:</b> Draw 1 card. (Draw 2 cards instead if there is a <i>City</i> plot card in your used pile.)\n<b>Draft format only.</b>",
             "deckLimit": 2,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/3B82lG0.png"
+            "imageUrl": "https://i.imgur.com/qKdP0u7.png"
         },
         {
-            "code": "00369",
+            "code": "00370",
             "type": "plot",
             "name": "Manning the City Walls",
             "octgnId": null,
@@ -6071,7 +6108,7 @@
             "imageUrl": "https://i.imgur.com/svmOre6.png"
         },
         {
-            "code": "00370",
+            "code": "00371",
             "type": "plot",
             "name": "Razed to the Ground",
             "octgnId": null,
@@ -6092,7 +6129,7 @@
             "imageUrl": "https://i.imgur.com/EwDF3u5.png"
         },
         {
-            "code": "00371",
+            "code": "00372",
             "type": "plot",
             "name": "Bitter Accusation",
             "octgnId": null,
@@ -6113,7 +6150,7 @@
             "imageUrl": "https://i.imgur.com/z5aFBcx.png"
         },
         {
-            "code": "00372",
+            "code": "00373",
             "type": "plot",
             "name": "Royal Decree",
             "octgnId": null,
@@ -6134,14 +6171,14 @@
             "imageUrl": "https://i.imgur.com/JkuAbaE.png"
         },
         {
-            "code": "00373",
+            "code": "00374",
             "type": "plot",
             "name": "Jousting Contest",
             "octgnId": null,
             "quantity": 1,
             "faction": "neutral",
             "plotStats": {
-                "income": 4,
+                "income": 5,
                 "initiative": 4,
                 "claim": 1,
                 "reserve": 5
@@ -6152,10 +6189,10 @@
             "text": "Each player cannot declare more than 1 character as an attacker or defender in each challenge.\n<b>Draft format only.</b>",
             "deckLimit": 2,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/nG6fVsk.png"
+            "imageUrl": "https://i.imgur.com/Pgo9rAX.png"
         },
         {
-            "code": "00374",
+            "code": "00375",
             "type": "plot",
             "name": "Freezing Cold",
             "octgnId": null,
@@ -6170,13 +6207,13 @@
             "traits": [
                 "Winter"
             ],
-            "text": "<b>When Revealed:</b> Kneel each character with printed cost 2 or lower.\n<b>Draft format only.</b>",
+            "text": "<b>When Revealed:</b> Kneel each character with printed cost 3 or lower.\n<b>Draft format only.</b>",
             "deckLimit": 2,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/9Gpsk2C.png"
+            "imageUrl": "https://i.imgur.com/FsB9yTY.png"
         },
         {
-            "code": "00375",
+            "code": "00376",
             "type": "plot",
             "name": "Secrets of Oldtown",
             "octgnId": null,

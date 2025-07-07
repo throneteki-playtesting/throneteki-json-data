@@ -82,7 +82,7 @@
                         "name": "Foil",
                         "count": 1,
                         "sheets": [
-                            {"name": "Rare",   "weight": 1},
+                            {"name": "FoilRare",   "weight": 1},
                             {"name": "Uncommon",   "weight": 2},
                             {"name": "Common",   "weight": 4},
                             {"name": "Plot",   "weight": 1},
@@ -340,17 +340,17 @@
                 "rarity": "common"
         },
         {            
-                "name": "The Iron Fleet (ToJ)",
-                "mana_cost": "8",
-                "type": "Creature",
-                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/04_The%20Iron%20Fleet.png",
-                "rarity": "rare"
-        },
-        {            
                 "name": "Euron Crow's Eye (ToJ)",
                 "mana_cost": "7",
                 "type": "Creature",
                 "image": "https://i.imgur.com/jENj7LC.png",
+                "rarity": "rare"
+        },
+        {            
+                "name": "Ralf the Limper (ToJ)",
+                "mana_cost": "6",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WoW/23_Ralf_the_Limper.png",
                 "rarity": "rare"
         },
         {            
@@ -620,14 +620,14 @@
                 "rarity": "common"
         },
         {            
-                "name": "Oxcross Survivors (ToJ)",
+                "name": "The Imp's Agent (ToJ)",
                 "mana_cost": "3",
                 "type": "Creature",
-                "image": "https://i.imgur.com/CTNHfy5.png",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WoW/25_The_Imps_Agent.png",
                 "rarity": "common"
         },
         {            
-                "name": "Ashemark Councillor (ToJ)",
+                "name": "Ashemark Councilor (ToJ)",
                 "mana_cost": "4",
                 "type": "Creature",
                 "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WAID/5_Ashemark_Councilor.png",
@@ -1271,10 +1271,10 @@
                 "rarity": "common"
         },
         {
-                "name": "Warlock of Qarth (ToJ)",
+                "name": "Sorrowful Man (ToJ)",
                 "mana_cost": "3",
                 "type": "Creature",
-                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/20_Warlock%20of%20Qarth.png",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WoW/33_Sorrowful_Man.png",
                 "rarity": "common"
         },
         {
@@ -1432,17 +1432,17 @@
                 "rarity": "common"
         },
         {
-                "name": "Devout Attendant",
-                "mana_cost": "2",
-                "type": "Creature",
-                "image": "https://i.imgur.com/1E241xp.png",
-                "rarity": "common"
-        },
-        {
                 "name": "Arbor Jester",
                 "mana_cost": "2",
                 "type": "Creature",
-                "image": "https://i.imgur.com/bjHMheq.png",
+                "image": "https://i.imgur.com/bNyTxwb.png",
+                "rarity": "common"
+        },
+        {
+                "name": "Youthful Acolyte",
+                "mana_cost": "2",
+                "type": "Creature",
+                "image": "https://i.imgur.com/t4Cdwkz.png",
                 "rarity": "common"
         },
         {
@@ -1460,10 +1460,10 @@
                 "rarity": "common"
         },
         {
-                "name": "A Wall of Roses (ToJ)",
+                "name": "Beneath the Petals (ToJ)",
                 "mana_cost": "",
                 "type": "Instant",
-                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/16%20-%20A%20Wall%20of%20Roses.png",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WoW/36_Beneath_the_Petals.png",
                 "rarity": "common"
         },
         {
@@ -1600,6 +1600,13 @@
                 "rarity": "uncommon"
         },
         {
+                "name": "Jinglebell (ToJ)",
+                "mana_cost": "1",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/46_Jinglebell.png",
+                "rarity": "uncommon"
+        },
+        {
                 "name": "Milkwater Crossing (ToJ)",
                 "mana_cost": "1",
                 "type": "Artifact",
@@ -1618,13 +1625,6 @@
                 "mana_cost": "1",
                 "type": "Instant",
                 "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/49_As%20High%20As%20Honor.png",
-                "rarity": "uncommon"
-        },
-        {
-                "name": "Lysa's Letter (ToJ)",
-                "mana_cost": "1",
-                "type": "Instant",
-                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/36%20-%20Lysa_s%20Letter.png",
                 "rarity": "uncommon"
         },
         {
@@ -1853,7 +1853,7 @@
         },
         {
                 "name": "City Festival (ToJ)",
-                "mana_cost": "5",
+                "mana_cost": "2",
                 "type": "Sorcery",
                 "image": "https://i.imgur.com/J8PNBEY.png",
                 "rarity": "rare"
@@ -1880,6 +1880,13 @@
                 "rarity": "rare"
         },
         {
+                "name": "Striking at Dawn (ToJ)",
+                "mana_cost": "5",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/kEbmZZk.png",
+                "rarity": "rare"
+        },
+        {
                 "name": "The Crone (ToJ)",
                 "mana_cost": "6",
                 "type": "Sorcery",
@@ -1898,13 +1905,6 @@
                 "mana_cost": "6",
                 "type": "Sorcery",
                 "image": "https://i.imgur.com/PmUOhWL.png",
-                "rarity": "rare"
-        },
-        {
-                "name": "The Last Greenseer (ToJ)",
-                "mana_cost": "4",
-                "type": "Sorcery",
-                "image": "https://i.imgur.com/QQGeQHO.png",
                 "rarity": "rare"
         },
         {
@@ -1969,6 +1969,13 @@
                 "type": "Sorcery",
                 "image": "https://i.imgur.com/Mn5K13J.png",
                 "rarity": "rare"
+        },
+        {
+                "name": "Hot Pie (ToJ)",
+                "mana_cost": "1",
+                "type": "Creature",
+                "image": "https://i.imgur.com/aRS1jKk.png",
+                "rarity": "mythic"
         },
         {
                 "name": "House Baratheon",
@@ -2100,14 +2107,14 @@
                 "name": "The Pale Mare (ToJ)",
                 "mana_cost": "4",
                 "type": "Sorcery",
-                "image": "https://i.imgur.com/kzWtF3h.png",
+                "image": "https://i.imgur.com/mTWuPRE.png",
                 "rarity": "special"
         },
         {
                 "name": "City Fair",
                 "mana_cost": "4",
                 "type": "Sorcery",
-                "image": "https://i.imgur.com/bJKlIcu.png",
+                "image": "https://i.imgur.com/Z6hjwBf.png",
                 "rarity": "special"
         },
         {
@@ -2140,16 +2147,16 @@
         },
         {
                 "name": "Jousting Contest (ToJ)",
-                "mana_cost": "4",
+                "mana_cost": "5",
                 "type": "Sorcery",
-                "image": "https://i.imgur.com/NnL5ig2.png",
+                "image": "https://i.imgur.com/sYiDXxc.png",
                 "rarity": "special"
         },
         {
                 "name": "Freezing Cold",
                 "mana_cost": "3",
                 "type": "Sorcery",
-                "image": "https://i.imgur.com/yekbpQO.png",
+                "image": "https://i.imgur.com/WZFg1Jt.png",
                 "rarity": "special"
         },
         {
@@ -2168,7 +2175,7 @@ Stannis Baratheon (ToJ)
 Ser Richard Horpe (ToJ)
 Storm's End (ToJ)
 The Laughing Storm (ToJ)
-The Iron Fleet (ToJ)
+Ralf the Limper (ToJ)
 Euron Crow's Eye (ToJ)
 Victarion Greyjoy (ToJ)
 Ralf Kenning (ToJ)
@@ -2225,6 +2232,72 @@ Former Champion (ToJ)
 The Moon Door (ToJ)
 The Vale of Arryn (ToJ)
 The Tower of Joy
+[FoilRare]
+King Stannis's Host (ToJ)
+Beric Dondarrion (ToJ)
+Salladhor Saan's Lyseni (ToJ)
+Stannis Baratheon (ToJ)
+Ser Richard Horpe (ToJ)
+Storm's End (ToJ)
+The Laughing Storm (ToJ)
+Ralf the Limper (ToJ)
+Euron Crow's Eye (ToJ)
+Victarion Greyjoy (ToJ)
+Ralf Kenning (ToJ)
+Erik Anvil-Breaker (ToJ)
+Winterfell (ToJ)
+Valyrian Steel Armor (ToJ)
+Tywin Lannister (ToJ)
+Ser Daven Lannister (ToJ)
+Ser Jaime Lannister (ToJ)
+Ser Lancel Lannister (ToJ)
+Tommen Baratheon (ToJ)
+Casterly Rock (ToJ)
+Lannisport (ToJ)
+Doran Martell (ToJ)
+Anders Yronwood (ToJ)
+Arianne Martell (ToJ)
+Ser Arys Oakheart (ToJ)
+The Tattered Prince (ToJ)
+Elia Sand (ToJ)
+Sword of the Morning (ToJ)
+Great Ranging (ToJ)
+Melisandre (ToJ)
+Benjen Stark (ToJ)
+Dywen (ToJ)
+Bowen Marsh (ToJ)
+Castle Black (ToJ)
+Sentinel Stand (ToJ)
+Robb Stark (ToJ)
+The Blackfish (ToJ)
+Roose Bolton (ToJ)
+Rickard Karstark (ToJ)
+Winterfell Castle (ToJ)
+The Crag (ToJ)
+Grey Wind (ToJ)
+Aegon Targaryen (ToJ)
+Ser Barristan Selmy (ToJ)
+Daenerys Targaryen (ToJ)
+Quentyn Martell (ToJ)
+Lysono Maar (ToJ)
+Tyrion Lannister (ToJ)
+Hero (ToJ)
+Randyll Tarly (ToJ)
+Margaery Tyrell (ToJ)
+Mace Tyrell (ToJ)
+Willas Tyrell (ToJ)
+The Knight of Flowers (ToJ)
+Highgarden (ToJ)
+Garth Greenhand (ToJ)
+Littlefinger (ToJ)
+Vargo Hoat (ToJ)
+Brienne of Tarth (ToJ)
+Harma Dogshead (ToJ)
+Former Champion (ToJ)
+The Moon Door (ToJ)
+The Vale of Arryn (ToJ)
+The Tower of Joy
+Hot Pie (ToJ)
 [Plot]
 Robert's Rebellion (ToJ)
 Cast Me Forth (ToJ)
@@ -2245,10 +2318,10 @@ City Festival (ToJ)
 Enemies in Every Shadow (ToJ)
 For the Realm (ToJ)
 Open Revolt (ToJ)
+Striking at Dawn (ToJ)
 The Crone (ToJ)
 The Defiance of Duskendale (ToJ)
 The Father (ToJ)
-The Last Greenseer (ToJ)
 The Mad King's Command (ToJ)
 The Maiden (ToJ)
 The Mother (ToJ)
@@ -2337,7 +2410,7 @@ The Bloody Gate (ToJ)
 Milkwater Crossing (ToJ)
 Sweetsleep (ToJ)
 As High as Honor (ToJ)
-Lysa's Letter (ToJ)
+Jinglebell (ToJ)
 Broken Men (ToJ)
 [Common]
 Myrish Pirates
@@ -2358,7 +2431,7 @@ Raider's Axe
 Though All Men Do Despise Us (ToJ)
 Warrior's Sons (ToJ)
 Cruel Brigand
-Oxcross Survivors (ToJ)
+The Imp's Agent (ToJ)
 Ashemark Councilor (ToJ)
 Debt Collector
 Hillside River
@@ -2391,7 +2464,7 @@ Wolf Dreams (ToJ)
 Golden Company (ToJ)
 Long Lances
 Stalwart Shields (ToJ)
-Warlock of Qarth (ToJ)
+Sorrowful Man (ToJ)
 Free Brothers (ToJ)
 Stormcrows (ToJ)
 Fighting Pit
@@ -2399,11 +2472,11 @@ Naught but Ashes (ToJ)
 Blackwater Forces (ToJ)
 Wandering Knight
 Red-Apple Knight (ToJ)
-Devout Attendant
+Youthful Acolyte
 Arbor Jester
 Brienne the Blue (ToJ)
 Behold our Bounty (ToJ)
-A Wall of Roses (ToJ)
+Beneath the Petals (ToJ)
 Gulltown City Guard (ToJ)
 King's Landing Mob (ToJ)
 Mummer's Troupe
