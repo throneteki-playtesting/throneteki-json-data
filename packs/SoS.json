@@ -84,31 +84,6 @@
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/4@1.0.0.png"
         },
         {
-            "code": "26505",
-            "version": "1.0.0",
-            "type": "character",
-            "name": "Red Keep Servant",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": false,
-            "faction": "baratheon",
-            "loyal": false,
-            "cost": 3,
-            "icons": {
-                "military": false,
-                "intrigue": false,
-                "power": true
-            },
-            "strength": 4,
-            "traits": [
-                "Steward"
-            ],
-            "text": "While you control a <i>King's Landing</i> location, Red Keep Servant gains an [intrigue] icon and cannot be bypassed by stealth.",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/5@1.0.0.png"
-        },
-        {
             "code": "26506",
             "version": "1.0.0",
             "type": "character",
@@ -132,25 +107,6 @@
             "deckLimit": 3,
             "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/6@1.0.0.png"
-        },
-        {
-            "code": "26507",
-            "version": "1.0.1",
-            "type": "attachment",
-            "name": "The King's Justice",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": true,
-            "faction": "baratheon",
-            "loyal": false,
-            "cost": 3,
-            "traits": [
-                "Title"
-            ],
-            "text": "Unique character only.\n<b>Reaction:</b> After you win a [power] challenge, kneel attached character to choose and kill a kneeling character controlled by the losing opponent.",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/7@1.0.1.png"
         },
         {
             "code": "26509",
@@ -223,33 +179,6 @@
             "deckLimit": 3,
             "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/12@1.0.0.png"
-        },
-        {
-            "code": "26513",
-            "version": "1.0.3",
-            "type": "character",
-            "name": "Ralf the Limper",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": true,
-            "faction": "greyjoy",
-            "loyal": true,
-            "cost": 6,
-            "icons": {
-                "military": true,
-                "intrigue": false,
-                "power": true
-            },
-            "strength": 5,
-            "traits": [
-                "Captain",
-                "Ironborn",
-                "Raider"
-            ],
-            "text": "Pillage. Shadow (5).\n<b>Reaction:</b> After a non-character card is discarded from an opponent's deck, choose a card you control with shadow and return it to shadows. (Limit twice per round.)",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/13@1.0.3.png"
         },
         {
             "code": "26514",
@@ -415,25 +344,6 @@
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/21@1.0.1.png"
         },
         {
-            "code": "26522",
-            "version": "1.1.1",
-            "type": "location",
-            "name": "Swift Longship",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": false,
-            "faction": "greyjoy",
-            "loyal": false,
-            "cost": 2,
-            "traits": [
-                "Warship"
-            ],
-            "text": "Shadow (0).\n<b>Reaction:</b> After Swift Longship comes out of shadows, choose a defending character with printed STR 4 or lower. That character does not contribute its STR to this challenge.\n+1 Initiative.",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/22@1.1.1.png"
-        },
-        {
             "code": "26524",
             "version": "1.1.0",
             "type": "event",
@@ -527,31 +437,6 @@
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/27@1.0.1.png"
         },
         {
-            "code": "26529",
-            "version": "1.0.1",
-            "type": "character",
-            "name": "Tyrion's Agent",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": false,
-            "faction": "lannister",
-            "loyal": false,
-            "cost": 3,
-            "icons": {
-                "military": true,
-                "intrigue": true,
-                "power": false
-            },
-            "strength": 2,
-            "traits": [
-                "Spy"
-            ],
-            "text": "Shadow (3).\n<b>Reaction:</b> After you win a challenge in which Tyrion's Agent is participating, return it to shadows to have the losing opponent choose a card in their hand. Place that card on top of its owner's deck.",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/29@1.0.1.png"
-        },
-        {
             "code": "26530",
             "version": "1.0.0",
             "type": "character",
@@ -577,42 +462,23 @@
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/30@1.0.0.png"
         },
         {
-            "code": "26531",
-            "version": "1.0.0",
-            "type": "attachment",
-            "name": "Joffrey's Crossbow",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": true,
-            "faction": "lannister",
-            "loyal": false,
-            "cost": 2,
-            "traits": [
-                "Weapon"
-            ],
-            "text": "If attached character is Joffrey Baratheon, he gains intimidate.\nWhile attached character is participating in a [military] challenge, unique characters must be chosen for claim first.",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/31@1.0.0.png"
-        },
-        {
             "code": "26532",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "type": "attachment",
             "name": "Slander and Lies",
             "octgnId": null,
             "quantity": 3,
             "unique": false,
             "faction": "lannister",
-            "loyal": true,
+            "loyal": false,
             "cost": 2,
             "traits": [
                 "Condition"
             ],
-            "text": "Opponent's character only. Ambush (2).\nAttached character gains renown.\nYou may spend power on attached character as if it were 2 gold in your gold pool.",
+            "text": "Opponent's character only. Ambush (3). Terminal.\nYou may spend power on attached character as if it were 2 gold in your gold pool.\n<b>Forced Reaction:</b> After you lose a challenge in which attached character is participating, it gains 1 power.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/32@1.0.0.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/32@1.0.1.png"
         },
         {
             "code": "26534",
@@ -746,31 +612,6 @@
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/39@1.0.0.png"
         },
         {
-            "code": "26540",
-            "version": "1.0.1",
-            "type": "character",
-            "name": "Ghost Hill Elite",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": false,
-            "faction": "martell",
-            "loyal": true,
-            "cost": 6,
-            "icons": {
-                "military": true,
-                "intrigue": false,
-                "power": false
-            },
-            "strength": 6,
-            "traits": [
-                "Army"
-            ],
-            "text": "Ambush (6). No attachments.\n<b>Reaction:</b> After Ghost Hill Elite enters play, choose a character. Until the end of the phase, that character loses an [intrigue] or [power] icon and Ghost Hill Elite gains that icon. Then, if that character has no challenge icons, kill it.",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/40@1.0.1.png"
-        },
-        {
             "code": "26542",
             "version": "1.0.1",
             "type": "character",
@@ -852,22 +693,6 @@
             "deckLimit": 3,
             "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/46@1.1.1.png"
-        },
-        {
-            "code": "26547",
-            "version": "1.1.0",
-            "type": "event",
-            "name": "A Toast to the King",
-            "octgnId": null,
-            "quantity": 3,
-            "faction": "martell",
-            "loyal": true,
-            "cost": 0,
-            "traits": [],
-            "text": "Play only if you control a [martell] <i>Lord</i> or <i>Lady</i> character.\n<b>Interrupt:</b> When the challenges phase ends, choose an opponent and challenge type. If that player does not control a character with a challenge icon of that type, they must satisfy the claim of that challenge type as if you were the winning opponent. (Max 1 per phase.)",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/47@1.1.0.png"
         },
         {
             "code": "26548",
@@ -988,31 +813,6 @@
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/53@1.0.0.png"
         },
         {
-            "code": "26554",
-            "version": "1.0.0",
-            "type": "character",
-            "name": "Convert Beyond the Wall",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": false,
-            "faction": "thenightswatch",
-            "loyal": false,
-            "cost": 1,
-            "icons": {
-                "military": true,
-                "intrigue": false,
-                "power": false
-            },
-            "strength": 1,
-            "traits": [
-                "Wildling"
-            ],
-            "text": "While you do not control another <i>Wilding</i> character or Jon Snow, sacrifice Convert Beyond the Wall.",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/54@1.0.0.png"
-        },
-        {
             "code": "26555",
             "version": "1.0.0",
             "type": "attachment",
@@ -1049,26 +849,6 @@
             "deckLimit": 3,
             "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/56@1.0.2.png"
-        },
-        {
-            "code": "26557",
-            "version": "1.0.0",
-            "type": "location",
-            "name": "The Black Gate",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": true,
-            "faction": "thenightswatch",
-            "loyal": false,
-            "cost": 1,
-            "traits": [
-                "The North",
-                "Old Gods"
-            ],
-            "text": "<b>Action:</b> Kneel The Black Gate to sacrifice a [thenightswatch] character. Then, put a character with lower printed cost that shares a <i>Trait</i> with that character into play from your hand or shadow area.",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/57@1.0.0.png"
         },
         {
             "code": "26558",
@@ -1188,32 +968,6 @@
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/63@1.0.0.png"
         },
         {
-            "code": "26564",
-            "version": "1.0.1",
-            "type": "character",
-            "name": "House Umber Berserkers",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": false,
-            "faction": "stark",
-            "loyal": false,
-            "cost": 4,
-            "icons": {
-                "military": true,
-                "intrigue": false,
-                "power": false
-            },
-            "strength": 6,
-            "traits": [
-                "Army",
-                "House Umber"
-            ],
-            "text": "Assault. Shadow (X). No attachments.\nX is the number of plot cards in your used pile (to a minimum of 1).",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/64@1.0.1.png"
-        },
-        {
             "code": "26565",
             "version": "1.0.1",
             "type": "character",
@@ -1241,7 +995,7 @@
         },
         {
             "code": "26568",
-            "version": "1.1.0",
+            "version": "1.1.1",
             "type": "attachment",
             "name": "Dubious Loyalties",
             "octgnId": null,
@@ -1254,10 +1008,10 @@
                 "Condition",
                 "House Bolton"
             ],
-            "text": "Character you own only.\nWhile you control no loyal characters, attached character gains stealth, renown and the <i>House Bolton</i> trait.\n<b>Reaction:</b> After you win a challenge, kneel your faction card to take control of attached character. (Any player may initiate this ability.)",
+            "text": "Non-loyal character you own only.\nAttached character gains stealth, renown and the <i>House Bolton</i> trait.\n<b>Reaction:</b> After you win a challenge by 5 or more STR, discard the top card of your deck to take control of attached character. (Any player may initiate this ability.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/68@1.1.0.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/68@1.1.1.png"
         },
         {
             "code": "26569",
@@ -1281,26 +1035,6 @@
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/69@1.0.0.png"
         },
         {
-            "code": "26570",
-            "version": "1.1.1",
-            "type": "location",
-            "name": "White Harbor Galley",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": false,
-            "faction": "stark",
-            "loyal": false,
-            "cost": 2,
-            "traits": [
-                "House Manderly",
-                "Warship"
-            ],
-            "text": "Shadow (1).\nDuring a challenge, each participating character gets +1 STR.\n<b>Reaction:</b> After White Harbor Galley comes out of shadows during a challenge in which you control a participating character, kneel a character you control to have it participate in the challenge on your side.",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/70@1.1.1.png"
-        },
-        {
             "code": "26571",
             "version": "1.0.0",
             "type": "event",
@@ -1320,21 +1054,21 @@
         },
         {
             "code": "26572",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "type": "event",
             "name": "\"Wolves in the Hills\"",
             "octgnId": null,
             "quantity": 3,
             "faction": "stark",
             "loyal": true,
-            "cost": "-",
+            "cost": 1,
             "traits": [
                 "Song"
             ],
-            "text": "Shadow (0).\n<b>Interrupt:</b> When claim is applied for a [military] challenge, return an attacking <i>Direwolf</i> character to your hand to apply [intrigue] or [power] claim instead.",
+            "text": "<b>Interrupt:</b> When claim is applied for a challenge in which you are the attacking player, return a participating <i>Direwolf</i> character or a participating character with a <i>Direwolf</i> attachment to your hand to apply claim of different challenge type instead.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/72@1.0.0.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/72@1.0.1.png"
         },
         {
             "code": "26573",
@@ -1417,32 +1151,6 @@
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/76@1.0.2.png"
         },
         {
-            "code": "26577",
-            "version": "1.0.0",
-            "type": "character",
-            "name": "Sorrowful Man",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": false,
-            "faction": "targaryen",
-            "loyal": true,
-            "cost": 3,
-            "icons": {
-                "military": false,
-                "intrigue": true,
-                "power": true
-            },
-            "strength": 3,
-            "traits": [
-                "Ally"
-            ],
-            "text": "Shadow (2).\n<b>Reaction:</b> After Sorrowful Man comes out of shadows, swap a character in an opponent's discard pile with a character in their dead pile.",
-            "flavor": "\"I am so sorry.\"",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/77@1.0.0.png"
-        },
-        {
             "code": "26578",
             "version": "1.0.0",
             "type": "character",
@@ -1467,25 +1175,6 @@
             "deckLimit": 3,
             "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/78@1.0.0.png"
-        },
-        {
-            "code": "26579",
-            "version": "1.0.1",
-            "type": "attachment",
-            "name": "Queen of Meereen",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": true,
-            "faction": "targaryen",
-            "loyal": false,
-            "cost": 2,
-            "traits": [
-                "Title"
-            ],
-            "text": "<i>Lady</i> character only.\nAttached character gains the <i>Queen</i> trait.\n<b>Action:</b> Kneel Queen of Meereen to discard any number of cards from your hand. Reduce the cost of the next card you marshal, ambush or bring out of shadows this phase by 2 for each card discarded this way.",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/79@1.0.1.png"
         },
         {
             "code": "26580",
@@ -1639,32 +1328,6 @@
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/87@1.1.0.png"
         },
         {
-            "code": "26588",
-            "version": "1.0.1",
-            "type": "character",
-            "name": "Horn Hill Elite",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": false,
-            "faction": "tyrell",
-            "loyal": false,
-            "cost": 6,
-            "icons": {
-                "military": true,
-                "intrigue": false,
-                "power": true
-            },
-            "strength": 4,
-            "traits": [
-                "Army",
-                "House Tarly"
-            ],
-            "text": "Assault. Intimidate. No attachments.\nWhile Horn Hill Elite is attacking, it gets +1 STR for each standing [tyrell] character you control.",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/88@1.0.1.png"
-        },
-        {
             "code": "26589",
             "version": "1.0.2",
             "type": "character",
@@ -1750,22 +1413,6 @@
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/94@1.1.2.png"
         },
         {
-            "code": "26595",
-            "version": "1.1.0",
-            "type": "event",
-            "name": "Beneath the Petals",
-            "octgnId": null,
-            "quantity": 3,
-            "faction": "tyrell",
-            "loyal": true,
-            "cost": "-",
-            "traits": [],
-            "text": "Shadow (0).\n<b>Action:</b> Choose a character with shadow. Until the end of the phase, that character gains a challenge icon of your choice and insight.\n<b>Interrupt:</b> When Beneath the Petals is revealed from your deck, place it in shadows and gain 1 gold.",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/95@1.1.0.png"
-        },
-        {
             "code": "26596",
             "version": "1.1.1",
             "type": "event",
@@ -1783,7 +1430,7 @@
         },
         {
             "code": "26597",
-            "version": "1.0.0",
+            "version": "1.1.0",
             "type": "character",
             "name": "Lysa Arryn",
             "octgnId": null,
@@ -1796,41 +1443,16 @@
                 "intrigue": true,
                 "power": true
             },
-            "strength": 3,
+            "strength": 6,
             "traits": [
                 "House Arryn",
                 "House Tully",
                 "Lady"
             ],
-            "text": "Renown.\nWhile your initiative value is 0, Lysa Arryn contributes her STR to each challenge in which you control a participating loyal or <i>House Arryn</i> character.",
+            "text": "While your initiative value is 0, Lysa Arryn gains the keywords of each loyal and <i>House Arryn</i> character you control.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/97@1.0.0.png"
-        },
-        {
-            "code": "26598",
-            "version": "1.0.0",
-            "type": "character",
-            "name": "Biter",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": true,
-            "faction": "neutral",
-            "cost": 5,
-            "icons": {
-                "military": true,
-                "intrigue": false,
-                "power": false
-            },
-            "strength": 5,
-            "traits": [
-                "Ally",
-                "Mercenary"
-            ],
-            "text": "Intimidate.\n<b>Reaction:</b> After Biter kneels a character with lower STR using intimidate, sacrifice Biter to kill that character.",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/98@1.0.0.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/97@1.1.0.png"
         },
         {
             "code": "26599",
@@ -1999,23 +1621,6 @@
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/108@1.0.0.png"
         },
         {
-            "code": "26609",
-            "version": "1.0.0",
-            "type": "event",
-            "name": "Reinstatement",
-            "octgnId": null,
-            "quantity": 3,
-            "faction": "neutral",
-            "cost": 2,
-            "traits": [
-                "Small Council"
-            ],
-            "text": "<b>Standing Action:</b> Kneel your faction card to put a <i>Small Council</i> character into play from your discard pile.",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/109@1.0.0.png"
-        },
-        {
             "code": "26610",
             "version": "1.0.1",
             "type": "plot",
@@ -2107,31 +1712,8 @@
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/115@1.0.1.png"
         },
         {
-            "code": "26616",
-            "version": "1.0.0",
-            "type": "plot",
-            "name": "Striking at Dawn",
-            "octgnId": null,
-            "quantity": 3,
-            "faction": "neutral",
-            "plotStats": {
-                "income": 5,
-                "initiative": 4,
-                "claim": 1,
-                "reserve": 5
-            },
-            "traits": [
-                "Summer",
-                "War"
-            ],
-            "text": "Each character's STR cannot be raised or lowered.",
-            "deckLimit": 2,
-            "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/116@1.0.0.png"
-        },
-        {
             "code": "26617",
-            "version": "1.0.1",
+            "version": "1.0.2",
             "type": "plot",
             "name": "Strained Reserves",
             "octgnId": null,
@@ -2146,10 +1728,10 @@
             "traits": [
                 "Winter"
             ],
-            "text": "Each player without a <i>Summer</i> plot revealed cannot marshal, ambush or bring more than 2 cards out of shadows this round.",
+            "text": "Each player cannot marshal or put into play more than 2 cards this round (4 cards instead if that player has a <i>Summer</i> plot revealed.)",
             "deckLimit": 1,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/117@1.0.1.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/117@1.0.2.png"
         },
         {
             "code": "26618",
@@ -2165,22 +1747,6 @@
             "illustrator": "?",
             "designer": "Card design by 2022 Castle Stahleck Joust Champion, Marti Foz Hernandez.",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/118@1.0.2.png"
-        },
-        {
-            "code": "26619",
-            "version": "1.0.1",
-            "type": "agenda",
-            "name": "The Small Council",
-            "octgnId": null,
-            "quantity": 3,
-            "faction": "neutral",
-            "traits": [
-                "Small Council"
-            ],
-            "text": "You may include non-loyal <i>Small Council</i> characters from any faction in your deck. You must include at least 7 different <i>Small Council</i> characters in your deck.\n<b>Reaction:</b> After you win dominance, choose a standing <i>Small Council</i> character you control, and have it gain 1 power. Then, if you control a <i>King</i> or <i>Queen</i> character, draw 1 card.",
-            "deckLimit": 1,
-            "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/119@1.0.1.png"
         },
         {
             "code": "26620",
