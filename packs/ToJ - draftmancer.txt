@@ -767,6 +767,13 @@
                 "rarity": "uncommon"
         },
         {
+                "name": "Ghost Hill Elite (ToJ)",
+                "mana_cost": "6",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WoW/27_Ghost_Hill_Elite.png",
+                "rarity": "common"
+        },
+        {
                 "name": "Starfall Servant",
                 "mana_cost": "4",
                 "type": "Creature",
@@ -788,24 +795,17 @@
                 "rarity": "common"
         },
         {
-                "name": "Scorpion Knight (ToJ)",
-                "mana_cost": "3",
+                "name": "Desert Freerider",
+                "mana_cost": "2",
                 "type": "Creature",
-                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/11_Scorpion%20Knight.png",
+                "image": "https://i.imgur.com/uLmZMDC.png",
                 "rarity": "common"
         },
         {
                 "name": "Vengeful Lordling",
                 "mana_cost": "2",
                 "type": "Creature",
-                "image": "https://i.imgur.com/c34FO2U.png",
-                "rarity": "common"
-        },
-        {
-                "name": "Desert Freerider",
-                "mana_cost": "2",
-                "type": "Creature",
-                "image": "https://i.imgur.com/uLmZMDC.png",
+                "image": "https://i.imgur.com/L08yWz3.png",
                 "rarity": "common"
         },
         {
@@ -1169,7 +1169,7 @@
                 "name": "Quentyn Martell (ToJ)",
                 "mana_cost": "5",
                 "type": "Creature",
-                "image": "https://i.imgur.com/EToYQRd.png",
+                "image": "https://i.imgur.com/UNQc9LZ.png",
                 "rarity": "rare"
         },
         {
@@ -2055,10 +2055,10 @@
                 "rarity": "special"
         },
         {
-                "name": "Shadowbinders of Asshai",
+                "name": "Pass Beneath the Shadow",
                 "mana_cost": "",
                 "type": "Land",
-                "image": "https://i.imgur.com/wIOHx3n.png",
+                "image": "https://i.imgur.com/oc2NITb.png",
                 "rarity": "special"
         },
         {
@@ -2437,12 +2437,12 @@ Debt Collector
 Hillside River
 Burning Bright (ToJ)
 One, Two, Three (ToJ)
+Ghost Hill Elite (ToJ)
 Starfall Servant
 Windblown (ToJ)
 Scheming Snake (ToJ)
-Scorpion Knight (ToJ)
-Vengeful Lordling
 Desert Freerider
+Vengeful Lordling
 A Bed of Scorpions (ToJ)
 Red Mountains (ToJ)
 Mance's Warriors
@@ -2505,18 +2505,18 @@ House Tyrell
 Sealing the Pact
 Unknown and Unknowable
 Seeking Fortunes
-Shadowbinders of Asshai
+Pass Beneath the Shadow
 Desperate Hope
 Join Forces
 Pentoshi Trader
 Pentoshi Trader
 Pentoshi Trader
-Market Square
-Market Square
-Market Square
 Holdfast Village
 Holdfast Village
 Holdfast Village
+Market Square
+Market Square
+Market Square
 Feast or Famine (ToJ)
 The Pale Mare (ToJ)
 City Fair

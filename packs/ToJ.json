@@ -1972,6 +1972,30 @@
         {
             "code": "00185",
             "type": "character",
+            "name": "Ghost Hill Elite",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "martell",
+            "loyal": true,
+            "cost": 6,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 6,
+            "traits": [
+                "Army"
+            ],
+            "text": "Ambush (6). No attachments.\n<b>Reaction:</b> After Ghost Hill Elite enters play, choose a character. Until the end of the phase, that character loses an [intrigue] or [power] icon and Ghost Hill Elite gains that icon. Then, if that character has no challenge icons, kill it.",
+            "deckLimit": 3,
+            "illustrator": "Adam Lane",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WoW/27_Ghost_Hill_Elite.png"
+        },
+        {
+            "code": "00186",
+            "type": "character",
             "name": "Starfall Servant",
             "octgnId": null,
             "quantity": 3,
@@ -1993,32 +2017,6 @@
             "deckLimit": 40,
             "illustrator": "?",
             "imageUrl": "https://i.imgur.com/MXNIl6l.png"
-        },
-        {
-            "code": "00186",
-            "type": "character",
-            "name": "Windblown",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": false,
-            "faction": "martell",
-            "loyal": false,
-            "cost": 3,
-            "icons": {
-                "military": true,
-                "intrigue": true,
-                "power": false
-            },
-            "strength": 3,
-            "traits": [
-                "Army",
-                "Mercenary"
-            ],
-            "text": "Assault. Shadow (3).\n<b>Reaction:</b> After you win a challenge in which Windblown is participating, return it to shadows to choose and stand an <i>Army</i> or <i>Mercenary</i> character.",
-            "flavor": "The men of the Windblown used what names they would, and changed them at a whim.",
-            "deckLimit": 40,
-            "illustrator": "Tomasz Jedruszek",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/11_Windblown.png"
         },
         {
             "code": "00187",
@@ -2048,7 +2046,7 @@
         {
             "code": "00188",
             "type": "character",
-            "name": "Scorpion Knight",
+            "name": "Windblown",
             "octgnId": null,
             "quantity": 3,
             "unique": false,
@@ -2060,15 +2058,16 @@
                 "intrigue": true,
                 "power": false
             },
-            "strength": 2,
+            "strength": 3,
             "traits": [
-                "House Qorgyle",
-                "Knight"
+                "Army",
+                "Mercenary"
             ],
-            "text": "<b>Reaction:</b> After a character loses a challenge icon, Scorpion Knight gets +1 STR until the end of the phase. (Limit 3 times per phase.)",
+            "text": "Assault. Shadow (3).\n<b>Reaction:</b> After you win a challenge in which Windblown is participating, return it to shadows to choose and stand an <i>Army</i> or <i>Mercenary</i> character.",
+            "flavor": "The men of the Windblown used what names they would, and changed them at a whim.",
             "deckLimit": 40,
             "illustrator": "Tomasz Jedruszek",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/11_Scorpion%20Knight.png"
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/11_Windblown.png"
         },
         {
             "code": "00189",
@@ -2114,10 +2113,10 @@
             "traits": [
                 "Lord"
             ],
-            "text": "<b>Reaction:</b> After you lose a challenge in which Vengeful Lordling is attacking, choose a character. Until the end of the phase, that character loses a challenge icon of your choice.\n<b>Draft format only.</b>",
+            "text": "<b>Reaction:</b> After you lose a challenge in which Vengeful Lordling is participating, reduce the cost of the next card you ambush or bring out of shadows this phase by 1.\n<b>Draft format only.</b>",
             "deckLimit": 40,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/c34FO2U.png"
+            "imageUrl": "https://i.imgur.com/L08yWz3.png"
         },
         {
             "code": "00191",
@@ -3337,10 +3336,10 @@
                 "Knight",
                 "Lord"
             ],
-            "text": "Shadow (4).\n<b>Action:</b> Return Quentyn to shadows to put a character with lower STR into play from your hand or discard pile. At the end of the phase, if it's still in play, return it to your hand. (Max 1 per round.)\n<b>Draft format only.</b>",
+            "text": "Shadow (4).\n<b>Action:</b> Choose a character with lower STR than Quentyn Martell in your hand or discard pile. Return Quentyn Martell to shadows to put that character into play. At the end of the phase, if it's still in play, return it to your hand. (Max 1 per round.)\n<b>Draft format only.</b>",
             "deckLimit": 40,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/EToYQRd.png"
+            "imageUrl": "https://i.imgur.com/UNQc9LZ.png"
         },
         {
             "code": "00244",
@@ -5057,7 +5056,7 @@
         {
             "code": "00320",
             "type": "attachment",
-            "name": "Poisoned Arrowhead",
+            "name": "Quill and Parchment",
             "octgnId": null,
             "quantity": 3,
             "unique": false,
@@ -5067,7 +5066,7 @@
                 "Item",
                 "Weapon"
             ],
-            "text": "Ambush (1).\nAttached character gets +1 STR.\n<b>Action:</b> Kneel and sacrifice Poisoned Arrowhead to choose a character. Until the end of the phase, treat that card as if its printed text box were blank (except for <i>Traits</i>).\n<b>Draft format only.</b>",
+            "text": "Ambush (1).\nAttached character gets +1 STR.\n<b>Action:</b> Kneel and sacrifice Quill and Parchment to choose a character. Until the end of the phase, treat that card as if its printed text box were blank (except for <i>Traits</i>).\n<b>Draft format only.</b>",
             "deckLimit": 40,
             "illustrator": "?",
             "imageUrl": "https://i.imgur.com/bZemiVW.png"
@@ -5909,7 +5908,7 @@
         {
             "code": "00360",
             "type": "agenda",
-            "name": "Shadowbinders of Asshai",
+            "name": "Pass Beneath the Shadow",
             "octgnId": null,
             "quantity": 3,
             "faction": "neutral",
@@ -5919,7 +5918,7 @@
             "text": "You may include cards with the printed shadow keyword from any faction in your deck.\n<b>Reaction:</b> After a card you control comes out of shadows, choose 1 that you haven’t chosen this round:\n - Gain 1 gold.\n - Pay 1 gold to draw a card.\n - Give a character +2 STR until the end of the phase.\n<b>Draft format only.</b>",
             "deckLimit": 1,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/wIOHx3n.png"
+            "imageUrl": "https://i.imgur.com/oc2NITb.png"
         },
         {
             "code": "00361",
@@ -6062,7 +6061,7 @@
             ],
             "text": "<b>When Revealed:</b> Each player chooses any number of characters he or she controls with total printed cost 10 or lower. Kill each character not chosen.\n<b>Draft format only.</b>",
             "deckLimit": 2,
-            "imageUrl": "https://i.imgur.com/HGAaCpU.png"
+            "imageUrl": "https://i.imgur.com/mTWuPRE.png"
         },
         {
             "code": "00369",
@@ -6083,7 +6082,7 @@
             "text": "<b>When Revealed:</b> Draw 1 card. (Draw 2 cards instead if there is a <i>City</i> plot card in your used pile.)\n<b>Draft format only.</b>",
             "deckLimit": 2,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/qKdP0u7.png"
+            "imageUrl": "https://i.imgur.com/Z6hjwBf.png"
         },
         {
             "code": "00370",
@@ -6189,7 +6188,7 @@
             "text": "Each player cannot declare more than 1 character as an attacker or defender in each challenge.\n<b>Draft format only.</b>",
             "deckLimit": 2,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/Pgo9rAX.png"
+            "imageUrl": "https://i.imgur.com/sYiDXxc.png"
         },
         {
             "code": "00375",
@@ -6210,7 +6209,7 @@
             "text": "<b>When Revealed:</b> Kneel each character with printed cost 3 or lower.\n<b>Draft format only.</b>",
             "deckLimit": 2,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/FsB9yTY.png"
+            "imageUrl": "https://i.imgur.com/WZFg1Jt.png"
         },
         {
             "code": "00376",
@@ -6226,6 +6225,7 @@
                 "reserve": 6
             },
             "traits": [
+                "Citadel",
                 "Riddle"
             ],
             "text": "<b>Action:</b> Choose a character. Until the end of the phase, that character gains a challenge icon or <i>Trait</i> of your choice. (Limit once per round.)\n<b>Draft format only.</b>",
