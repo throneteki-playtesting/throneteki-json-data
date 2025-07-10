@@ -26,7 +26,7 @@
                     "burns": 0
                 },
             {
-                    "picks": 34,
+                    "picks": 33,
                     "burns": 0
                 },
         ],

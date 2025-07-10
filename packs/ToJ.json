@@ -5069,7 +5069,7 @@
             "text": "Ambush (1).\nAttached character gets +1 STR.\n<b>Action:</b> Kneel and sacrifice Quill and Parchment to choose a character. Until the end of the phase, treat that card as if its printed text box were blank (except for <i>Traits</i>).\n<b>Draft format only.</b>",
             "deckLimit": 40,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/bZemiVW.png"
+            "imageUrl": "https://i.imgur.com/YZgjGHO.png"
         },
         {
             "code": "00321",
@@ -6061,7 +6061,7 @@
             ],
             "text": "<b>When Revealed:</b> Each player chooses any number of characters he or she controls with total printed cost 10 or lower. Kill each character not chosen.\n<b>Draft format only.</b>",
             "deckLimit": 2,
-            "imageUrl": "https://i.imgur.com/mTWuPRE.png"
+            "imageUrl": "https://i.imgur.com/HGAaCpU.png"
         },
         {
             "code": "00369",
@@ -6082,7 +6082,7 @@
             "text": "<b>When Revealed:</b> Draw 1 card. (Draw 2 cards instead if there is a <i>City</i> plot card in your used pile.)\n<b>Draft format only.</b>",
             "deckLimit": 2,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/Z6hjwBf.png"
+            "imageUrl": "https://i.imgur.com/qKdP0u7.png"
         },
         {
             "code": "00370",
@@ -6188,7 +6188,7 @@
             "text": "Each player cannot declare more than 1 character as an attacker or defender in each challenge.\n<b>Draft format only.</b>",
             "deckLimit": 2,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/sYiDXxc.png"
+            "imageUrl": "https://i.imgur.com/Pgo9rAX.png"
         },
         {
             "code": "00375",
@@ -6209,7 +6209,7 @@
             "text": "<b>When Revealed:</b> Kneel each character with printed cost 3 or lower.\n<b>Draft format only.</b>",
             "deckLimit": 2,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/WZFg1Jt.png"
+            "imageUrl": "https://i.imgur.com/FsB9yTY.png"
         },
         {
             "code": "00376",
