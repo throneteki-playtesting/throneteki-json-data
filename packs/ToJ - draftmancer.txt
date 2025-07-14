@@ -532,7 +532,7 @@
                 "name": "Tommen Baratheon (ToJ)",
                 "mana_cost": "3",
                 "type": "Creature",
-                "image": "https://i.imgur.com/Ae8zID7.png",
+                "image": "https://i.imgur.com/U8s8LRw.png",
                 "rarity": "rare"
         },
         {            
@@ -616,7 +616,7 @@
                 "name": "Cruel Brigand",
                 "mana_cost": "3",
                 "type": "Creature",
-                "image": "https://i.imgur.com/zLbVDa4.png",
+                "image": "https://i.imgur.com/MGtiNp8.png",
                 "rarity": "common"
         },
         {            
@@ -686,7 +686,7 @@
                 "name": "Arianne Martell (ToJ)",
                 "mana_cost": "4",
                 "type": "Creature",
-                "image": "https://i.imgur.com/WSkQiRB.png",
+                "image": "https://i.imgur.com/l1eBqdX.png",
                 "rarity": "rare"
         },
         {
@@ -777,7 +777,7 @@
                 "name": "Starfall Servant",
                 "mana_cost": "4",
                 "type": "Creature",
-                "image": "https://i.imgur.com/MXNIl6l.png",
+                "image": "https://i.imgur.com/lYN2aZl.png",
                 "rarity": "common"
         },
         {
@@ -1162,7 +1162,7 @@
                 "name": "Daenerys Targaryen (ToJ)",
                 "mana_cost": "6",
                 "type": "Creature",
-                "image": "https://i.imgur.com/FBfKDHu.png",
+                "image": "https://i.imgur.com/f93mAGO.png",
                 "rarity": "rare"
         },
         {
@@ -1222,10 +1222,10 @@
                 "rarity": "uncommon"
         },
         {
-                "name": "Arstan Whitebeard (ToJ)",
-                "mana_cost": "1",
+                "name": "Septa Lemore (ToJ)",
+                "mana_cost": "2",
                 "type": "Creature",
-                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ChoS/33_Arstan_Whitebeard.png",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/32_Septa%20Lemore.png",
                 "rarity": "uncommon"
         },
         {
@@ -1243,7 +1243,7 @@
                 "rarity": "uncommon"
         },
         {
-                "name": "Beneath the Gold the Bitter Steel (ToJ)",
+                "name": "Beneath the Gold, the Bitter Steel (ToJ)",
                 "mana_cost": "0",
                 "type": "Instant",
                 "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/35_Beneath%20the%20Gold,%20the%20Bitter%20Steel.png",
@@ -1260,7 +1260,7 @@
                 "name": "Long Lances",
                 "mana_cost": "3",
                 "type": "Creature",
-                "image": "https://i.imgur.com/15gqB4P.png",
+                "image": "https://i.imgur.com/v6I0iLN.png",
                 "rarity": "common"
         },
         {
@@ -1607,6 +1607,13 @@
                 "rarity": "uncommon"
         },
         {
+                "name": "The Green Fork (ToJ)",
+                "mana_cost": "2",
+                "type": "Artifact",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TTS/78_The_Green_Fork.png",
+                "rarity": "uncommon"
+        },
+        {
                 "name": "Milkwater Crossing (ToJ)",
                 "mana_cost": "1",
                 "type": "Artifact",
@@ -1625,13 +1632,6 @@
                 "mana_cost": "1",
                 "type": "Instant",
                 "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/49_As%20High%20As%20Honor.png",
-                "rarity": "uncommon"
-        },
-        {
-                "name": "Broken Men (ToJ)",
-                "mana_cost": "0",
-                "type": "Instant",
-                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/29_Broken%20Men.png",
                 "rarity": "uncommon"
         },
         {
@@ -2384,8 +2384,8 @@ Grey Worm (ToJ)
 Ser Rolly Duckfield (ToJ)
 Black Balaq (ToJ)
 Haldon Halfmaester (ToJ)
-Arstan Whitebeard (ToJ)
-Beneath the Gold the Bitter Steel (ToJ)
+Septa Lemore (ToJ)
+Beneath the Gold, the Bitter Steel (ToJ)
 Grey Worm's Spear (ToJ)
 Our Word Is Good as Gold (ToJ)
 Ser Bryce Caron (ToJ)
@@ -2405,13 +2405,13 @@ Septa Unella (ToJ)
 Ser Vardis Egen (ToJ)
 Balerion (ToJ)
 Shagwell (ToJ)
+Jinglebell (ToJ)
+The Green Fork (ToJ)
 Gulltown (ToJ)
 The Bloody Gate (ToJ)
 Milkwater Crossing (ToJ)
 Sweetsleep (ToJ)
 As High as Honor (ToJ)
-Jinglebell (ToJ)
-Broken Men (ToJ)
 [Common]
 Myrish Pirates
 Blackhaven Rider (ToJ)

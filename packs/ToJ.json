@@ -1224,10 +1224,10 @@
                 "King",
                 "Lord"
             ],
-            "text": "Tommen contributes 2 STR to your total for dominance even while kneeling.\nWhile you control:\n - 1 or more <i>Cats</i>, Tommen gains an [intrigue] icon.\n - 2 or more <i>Cats</i>, Tommen gains insight.\n - 3 or more <i>Cats</i>, Tommen gets +3 STR.\n<b>Draft format only.</b>",
+            "text": "Tommen Baratheon contributes his STR to your total for dominance even while kneeling.\nWhile you control:\n - 1 or more <i>Cats</i>, Tommen gains an [intrigue] icon.\n - 2 or more <i>Cats</i>, Tommen gains insight.\n - 3 or more <i>Cats</i>, Tommen gets +3 STR.\n<b>Draft format only.</b>",
             "deckLimit": 40,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/Ae8zID7.png"
+            "imageUrl": "https://i.imgur.com/U8s8LRw.png"
         },
         {
             "code": "00152",
@@ -1516,10 +1516,10 @@
                 "Mercenary",
                 "Raider"
             ],
-            "text": "Bestow (1).\n<b>Challenges Action:</b> Discard 1 gold from Cruel Brigand to put a character with printed cost 4 or lower into play from your hand. At the end of the phase, if that card is still in play, discard it from play.\n<b>Draft format only.</b>",
+            "text": "Bestow (1).\n<b>Challenges Action:</b> Discard 1 gold from Cruel Brigand to put a character with printed cost 4 or lower into play from your hand. At the end of the phase, if that card is still in play, discard it from play. (Limit once per phase.)\n<b>Draft format only.</b>",
             "deckLimit": 40,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/zLbVDa4.png"
+            "imageUrl": "https://i.imgur.com/MGtiNp8.png"
         },
         {
             "code": "00165",
@@ -1713,10 +1713,10 @@
             "traits": [
                 "Lady"
             ],
-            "text": "Insight.\n<b>Action:</b> Choose a character. Until the end of the phase, that character loses a challenge icon of your choice and each non-Martell character you control gains that challenge icon. Then, return Arianne to your hand (cannot be saved). (Limit once per phase.)\n<b>Draft format only.</b>",
+            "text": "Insight.\n<b>Action:</b> Choose a character. Until the end of the phase, that character loses a challenge icon of your choice and each non-Martell character you control gains that challenge icon. Then, return Arianne to your hand (cannot be saved). (Max 1 per round.)\n<b>Draft format only.</b>",
             "deckLimit": 40,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/1uDaxz5.png"
+            "imageUrl": "https://i.imgur.com/l1eBqdX.png"
         },
         {
             "code": "00174",
@@ -2008,7 +2008,7 @@
                 "intrigue": true,
                 "power": true
             },
-            "strength": 4,
+            "strength": 3,
             "traits": [
                 "House Dayne",
                 "Steward"
@@ -2016,7 +2016,7 @@
             "text": "Shadow (3). Stealth.\n<b>Reaction:</b> After Starfall Servant enters play, choose a character. Until the end of the phase, that character loses a challenge icon of your choice.\n<b>Draft format only.</b>",
             "deckLimit": 40,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/MXNIl6l.png"
+            "imageUrl": "https://i.imgur.com/lYN2aZl.png"
         },
         {
             "code": "00187",
@@ -3144,7 +3144,7 @@
                 "Army",
                 "House Tully"
             ],
-            "text": "Assault. No attachments.\nWhile you control a non-limited location, Brynden's Outriders gains stealth.\nWhile you control a <i>Commander</i> character, Brynden's Outriders gains a [power] icon.",
+            "text": "Assault. No attachments.\nWhile you control a non-limited location, Brynden's Outriders gains stealth.\nWhile you control a <i>Commander</i> character, Brynden's Outriders gains a [power] icon.\n<b>Draft format only.</b>",
             "deckLimit": 40,
             "illustrator": "Tomasz Jedruszek",
             "imageUrl": "https://i.imgur.com/2Onyn0T.png"
@@ -3284,11 +3284,11 @@
                 "Dothraki",
                 "Lady"
             ],
-            "text": "Insight.\nWhile you control Arstan Whitebeard or Ser Barristan Selmy, he gains intimidate.\n<b>Reaction:</b> After you win a challenge as the attacking player, gain 1 power for your faction for each unique attacking <i>Mercenary</i> character. (Limit once per phase.)\n<b>Draft format only.</b>",
+            "text": "Insight.\nWhile you control Ser Barristan Selmy, he gains intimidate.\n<b>Reaction:</b> After you win a challenge as the attacking player, gain 1 power for your faction for each unique attacking <i>Mercenary</i> character. (Limit once per phase.)\n<b>Draft format only.</b>",
             "deckLimit": 40,
             "illustrator": "Harry Platt",
             "designer": "Card design by 2019 Joust World Champion, Francis Côté.",
-            "imageUrl": "https://i.imgur.com/FBfKDHu.png"
+            "imageUrl": "https://i.imgur.com/f93mAGO.png"
         },
         {
             "code": "00242",
@@ -3495,26 +3495,27 @@
         {
             "code": "00250",
             "type": "character",
-            "name": "Arstan Whitebeard",
+            "name": "Septa Lemore",
             "octgnId": null,
             "quantity": 3,
             "unique": true,
             "faction": "targaryen",
-            "loyal": false,
-            "cost": 1,
+            "loyal": true,
+            "cost": 2,
             "icons": {
-                "military": true,
+                "military": false,
                 "intrigue": true,
-                "power": false
+                "power": true
             },
-            "strength": 3,
+            "strength": 1,
             "traits": [
-                "Companion"
+                "Companion",
+                "The Seven"
             ],
-            "text": "If you control Ser Barristan Selmy, sacrifice Arstan Whitebeard. \nWhile you control no <i>Lord</i> or <i>Lady</i> characters, Arstan Whitebeard cannot kneel.",
+            "text": "While you control Aegon Targaryen, he gains insight.\n<b>Interrupt:</b> When Septa Lemore leaves play, choose a [targaryen] character you control with shadow. Return that character to shadows.",
             "deckLimit": 40,
-            "illustrator": "Jarreau Wimberly",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ChoS/33_Arstan_Whitebeard.png"
+            "illustrator": "Sara Biddle",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/32_Septa%20Lemore.png"
         },
         {
             "code": "00251",
@@ -3609,10 +3610,10 @@
             "traits": [
                 "Mercenary"
             ],
-            "text": "Bestow (2).\n<b>Forced Interrupt:</b> When the challenges phase ends, return Long Lances to its owner's hand unless you discard 1 gold from it.\n<b>Draft format only.</b>",
+            "text": "Bestow (2). Intimidate.\n<b>Forced Interrupt:</b> When the challenges phase ends, return Long Lances to its owner's hand unless you discard 1 gold from it.\n<b>Draft format only.</b>",
             "deckLimit": 40,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/15gqB4P.png"
+            "imageUrl": "https://i.imgur.com/v6I0iLN.png"
         },
         {
             "code": "00256",
@@ -4697,6 +4698,24 @@
         {
             "code": "00303",
             "type": "location",
+            "name": "The Green Fork",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "neutral",
+            "cost": 2,
+            "traits": [
+                "The Riverlands",
+                "Westeros"
+            ],
+            "text": "<b>Reaction:</b> After you win an [intrigue] challenge by 5 or more STR, put The Green Fork into play from your discard pile.\n+1 Income.",
+            "deckLimit": 3,
+            "illustrator": "Andreas Rocha",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TTS/78_The_Green_Fork.png"
+        },
+        {
+            "code": "00304",
+            "type": "location",
             "name": "Gulltown",
             "octgnId": null,
             "quantity": 3,
@@ -4712,7 +4731,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/JS/19_Gulltown_ENG.png"
         },
         {
-            "code": "00304",
+            "code": "00305",
             "type": "location",
             "name": "The Bloody Gate",
             "octgnId": null,
@@ -4730,7 +4749,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/33%20-%20The%20Bloody%20Gate.png"
         },
         {
-            "code": "00305",
+            "code": "00306",
             "type": "location",
             "name": "Milkwater Crossing",
             "octgnId": null,
@@ -4747,7 +4766,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WAID/18_Milkwater_Crossing.png"
         },
         {
-            "code": "00306",
+            "code": "00307",
             "type": "attachment",
             "name": "Sweetsleep",
             "octgnId": null,
@@ -4764,7 +4783,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/47_Sweetsleep.png"
         },
         {
-            "code": "00307",
+            "code": "00308",
             "type": "event",
             "name": "As High as Honor",
             "octgnId": null,
@@ -4779,21 +4798,6 @@
             "deckLimit": 40,
             "illustrator": "Stephen Najarian",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/49_As%20High%20As%20Honor.png"
-        },
-        {
-            "code": "00308",
-            "type": "event",
-            "name": "Broken Men",
-            "octgnId": null,
-            "quantity": 3,
-            "faction": "neutral",
-            "cost": 0,
-            "traits": [],
-            "text": "<b>Reaction:</b> After you lose a [military] challenge, sacrifice a location to choose a participating character with the <i>Army</i> trait or printed cost 4 or lower, and discard it from play.",
-            "flavor": "\"The knights come down on them, faceless men clad all in steel, and the iron thunder of their charge seems to fill the world... And the man breaks.\" <cite>Septon Meribald</cite>",
-            "deckLimit": 40,
-            "illustrator": "Rob Joseph",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/29_Broken%20Men.png"
         },
         {
             "code": "00309",
