@@ -2536,7 +2536,7 @@
                 "Steward",
                 "Wildling"
             ],
-            "text": "<b>Action:</b> Kneel a non-limited location to choose a character. Until the end of the phase, that character gains pillage or stealth.\n<b>Draft format only.</b>",
+            "text": "<b>Action:</b> Kneel a non-limited location to choose a character. Until the end of the phase, that character gains pillage or stealth. (Limit once per round.)\n<b>Draft format only.</b>",
             "deckLimit": 40,
             "illustrator": "?",
             "imageUrl": "https://i.imgur.com/JHLupcg.png"
@@ -6045,7 +6045,7 @@
             ],
             "text": "<b>When Revealed:</b> Either, increase the gold value on Feast or Famine by 5, or increase the claim value on Feast or Famine by 2.\n<b>Draft format only.</b>",
             "deckLimit": 2,
-            "imageUrl": "https://i.imgur.com/2a8HQkD.png"
+            "imageUrl": "https://i.imgur.com/CL6wVDV.png"
         },
         {
             "code": "00368",
@@ -6063,9 +6063,9 @@
             "traits": [
                 "Omen"
             ],
-            "text": "<b>When Revealed:</b> Each player chooses any number of characters he or she controls with total printed cost 10 or lower. Kill each character not chosen.\n<b>Draft format only.</b>",
+            "text": "<b>When Revealed:</b> Each player chooses any number of characters they control with total printed cost 10 or lower. Kill each character not chosen.\n<b>Draft format only.</b>",
             "deckLimit": 2,
-            "imageUrl": "https://i.imgur.com/HGAaCpU.png"
+            "imageUrl": "https://i.imgur.com/I9dXSxg.png"
         },
         {
             "code": "00369",
@@ -6083,10 +6083,10 @@
             "traits": [
                 "City"
             ],
-            "text": "<b>When Revealed:</b> Draw 1 card. (Draw 2 cards instead if there is a <i>City</i> plot card in your used pile.)\n<b>Draft format only.</b>",
+            "text": "<b>When Revealed:</b> Draw 1 card. (2 cards instead if there is a <i>City</i> plot card in your used pile.)\n<b>Draft format only.</b>",
             "deckLimit": 2,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/qKdP0u7.png"
+            "imageUrl": "https://i.imgur.com/4vZHrUe.png"
         },
         {
             "code": "00370",
@@ -6147,10 +6147,10 @@
             "traits": [
                 "Scheme"
             ],
-            "text": "<b>Reaction:</b> After you win an [intrigue] challenge, draw X cards. Then, choose and discard 1 card from your hand. X is the claim value on Bitter Accusation.\n<b>Draft format only.</b>",
+            "text": "<b>Reaction:</b> After you win an [intrigue] challenge, draw X cards, where X is the claim value on Bitter Accusation. Then, choose and discard 1 card from your hand.\n<b>Draft format only.</b>",
             "deckLimit": 2,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/z5aFBcx.png"
+            "imageUrl": "https://i.imgur.com/nZ272xo.png"
         },
         {
             "code": "00373",
@@ -6232,10 +6232,10 @@
                 "Citadel",
                 "Riddle"
             ],
-            "text": "<b>Action:</b> Choose a character. Until the end of the phase, that character gains a challenge icon or <i>Trait</i> of your choice. (Limit once per round.)\n<b>Draft format only.</b>",
+            "text": "<b>Action:</b> Choose a character. Until the end of the phase, that character gains a <i>Trait</i> or challenge icon of your choice. (Limit once per round.)\n<b>Draft format only.</b>",
             "deckLimit": 2,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/NfFXKy3.png"
+            "imageUrl": "https://i.imgur.com/Zu5w7B4.png"
         }
     ]
 }
