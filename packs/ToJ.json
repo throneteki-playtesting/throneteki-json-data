@@ -1548,7 +1548,7 @@
         {
             "code": "00166",
             "type": "character",
-            "name": "Debt Collector",
+            "name": "Eager Opportunist",
             "octgnId": null,
             "quantity": 3,
             "unique": false,
@@ -1562,12 +1562,12 @@
             },
             "strength": 2,
             "traits": [
-                "Ally"
+                "Spy"
             ],
-            "text": "<b>Challenges Action:</b> Move 1 gold from a character you control to your gold pool to have Debt Collector gain insight until the end of the phase. (Limit once per phase.)\n<b>Draft format only.</b>",
+            "text": "Ambush (3).\n<b>Reaction:</b> After Eager Opportunist enters play, if you have won an [intrigue] challenge this phase, kneel your faction card to choose a character with STR 3 or lower and return it to its owner's hand.\n<b>Draft format only.</b>",
             "deckLimit": 40,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/hf5BL6V.png"
+            "imageUrl": "https://i.imgur.com/GaZlXRf.png"
         },
         {
             "code": "00167",
@@ -1582,10 +1582,10 @@
             "traits": [
                 "The Westerlands"
             ],
-            "text": "Interrupt: When claim is applied for an [intrigue] challenge in which you are the attacking player, if the losing opponent has fewer cards in hand than you, sacrifice Hillside River to apply [power] claim instead.\n+1 Income.\n<b>Draft format only.</b>",
+            "text": "Reaction: After claim is applied for an [intrigue] challenge you won, if you have more cards in hand than the losing opponent, sacrifice Hillside River to apply gain 1 power for your faction.\n+1 Income.\n<b>Draft format only.</b>",
             "deckLimit": 40,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/BUVOYW2.png"
+            "imageUrl": "https://i.imgur.com/UVsNWlw.png"
         },
         {
             "code": "00168",

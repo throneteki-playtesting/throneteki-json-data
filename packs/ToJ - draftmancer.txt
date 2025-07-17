@@ -634,17 +634,17 @@
                 "rarity": "common"
         },
         {            
-                "name": "Debt Collector",
+                "name": "Eager Opportunist",
                 "mana_cost": "2",
                 "type": "Creature",
-                "image": "https://i.imgur.com/hf5BL6V.png",
+                "image": "https://i.imgur.com/GaZlXRf.png",
                 "rarity": "common"
         },
         {            
                 "name": "Hillside River",
                 "mana_cost": "2",
                 "type": "Artifact",
-                "image": "https://i.imgur.com/BUVOYW2.png",
+                "image": "https://i.imgur.com/UVsNWlw.png",
                 "rarity": "common"
         },
         {            
@@ -2433,7 +2433,7 @@ Warrior's Sons (ToJ)
 Cruel Brigand
 The Imp's Agent (ToJ)
 Ashemark Councilor (ToJ)
-Debt Collector
+Eager Opportunist
 Hillside River
 Burning Bright (ToJ)
 One, Two, Three (ToJ)
