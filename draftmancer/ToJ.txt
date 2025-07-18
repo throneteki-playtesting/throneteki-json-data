@@ -1,0 +1,2529 @@
+﻿[Settings]
+{
+        "name": "Tower of Joy Draft Set",
+        "cubeCobraID": "thrones",
+        "withReplacement": true,
+        "duplicateProtection":false,
+        "showSlots": true,
+        "cardBack": "https://theironthrone.net/img/cards/cardback.png",
+        "boostersPerPlayer": 5,
+        "boosterSettings":
+        [
+            {
+                    "picks": 1,
+                    "burns": 0
+                },
+            {
+                    "picks": 1,
+                    "burns": 0
+                },
+            {
+                    "picks": 1,
+                    "burns": 0
+                },
+            {
+                    "picks": 1,
+                    "burns": 0
+                },
+            {
+                    "picks": 33,
+                    "burns": 0
+                },
+        ],
+        "layouts":
+        {
+            "DraftPack":
+                {
+                   "weight": 1,
+                    "slots":[
+                    {"name": "Rare",   "count": 1},
+                    {
+                        "name": "UncommonOrPlot",
+                        "count": 1,
+                        "sheets": [
+                            {"name": "Uncommon",   "weight": 8},
+                            {"name": "Plot", "weight": 2}
+                        ]
+                    },
+                    {
+                        "name": "UncommonOrPlot",
+                        "count": 1,
+                        "sheets": [
+                            {"name": "Uncommon",   "weight": 8},
+                            {"name": "Plot", "weight": 2}
+                        ]
+                    },
+                    {
+                        "name": "UncommonOrPlot",
+                        "count": 1,
+                        "sheets": [
+                            {"name": "Uncommon",   "weight": 8},
+                            {"name": "Plot", "weight": 2}
+                        ]
+                    },
+                    {
+                        "name": "UncommonOrPlot",
+                        "count": 1,
+                        "sheets": [
+                            {"name": "Uncommon",   "weight": 8},
+                            {"name": "Plot", "weight": 2}
+                        ]
+                    },
+                    {
+                        "name": "UncommonOrPlot",
+                        "count": 1,
+                        "sheets": [
+                            {"name": "Uncommon",   "weight": 8},
+                            {"name": "Plot", "weight": 2}
+                        ]
+                    },
+                    {"name": "Common",   "count": 6},
+                    {
+                        "name": "Foil",
+                        "count": 1,
+                        "sheets": [
+                            {"name": "FoilRare",   "weight": 1},
+                            {"name": "Uncommon",   "weight": 2},
+                            {"name": "Common",   "weight": 4},
+                            {"name": "Plot",   "weight": 1},
+                        ]
+                    },
+                ]
+
+
+                },
+            "Starter":
+                {
+                        "weight": 1,
+                    "slots":
+                        {
+                            "Starter": 33
+                        }
+                }
+        },
+        "predeterminedLayouts": ["DraftPack", "DraftPack", "DraftPack", "DraftPack", "Starter"]
+}
+[CustomCards]
+[
+        {            
+                "name": "King Stannis's Host (ToJ)",
+                "mana_cost": "8",
+                "type": "Creature",
+                "subtypes": [
+                    "Army","House Florent"
+                ],
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/01_King%20Stannis's%20Host.png",
+                "power": 8,
+                "rarity": "rare"
+        },
+        {            
+                "name": "Beric Dondarrion (ToJ)",
+                "mana_cost": "7",
+                "type": "Creature",
+                "subtypes": [
+                    "Knight","Lord"
+                ],
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ATT/1_Beric_Dondarrion.png",
+                "power": 5,
+                "rarity": "rare"
+        },
+        {            
+                "name": "Salladhor Saan's Lyseni (ToJ)",
+                "mana_cost": "7",
+                "type": "Creature",
+                "subtypes": [
+                    "Army","Mercenary","Smuggler"
+                ],
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/01_Sallador%20Saan_s%20Lyseni.png",
+                "power": 6,
+                "rarity": "rare"
+        },
+        {            
+                "name": "Stannis Baratheon (ToJ)",
+                "mana_cost": "7",
+                "type": "Creature",
+                "subtypes": [
+                    "King","Lord","R'hllor"
+                ],
+                "image": "https://i.imgur.com/g4LC2Z8.png",
+                "power": 5,
+                "rarity": "rare"
+        },
+        {            
+                "name": "Ser Richard Horpe (ToJ)",
+                "mana_cost": "6",
+                "type": "Creature",
+                "subtypes": [
+                    "Knight","R'hllor"
+                ],
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/1_Ser%20Richard%20Horpe.png",
+                "power": 5,
+                "rarity": "rare"
+        },
+        {            
+                "name": "Storm's End (ToJ)",
+                "mana_cost": "5",
+                "type": "Artifact",
+                "subtypes": [
+                    "Stronghold","Westeros"
+                ],
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/03_Storm_s%20End.png",
+                "rarity": "rare"
+        },
+        {            
+                "name": "The Laughing Storm (ToJ)",
+                "mana_cost": "3",
+                "type": "Enchantment",
+                "subtypes": [
+                    "Legacy","Tapestry"
+                ],
+                "image": "https://i.imgur.com/cXAKM9M.png",
+                "rarity": "rare"
+        },
+        {            
+                "name": "Gendry (ToJ)",
+                "mana_cost": "5",
+                "type": "Creature",
+                "subtypes": [
+                        "Bastard","Brotherhood","R'hllor"
+                ],
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/01_Gendry.png",
+                "power": 5,
+                "rarity": "uncommon"
+        },
+        {            
+                "name": "Bonifer the Good (ToJ)",
+                "mana_cost": "4",
+                "type": "Creature",
+                "subtypes": [
+                        "Commander","Knight","The Seven"
+                ],
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FH/1_Bonifer.png",
+                "power": 3,
+                "rarity": "uncommon"
+        },
+        {            
+                "name": "Ser Gilbert Farring (ToJ)",
+                "mana_cost": "4",
+                "type": "Creature",
+                "subtypes": [
+                        "Knight"
+                ],
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/02_Ser%20Gilbert%20Farring.png",
+                "power": 4,
+                "rarity": "uncommon"
+        },
+        {            
+                "name": "Jon Arryn (ToJ)",
+                "mana_cost": "3",
+                "type": "Creature",
+                "subtypes": [
+                        "House Arryn","Lord","Small Council"
+                ],
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/1%20-%20Jon%20Arryn.png",
+                "power": 3,
+                "rarity": "uncommon"
+        },
+        {            
+                "name": "Ser Clayton Suggs (ToJ)",
+                "mana_cost": "3",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WAID/1_Ser_Clayton_Suggs.png",
+                "rarity": "uncommon"
+        },
+        {            
+                "name": "Godry the Giantslayer (ToJ)",
+                "mana_cost": "2",
+                "type": "Creature",
+                "subtypes": [
+                        "Knight","R'hllor"
+                ],
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FH/2_Godry.png",
+                "power": "*",
+                "rarity": "uncommon"
+        },
+        {            
+                "name": "No Song So Sweet (ToJ)",
+                "mana_cost": "1",
+                "type": "Instant",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/4_No%20Song%20So%20Sweet.png",
+                "rarity": "uncommon"
+        },
+        {            
+                "name": "Set Down Our Deeds (ToJ)",
+                "mana_cost": "0",
+                "type": "Instant",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/5_Set%20Down%20Our%20Deeds.png",
+                "rarity": "uncommon"
+        },
+        {            
+                "name": "Myrish Pirates",
+                "mana_cost": "4",
+                "type": "Creature",
+                "subtypes": [
+                        "Mercenary", "R'hllor", "Smuggler", "The Seven"
+                ],
+                "image": "https://i.imgur.com/maiAAFV.png",
+                "power": 3,
+                "rarity": "common"
+        },
+        {            
+                "name": "Blackhaven Rider (ToJ)",
+                "mana_cost": "3",
+                "type": "Creature",
+                "subtypes": [
+                        "Brotherhood"
+                ],
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TIC/81_Blackhaven_Rider.png",
+                "power": 3,
+                "rarity": "common"
+        },
+        {            
+                "name": "The Holy Hundred (ToJ)",
+                "mana_cost": "3",
+                "type": "Creature",
+                "subtypes": [
+                        "Army","The Seven"
+                ],
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/02_The%20Holy%20Hundred.png",
+                "power": 1,
+                "rarity": "common"
+        },
+        {            
+                "name": "Acolyte of the Shadow (ToJ)",
+                "mana_cost": "2",
+                "type": "Creature",
+                "subtypes": [
+                        "R'hllor"
+                ],
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ChoS/21_Acolyte_of_the_Shadow.png",
+                "power": 2,
+                "rarity": "common"
+        },
+        {            
+                "name": "Antler Men (ToJ)",
+                "mana_cost": "2",
+                "type": "Creature",
+                "subtypes": [
+                        "Merchant"
+                ],
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/02_Antler%20Men.png",
+                "power": 1,
+                "rarity": "common"
+        },
+        {            
+                "name": "Sellsails (ToJ)",
+                "mana_cost": "2",
+                "type": "Creature",
+                "subtypes": [
+                        "Ally","Mercenary","Smuggler"
+                ],
+                "image": "https://i.imgur.com/6erD708.png",
+                "power": 2,
+                "rarity": "common"
+        },
+        {
+                "name": "Nightfort Ruins",
+                "mana_cost": "1",
+                "type": "Artifact",
+                "image": "https://i.imgur.com/w5CjUgs.png",
+                "rarity": "common"
+        },
+        {            
+                "name": "Flaming Sword",
+                "mana_cost": "1",
+                "type": "Enchantment",
+                "subtypes": [
+                        "R'hllor","Weapon"
+                ],
+                "image": "https://i.imgur.com/MKlFxK5.png",
+                "rarity": "common"
+        },
+        {            
+                "name": "Euron Crow's Eye (ToJ)",
+                "mana_cost": "7",
+                "type": "Creature",
+                "image": "https://i.imgur.com/FS5tz1t.png",
+                "rarity": "rare"
+        },
+        {            
+                "name": "Ralf the Limper (ToJ)",
+                "mana_cost": "6",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WoW/23_Ralf_the_Limper.png",
+                "rarity": "rare"
+        },
+        {            
+                "name": "Victarion Greyjoy (ToJ)",
+                "mana_cost": "5",
+                "type": "Creature",
+                "image": "https://i.imgur.com/Hol0kyS.png",
+                "rarity": "rare"
+        },
+        {            
+                "name": "Ralf Kenning (ToJ)",
+                "mana_cost": "4",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ChoS/23_Ralf_Kenning.png",
+                "rarity": "rare"
+        },
+        {            
+                "name": "Erik Anvil-Breaker (ToJ)",
+                "mana_cost": "2",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/04_Erik%20Anvil-Breaker.png",
+                "rarity": "rare"
+        },
+        {            
+                "name": "Winterfell (ToJ)",
+                "mana_cost": "3",
+                "type": "Artifact",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WK/104_Winterfell.png",
+                "rarity": "rare"
+        },
+        {            
+                "name": "Valyrian Steel Armor (ToJ)",
+                "mana_cost": "3",
+                "type": "Enchantment",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/06_Valyrian%20Steel%20Armor.png",
+                "rarity": "rare"
+        },
+        {            
+                "name": "The Knight (ToJ)",
+                "mana_cost": "6",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TIC/83_The_Knight.png",
+                "rarity": "uncommon"
+        },
+        {            
+                "name": "Dagmer Cleftjaw (ToJ)",
+                "mana_cost": "5",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/04_Dagmer%20Cleftjaw.png",
+                "rarity": "uncommon"
+        },
+        {            
+                "name": "Left-Hand Lucas Codd (ToJ)",
+                "mana_cost": "4",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FH/3_Left-Hand.png",
+                "rarity": "uncommon"
+        },
+        {            
+                "name": "Black Lorren (ToJ)",
+                "mana_cost": "3",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/6_Black%20Lorren.png",
+                "rarity": "uncommon"
+        },
+        {            
+                "name": "Cragorn (ToJ)",
+                "mana_cost": "2",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FH/4_Cragorn.png",
+                "rarity": "uncommon"
+        },
+        {            
+                "name": "Moqorro (ToJ)",
+                "mana_cost": "3",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WAID/3_Moqorro.png",
+                "rarity": "uncommon"
+        },
+        {            
+                "name": "Silence (ToJ)",
+                "mana_cost": "2",
+                "type": "Artifact",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/JS/4_Silence_ENG.png",
+                "rarity": "uncommon"
+        },
+        {            
+                "name": "Saltcliffe (ToJ)",
+                "mana_cost": "1",
+                "type": "Artifact",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/8_Saltcliffe.png",
+                "rarity": "uncommon"
+        },
+        {            
+                "name": "Fleet from Ten Towers (ToJ)",
+                "mana_cost": "4",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/05_Fleet%20from%20Ten%20Towers.png",
+                "rarity": "common"
+        },
+        {            
+                "name": "Great Kraken's Crew (ToJ)",
+                "mana_cost": "3",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TTS/63_Great_Krakens_Crew.png",
+                "rarity": "common"
+        },
+        {            
+                "name": "Saltcliffe Marauder",
+                "mana_cost": "3",
+                "type": "Creature",
+                "image": "https://i.imgur.com/Q0Ha0zP.png",
+                "rarity": "common"
+        },
+        {            
+                "name": "Harlaw Scout (ToJ)",
+                "mana_cost": "2",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/05_Harlaw%20Scout.png",
+                "rarity": "common"
+        },
+        {            
+                "name": "Old Captain (ToJ)",
+                "mana_cost": "2",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ChoS/24_Old_Captain.png",
+                "rarity": "common"
+        },
+        {            
+                "name": "Stony Shore Thrall",
+                "mana_cost": "2",
+                "type": "Creature",
+                "image": "https://i.imgur.com/yugMB7y.png",
+                "rarity": "common"
+        },
+        {            
+                "name": "Raider's Axe",
+                "mana_cost": "1",
+                "type": "Enchantment",
+                "image": "https://i.imgur.com/FjhH8j8.png",
+                "rarity": "common"
+        },
+        {            
+                "name": "Though All Men Do Despise Us (ToJ)",
+                "mana_cost": "1",
+                "type": "Instant",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/9_Though%20All%20Men%20Do%20Despise%20Us.png",
+                "rarity": "common"
+        },
+        {            
+                "name": "Tywin Lannister (ToJ)",
+                "mana_cost": "7",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ChoS/25_Tywin_Lannister.png",
+                "rarity": "rare"
+        },
+        {            
+                "name": "Ser Daven Lannister (ToJ)",
+                "mana_cost": "6",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/07_Ser%20Daven%20Lannister.png",
+                "rarity": "rare"
+        },
+        {            
+                "name": "Ser Jaime Lannister (ToJ)",
+                "mana_cost": "5",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/07_Ser%20Jaime%20Lannister.png",
+                "rarity": "rare"
+        },
+        {            
+                "name": "Ser Lancel Lannister (ToJ)",
+                "mana_cost": "4",
+                "type": "Creature",
+                "image": "https://i.imgur.com/rCxoqHi.png",
+                "rarity": "rare"
+        },
+        {            
+                "name": "Tommen Baratheon (ToJ)",
+                "mana_cost": "3",
+                "type": "Creature",
+                "image": "https://i.imgur.com/CrfCIr7.png",
+                "rarity": "rare"
+        },
+        {            
+                "name": "Casterly Rock (ToJ)",
+                "mana_cost": "5",
+                "type": "Artifact",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/08_Casterly%20Rock.png",
+                "rarity": "rare"
+        },
+        {            
+                "name": "Lannisport (ToJ)",
+                "mana_cost": "3",
+                "type": "Artifact",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WAID/6_Lannisport.png",
+                "rarity": "rare"
+        },
+        {            
+                "name": "Ser Addam Marbrand (ToJ)",
+                "mana_cost": "5",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FH/5_Ser_Addam.png",
+                "rarity": "uncommon"
+        },
+        {            
+                "name": "Ser Harys Swyft (ToJ)",
+                "mana_cost": "4",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FH/6_Ser_Harys.png",
+                "rarity": "uncommon"
+        },
+        {            
+                "name": "Bronn (ToJ)",
+                "mana_cost": "2",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/12_Bronn.png",
+                "rarity": "uncommon"
+        },
+        {            
+                "name": "Ser Boros Blount (ToJ)",
+                "mana_cost": "2",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/JS/6_Ser_Boros_Blount_ENG.png",
+                "rarity": "uncommon"
+        },
+        {            
+                "name": "Myrcella Baratheon (ToJ)",
+                "mana_cost": "2",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ATT/5_Myrcella_Baratheon.png",
+                "rarity": "uncommon"
+        },
+        {            
+                "name": "Boots (ToJ)",
+                "mana_cost": "1",
+                "type": "Enchantment",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ChoS/26_Boots.png",
+                "rarity": "uncommon"
+        },
+        {            
+                "name": "Lady Whiskers (ToJ)",
+                "mana_cost": "1",
+                "type": "Enchantment",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/09_Lady%20Whiskers.png",
+                "rarity": "uncommon"
+        },
+        {            
+                "name": "A Lannister's Honor (ToJ)",
+                "mana_cost": "1",
+                "type": "Instant",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WK/106_A_Lannisters_Honor.png",
+                "rarity": "uncommon"
+        },
+        {            
+                "name": "Warrior's Sons (ToJ)",
+                "mana_cost": "6",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FUtG/45_Warriors_Sons.png",
+                "rarity": "common"
+        },
+        {            
+                "name": "Cruel Brigand",
+                "mana_cost": "3",
+                "type": "Creature",
+                "image": "https://i.imgur.com/MGtiNp8.png",
+                "rarity": "common"
+        },
+        {            
+                "name": "The Imp's Agent (ToJ)",
+                "mana_cost": "3",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WoW/25_The_Imps_Agent.png",
+                "rarity": "common"
+        },
+        {            
+                "name": "Ashemark Councilor (ToJ)",
+                "mana_cost": "4",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WAID/5_Ashemark_Councilor.png",
+                "rarity": "common"
+        },
+        {            
+                "name": "Eager Opportunist",
+                "mana_cost": "2",
+                "type": "Creature",
+                "image": "https://i.imgur.com/aik9ms8.png",
+                "rarity": "common"
+        },
+        {            
+                "name": "Hillside River",
+                "mana_cost": "2",
+                "type": "Artifact",
+                "image": "https://i.imgur.com/UVsNWlw.png",
+                "rarity": "common"
+        },
+        {            
+                "name": "Burning Bright (ToJ)",
+                "mana_cost": "2",
+                "type": "Instant",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/15_Burning%20Bright.png",
+                "rarity": "common"
+        },
+        {            
+                "name": "One, Two, Three (ToJ)",
+                "mana_cost": "1",
+                "type": "Instant",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/09_One%2C%20Two%2C%20Three.png",
+                "rarity": "common"
+        },
+        {
+                "name": "Doran Martell (ToJ)",
+                "mana_cost": "6",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/7%20-%20Doran%20Martell.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "Anders Yronwood (ToJ)",
+                "mana_cost": "6",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/16_Anders%20Yronwood.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "Ser Arys Oakheart (ToJ)",
+                "mana_cost": "5",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FUtG/47_Ser_Arys_Oakheart.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "Arianne Martell (ToJ)",
+                "mana_cost": "4",
+                "type": "Creature",
+                "image": "https://i.imgur.com/zwBU9Ri.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "Elia Sand (ToJ)",
+                "mana_cost": "4",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/JS/7_Elia_Sand_ENG.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "The Tattered Prince (ToJ)",
+                "mana_cost": "3",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FH/8_Tattered.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "Sword of the Morning (ToJ)",
+                "mana_cost": "3",
+                "type": "Enchantment",
+                "image": "https://i.imgur.com/AfgWETJ.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "Mellario of Norvos (ToJ)",
+                "mana_cost": "4",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FH/7_Mellario.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "Ser Andrey Dalt (ToJ)",
+                "mana_cost": "4",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/10_Ser%20Andrey%20Dalt.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "Trystane Martell (ToJ)",
+                "mana_cost": "3",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/10_Trystane%20Martell.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "Tyene Sand (ToJ)",
+                "mana_cost": "3",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WK/107_Tyene_Sand.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "Ser Willam Wells (ToJ)",
+                "mana_cost": "2",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TIC/87_Ser_Willam_Wells.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "Sandstone (ToJ)",
+                "mana_cost": "2",
+                "type": "Artifact",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/12_Sandstone.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "War Scorpion (ToJ)",
+                "mana_cost": "2",
+                "type": "Enchantment",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/12_War%20Scorpion.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "Vulture King (ToJ)",
+                "mana_cost": "1",
+                "type": "Enchantment",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FUtG/48_Vulture_King.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "Ghost Hill Elite (ToJ)",
+                "mana_cost": "6",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WoW/27_Ghost_Hill_Elite.png",
+                "rarity": "common"
+        },
+        {
+                "name": "Starfall Servant",
+                "mana_cost": "4",
+                "type": "Creature",
+                "image": "https://i.imgur.com/lYN2aZl.png",
+                "rarity": "common"
+        },
+        {
+                "name": "Windblown (ToJ)",
+                "mana_cost": "3",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/11_Windblown.png",
+                "rarity": "common"
+        },
+        {
+                "name": "Scheming Snake (ToJ)",
+                "mana_cost": "3",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ATT/7_Scheming_Snake.png",
+                "rarity": "common"
+        },
+        {
+                "name": "Desert Freerider",
+                "mana_cost": "2",
+                "type": "Creature",
+                "image": "https://i.imgur.com/uLmZMDC.png",
+                "rarity": "common"
+        },
+        {
+                "name": "Vengeful Lordling",
+                "mana_cost": "2",
+                "type": "Creature",
+                "image": "https://i.imgur.com/L08yWz3.png",
+                "rarity": "common"
+        },
+        {
+                "name": "Red Mountains (ToJ)",
+                "mana_cost": "1",
+                "type": "Artifact",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TIC/88_Red_Mountains.png",
+                "rarity": "common"
+        },
+        {
+                "name": "A Bed of Scorpions (ToJ)",
+                "mana_cost": "1",
+                "type": "Instant",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ATT/8_A_Bed_of_Scorpions.png",
+                "rarity": "common"
+        },
+        {
+                "name": "Great Ranging (ToJ)",
+                "mana_cost": "8",
+                "type": "Creature",
+                "image": "https://i.imgur.com/xVCUTf2.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "Melisandre (ToJ)",
+                "mana_cost": "7",
+                "type": "Creature",
+                "image": "https://i.imgur.com/kRkXIPu.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "Benjen Stark (ToJ)",
+                "mana_cost": "6",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WAID/9_Benjen_Stark.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "Dywen (ToJ)",
+                "mana_cost": "6",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FH/9_Dywen.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "Bowen Marsh (ToJ)",
+                "mana_cost": "5",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TTS/69_Bowen_Marsh.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "Castle Black (ToJ)",
+                "mana_cost": "5",
+                "type": "Artifact",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/14_Castle%20Black.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "Sentinel Stand (ToJ)",
+                "mana_cost": "3",
+                "type": "Artifact",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ATT/10_Sentinel_Stand.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "Samwell Tarly (ToJ)",
+                "mana_cost": "6",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/13_Samwell%20Tarly.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "Iron Emmett (ToJ)",
+                "mana_cost": "4",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/13_Iron%20Emmett.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "Old Tattersalt (ToJ)",
+                "mana_cost": "3",
+                "type": "Creature",
+                "image": "https://i.imgur.com/r0ywbME.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "Gared (ToJ)",
+                "mana_cost": "2",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ATT/9_Gared.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "Weirwood Grove (ToJ)",
+                "mana_cost": "2",
+                "type": "Artifact",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WK/110_Weirwood_Grove.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "Insubordination (ToJ)",
+                "mana_cost": "1",
+                "type": "Enchantment",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ChoS/30_Insubordination.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "I Pledge My Life and Honor (ToJ)",
+                "mana_cost": "1",
+                "type": "Instant",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/24_%20I%20Pledge%20My%20Life%20and%20Honor.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "When All is Darkest (ToJ)",
+                "mana_cost": "0",
+                "type": "Instant",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WAID/10_When_All_Is_Darkest.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "Mance's Warriors",
+                "mana_cost": "5",
+                "type": "Creature",
+                "image": "https://i.imgur.com/wpgUNBC.png",
+                "rarity": "common"
+        },
+        {
+                "name": "Abel's Washerwoman",
+                "mana_cost": "4",
+                "type": "Creature",
+                "image": "https://i.imgur.com/JHLupcg.png",
+                "rarity": "common"
+        },
+        {
+                "name": "Marsh's Conspirator (ToJ)",
+                "mana_cost": "3",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FUtG/49_Marshs_Conspirator.png",
+                "rarity": "common"
+        },
+        {
+                "name": "Old Steward (ToJ)",
+                "mana_cost": "2",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/JS/10_Old_Steward_ENG.png",
+                "rarity": "common"
+        },
+        {
+                "name": "Wall-Bound Knight",
+                "mana_cost": "2",
+                "type": "Creature",
+                "image": "https://i.imgur.com/PUPB2wk.png",
+                "rarity": "common"
+        },
+        {
+                "name": "Highborn Recruit (ToJ)",
+                "mana_cost": "1",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ChoS/29_Highborn_Recruit.png",
+                "rarity": "common"
+        },
+        {
+                "name": "You Know Nothing (ToJ)",
+                "mana_cost": "1",
+                "type": "Instant",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/15_You%20Know%20Nothing.png",
+                "rarity": "common"
+        },
+        {
+                "name": "Corn, Corn, Corn (ToJ)",
+                "mana_cost": "0",
+                "type": "Instant",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/25_Corn,%20Corn,%20Corn.png",
+                "rarity": "common"
+        },
+        {
+                "name": "Robb Stark (ToJ)",
+                "mana_cost": "7",
+                "type": "Creature",
+                "image": "https://i.imgur.com/NMbhVj7.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "The Blackfish (ToJ)",
+                "mana_cost": "6",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/16_The%20Blackfish.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "Roose Bolton (ToJ)",
+                "mana_cost": "6",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WK/111_Roose_Bolton.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "Rickard Karstark (ToJ)",
+                "mana_cost": "5",
+                "type": "Creature",
+                "image": "https://i.imgur.com/I6GyCTh.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "Winterfell Castle (ToJ)",
+                "mana_cost": "5",
+                "type": "Artifact",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/18_Winterfell%20Castle.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "The Crag (ToJ)",
+                "mana_cost": "2",
+                "type": "Artifact",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/18_The%20Crag.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "Grey Wind (ToJ)",
+                "mana_cost": "3",
+                "type": "Enchantment",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/18_Grey%20Wind.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "King Robb's Bannermen (ToJ)",
+                "mana_cost": "6",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/16_King%20Robb_s%20Bannermen.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "Bran Stark (ToJ)",
+                "mana_cost": "5",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/16_Bran%20Stark.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "Jon Snow (ToJ)",
+                "mana_cost": "4",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TTS/71_Jon_Snow.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "Farlen (ToJ)",
+                "mana_cost": "3",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/26_Farlen.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "Ghost (ToJ)",
+                "mana_cost": "3",
+                "type": "Creature",
+                "image": "https://i.imgur.com/hMZCeJm.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "Harwin (ToJ)",
+                "mana_cost": "3",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FH/12_Harwin.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "The Wolf's Den (ToJ)",
+                "mana_cost": "3",
+                "type": "Artifact",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/12%20-%20The%20Wolfs%20Den.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "Greywater Watch (ToJ)",
+                "mana_cost": "2",
+                "type": "Artifact",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/JS/11_Greywater_Watch_ENG.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "The Bastard's Boys (ToJ)",
+                "mana_cost": "5",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/17_The%20Bastard_s%20Boys.png",
+                "rarity": "common"
+        },
+        {
+                "name": "Crannogmen (ToJ)",
+                "mana_cost": "4",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/11%20-%20Crannogmen.png",
+                "rarity": "common"
+        },
+        {
+                "name": "Merman's Guard",
+                "mana_cost": "3",
+                "type": "Creature",
+                "image": "https://i.imgur.com/aXNyzpF.png",
+                "rarity": "common"
+        },
+        {
+                "name": "Trident Guard (ToJ)",
+                "mana_cost": "3",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WAID/11_Trident_Guard.png",
+                "rarity": "common"
+        },
+        {
+                "name": "Brynden's Outriders (ToJ)",
+                "mana_cost": "2",
+                "type": "Creature",
+                "image": "https://i.imgur.com/W1aGAES.png",
+                "rarity": "common"
+        },
+        {
+                "name": "Karstark Lancer (ToJ)",
+                "mana_cost": "2",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ATT/11_Karstark_Lancer.png",
+                "rarity": "common"
+        },
+        {
+                "name": "The Wolfswood (ToJ)",
+                "mana_cost": "1",
+                "type": "Artifact",
+                "image": "https://i.imgur.com/j0JaBTP.png",
+                "rarity": "common"
+        },
+        {
+                "name": "Wolf Dreams (ToJ)",
+                "mana_cost": "1",
+                "type": "Instant",
+                "image": "https://i.imgur.com/ckDsfwH.png",
+                "rarity": "common"
+        },
+        {
+                "name": "Aegon Targaryen (ToJ)",
+                "mana_cost": "7",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WK/113_Aegon_Targaryen.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "Ser Barristan Selmy (ToJ)",
+                "mana_cost": "7",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/19_Ser%20Barristan%20Selmy.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "Daenerys Targaryen (ToJ)",
+                "mana_cost": "6",
+                "type": "Creature",
+                "image": "https://i.imgur.com/f93mAGO.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "Quentyn Martell (ToJ)",
+                "mana_cost": "5",
+                "type": "Creature",
+                "image": "https://i.imgur.com/V2z6QIQ.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "Lysono Maar (ToJ)",
+                "mana_cost": "5",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/13%20-%20Lysono%20Maar.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "Tyrion Lannister (ToJ)",
+                "mana_cost": "4",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/JS/14_Tyrion_Lannister_ENG.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "Hero (ToJ)",
+                "mana_cost": "4",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/19_Hero.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "Grey Worm (ToJ)",
+                "mana_cost": "5",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/JS/13_Grey_Worm_ENG.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "Ser Rolly Duckfield (ToJ)",
+                "mana_cost": "4",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/19_Ser%20Rolly%20Duckfield.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "Black Balaq (ToJ)",
+                "mana_cost": "3",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TTS/73_Black_Balaq.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "Haldon Halfmaester (ToJ)",
+                "mana_cost": "3",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FH/14_Haldon.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "Septa Lemore (ToJ)",
+                "mana_cost": "2",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/32_Septa%20Lemore.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "Grey Worm's Spear (ToJ)",
+                "mana_cost": "2",
+                "type": "Enchantment",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WK/114_Grey_Worms_Spear.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "Our Word Is Good as Gold (ToJ)",
+                "mana_cost": "2",
+                "type": "Instant",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/33_Our%20Word%20is%20Good%20as%20Gold.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "Beneath the Gold, the Bitter Steel (ToJ)",
+                "mana_cost": "0",
+                "type": "Instant",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/35_Beneath%20the%20Gold,%20the%20Bitter%20Steel.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "Golden Company (ToJ)",
+                "mana_cost": "5",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/31_Golden%20Company.png",
+                "rarity": "common"
+        },
+        {
+                "name": "Long Lances",
+                "mana_cost": "3",
+                "type": "Creature",
+                "image": "https://i.imgur.com/v6I0iLN.png",
+                "rarity": "common"
+        },
+        {
+                "name": "Stalwart Shields (ToJ)",
+                "mana_cost": "3",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/20_Stalwart%20Shields.png",
+                "rarity": "common"
+        },
+        {
+                "name": "Sorrowful Man (ToJ)",
+                "mana_cost": "3",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WoW/33_Sorrowful_Man.png",
+                "rarity": "common"
+        },
+        {
+                "name": "Free Brothers (ToJ)",
+                "mana_cost": "2",
+                "type": "Creature",
+                "image": "https://i.imgur.com/EBGpUyA.png",
+                "rarity": "common"
+        },
+        {
+                "name": "Stormcrows (ToJ)",
+                "mana_cost": "2",
+                "type": "Creature",
+                "image": "https://i.imgur.com/Kk1xbz7.png",
+                "rarity": "common"
+        },
+        {
+                "name": "Fighting Pit",
+                "mana_cost": "1",
+                "type": "Artifact",
+                "image": "https://i.imgur.com/hDqSWXK.png",
+                "rarity": "common"
+        },
+        {
+                "name": "Naught but Ashes (ToJ)",
+                "mana_cost": "",
+                "type": "Artifact",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FUtG/54_Naught_but_Ashes.png",
+                "rarity": "common"
+        },
+        {
+                "name": "Randyll Tarly (ToJ)",
+                "mana_cost": "7",
+                "type": "Creature",
+                "image": "https://i.imgur.com/qUOkODx.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "Margaery Tyrell (ToJ)",
+                "mana_cost": "6",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TIC/95_Margaery_Tyrell.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "Mace Tyrell (ToJ)",
+                "mana_cost": "5",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/22_Mace%20Tyrell.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "Willas Tyrell (ToJ)",
+                "mana_cost": "5",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FUtG/55_Willas_Tyrell.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "The Knight of Flowers (ToJ)",
+                "mana_cost": "4",
+                "type": "Creature",
+                "image": "https://i.imgur.com/9YbeEz6.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "Highgarden (ToJ)",
+                "mana_cost": "5",
+                "type": "Artifact",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/23_Highgarden.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "Garth Greenhand (ToJ)",
+                "mana_cost": "3",
+                "type": "Enchantment",
+                "image": "https://i.imgur.com/1F2zN6Q.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "Ser Bryce Caron (ToJ)",
+                "mana_cost": "5",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/JS/16_Ser_Bryce_Caron_ENG.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "Mina Redwyne (ToJ)",
+                "mana_cost": "5",
+                "type": "Creature",
+                "image": "https://i.imgur.com/mfJi2Pg.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "Ser Robar Royce (ToJ)",
+                "mana_cost": "3",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/15%20-%20Robar%20Royce.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "Alla Tyrell (ToJ)",
+                "mana_cost": "3",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/22_Alla%20Tyrell.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "Dickon Tarly (ToJ)",
+                "mana_cost": "2",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TTS/75_Dickon_Tarly.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "Ser Emmon Cuy (ToJ)",
+                "mana_cost": "2",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FH/16_Ser_Emmon.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "Highgarden Destrier (ToJ)",
+                "mana_cost": "1",
+                "type": "Enchantment",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WAID/16_Highgarden_Destrier.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "Gilbert of the Vines (ToJ)",
+                "mana_cost": "X",
+                "type": "Instant",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TIC/96_Gilbert_of_the_Vines.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "Blackwater Forces (ToJ)",
+                "mana_cost": "4",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WK/115_Blackwater_Forces.png",
+                "rarity": "common"
+        },
+        {
+                "name": "Wandering Knight",
+                "mana_cost": "3",
+                "type": "Creature",
+                "image": "https://i.imgur.com/NceV1xG.png",
+                "rarity": "common"
+        },
+        {
+                "name": "Red-Apple Knight (ToJ)",
+                "mana_cost": "3",
+                "type": "Creature",
+                "image": "https://i.imgur.com/shQTzrE.png",
+                "rarity": "common"
+        },
+        {
+                "name": "Arbor Jester",
+                "mana_cost": "2",
+                "type": "Creature",
+                "image": "https://i.imgur.com/jHLUaIm.png",
+                "rarity": "common"
+        },
+        {
+                "name": "Youthful Acolyte",
+                "mana_cost": "2",
+                "type": "Creature",
+                "image": "https://i.imgur.com/t4Cdwkz.png",
+                "rarity": "common"
+        },
+        {
+                "name": "Brienne the Blue (ToJ)",
+                "mana_cost": "1",
+                "type": "Instant",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/24_Brienne%20the%20Blue.png",
+                "rarity": "common"
+        },
+        {
+                "name": "Behold our Bounty (ToJ)",
+                "mana_cost": "0",
+                "type": "Instant",
+                "image": "https://i.imgur.com/WsHdsA5.png",
+                "rarity": "common"
+        },
+        {
+                "name": "Beneath the Petals (ToJ)",
+                "mana_cost": "",
+                "type": "Instant",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WoW/36_Beneath_the_Petals.png",
+                "rarity": "common"
+        },
+        {
+                "name": "Littlefinger (ToJ)",
+                "mana_cost": "7",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/17%20-%20Littlefinger.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "Vargo Hoat (ToJ)",
+                "mana_cost": "6",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FH/17_Vargo.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "Brienne of Tarth (ToJ)",
+                "mana_cost": "5",
+                "type": "Creature",
+                "image": "https://i.imgur.com/Qi1Jw9Z.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "Harma Dogshead (ToJ)",
+                "mana_cost": "4",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/25_Harma%20Dogshead.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "Former Champion (ToJ)",
+                "mana_cost": "3",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/26_Former%20Champion.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "The Moon Door (ToJ)",
+                "mana_cost": "2",
+                "type": "Artifact",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ChoS/38_The_Moon_Door.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "The Vale of Arryn (ToJ)",
+                "mana_cost": "3",
+                "type": "Artifact",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/32%20-%20The%20Vale%20of%20Arryn.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "The Tower of Joy",
+                "mana_cost": "1",
+                "type": "Artifact",
+                "image": "https://i.imgur.com/04987Zo.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "Knights of the Vale (ToJ)",
+                "mana_cost": "6",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/19%20-%20Knights%20of%20the%20Vale.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "Bloodraven (ToJ)",
+                "mana_cost": "3",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ATT/17_Bloodraven.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "Nestor Royce (ToJ)",
+                "mana_cost": "4",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/23%20-%20Nestor%20Royce.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "Septon Utt (ToJ)",
+                "mana_cost": "4",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/43_Septon%20Utt.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "Septa Unella (ToJ)",
+                "mana_cost": "3",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WK/117_Septa_Unella.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "Ser Vardis Egen (ToJ)",
+                "mana_cost": "3",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/26%20-%20Ser%20Vardis%20Egen.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "Shagwell (ToJ)",
+                "mana_cost": "2",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/45_Shagwell.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "Balerion (ToJ)",
+                "mana_cost": "2",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FH/18_Balerion.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "Gulltown (ToJ)",
+                "mana_cost": "1",
+                "type": "Artifact",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/JS/19_Gulltown_ENG.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "The Bloody Gate (ToJ)",
+                "mana_cost": "1",
+                "type": "Artifact",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/33%20-%20The%20Bloody%20Gate.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "Brave Companions (ToJ)",
+                "mana_cost": "4",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/42_Brave%20Companions.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "Jinglebell (ToJ)",
+                "mana_cost": "1",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/46_Jinglebell.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "The Green Fork (ToJ)",
+                "mana_cost": "2",
+                "type": "Artifact",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TTS/78_The_Green_Fork.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "Milkwater Crossing (ToJ)",
+                "mana_cost": "1",
+                "type": "Artifact",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WAID/18_Milkwater_Crossing.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "Sweetsleep (ToJ)",
+                "mana_cost": "0",
+                "type": "Enchantment",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/47_Sweetsleep.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "As High as Honor (ToJ)",
+                "mana_cost": "1",
+                "type": "Instant",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/49_As%20High%20As%20Honor.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "Gulltown City Guard (ToJ)",
+                "mana_cost": "6",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/JS/17_Gulltown_City_Guard_ENG.png",
+                "rarity": "common"
+        },
+        {
+                "name": "King's Landing Mob (ToJ)",
+                "mana_cost": "4",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/25_King_s%20Landing%20Mob.png",
+                "rarity": "common"
+        },
+        {
+                "name": "Mummer's Troupe",
+                "mana_cost": "4",
+                "type": "Creature",
+                "image": "https://i.imgur.com/dcbzckS.png",
+                "rarity": "common"
+        },
+        {
+                "name": "Faceless Man (ToJ)",
+                "mana_cost": "3",
+                "type": "Creature",
+                "image": "https://i.imgur.com/vCFkmZC.png",
+                "rarity": "common"
+        },
+        {
+                "name": "Thenns (ToJ)",
+                "mana_cost": "3",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/26_Thenns.png",
+                "rarity": "common"
+        },
+        {
+                "name": "Winged Knight (ToJ)",
+                "mana_cost": "2",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/29%20-%20Winged%20Knight.png",
+                "rarity": "common"
+        },
+        {
+                "name": "King's Landing Smuggler (ToJ)",
+                "mana_cost": "2",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/JS/18_Kings_Landing_Smuggler_ENG.png",
+                "rarity": "common"
+        },
+        {
+                "name": "Squire (ToJ)",
+                "mana_cost": "2",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/27_Squire.png",
+                "rarity": "common"
+        },
+        {
+                "name": "Little Bird (ToJ)",
+                "mana_cost": "2",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TIC/97_Little_Bird.png",
+                "rarity": "common"
+        },
+        {
+                "name": "Gulltown Merchant (ToJ)",
+                "mana_cost": "1",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/30%20-%20Gulltown%20Merchant.png",
+                "rarity": "common"
+        },
+        {
+                "name": "The Highroad (ToJ)",
+                "mana_cost": "1",
+                "type": "Artifact",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/34%20-%20The%20Highroad.png",
+                "rarity": "common"
+        },
+        {
+                "name": "Quill and Parchment",
+                "mana_cost": "1",
+                "type": "Enchantment",
+                "image": "https://i.imgur.com/Wtw7GrY.png",
+                "rarity": "common"
+        },
+        {
+                "name": "Face Mask",
+                "mana_cost": "0",
+                "type": "Enchantment",
+                "image": "https://i.imgur.com/w3mGt0M.png",
+                "rarity": "common"
+        },
+        {
+                "name": "\"Florian and Jonquil\" (ToJ)",
+                "mana_cost": "1",
+                "type": "Instant",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/28_Florian%20and%20Jonquil.png",
+                "rarity": "common"
+        },
+        {
+                "name": "Calm as Still Water (ToJ)",
+                "mana_cost": "0",
+                "type": "Instant",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ATT/18_Calm_as_still_water.png",
+                "rarity": "common"
+        },
+        {
+                "name": "\"A Thousand Eyes, and One\" (ToJ)",
+                "mana_cost": "0",
+                "type": "Instant",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WK/118_A_Thousand_Eyes,_and_One.png",
+                "rarity": "common"
+        },
+        {
+                "name": "Robert's Rebellion (ToJ)",
+                "mana_cost": "5",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/mib6FP7.png",
+                "rarity": "common"
+        },
+        {
+                "name": "Cast Me Forth (ToJ)",
+                "mana_cost": "4",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/sbIbi96.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "The Sack of King's Landing (ToJ)",
+                "mana_cost": "5",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/rZkYjZj.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "The Dornish Wars (ToJ)",
+                "mana_cost": "4",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/IU7V38L.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "The Watch Needs Good Men (ToJ)",
+                "mana_cost": "3",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/2rOC24N.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "The Hour of the Wolf (ToJ)",
+                "mana_cost": "5",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/PwZSxCi.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "Dance of the Dragons (ToJ)",
+                "mana_cost": "4",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/CZ4UApJ.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "Chivalry of the South (ToJ)",
+                "mana_cost": "5",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/okSAbxP.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "A Southron Peace (ToJ)",
+                "mana_cost": "4",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/RYc9ESM.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "At the Tower of Joy (ToJ)",
+                "mana_cost": "3",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/5bVqDve.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "Battle of the Camps (ToJ)",
+                "mana_cost": "4",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/EXFjhcN.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "Battle on the Green Fork (ToJ)",
+                "mana_cost": "4",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/MFI3XO6.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "Bran the Builder (ToJ)",
+                "mana_cost": "5",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/KpVNb68.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "Burning the Books (ToJ)",
+                "mana_cost": "5",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/0T9YhCZ.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "City Blockade (ToJ)",
+                "mana_cost": "5",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/vOv9WNb.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "City Festival (ToJ)",
+                "mana_cost": "2",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/J8PNBEY.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "Enemies in Every Shadow (ToJ)",
+                "mana_cost": "6",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/kqNZABo.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "For the Realm (ToJ)",
+                "mana_cost": "4",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/Vo2N2su.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "Open Revolt (ToJ)",
+                "mana_cost": "4",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/Im3QSxU.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "Striking at Dawn (ToJ)",
+                "mana_cost": "5",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/kEbmZZk.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "The Crone (ToJ)",
+                "mana_cost": "6",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/jUZIGYg.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "The Defiance of Duskendale (ToJ)",
+                "mana_cost": "4",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/VbslRTz.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "The Father (ToJ)",
+                "mana_cost": "6",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/PmUOhWL.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "The Mad King's Command (ToJ)",
+                "mana_cost": "3",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/L2pA3Fr.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "The Maiden (ToJ)",
+                "mana_cost": "6",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/wqUPXyG.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "The Mother (ToJ)",
+                "mana_cost": "6",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/SGDKPMN.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "The Pointy End (ToJ)",
+                "mana_cost": "4",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/oNoEoW2.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "The Smith (ToJ)",
+                "mana_cost": "6",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/VyxdOoe.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "The Stranger (ToJ)",
+                "mana_cost": "3",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/xCs4BVa.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "The Warrior (ToJ)",
+                "mana_cost": "6",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/82PiHMy.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "Wardens of the East (ToJ)",
+                "mana_cost": "5",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/vJzOvEM.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "City of Shadows (ToJ)",
+                "mana_cost": "4",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/Mn5K13J.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "Hot Pie (ToJ)",
+                "mana_cost": "1",
+                "type": "Creature",
+                "image": "https://i.imgur.com/WT0HfBT.png",
+                "rarity": "mythic"
+        },
+        {
+                "name": "House Baratheon",
+                "mana_cost": "",
+                "type": "Land",
+                "image": "https://thronesdb.com/images/factions/baratheon.png",
+                "rarity": "special"
+        },
+        {
+                "name": "House Greyjoy",
+                "mana_cost": "",
+                "type": "Land",
+                "image": "https://thronesdb.com/images/factions/greyjoy.png",
+                "rarity": "special"
+        },
+        {
+                "name": "House Lannister",
+                "mana_cost": "",
+                "type": "Land",
+                "image": "https://thronesdb.com/images/factions/lannister.png",
+                "rarity": "special"
+        },
+        {
+                "name": "House Martell",
+                "mana_cost": "",
+                "type": "Land",
+                "image": "https://thronesdb.com/images/factions/martell.png",
+                "rarity": "special"
+        },
+        {
+                "name": "The Night's Watch",
+                "mana_cost": "",
+                "type": "Land",
+                "image": "https://thronesdb.com/images/factions/thenightswatch.png",
+                "rarity": "special"
+        },
+        {
+                "name": "House Stark",
+                "mana_cost": "",
+                "type": "Land",
+                "image": "https://thronesdb.com/images/factions/stark.png",
+                "rarity": "special"
+        },
+        {
+                "name": "House Targaryen",
+                "mana_cost": "",
+                "type": "Land",
+                "image": "https://thronesdb.com/images/factions/targaryen.png",
+                "rarity": "special"
+        },
+        {
+                "name": "House Tyrell",
+                "mana_cost": "",
+                "type": "Land",
+                "image": "https://thronesdb.com/images/factions/tyrell.png",
+                "rarity": "special"
+        },
+        {
+                "name": "Sealing the Pact",
+                "mana_cost": "",
+                "type": "Land",
+                "image": "https://i.imgur.com/AjGRMDR.png",
+                "rarity": "special"
+        },
+        {
+                "name": "Unknown and Unknowable",
+                "mana_cost": "",
+                "type": "Land",
+                "image": "https://i.imgur.com/oiJg4lj.png",
+                "rarity": "special"
+        },
+        {
+                "name": "Seeking Fortunes",
+                "mana_cost": "",
+                "type": "Land",
+                "image": "https://i.imgur.com/LiupziD.png",
+                "rarity": "special"
+        },
+        {
+                "name": "Pass Beneath the Shadow",
+                "mana_cost": "",
+                "type": "Land",
+                "image": "https://i.imgur.com/ZHXaBOj.png",
+                "rarity": "special"
+        },
+        {
+                "name": "Desperate Hope",
+                "mana_cost": "",
+                "type": "Land",
+                "image": "https://i.imgur.com/g3XQ09E.png",
+                "rarity": "special"
+        },
+        {
+                "name": "Join Forces",
+                "mana_cost": "",
+                "type": "Land",
+                "image": "https://i.imgur.com/PzOREns.png",
+                "rarity": "special"
+        },
+        {
+                "name": "Pentoshi Trader",
+                "mana_cost": "1",
+                "type": "Creature",
+                "image": "https://i.imgur.com/rSY4n3i.png",
+                "rarity": "special"
+        },
+        {
+                "name": "Holdfast Village",
+                "mana_cost": "1",
+                "type": "Artifact",
+                "image": "https://i.imgur.com/alQuqBg.png",
+                "rarity": "special"
+        },
+        {
+                "name": "Market Square",
+                "mana_cost": "0",
+                "type": "Artifact",
+                "image": "https://i.imgur.com/JUiHN6F.png",
+                "rarity": "special"
+        },
+        {
+                "name": "Feast or Famine (ToJ)",
+                "mana_cost": "2",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/mJXnItT.png",
+                "rarity": "special"
+        },
+        {
+                "name": "The Pale Mare (ToJ)",
+                "mana_cost": "4",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/TP75CvG.png",
+                "rarity": "special"
+        },
+        {
+                "name": "City Fair",
+                "mana_cost": "4",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/ifLDDEs.png",
+                "rarity": "special"
+        },
+        {
+                "name": "Manning the City Walls (ToJ)",
+                "mana_cost": "4",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/6TPIFPR.png",
+                "rarity": "special"
+        },
+        {
+                "name": "Razed to the Ground",
+                "mana_cost": "4",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/tOLthud.png",
+                "rarity": "special"
+        },
+        {
+                "name": "Bitter Accusation",
+                "mana_cost": "5",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/Kb0QMKg.png",
+                "rarity": "special"
+        },
+        {
+                "name": "Royal Decree",
+                "mana_cost": "3",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/uz6KLTp.png",
+                "rarity": "special"
+        },
+        {
+                "name": "Jousting Contest (ToJ)",
+                "mana_cost": "5",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/sYiDXxc.png",
+                "rarity": "special"
+        },
+        {
+                "name": "Freezing Cold",
+                "mana_cost": "3",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/WZFg1Jt.png",
+                "rarity": "special"
+        },
+        {
+                "name": "Secrets of Oldtown",
+                "mana_cost": "4",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/CDigcsl.png",
+                "rarity": "special"
+        }
+]
+[Rare]
+King Stannis's Host (ToJ)
+Beric Dondarrion (ToJ)
+Salladhor Saan's Lyseni (ToJ)
+Stannis Baratheon (ToJ)
+Ser Richard Horpe (ToJ)
+Storm's End (ToJ)
+The Laughing Storm (ToJ)
+Ralf the Limper (ToJ)
+Euron Crow's Eye (ToJ)
+Victarion Greyjoy (ToJ)
+Ralf Kenning (ToJ)
+Erik Anvil-Breaker (ToJ)
+Winterfell (ToJ)
+Valyrian Steel Armor (ToJ)
+Tywin Lannister (ToJ)
+Ser Daven Lannister (ToJ)
+Ser Jaime Lannister (ToJ)
+Ser Lancel Lannister (ToJ)
+Tommen Baratheon (ToJ)
+Casterly Rock (ToJ)
+Lannisport (ToJ)
+Doran Martell (ToJ)
+Anders Yronwood (ToJ)
+Arianne Martell (ToJ)
+Ser Arys Oakheart (ToJ)
+The Tattered Prince (ToJ)
+Elia Sand (ToJ)
+Sword of the Morning (ToJ)
+Great Ranging (ToJ)
+Melisandre (ToJ)
+Benjen Stark (ToJ)
+Dywen (ToJ)
+Bowen Marsh (ToJ)
+Castle Black (ToJ)
+Sentinel Stand (ToJ)
+Robb Stark (ToJ)
+The Blackfish (ToJ)
+Roose Bolton (ToJ)
+Rickard Karstark (ToJ)
+Winterfell Castle (ToJ)
+The Crag (ToJ)
+Grey Wind (ToJ)
+Aegon Targaryen (ToJ)
+Ser Barristan Selmy (ToJ)
+Daenerys Targaryen (ToJ)
+Quentyn Martell (ToJ)
+Lysono Maar (ToJ)
+Tyrion Lannister (ToJ)
+Hero (ToJ)
+Randyll Tarly (ToJ)
+Margaery Tyrell (ToJ)
+Mace Tyrell (ToJ)
+Willas Tyrell (ToJ)
+The Knight of Flowers (ToJ)
+Highgarden (ToJ)
+Garth Greenhand (ToJ)
+Littlefinger (ToJ)
+Vargo Hoat (ToJ)
+Brienne of Tarth (ToJ)
+Harma Dogshead (ToJ)
+Former Champion (ToJ)
+The Moon Door (ToJ)
+The Vale of Arryn (ToJ)
+The Tower of Joy
+[FoilRare]
+King Stannis's Host (ToJ)
+Beric Dondarrion (ToJ)
+Salladhor Saan's Lyseni (ToJ)
+Stannis Baratheon (ToJ)
+Ser Richard Horpe (ToJ)
+Storm's End (ToJ)
+The Laughing Storm (ToJ)
+Ralf the Limper (ToJ)
+Euron Crow's Eye (ToJ)
+Victarion Greyjoy (ToJ)
+Ralf Kenning (ToJ)
+Erik Anvil-Breaker (ToJ)
+Winterfell (ToJ)
+Valyrian Steel Armor (ToJ)
+Tywin Lannister (ToJ)
+Ser Daven Lannister (ToJ)
+Ser Jaime Lannister (ToJ)
+Ser Lancel Lannister (ToJ)
+Tommen Baratheon (ToJ)
+Casterly Rock (ToJ)
+Lannisport (ToJ)
+Doran Martell (ToJ)
+Anders Yronwood (ToJ)
+Arianne Martell (ToJ)
+Ser Arys Oakheart (ToJ)
+The Tattered Prince (ToJ)
+Elia Sand (ToJ)
+Sword of the Morning (ToJ)
+Great Ranging (ToJ)
+Melisandre (ToJ)
+Benjen Stark (ToJ)
+Dywen (ToJ)
+Bowen Marsh (ToJ)
+Castle Black (ToJ)
+Sentinel Stand (ToJ)
+Robb Stark (ToJ)
+The Blackfish (ToJ)
+Roose Bolton (ToJ)
+Rickard Karstark (ToJ)
+Winterfell Castle (ToJ)
+The Crag (ToJ)
+Grey Wind (ToJ)
+Aegon Targaryen (ToJ)
+Ser Barristan Selmy (ToJ)
+Daenerys Targaryen (ToJ)
+Quentyn Martell (ToJ)
+Lysono Maar (ToJ)
+Tyrion Lannister (ToJ)
+Hero (ToJ)
+Randyll Tarly (ToJ)
+Margaery Tyrell (ToJ)
+Mace Tyrell (ToJ)
+Willas Tyrell (ToJ)
+The Knight of Flowers (ToJ)
+Highgarden (ToJ)
+Garth Greenhand (ToJ)
+Littlefinger (ToJ)
+Vargo Hoat (ToJ)
+Brienne of Tarth (ToJ)
+Harma Dogshead (ToJ)
+Former Champion (ToJ)
+The Moon Door (ToJ)
+The Vale of Arryn (ToJ)
+The Tower of Joy
+Hot Pie (ToJ)
+[Plot]
+Robert's Rebellion (ToJ)
+Cast Me Forth (ToJ)
+The Sack of King's Landing (ToJ)
+The Dornish Wars (ToJ)
+The Watch Needs Good Men (ToJ)
+The Hour of the Wolf (ToJ)
+Dance of the Dragons (ToJ)
+Chivalry of the South (ToJ)
+A Southron Peace (ToJ)
+At the Tower of Joy (ToJ)
+Battle of the Camps (ToJ)
+Battle on the Green Fork (ToJ)
+Bran the Builder (ToJ)
+Burning the Books (ToJ)
+City Blockade (ToJ)
+City Festival (ToJ)
+Enemies in Every Shadow (ToJ)
+For the Realm (ToJ)
+Open Revolt (ToJ)
+Striking at Dawn (ToJ)
+The Crone (ToJ)
+The Defiance of Duskendale (ToJ)
+The Father (ToJ)
+The Mad King's Command (ToJ)
+The Maiden (ToJ)
+The Mother (ToJ)
+The Pointy End (ToJ)
+The Smith (ToJ)
+The Stranger (ToJ)
+The Warrior (ToJ)
+Wardens of the East (ToJ)
+City of Shadows (ToJ)
+[Uncommon]
+Gendry (ToJ)
+Bonifer the Good (ToJ)
+Ser Gilbert Farring (ToJ)
+Jon Arryn (ToJ)
+Godry the Giantslayer (ToJ)
+Ser Clayton Suggs (ToJ)
+No Song So Sweet (ToJ)
+Set Down Our Deeds (ToJ)
+The Knight (ToJ)
+Dagmer Cleftjaw (ToJ)
+Left-Hand Lucas Codd (ToJ)
+Black Lorren (ToJ)
+Cragorn (ToJ)
+Moqorro (ToJ)
+Silence (ToJ)
+Saltcliffe (ToJ)
+Ser Addam Marbrand (ToJ)
+Ser Harys Swyft (ToJ)
+Bronn (ToJ)
+Ser Boros Blount (ToJ)
+Myrcella Baratheon (ToJ)
+Boots (ToJ)
+Lady Whiskers (ToJ)
+A Lannister's Honor (ToJ)
+Mellario of Norvos (ToJ)
+Ser Andrey Dalt (ToJ)
+Trystane Martell (ToJ)
+Tyene Sand (ToJ)
+Ser Willam Wells (ToJ)
+Sandstone (ToJ)
+Vulture King (ToJ)
+War Scorpion (ToJ)
+Samwell Tarly (ToJ)
+Iron Emmett (ToJ)
+Old Tattersalt (ToJ)
+Gared (ToJ)
+Weirwood Grove (ToJ)
+Insubordination (ToJ)
+I Pledge My Life and Honor (ToJ)
+When All is Darkest (ToJ)
+King Robb's Bannermen (ToJ)
+Bran Stark (ToJ)
+Jon Snow (ToJ)
+Farlen (ToJ)
+Ghost (ToJ)
+Harwin (ToJ)
+The Wolf's Den (ToJ)
+Greywater Watch (ToJ)
+Grey Worm (ToJ)
+Ser Rolly Duckfield (ToJ)
+Black Balaq (ToJ)
+Haldon Halfmaester (ToJ)
+Septa Lemore (ToJ)
+Beneath the Gold, the Bitter Steel (ToJ)
+Grey Worm's Spear (ToJ)
+Our Word Is Good as Gold (ToJ)
+Ser Bryce Caron (ToJ)
+Mina Redwyne (ToJ)
+Ser Robar Royce (ToJ)
+Alla Tyrell (ToJ)
+Dickon Tarly (ToJ)
+Ser Emmon Cuy (ToJ)
+Highgarden Destrier (ToJ)
+Gilbert of the Vines (ToJ)
+Knights of the Vale (ToJ)
+Bloodraven (ToJ)
+Brave Companions (ToJ)
+Nestor Royce (ToJ)
+Septon Utt (ToJ)
+Septa Unella (ToJ)
+Ser Vardis Egen (ToJ)
+Balerion (ToJ)
+Shagwell (ToJ)
+Jinglebell (ToJ)
+The Green Fork (ToJ)
+Gulltown (ToJ)
+The Bloody Gate (ToJ)
+Milkwater Crossing (ToJ)
+Sweetsleep (ToJ)
+As High as Honor (ToJ)
+[Common]
+Myrish Pirates
+Blackhaven Rider (ToJ)
+The Holy Hundred (ToJ)
+Acolyte of the Shadow (ToJ)
+Antler Men (ToJ)
+Sellsails (ToJ)
+Nightfort Ruins
+Flaming Sword
+Fleet from Ten Towers (ToJ)
+Great Kraken's Crew (ToJ)
+Saltcliffe Marauder
+Harlaw Scout (ToJ)
+Old Captain (ToJ)
+Stony Shore Thrall
+Raider's Axe
+Though All Men Do Despise Us (ToJ)
+Warrior's Sons (ToJ)
+Cruel Brigand
+The Imp's Agent (ToJ)
+Ashemark Councilor (ToJ)
+Eager Opportunist
+Hillside River
+Burning Bright (ToJ)
+One, Two, Three (ToJ)
+Ghost Hill Elite (ToJ)
+Starfall Servant
+Windblown (ToJ)
+Scheming Snake (ToJ)
+Desert Freerider
+Vengeful Lordling
+A Bed of Scorpions (ToJ)
+Red Mountains (ToJ)
+Mance's Warriors
+Abel's Washerwoman
+Marsh's Conspirator (ToJ)
+Old Steward (ToJ)
+Wall-Bound Knight
+Highborn Recruit (ToJ)
+You Know Nothing (ToJ)
+Corn, Corn, Corn (ToJ)
+The Bastard's Boys (ToJ)
+Crannogmen (ToJ)
+Merman's Guard
+Trident Guard (ToJ)
+Brynden's Outriders (ToJ)
+Karstark Lancer (ToJ)
+The Wolfswood (ToJ)
+Wolf Dreams (ToJ)
+Golden Company (ToJ)
+Long Lances
+Stalwart Shields (ToJ)
+Sorrowful Man (ToJ)
+Free Brothers (ToJ)
+Stormcrows (ToJ)
+Fighting Pit
+Naught but Ashes (ToJ)
+Blackwater Forces (ToJ)
+Wandering Knight
+Red-Apple Knight (ToJ)
+Youthful Acolyte
+Arbor Jester
+Brienne the Blue (ToJ)
+Behold our Bounty (ToJ)
+Beneath the Petals (ToJ)
+Gulltown City Guard (ToJ)
+King's Landing Mob (ToJ)
+Mummer's Troupe
+Faceless Man (ToJ)
+Thenns (ToJ)
+Winged Knight (ToJ)
+King's Landing Smuggler (ToJ)
+Squire (ToJ)
+Little Bird (ToJ)
+Gulltown Merchant (ToJ)
+The Highroad (ToJ)
+Quill and Parchment
+Face Mask
+"Florian and Jonquil" (ToJ)
+Calm as Still Water (ToJ)
+"A Thousand Eyes, and One" (ToJ)
+[Starter {"collation": "printRun", "groupSize": 33}]
+House Baratheon
+House Greyjoy
+House Lannister
+House Martell
+The Night's Watch
+House Stark
+House Targaryen
+House Tyrell
+Sealing the Pact
+Unknown and Unknowable
+Seeking Fortunes
+Pass Beneath the Shadow
+Desperate Hope
+Join Forces
+Pentoshi Trader
+Pentoshi Trader
+Pentoshi Trader
+Holdfast Village
+Holdfast Village
+Holdfast Village
+Market Square
+Market Square
+Market Square
+Feast or Famine (ToJ)
+The Pale Mare (ToJ)
+City Fair
+Manning the City Walls (ToJ)
+Razed to the Ground
+Bitter Accusation
+Royal Decree
+Jousting Contest (ToJ)
+Freezing Cold
+Secrets of Oldtown
