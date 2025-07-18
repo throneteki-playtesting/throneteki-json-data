@@ -637,7 +637,7 @@
                 "name": "Eager Opportunist",
                 "mana_cost": "2",
                 "type": "Creature",
-                "image": "https://i.imgur.com/GaZlXRf.png",
+                "image": "https://i.imgur.com/aik9ms8.png",
                 "rarity": "common"
         },
         {            

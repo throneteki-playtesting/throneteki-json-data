@@ -1553,7 +1553,7 @@
             "quantity": 3,
             "unique": false,
             "faction": "lannister",
-            "loyal": true,
+            "loyal": false,
             "cost": 2,
             "icons": {
                 "military": false,
@@ -1567,7 +1567,7 @@
             "text": "Ambush (3).\n<b>Reaction:</b> After Eager Opportunist enters play, if you have won an [intrigue] challenge this phase, kneel your faction card to choose a character with STR 3 or lower and return it to its owner's hand.\n<b>Draft format only.</b>",
             "deckLimit": 40,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/GaZlXRf.png"
+            "imageUrl": "https://i.imgur.com/aik9ms8.png"
         },
         {
             "code": "00167",
