@@ -7,7 +7,7 @@
     "cards": [
         {
             "code": "26501",
-            "version": "1.1.0",
+            "version": "1.2.0",
             "type": "character",
             "name": "Melisandre",
             "octgnId": null,
@@ -26,10 +26,10 @@
                 "Lady",
                 "R'hllor"
             ],
-            "text": "Shadow (5). Stealth.\n<b>Reaction:</b> After you win a challenge in which Melisandre is participating, choose a character that came out of shadows this round. Return that character to shadows. (Limit once per phase.)",
+            "text": "Shadow (5). Stealth.\n<b>Reaction:</b> After you win a challenge in which you control a participating character with shadow, choose a character. Until the end of the phase, that character gets -1 STR, and is placed in shadows if its STR is 0. (Limit 3 times per phase.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/1@1.1.0.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/1@1.2.0.png"
         },
         {
             "code": "26502",
@@ -1567,22 +1567,26 @@
         },
         {
             "code": "26605",
-            "version": "1.0.1",
-            "type": "location",
-            "name": "Myr",
+            "version": "2.0.0",
+            "type": "plot",
+            "name": "A Meeting of Minds",
             "octgnId": null,
             "quantity": 3,
-            "unique": true,
             "faction": "neutral",
-            "cost": 4,
+            "plotStats": {
+                "income": 4,
+                "initiative": 3,
+                "claim": 1,
+                "reserve": 8
+            },
             "traits": [
-                "Essos",
-                "Free Cities"
+                "Noble"
             ],
-            "text": "<b>Action:</b> Kneel Myr to reduce the cost of the next out-of-faction card you ambush or bring out of shadows this phase by 3.",
-            "deckLimit": 3,
+            "text": "Each <i>Small Council</i> character you control gains insight.",
+            "flavor": "“He entrusts some small matters to us, to lighten his load.” - Varys",
+            "deckLimit": 2,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/105@1.0.1.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/105@2.0.0.png"
         },
         {
             "code": "26606",
@@ -1691,7 +1695,7 @@
         },
         {
             "code": "26615",
-            "version": "1.0.1",
+            "version": "1.0.2",
             "type": "plot",
             "name": "The Age of Heroes",
             "octgnId": null,
@@ -1701,15 +1705,15 @@
                 "income": 3,
                 "initiative": 2,
                 "claim": 1,
-                "reserve": 7
+                "reserve": 6
             },
             "traits": [
                 "Legacy"
             ],
-            "text": "<b>When Revealed:</b> Search your deck for an attachment, reveal it, and add it to your hand (you may put it into play instead if it is <i>Legacy</i> or <i>Valyrian Steel</i>). Shuffle your deck.",
+            "text": "<b>Reaction:</b> After the challenges phase begins, kneel your faction card to search your deck for a <i>Legacy</i> or <i>Valyrian Steel</i> attachment, reveal it, and add it to your hand (put it into play instead if it is a <i>Tapestry</i> attachment).",
             "deckLimit": 2,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/115@1.0.1.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/115@1.0.2.png"
         },
         {
             "code": "26617",
