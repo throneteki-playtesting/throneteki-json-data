@@ -210,7 +210,7 @@
         },
         {
             "code": "26516",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "type": "character",
             "name": "Orkmont Elite",
             "octgnId": null,
@@ -224,15 +224,15 @@
                 "intrigue": false,
                 "power": true
             },
-            "strength": 6,
+            "strength": 5,
             "traits": [
                 "Army",
                 "Raider"
             ],
-            "text": "Assault. Pillage.\n<b>Reaction:</b> After Orkmont Elite discards an attachment using pillage, attach it to an eligible character.",
+            "text": "Assault. Pillage.\n<b>Reaction:</b> After Orkmont Elite discards an attachment using pillage choose an attachment in an opponent's discard pile, and put it into play under your control.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/16@1.0.0.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/16@1.0.1.png"
         },
         {
             "code": "26517",
@@ -1304,7 +1304,7 @@
         },
         {
             "code": "26587",
-            "version": "1.1.0",
+            "version": "1.1.1",
             "type": "character",
             "name": "Butterbumps",
             "octgnId": null,
@@ -1318,14 +1318,14 @@
                 "intrigue": true,
                 "power": false
             },
-            "strength": 3,
+            "strength": 2,
             "traits": [
                 "Fool"
             ],
-            "text": "Shadow (3).\n<b>Challenges Action:</b> During a challenge in which Butterbumps is participating, return him to shadows to choose a participating character with higher STR than him. Stand that character and remove it from the challenge.",
+            "text": "Shadow (2).\n<b>Challenges Action:</b> During a challenge in which Butterbumps is participating, return him to shadows to choose a participating character with higher STR than him. Stand that character and remove it from the challenge.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/87@1.1.0.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/87@1.1.1.png"
         },
         {
             "code": "26589",
@@ -1430,7 +1430,7 @@
         },
         {
             "code": "26597",
-            "version": "1.1.0",
+            "version": "1.1.1",
             "type": "character",
             "name": "Lysa Arryn",
             "octgnId": null,
@@ -1449,10 +1449,10 @@
                 "House Tully",
                 "Lady"
             ],
-            "text": "While your initiative value is 0, Lysa Arryn gains the keywords of each loyal and <i>House Arryn</i> character you control.",
+            "text": "Each <i>House Arryn</i> character you control is considered loyal.\nWhile your initiative value is 0, Lysa Arryn gains the keywords of each loyal character you control.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/97@1.1.0.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/97@1.1.1.png"
         },
         {
             "code": "26599",
@@ -1548,7 +1548,7 @@
         },
         {
             "code": "26604",
-            "version": "1.0.1",
+            "version": "1.0.2",
             "type": "attachment",
             "name": "The Warden of the East",
             "octgnId": null,
@@ -1560,10 +1560,10 @@
                 "House Arryn",
                 "Title"
             ],
-            "text": "<i>House Arryn</i> character only.\nAttached character gains the <i>Commander</i> trait and +2 STR.\n<b>Reaction:</b> After a character is revealed from an opponent's hand, deck or shadow area, attached character gains 1 power. (Limit 3 times per round.)",
+            "text": "<i>House Arryn</i> character only.\nAttached character gains the <i>Commander</i> trait and +2 STR.\n<b>Reaction:</b> After 1 or more characters are revealed from an opponent's hand, deck or shadow area, attached character gains 1 power. (Limit 3 times per round.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/104@1.0.1.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/104@1.0.2.png"
         },
         {
             "code": "26605",
