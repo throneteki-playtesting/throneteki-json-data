@@ -7,7 +7,7 @@
     "cards": [
         {
             "code": "26501",
-            "version": "1.1.0",
+            "version": "1.2.0",
             "type": "character",
             "name": "Melisandre",
             "octgnId": null,
@@ -26,10 +26,10 @@
                 "Lady",
                 "R'hllor"
             ],
-            "text": "Shadow (5). Stealth.\n<b>Reaction:</b> After you win a challenge in which Melisandre is participating, choose a character that came out of shadows this round. Return that character to shadows. (Limit once per phase.)",
+            "text": "Shadow (5). Stealth.\n<b>Reaction:</b> After you win a challenge in which you control a participating character with shadow, choose a character. Until the end of the phase, that character gets -1 STR, and is placed in shadows if its STR is 0. (Limit 3 times per phase.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/1@1.1.0.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/1@1.2.0.png"
         },
         {
             "code": "26502",
@@ -85,9 +85,9 @@
         },
         {
             "code": "26506",
-            "version": "1.0.0",
+            "version": "1.1.0",
             "type": "character",
-            "name": "Shadow Assassin",
+            "name": "Living Shadow",
             "octgnId": null,
             "quantity": 3,
             "unique": false,
@@ -95,18 +95,18 @@
             "loyal": true,
             "cost": 2,
             "icons": {
-                "military": false,
-                "intrigue": false,
+                "military": true,
+                "intrigue": true,
                 "power": false
             },
-            "strength": 4,
+            "strength": 0,
             "traits": [
                 "R'hllor"
             ],
-            "text": "Shadow (3).\nIf it is not the challenges phase, sacrifice Shadow Assassin.\n<b>Reaction:</b> After Shadow Assassin enters play, choose and kill a participating character with lower STR.",
+            "text": "Shadow (1). Stealth.\nLiving shadow cannot be killed.\n<b>Forced Reaction:</b> After Living Shadow bypasses a character using stealth, attach it to that character as a <i>Condition</i> attachment with the text: \"Terminal. Attached character cannot be saved.\"",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/6@1.0.0.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/6@1.1.0.png"
         },
         {
             "code": "26509",
@@ -149,7 +149,7 @@
         },
         {
             "code": "26511",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "type": "event",
             "name": "A New Hand",
             "octgnId": null,
@@ -158,10 +158,10 @@
             "loyal": false,
             "cost": 0,
             "traits": [],
-            "text": "<b>Reaction:</b> After a <i>Small Council</i> character you control is killed, kneel your faction card to search your deck for another <i>Small Council</i> character and put it into play, knelt. Shuffle your deck.",
+            "text": "<b>Reaction:</b> After a <i>Small Council</i> character you control leaves play, search your deck for another <i>Small Council</i> character, reveal it, and add it to your hand. Shuffle your deck. (Max once per phase.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/11@1.0.0.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/11@1.0.1.png"
         },
         {
             "code": "26512",
@@ -210,7 +210,7 @@
         },
         {
             "code": "26516",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "type": "character",
             "name": "Orkmont Elite",
             "octgnId": null,
@@ -224,15 +224,15 @@
                 "intrigue": false,
                 "power": true
             },
-            "strength": 6,
+            "strength": 5,
             "traits": [
                 "Army",
                 "Raider"
             ],
-            "text": "Assault. Pillage.\n<b>Reaction:</b> After Orkmont Elite discards an attachment using pillage, attach it to an eligible character.",
+            "text": "Assault. Pillage.\n<b>Reaction:</b> After Orkmont Elite discards an attachment using pillage choose an attachment in an opponent's discard pile, and put it into play under your control.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/16@1.0.0.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/16@1.0.1.png"
         },
         {
             "code": "26517",
@@ -517,21 +517,21 @@
         },
         {
             "code": "26536",
-            "version": "1.0.0",
+            "version": "1.1.0",
             "type": "event",
             "name": "The Regent's Council",
             "octgnId": null,
             "quantity": 3,
             "faction": "lannister",
             "loyal": true,
-            "cost": 0,
+            "cost": 1,
             "traits": [
                 "Small Council"
             ],
-            "text": "Play only if you control a <i>King</i> character or Cersei Lannister.\n<b>Challenges Action:</b> Choose a character you control. Until the end of the phase, that character gains the <i>Small Council</i> trait and does not kneel when declared as an attacker. At the end of the phase, if that card is still in play, discard it from play (cannot be saved).",
+            "text": "<b>Reaction:</b> After you win an [intrigue] challenge in which you control a participating <i>Small Council</i> character or Cersei Lannister, determine dominance. (Max 1 per challenge.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/36@1.0.0.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/36@1.1.0.png"
         },
         {
             "code": "26537",
@@ -587,7 +587,7 @@
         },
         {
             "code": "26539",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "type": "character",
             "name": "Ser Guilian Qorgyle",
             "octgnId": null,
@@ -601,15 +601,15 @@
                 "intrigue": false,
                 "power": true
             },
-            "strength": 3,
+            "strength": 2,
             "traits": [
                 "House Qorgyle",
                 "Knight"
             ],
-            "text": "<b>Reaction:</b> After a character is declared as an attacker or defender, it loses a challenge icon of your choice until the end of the phase. (Limit twice per phase.)",
+            "text": "<b>Reaction:</b> After a character controlled by an opponent is declared as an attacker or defender, it loses a challenge icon of your choice until the end of the phase. (Limit twice per phase.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/39@1.0.0.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/39@1.0.1.png"
         },
         {
             "code": "26542",
@@ -657,9 +657,9 @@
         },
         {
             "code": "26544",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "type": "attachment",
-            "name": "Guerrilla Tactics",
+            "name": "Hidden in Shadow",
             "octgnId": null,
             "quantity": 3,
             "unique": false,
@@ -669,11 +669,11 @@
             "traits": [
                 "Skill"
             ],
-            "text": "[martell] character you control only. Shadow (0).\n<b>Action:</b> Sacrifice Guerrilla Tactics to return attached character to shadows.",
+            "text": "Character you control only. Shadow (0).\n<b>Action:</b> Sacrifice Hidden in Shadow to return attached character to shadows.",
             "deckLimit": 3,
             "illustrator": "?",
             "designer": "Card design by 2018 Worlds Joust Champion, Lennart Paga.",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/44@1.0.0.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/44@1.0.1.png"
         },
         {
             "code": "26546",
@@ -1072,7 +1072,7 @@
         },
         {
             "code": "26573",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "type": "character",
             "name": "Magister Illyrio",
             "octgnId": null,
@@ -1091,10 +1091,10 @@
                 "Lord",
                 "Merchant"
             ],
-            "text": "Insight. Shadow (5).\n<b>Reaction:</b> After you collect income, gain 1 gold for every 2 cards in shadows.",
+            "text": "Insight. Shadow (5).\n<b>Reaction:</b> After the challenges phase begins, gain 1 gold for every 2 cards in shadows.\n+1 Income.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/73@1.0.0.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/73@1.0.1.png"
         },
         {
             "code": "26574",
@@ -1304,7 +1304,7 @@
         },
         {
             "code": "26587",
-            "version": "1.1.0",
+            "version": "1.1.1",
             "type": "character",
             "name": "Butterbumps",
             "octgnId": null,
@@ -1318,14 +1318,14 @@
                 "intrigue": true,
                 "power": false
             },
-            "strength": 3,
+            "strength": 2,
             "traits": [
                 "Fool"
             ],
-            "text": "Shadow (3).\n<b>Challenges Action:</b> During a challenge in which Butterbumps is participating, return him to shadows to choose a participating character with higher STR than him. Stand that character and remove it from the challenge.",
+            "text": "Shadow (2).\n<b>Challenges Action:</b> During a challenge in which Butterbumps is participating, return him to shadows to choose a participating character with higher STR than him. Stand that character and remove it from the challenge.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/87@1.1.0.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/87@1.1.1.png"
         },
         {
             "code": "26589",
@@ -1430,7 +1430,7 @@
         },
         {
             "code": "26597",
-            "version": "1.1.0",
+            "version": "1.1.1",
             "type": "character",
             "name": "Lysa Arryn",
             "octgnId": null,
@@ -1449,10 +1449,10 @@
                 "House Tully",
                 "Lady"
             ],
-            "text": "While your initiative value is 0, Lysa Arryn gains the keywords of each loyal and <i>House Arryn</i> character you control.",
+            "text": "Each <i>House Arryn</i> character you control is considered loyal.\nWhile your initiative value is 0, Lysa Arryn gains the keywords of each loyal character you control.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/97@1.1.0.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/97@1.1.1.png"
         },
         {
             "code": "26599",
@@ -1548,7 +1548,7 @@
         },
         {
             "code": "26604",
-            "version": "1.0.1",
+            "version": "1.0.2",
             "type": "attachment",
             "name": "The Warden of the East",
             "octgnId": null,
@@ -1560,29 +1560,33 @@
                 "House Arryn",
                 "Title"
             ],
-            "text": "<i>House Arryn</i> character only.\nAttached character gains the <i>Commander</i> trait and +2 STR.\n<b>Reaction:</b> After a character is revealed from an opponent's hand, deck or shadow area, attached character gains 1 power. (Limit 3 times per round.)",
+            "text": "<i>House Arryn</i> character only.\nAttached character gains the <i>Commander</i> trait and +2 STR.\n<b>Reaction:</b> After 1 or more characters are revealed from an opponent's hand, deck or shadow area, attached character gains 1 power. (Limit 3 times per round.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/104@1.0.1.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/104@1.0.2.png"
         },
         {
             "code": "26605",
-            "version": "1.0.1",
-            "type": "location",
-            "name": "Myr",
+            "version": "2.0.0",
+            "type": "plot",
+            "name": "A Meeting of Minds",
             "octgnId": null,
             "quantity": 3,
-            "unique": true,
             "faction": "neutral",
-            "cost": 4,
+            "plotStats": {
+                "income": 4,
+                "initiative": 3,
+                "claim": 1,
+                "reserve": 8
+            },
             "traits": [
-                "Essos",
-                "Free Cities"
+                "Noble"
             ],
-            "text": "<b>Action:</b> Kneel Myr to reduce the cost of the next out-of-faction card you ambush or bring out of shadows this phase by 3.",
-            "deckLimit": 3,
+            "text": "Each <i>Small Council</i> character you control gains insight.",
+            "flavor": "“He entrusts some small matters to us, to lighten his load.” - Varys",
+            "deckLimit": 2,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/105@1.0.1.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/105@2.0.0.png"
         },
         {
             "code": "26606",
@@ -1668,7 +1672,7 @@
         },
         {
             "code": "26613",
-            "version": "1.0.1",
+            "version": "1.0.2",
             "type": "plot",
             "name": "The War of the Five Kings",
             "octgnId": null,
@@ -1677,21 +1681,21 @@
             "plotStats": {
                 "income": 5,
                 "initiative": 2,
-                "claim": "X",
+                "claim": 1,
                 "reserve": 4
             },
             "traits": [
                 "Noble",
                 "War"
             ],
-            "text": "X is the number of opponent's you do not support.",
+            "text": "Raise the claim value on The War of the Five Kings by 1 for each rival you have.",
             "deckLimit": 1,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/113@1.0.1.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/113@1.0.2.png"
         },
         {
             "code": "26615",
-            "version": "1.0.1",
+            "version": "1.0.2",
             "type": "plot",
             "name": "The Age of Heroes",
             "octgnId": null,
@@ -1701,15 +1705,15 @@
                 "income": 3,
                 "initiative": 2,
                 "claim": 1,
-                "reserve": 7
+                "reserve": 6
             },
             "traits": [
                 "Legacy"
             ],
-            "text": "<b>When Revealed:</b> Search your deck for an attachment, reveal it, and add it to your hand (you may put it into play instead if it is <i>Legacy</i> or <i>Valyrian Steel</i>). Shuffle your deck.",
+            "text": "<b>Reaction:</b> After the challenges phase begins, kneel your faction card to search your deck for a <i>Legacy</i> or <i>Valyrian Steel</i> attachment, reveal it, and add it to your hand (put it into play instead if it is a <i>Tapestry</i> attachment).",
             "deckLimit": 2,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/115@1.0.1.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/115@1.0.2.png"
         },
         {
             "code": "26617",
