@@ -180,6 +180,31 @@
         },
         {
             "code": "00108",
+            "type": "plot",
+            "name": "Robert's Rebellion",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "baratheon",
+            "plotStats": {
+                "income": 5,
+                "initiative": 9,
+                "claim": 2,
+                "reserve": 6
+            },
+            "loyal": true,
+            "traits": [
+                "Legacy",
+                "War"
+            ],
+            "text": "<b>Forced Interrupt:</b> When the challenges phase ends, if you have lost a [power] challenge this phase, discard 3 power from your faction card.",
+            "flavor": "\"In my dreams, I kill him every night.\" <cite>Robert Baratheon</cite>",
+            "deckLimit": 1,
+            "illustrator": "Dipa dipo",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TIC/82_Roberts_Rebellion.png",
+            "rarity": "Rare"
+        },
+        {
+            "code": "00109",
             "type": "character",
             "name": "Gendry",
             "octgnId": null,
@@ -206,7 +231,7 @@
             "rarity": "Uncommon"
         },
         {
-            "code": "00109",
+            "code": "00110",
             "type": "character",
             "name": "Bonifer the Good",
             "octgnId": null,
@@ -234,7 +259,7 @@
             "rarity": "Uncommon"
         },
         {
-            "code": "00110",
+            "code": "00111",
             "type": "character",
             "name": "Ser Gilbert Farring",
             "octgnId": null,
@@ -260,7 +285,7 @@
             "rarity": "Uncommon"
         },
         {
-            "code": "00111",
+            "code": "00112",
             "type": "character",
             "name": "Jon Arryn",
             "octgnId": null,
@@ -287,7 +312,7 @@
             "rarity": "Uncommon"
         },
         {
-            "code": "00112",
+            "code": "00113",
             "type": "character",
             "name": "Ser Clayton Suggs",
             "octgnId": null,
@@ -314,7 +339,7 @@
             "rarity": "Uncommon"
         },
         {
-            "code": "00113",
+            "code": "00114",
             "type": "character",
             "name": "Godry the Giantslayer",
             "octgnId": "null",
@@ -341,7 +366,7 @@
             "rarity": "Uncommon"
         },
         {
-            "code": "00114",
+            "code": "00115",
             "type": "event",
             "name": "No Song So Sweet",
             "octgnId": null,
@@ -357,7 +382,7 @@
             "rarity": "Uncommon"
         },
         {
-            "code": "00115",
+            "code": "00116",
             "type": "event",
             "name": "Set Down Our Deeds",
             "octgnId": null,
@@ -374,7 +399,7 @@
             "rarity": "Uncommon"
         },
         {
-            "code": "00116",
+            "code": "00117",
             "type": "character",
             "name": "Myrish Pirates",
             "octgnId": null,
@@ -402,7 +427,7 @@
             "rarity": "Common"
         },
         {
-            "code": "00117",
+            "code": "00118",
             "type": "character",
             "name": "Blackhaven Rider",
             "octgnId": null,
@@ -428,7 +453,7 @@
             "rarity": "Common"
         },
         {
-            "code": "00118",
+            "code": "00119",
             "type": "character",
             "name": "The Holy Hundred",
             "octgnId": null,
@@ -455,7 +480,7 @@
             "rarity": "Common"
         },
         {
-            "code": "00119",
+            "code": "00120",
             "type": "character",
             "name": "Acolyte of the Shadow",
             "octgnId": null,
@@ -481,7 +506,7 @@
             "rarity": "Common"
         },
         {
-            "code": "00120",
+            "code": "00121",
             "type": "character",
             "name": "Antler Men",
             "octgnId": null,
@@ -507,7 +532,7 @@
             "rarity": "Common"
         },
         {
-            "code": "00121",
+            "code": "00122",
             "type": "character",
             "name": "Sellsails",
             "octgnId": null,
@@ -535,7 +560,7 @@
             "rarity": "Common"
         },
         {
-            "code": "00122",
+            "code": "00123",
             "type": "location",
             "name": "Nightfort Ruins",
             "octgnId": null,
@@ -554,7 +579,7 @@
             "rarity": "Common"
         },
         {
-            "code": "00123",
+            "code": "00124",
             "type": "attachment",
             "name": "Flaming Sword",
             "octgnId": null,
@@ -574,7 +599,7 @@
             "rarity": "Common"
         },
         {
-            "code": "00124",
+            "code": "00125",
             "type": "character",
             "name": "Euron Crow's Eye",
             "octgnId": null,
@@ -602,7 +627,7 @@
             "rarity": "Rare"
         },
         {
-            "code": "00125",
+            "code": "00126",
             "type": "character",
             "name": "Ralf the Limper",
             "octgnId": null,
@@ -630,7 +655,7 @@
             "rarity": "Rare"
         },
         {
-            "code": "00126",
+            "code": "00127",
             "type": "character",
             "name": "Victarion Greyjoy",
             "octgnId": null,
@@ -658,7 +683,7 @@
             "rarity": "Rare"
         },
         {
-            "code": "00127",
+            "code": "00128",
             "type": "character",
             "name": "Ralf Kenning",
             "octgnId": null,
@@ -686,7 +711,7 @@
             "rarity": "Rare"
         },
         {
-            "code": "00128",
+            "code": "00129",
             "type": "character",
             "name": "Erik Anvil-Breaker",
             "octgnId": null,
@@ -714,7 +739,7 @@
             "rarity": "Rare"
         },
         {
-            "code": "00129",
+            "code": "00130",
             "type": "location",
             "name": "Winterfell",
             "octgnId": null,
@@ -735,7 +760,7 @@
             "rarity": "Rare"
         },
         {
-            "code": "00130",
+            "code": "00131",
             "type": "attachment",
             "name": "Valyrian Steel Armor",
             "octgnId": null,
@@ -755,7 +780,31 @@
             "rarity": "Rare"
         },
         {
-            "code": "00131",
+            "code": "00132",
+            "type": "plot",
+            "name": "Cast Me Forth",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "greyjoy",
+            "plotStats": {
+                "income": 4,
+                "initiative": 4,
+                "claim": 1,
+                "reserve": 5
+            },
+            "loyal": true,
+            "traits": [
+                "Drowned God"
+            ],
+            "text": "You may ambush non-unique <i>Drowned God</i> or <i>Raider</i> characters from your dead pile as if they were in your hand.\nEach <i>Drowned God</i> or <i>Raider</i> character in your hand or dead pile gains ambush (X). X is that card's printed cost.\n<b>Draft format only.</b>",
+            "flavor": "\"When he cast me forth again he gave me eyes to see, ears to hear, and a voice to spread his word, that I might be his prophet and teach his truth to those who have forgotten.\" <cite>Aeron Damphair</cite>",
+            "deckLimit": 1,
+            "illustrator": "Lincoln Renall",
+            "imageUrl": "https://i.imgur.com/XOInJWt.png",
+            "rarity": "Rare"
+        },
+        {
+            "code": "00133",
             "type": "character",
             "name": "The Knight",
             "octgnId": null,
@@ -781,7 +830,7 @@
             "rarity": "Uncommon"
         },
         {
-            "code": "00132",
+            "code": "00134",
             "type": "character",
             "name": "Dagmer Cleftjaw",
             "octgnId": null,
@@ -809,7 +858,7 @@
             "rarity": "Uncommon"
         },
         {
-            "code": "00133",
+            "code": "00135",
             "type": "character",
             "name": "Left-Hand Lucas Codd",
             "octgnId": "null",
@@ -837,7 +886,7 @@
             "rarity": "Uncommon"
         },
         {
-            "code": "00134",
+            "code": "00136",
             "type": "character",
             "name": "Black Lorren",
             "octgnId": null,
@@ -864,7 +913,7 @@
             "rarity": "Uncommon"
         },
         {
-            "code": "00135",
+            "code": "00137",
             "type": "character",
             "name": "Moqorro",
             "octgnId": null,
@@ -891,7 +940,7 @@
             "rarity": "Uncommon"
         },
         {
-            "code": "00136",
+            "code": "00138",
             "type": "character",
             "name": "Cragorn",
             "octgnId": "null",
@@ -916,7 +965,7 @@
             "rarity": "Uncommon"
         },
         {
-            "code": "00137",
+            "code": "00139",
             "type": "location",
             "name": "Silence",
             "octgnId": null,
@@ -935,7 +984,7 @@
             "rarity": "Uncommon"
         },
         {
-            "code": "00138",
+            "code": "00140",
             "type": "location",
             "name": "Saltcliffe",
             "octgnId": null,
@@ -955,7 +1004,7 @@
             "rarity": "Uncommon"
         },
         {
-            "code": "00139",
+            "code": "00141",
             "type": "character",
             "name": "Fleet from Ten Towers",
             "octgnId": null,
@@ -981,7 +1030,7 @@
             "rarity": "Common"
         },
         {
-            "code": "00140",
+            "code": "00142",
             "type": "character",
             "name": "Great Kraken's Crew",
             "octgnId": null,
@@ -1006,7 +1055,7 @@
             "rarity": "Common"
         },
         {
-            "code": "00141",
+            "code": "00143",
             "type": "character",
             "name": "Saltcliffe Marauder",
             "octgnId": null,
@@ -1032,7 +1081,7 @@
             "rarity": "Common"
         },
         {
-            "code": "00142",
+            "code": "00144",
             "type": "character",
             "name": "Harlaw Scout",
             "octgnId": null,
@@ -1058,7 +1107,7 @@
             "rarity": "Common"
         },
         {
-            "code": "00143",
+            "code": "00145",
             "type": "character",
             "name": "Old Captain",
             "octgnId": null,
@@ -1085,7 +1134,7 @@
             "rarity": "Common"
         },
         {
-            "code": "00144",
+            "code": "00146",
             "type": "character",
             "name": "Stony Shore Thrall",
             "octgnId": null,
@@ -1111,9 +1160,9 @@
             "rarity": "Common"
         },
         {
-            "code": "00145",
+            "code": "00147",
             "type": "attachment",
-            "name": "Raider's Axe",
+            "name": "Reaver's Axe",
             "octgnId": null,
             "quantity": 3,
             "unique": false,
@@ -1127,11 +1176,11 @@
             "text": "Attached character gets +1 STR and gains the <i>Raider</i> trait.\n<b>Reaction:</b> After you win a challenge in which attached character is attacking, pay 2 gold or discard 1 gold from attached character to stand it. (Limit once per round.)\n<b>Draft format only.</b>",
             "deckLimit": 40,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/FjhH8j8.png",
+            "imageUrl": "https://i.imgur.com/KHi8Go6.png",
             "rarity": "Common"
         },
         {
-            "code": "00146",
+            "code": "00148",
             "type": "event",
             "name": "Though All Men Do Despise Us",
             "octgnId": null,
@@ -1148,7 +1197,7 @@
             "rarity": "Common"
         },
         {
-            "code": "00147",
+            "code": "00149",
             "type": "character",
             "name": "Tywin Lannister",
             "octgnId": null,
@@ -1174,7 +1223,7 @@
             "rarity": "Rare"
         },
         {
-            "code": "00148",
+            "code": "00150",
             "type": "character",
             "name": "Ser Daven Lannister",
             "octgnId": null,
@@ -1201,7 +1250,7 @@
             "rarity": "Rare"
         },
         {
-            "code": "00149",
+            "code": "00151",
             "type": "character",
             "name": "Ser Jaime Lannister",
             "octgnId": null,
@@ -1228,7 +1277,7 @@
             "rarity": "Rare"
         },
         {
-            "code": "00150",
+            "code": "00152",
             "type": "character",
             "name": "Ser Lancel Lannister",
             "octgnId": null,
@@ -1255,7 +1304,7 @@
             "rarity": "Rare"
         },
         {
-            "code": "00151",
+            "code": "00153",
             "type": "character",
             "name": "Tommen Baratheon",
             "octgnId": null,
@@ -1281,7 +1330,7 @@
             "rarity": "Rare"
         },
         {
-            "code": "00152",
+            "code": "00154",
             "type": "location",
             "name": "Casterly Rock",
             "octgnId": null,
@@ -1301,7 +1350,7 @@
             "rarity": "Rare"
         },
         {
-            "code": "00153",
+            "code": "00155",
             "type": "location",
             "name": "Lannisport",
             "octgnId": null,
@@ -1320,7 +1369,31 @@
             "rarity": "Rare"
         },
         {
-            "code": "00154",
+            "code": "00156",
+            "type": "plot",
+            "name": "The Sack of King's Landing",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "lannister",
+            "plotStats": {
+                "income": 5,
+                "initiative": 7,
+                "claim": 1,
+                "reserve": 6
+            },
+            "loyal": true,
+            "traits": [
+                "Legacy",
+                "War"
+            ],
+            "text": "During [intrigue] challenges, each character you control gains pillage.\n<b>Reaction:</b> After a location enters an opponent's discard pile, that player must choose and kill a character they control with the same printed cost.\n<b>Draft format only.</b>",
+            "deckLimit": 1,
+            "illustrator": "Samuel Pi Pedrini",
+            "imageUrl": "https://i.imgur.com/bDiSd1c.png",
+            "rarity": "Rare"
+        },
+        {
+            "code": "00157",
             "type": "character",
             "name": "Ser Addam Marbrand",
             "octgnId": "null",
@@ -1346,7 +1419,7 @@
             "rarity": "Uncommon"
         },
         {
-            "code": "00155",
+            "code": "00158",
             "type": "character",
             "name": "Ser Harys Swyft",
             "octgnId": "null",
@@ -1373,7 +1446,7 @@
             "rarity": "Uncommon"
         },
         {
-            "code": "00156",
+            "code": "00159",
             "type": "character",
             "name": "Bronn",
             "octgnId": null,
@@ -1399,7 +1472,7 @@
             "rarity": "Uncommon"
         },
         {
-            "code": "00157",
+            "code": "00160",
             "type": "character",
             "name": "Myrcella Baratheon",
             "octgnId": null,
@@ -1424,7 +1497,7 @@
             "rarity": "Uncommon"
         },
         {
-            "code": "00158",
+            "code": "00161",
             "type": "character",
             "name": "Ser Boros Blount",
             "octgnId": null,
@@ -1450,7 +1523,7 @@
             "rarity": "Uncommon"
         },
         {
-            "code": "00159",
+            "code": "00162",
             "type": "attachment",
             "name": "Boots",
             "octgnId": null,
@@ -1470,7 +1543,7 @@
             "rarity": "Uncommon"
         },
         {
-            "code": "00160",
+            "code": "00163",
             "type": "attachment",
             "name": "Lady Whiskers",
             "octgnId": null,
@@ -1490,7 +1563,7 @@
             "rarity": "Uncommon"
         },
         {
-            "code": "00161",
+            "code": "00164",
             "type": "event",
             "name": "A Lannister's Honor",
             "octgnId": null,
@@ -1507,7 +1580,7 @@
             "rarity": "Uncommon"
         },
         {
-            "code": "00162",
+            "code": "00165",
             "type": "character",
             "name": "Warrior's Sons",
             "octgnId": null,
@@ -1533,7 +1606,7 @@
             "rarity": "Common"
         },
         {
-            "code": "00163",
+            "code": "00166",
             "type": "character",
             "name": "Ashemark Councilor",
             "octgnId": null,
@@ -1559,9 +1632,9 @@
             "rarity": "Common"
         },
         {
-            "code": "00164",
+            "code": "00167",
             "type": "character",
-            "name": "Cruel Brigand",
+            "name": "Eager Opportunist",
             "octgnId": null,
             "quantity": 3,
             "unique": false,
@@ -1569,24 +1642,23 @@
             "loyal": false,
             "cost": 3,
             "icons": {
-                "military": true,
+                "military": false,
                 "intrigue": true,
-                "power": false
+                "power": true
             },
             "strength": 2,
             "traits": [
-                "Knight",
                 "Mercenary",
-                "Raider"
+                "Spy"
             ],
-            "text": "Bestow (1).\n<b>Challenges Action:</b> Discard 1 gold from Cruel Brigand to put a character with printed cost 4 or lower into play from your hand. At the end of the phase, if that card is still in play, discard it from play. (Limit once per phase.)\n<b>Draft format only.</b>",
+            "text": "Bestow (1).\n<b>Challenges Action:</b> Discard 1 gold from Eager Opportunist to put a character with printed cost 4 or lower into play from your hand. At the end of the phase, if that card is still in play, discard it from play. (Limit once per phase.)\n<b>Draft format only.</b>",
             "deckLimit": 40,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/MGtiNp8.png",
+            "imageUrl": "https://i.imgur.com/WdaQAr9.png",
             "rarity": "Common"
         },
         {
-            "code": "00165",
+            "code": "00168",
             "type": "character",
             "name": "The Imp's Agent",
             "octgnId": null,
@@ -1611,9 +1683,9 @@
             "rarity": "Common"
         },
         {
-            "code": "00166",
+            "code": "00169",
             "type": "character",
-            "name": "Eager Opportunist",
+            "name": "Cruel Brigand",
             "octgnId": null,
             "quantity": 3,
             "unique": false,
@@ -1621,24 +1693,25 @@
             "loyal": false,
             "cost": 2,
             "icons": {
-                "military": false,
+                "military": true,
                 "intrigue": true,
-                "power": true
+                "power": false
             },
             "strength": 2,
             "traits": [
-                "Spy"
+                "Knight",
+                "Raider"
             ],
-            "text": "Ambush (3).\n<b>Reaction:</b> After Eager Opportunist enters play, if you have won an [intrigue] challenge this phase, kneel your faction card to choose a character with STR 3 or lower and return it to its owner's hand.\n<b>Draft format only.</b>",
+            "text": "Ambush (3).\n<b>Reaction:</b> After Cruel Brigand enters play, if you have won an [intrigue] challenge this phase, kneel your faction card to choose a character with STR 3 or lower and return it to its owner's hand.\n<b>Draft format only.</b>",
             "deckLimit": 40,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/aik9ms8.png",
+            "imageUrl": "https://i.imgur.com/6dZ5M6X.png",
             "rarity": "Common"
         },
         {
-            "code": "00167",
+            "code": "00170",
             "type": "location",
-            "name": "Hillside River",
+            "name": "Silverhill River",
             "octgnId": null,
             "quantity": 3,
             "unique": false,
@@ -1648,14 +1721,14 @@
             "traits": [
                 "The Westerlands"
             ],
-            "text": "Reaction: After claim is applied for an [intrigue] challenge you won, if you have more cards in hand than the losing opponent, sacrifice Hillside River to apply gain 1 power for your faction.\n+1 Income.\n<b>Draft format only.</b>",
+            "text": "Reaction: After claim is applied for an [intrigue] challenge you won, if you have more cards in hand than the losing opponent, sacrifice Silverhill River to gain 1 power for your faction.\n+1 Income.\n<b>Draft format only.</b>",
             "deckLimit": 40,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/UVsNWlw.png",
+            "imageUrl": "https://i.imgur.com/7hg3kdu.png",
             "rarity": "Common"
         },
         {
-            "code": "00168",
+            "code": "00171",
             "type": "event",
             "name": "Burning Bright",
             "octgnId": null,
@@ -1672,7 +1745,7 @@
             "rarity": "Common"
         },
         {
-            "code": "00169",
+            "code": "00172",
             "type": "event",
             "name": "One, Two, Three",
             "octgnId": null,
@@ -1688,7 +1761,7 @@
             "rarity": "Common"
         },
         {
-            "code": "00170",
+            "code": "00173",
             "type": "character",
             "name": "Anders Yronwood",
             "octgnId": null,
@@ -1715,7 +1788,7 @@
             "rarity": "Rare"
         },
         {
-            "code": "00171",
+            "code": "00174",
             "type": "character",
             "name": "Doran Martell",
             "octgnId": null,
@@ -1740,7 +1813,7 @@
             "rarity": "Rare"
         },
         {
-            "code": "00172",
+            "code": "00175",
             "type": "character",
             "name": "Ser Arys Oakheart",
             "octgnId": null,
@@ -1767,7 +1840,7 @@
             "rarity": "Rare"
         },
         {
-            "code": "00173",
+            "code": "00176",
             "type": "character",
             "name": "Arianne Martell",
             "octgnId": null,
@@ -1792,7 +1865,7 @@
             "rarity": "Rare"
         },
         {
-            "code": "00174",
+            "code": "00177",
             "type": "character",
             "name": "Elia Sand",
             "octgnId": null,
@@ -1819,7 +1892,7 @@
             "rarity": "Rare"
         },
         {
-            "code": "00175",
+            "code": "00178",
             "type": "character",
             "name": "The Tattered Prince",
             "octgnId": "null",
@@ -1845,7 +1918,7 @@
             "rarity": "Rare"
         },
         {
-            "code": "00176",
+            "code": "00179",
             "type": "attachment",
             "name": "Sword of the Morning",
             "octgnId": null,
@@ -1864,7 +1937,31 @@
             "rarity": "Rare"
         },
         {
-            "code": "00177",
+            "code": "00180",
+            "type": "plot",
+            "name": "The Dornish Wars",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "martell",
+            "plotStats": {
+                "income": 4,
+                "initiative": 6,
+                "claim": 1,
+                "reserve": 5
+            },
+            "loyal": true,
+            "traits": [
+                "Legacy",
+                "War"
+            ],
+            "text": "Each character an opponent controls cannot gain challenge icons.\n<b>Reaction:</b> After you win a challenge, choose a character controlled by the losing opponent. Until the end of the phase, that character loses a challenge icon of your choice. (Limit twice per phase.)",
+            "deckLimit": 1,
+            "illustrator": "millikodea",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WK/108_The_Dornish_Wars.png",
+            "rarity": "Rare"
+        },
+        {
+            "code": "00181",
             "type": "character",
             "name": "Mellario of Norvos",
             "octgnId": "null",
@@ -1889,7 +1986,7 @@
             "rarity": "Uncommon"
         },
         {
-            "code": "00178",
+            "code": "00182",
             "type": "character",
             "name": "Ser Andrey Dalt",
             "octgnId": null,
@@ -1915,7 +2012,7 @@
             "rarity": "Uncommon"
         },
         {
-            "code": "00179",
+            "code": "00183",
             "type": "character",
             "name": "Trystane Martell",
             "octgnId": null,
@@ -1940,7 +2037,7 @@
             "rarity": "Uncommon"
         },
         {
-            "code": "00180",
+            "code": "00184",
             "type": "character",
             "name": "Tyene Sand",
             "octgnId": null,
@@ -1968,7 +2065,7 @@
             "rarity": "Uncommon"
         },
         {
-            "code": "00181",
+            "code": "00185",
             "type": "character",
             "name": "Ser Willam Wells",
             "octgnId": null,
@@ -1994,7 +2091,7 @@
             "rarity": "Uncommon"
         },
         {
-            "code": "00182",
+            "code": "00186",
             "type": "location",
             "name": "Sandstone",
             "octgnId": null,
@@ -2015,7 +2112,7 @@
             "rarity": "Uncommon"
         },
         {
-            "code": "00183",
+            "code": "00187",
             "type": "attachment",
             "name": "War Scorpion",
             "octgnId": null,
@@ -2034,7 +2131,7 @@
             "rarity": "Uncommon"
         },
         {
-            "code": "00184",
+            "code": "00188",
             "type": "attachment",
             "name": "Vulture King",
             "octgnId": null,
@@ -2054,7 +2151,7 @@
             "rarity": "Uncommon"
         },
         {
-            "code": "00185",
+            "code": "00189",
             "type": "character",
             "name": "Ghost Hill Elite",
             "octgnId": null,
@@ -2079,7 +2176,7 @@
             "rarity": "Common"
         },
         {
-            "code": "00186",
+            "code": "00190",
             "type": "character",
             "name": "Starfall Servant",
             "octgnId": null,
@@ -2105,7 +2202,7 @@
             "rarity": "Common"
         },
         {
-            "code": "00187",
+            "code": "00191",
             "type": "character",
             "name": "Scheming Snake",
             "octgnId": null,
@@ -2131,7 +2228,7 @@
             "rarity": "Common"
         },
         {
-            "code": "00188",
+            "code": "00192",
             "type": "character",
             "name": "Windblown",
             "octgnId": null,
@@ -2158,7 +2255,7 @@
             "rarity": "Common"
         },
         {
-            "code": "00189",
+            "code": "00193",
             "type": "character",
             "name": "Desert Freerider",
             "octgnId": null,
@@ -2184,7 +2281,7 @@
             "rarity": "Common"
         },
         {
-            "code": "00190",
+            "code": "00194",
             "type": "character",
             "name": "Vengeful Lordling",
             "octgnId": null,
@@ -2209,7 +2306,7 @@
             "rarity": "Common"
         },
         {
-            "code": "00191",
+            "code": "00195",
             "type": "location",
             "name": "Red Mountains",
             "octgnId": null,
@@ -2228,7 +2325,7 @@
             "rarity": "Common"
         },
         {
-            "code": "00192",
+            "code": "00196",
             "type": "event",
             "name": "A Bed of Scorpions",
             "octgnId": null,
@@ -2247,7 +2344,7 @@
             "rarity": "Common"
         },
         {
-            "code": "00193",
+            "code": "00197",
             "type": "character",
             "name": "Great Ranging",
             "octgnId": null,
@@ -2267,14 +2364,14 @@
                 "Ranger",
                 "Steward"
             ],
-            "text": "Assault. Insight. Intimidate. No attachments.\n<b>Reaction:</b> After you marshal Great Ranging, search your hand, deck, and discard pile for a non-limited location and add it to your hand. Shuffle your deck.\n+1 Reserve.\n<b>Draft format only.</b>",
+            "text": "Assault. Insight. Intimidate. No attachments.\n<b>Reaction:</b> After you marshal Great Ranging, search your deck and discard pile for a non-limited location and add it to your hand. Shuffle your deck.\n+1 Reserve.\n<b>Draft format only.</b>",
             "deckLimit": 40,
             "illustrator": "?",
             "imageUrl": "https://i.imgur.com/xVCUTf2.png",
             "rarity": "Rare"
         },
         {
-            "code": "00194",
+            "code": "00198",
             "type": "character",
             "name": "Melisandre",
             "octgnId": null,
@@ -2300,7 +2397,7 @@
             "rarity": "Rare"
         },
         {
-            "code": "00195",
+            "code": "00199",
             "type": "character",
             "name": "Benjen Stark",
             "octgnId": null,
@@ -2326,7 +2423,7 @@
             "rarity": "Rare"
         },
         {
-            "code": "00196",
+            "code": "00200",
             "type": "character",
             "name": "Dywen",
             "octgnId": "null",
@@ -2351,7 +2448,7 @@
             "rarity": "Rare"
         },
         {
-            "code": "00197",
+            "code": "00201",
             "type": "character",
             "name": "Bowen Marsh",
             "octgnId": null,
@@ -2377,7 +2474,7 @@
             "rarity": "Rare"
         },
         {
-            "code": "00198",
+            "code": "00202",
             "type": "location",
             "name": "Castle Black",
             "octgnId": null,
@@ -2397,7 +2494,7 @@
             "rarity": "Rare"
         },
         {
-            "code": "00199",
+            "code": "00203",
             "type": "location",
             "name": "Sentinel Stand",
             "octgnId": null,
@@ -2418,7 +2515,30 @@
             "rarity": "Rare"
         },
         {
-            "code": "00200",
+            "code": "00204",
+            "type": "plot",
+            "name": "The Watch Needs Good Men",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "thenightswatch",
+            "plotStats": {
+                "income": 3,
+                "initiative": 2,
+                "claim": 1,
+                "reserve": 6
+            },
+            "loyal": true,
+            "traits": [
+                "Edict"
+            ],
+            "text": "You may marshal or ambush characters from any opponent's discard pile as if they were in your hand.",
+            "deckLimit": 1,
+            "illustrator": "Kay Huang",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TTS/70_The_Watch_Needs_Good_Men.png",
+            "rarity": "Rare"
+        },
+        {
+            "code": "00205",
             "type": "character",
             "name": "Samwell Tarly",
             "octgnId": null,
@@ -2444,7 +2564,7 @@
             "rarity": "Uncommon"
         },
         {
-            "code": "00201",
+            "code": "00206",
             "type": "character",
             "name": "Iron Emmett",
             "octgnId": null,
@@ -2471,7 +2591,7 @@
             "rarity": "Uncommon"
         },
         {
-            "code": "00202",
+            "code": "00207",
             "type": "character",
             "name": "Old Tattersalt",
             "octgnId": null,
@@ -2496,7 +2616,7 @@
             "rarity": "Uncommon"
         },
         {
-            "code": "00203",
+            "code": "00208",
             "type": "character",
             "name": "Gared",
             "octgnId": null,
@@ -2522,7 +2642,7 @@
             "rarity": "Uncommon"
         },
         {
-            "code": "00204",
+            "code": "00209",
             "type": "location",
             "name": "Weirwood Grove",
             "octgnId": null,
@@ -2543,7 +2663,7 @@
             "rarity": "Uncommon"
         },
         {
-            "code": "00205",
+            "code": "00210",
             "type": "attachment",
             "name": "Insubordination",
             "octgnId": null,
@@ -2563,7 +2683,7 @@
             "rarity": "Uncommon"
         },
         {
-            "code": "00206",
+            "code": "00211",
             "type": "event",
             "name": "I Pledge My Life and Honor",
             "octgnId": null,
@@ -2580,7 +2700,7 @@
             "rarity": "Uncommon"
         },
         {
-            "code": "00207",
+            "code": "00212",
             "type": "event",
             "name": "When All Is Darkest",
             "octgnId": null,
@@ -2597,9 +2717,9 @@
             "rarity": "Uncommon"
         },
         {
-            "code": "00208",
+            "code": "00213",
             "type": "character",
-            "name": "Mance's Warriors",
+            "name": "Tormund's Horde",
             "octgnId": null,
             "quantity": 3,
             "unique": false,
@@ -2618,14 +2738,14 @@
                 "Raider",
                 "Wildling"
             ],
-            "text": "Intimidate.\n<b>Reaction:</b> After you win a challenge in which Mance's Warriors is attacking, reveal the top card of each player's deck. You may either: discard each of those cards, or have each player draw 1 card.\n<b>Draft format only.</b>",
+            "text": "Intimidate.\n<b>Reaction:</b> After you win a challenge in which Tormund's Horde is attacking, reveal the top card of each player's deck. You may either: discard each of those cards, or have each player draw 1 card.\n<b>Draft format only.</b>",
             "deckLimit": 40,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/wpgUNBC.png",
+            "imageUrl": "https://i.imgur.com/w4vvkfr.png",
             "rarity": "Common"
         },
         {
-            "code": "00209",
+            "code": "00214",
             "type": "character",
             "name": "Abel's Washerwoman",
             "octgnId": null,
@@ -2651,7 +2771,7 @@
             "rarity": "Common"
         },
         {
-            "code": "00210",
+            "code": "00215",
             "type": "character",
             "name": "Marsh's Conspirator",
             "octgnId": null,
@@ -2677,7 +2797,7 @@
             "rarity": "Common"
         },
         {
-            "code": "00211",
+            "code": "00216",
             "type": "character",
             "name": "Old Steward",
             "octgnId": null,
@@ -2702,7 +2822,7 @@
             "rarity": "Common"
         },
         {
-            "code": "00212",
+            "code": "00217",
             "type": "character",
             "name": "Wall-Bound Knight",
             "octgnId": null,
@@ -2729,7 +2849,7 @@
             "rarity": "Common"
         },
         {
-            "code": "00213",
+            "code": "00218",
             "type": "character",
             "name": "Highborn Recruit",
             "octgnId": null,
@@ -2755,7 +2875,7 @@
             "rarity": "Common"
         },
         {
-            "code": "00214",
+            "code": "00219",
             "type": "event",
             "name": "You Know Nothing",
             "octgnId": null,
@@ -2772,7 +2892,7 @@
             "rarity": "Common"
         },
         {
-            "code": "00215",
+            "code": "00220",
             "type": "event",
             "name": "Corn, Corn, Corn",
             "octgnId": null,
@@ -2788,7 +2908,7 @@
             "rarity": "Common"
         },
         {
-            "code": "00216",
+            "code": "00221",
             "type": "character",
             "name": "Robb Stark",
             "octgnId": null,
@@ -2815,7 +2935,7 @@
             "rarity": "Rare"
         },
         {
-            "code": "00217",
+            "code": "00222",
             "type": "character",
             "name": "Roose Bolton",
             "octgnId": null,
@@ -2843,7 +2963,7 @@
             "rarity": "Rare"
         },
         {
-            "code": "00218",
+            "code": "00223",
             "type": "character",
             "name": "The Blackfish",
             "octgnId": null,
@@ -2871,7 +2991,7 @@
             "rarity": "Rare"
         },
         {
-            "code": "00219",
+            "code": "00224",
             "type": "character",
             "name": "Rickard Karstark",
             "octgnId": null,
@@ -2897,7 +3017,7 @@
             "rarity": "Rare"
         },
         {
-            "code": "00220",
+            "code": "00225",
             "type": "location",
             "name": "Winterfell Castle",
             "octgnId": null,
@@ -2917,7 +3037,7 @@
             "rarity": "Rare"
         },
         {
-            "code": "00221",
+            "code": "00226",
             "type": "location",
             "name": "The Crag",
             "octgnId": null,
@@ -2937,7 +3057,7 @@
             "rarity": "Rare"
         },
         {
-            "code": "00222",
+            "code": "00227",
             "type": "attachment",
             "name": "Grey Wind",
             "octgnId": null,
@@ -2956,7 +3076,32 @@
             "rarity": "Rare"
         },
         {
-            "code": "00223",
+            "code": "00228",
+            "type": "plot",
+            "name": "The Hour of the Wolf",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "stark",
+            "plotStats": {
+                "income": 5,
+                "initiative": 4,
+                "claim": 1,
+                "reserve": 4
+            },
+            "loyal": true,
+            "traits": [
+                "Edict",
+                "Legacy"
+            ],
+            "text": "<b>When Revealed:</b> Each player sacrifices a non-loyal character, if able.",
+            "flavor": "“The winters are hard, but the Starks will endure. We always have.” \r- Eddard Stark",
+            "deckLimit": 1,
+            "illustrator": "Stephen Patane (Midjourney)",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TTS/72_The_Hour_of_the_Wolf.png",
+            "rarity": "Rare"
+        },
+        {
+            "code": "00229",
             "type": "character",
             "name": "King Robb's Bannermen",
             "octgnId": null,
@@ -2982,7 +3127,7 @@
             "rarity": "Uncommon"
         },
         {
-            "code": "00224",
+            "code": "00230",
             "type": "character",
             "name": "Bran Stark",
             "octgnId": null,
@@ -3008,7 +3153,7 @@
             "rarity": "Uncommon"
         },
         {
-            "code": "00225",
+            "code": "00231",
             "type": "character",
             "name": "Jon Snow",
             "octgnId": null,
@@ -3034,7 +3179,7 @@
             "rarity": "Uncommon"
         },
         {
-            "code": "00226",
+            "code": "00232",
             "type": "character",
             "name": "Farlen",
             "octgnId": null,
@@ -3059,7 +3204,7 @@
             "rarity": "Uncommon"
         },
         {
-            "code": "00227",
+            "code": "00233",
             "type": "character",
             "name": "Ghost",
             "octgnId": null,
@@ -3085,7 +3230,7 @@
             "rarity": "Uncommon"
         },
         {
-            "code": "00228",
+            "code": "00234",
             "type": "character",
             "name": "Harwin",
             "octgnId": "null",
@@ -3111,7 +3256,7 @@
             "rarity": "Uncommon"
         },
         {
-            "code": "00229",
+            "code": "00235",
             "type": "location",
             "name": "The Wolf's Den",
             "octgnId": null,
@@ -3131,7 +3276,7 @@
             "rarity": "Uncommon"
         },
         {
-            "code": "00230",
+            "code": "00236",
             "type": "location",
             "name": "Greywater Watch",
             "octgnId": null,
@@ -3151,7 +3296,7 @@
             "rarity": "Uncommon"
         },
         {
-            "code": "00231",
+            "code": "00237",
             "type": "character",
             "name": "The Bastard's Boys",
             "octgnId": null,
@@ -3178,7 +3323,7 @@
             "rarity": "Common"
         },
         {
-            "code": "00232",
+            "code": "00238",
             "type": "character",
             "name": "Crannogmen",
             "octgnId": null,
@@ -3204,7 +3349,7 @@
             "rarity": "Common"
         },
         {
-            "code": "00233",
+            "code": "00239",
             "type": "character",
             "name": "Merman's Guard",
             "octgnId": null,
@@ -3232,7 +3377,7 @@
             "rarity": "Common"
         },
         {
-            "code": "00234",
+            "code": "00240",
             "type": "character",
             "name": "Trident Guard",
             "octgnId": null,
@@ -3259,7 +3404,7 @@
             "rarity": "Common"
         },
         {
-            "code": "00235",
+            "code": "00241",
             "type": "character",
             "name": "Brynden's Outriders",
             "octgnId": null,
@@ -3285,7 +3430,7 @@
             "rarity": "Common"
         },
         {
-            "code": "00236",
+            "code": "00242",
             "type": "character",
             "name": "Karstark Lancer",
             "octgnId": null,
@@ -3312,7 +3457,7 @@
             "rarity": "Common"
         },
         {
-            "code": "00237",
+            "code": "00243",
             "type": "location",
             "name": "The Wolfswood",
             "octgnId": null,
@@ -3331,7 +3476,7 @@
             "rarity": "Common"
         },
         {
-            "code": "00238",
+            "code": "00244",
             "type": "event",
             "name": "Wolf Dreams",
             "octgnId": null,
@@ -3352,7 +3497,7 @@
             "rarity": "Common"
         },
         {
-            "code": "00239",
+            "code": "00245",
             "type": "character",
             "name": "Aegon Targaryen",
             "octgnId": null,
@@ -3379,7 +3524,7 @@
             "rarity": "Rare"
         },
         {
-            "code": "00240",
+            "code": "00246",
             "type": "character",
             "name": "Ser Barristan Selmy",
             "octgnId": null,
@@ -3405,7 +3550,7 @@
             "rarity": "Rare"
         },
         {
-            "code": "00241",
+            "code": "00247",
             "type": "character",
             "name": "Daenerys Targaryen",
             "octgnId": null,
@@ -3432,7 +3577,7 @@
             "rarity": "Rare"
         },
         {
-            "code": "00242",
+            "code": "00248",
             "type": "character",
             "name": "Lysono Maar",
             "octgnId": null,
@@ -3459,7 +3604,7 @@
             "rarity": "Rare"
         },
         {
-            "code": "00243",
+            "code": "00249",
             "type": "character",
             "name": "Quentyn Martell",
             "octgnId": null,
@@ -3485,7 +3630,7 @@
             "rarity": "Rare"
         },
         {
-            "code": "00244",
+            "code": "00250",
             "type": "character",
             "name": "Hero",
             "octgnId": null,
@@ -3511,7 +3656,7 @@
             "rarity": "Rare"
         },
         {
-            "code": "00245",
+            "code": "00251",
             "type": "character",
             "name": "Tyrion Lannister",
             "octgnId": null,
@@ -3536,7 +3681,32 @@
             "rarity": "Rare"
         },
         {
-            "code": "00246",
+            "code": "00252",
+            "type": "plot",
+            "name": "Dance of the Dragons",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "targaryen",
+            "plotStats": {
+                "income": 4,
+                "initiative": 7,
+                "claim": 1,
+                "reserve": 6
+            },
+            "loyal": true,
+            "traits": [
+                "Legacy",
+                "Scheme",
+                "War"
+            ],
+            "text": "<b>Interrupt:</b> When claim is applied for a [military] or [intrigue] challenge in which you are the attacking player, instead of the normal claim effects, kneel a unique [targaryen] character to move 2 power from the losing opponent's faction card to your own.\n<b>Draft format only.</b>",
+            "deckLimit": 1,
+            "illustrator": "Ruben Devela",
+            "imageUrl": "https://i.imgur.com/l5S0Ikn.png",
+            "rarity": "Rare"
+        },
+        {
+            "code": "00253",
             "type": "character",
             "name": "Grey Worm",
             "octgnId": null,
@@ -3562,7 +3732,7 @@
             "rarity": "Uncommon"
         },
         {
-            "code": "00247",
+            "code": "00254",
             "type": "character",
             "name": "Ser Rolly Duckfield",
             "octgnId": null,
@@ -3589,7 +3759,7 @@
             "rarity": "Uncommon"
         },
         {
-            "code": "00248",
+            "code": "00255",
             "type": "character",
             "name": "Black Balaq",
             "octgnId": null,
@@ -3616,7 +3786,7 @@
             "rarity": "Uncommon"
         },
         {
-            "code": "00249",
+            "code": "00256",
             "type": "character",
             "name": "Haldon Halfmaester",
             "octgnId": "null",
@@ -3642,7 +3812,7 @@
             "rarity": "Uncommon"
         },
         {
-            "code": "00250",
+            "code": "00257",
             "type": "character",
             "name": "Septa Lemore",
             "octgnId": null,
@@ -3668,7 +3838,7 @@
             "rarity": "Uncommon"
         },
         {
-            "code": "00251",
+            "code": "00258",
             "type": "attachment",
             "name": "Grey Worm's Spear",
             "octgnId": null,
@@ -3687,7 +3857,7 @@
             "rarity": "Uncommon"
         },
         {
-            "code": "00252",
+            "code": "00259",
             "type": "event",
             "name": "Our Word Is Good as Gold",
             "octgnId": null,
@@ -3704,7 +3874,7 @@
             "rarity": "Uncommon"
         },
         {
-            "code": "00253",
+            "code": "00260",
             "type": "event",
             "name": "Beneath the Gold, the Bitter Steel",
             "octgnId": null,
@@ -3720,7 +3890,7 @@
             "rarity": "Uncommon"
         },
         {
-            "code": "00254",
+            "code": "00261",
             "type": "character",
             "name": "Golden Company",
             "octgnId": null,
@@ -3746,7 +3916,7 @@
             "rarity": "Common"
         },
         {
-            "code": "00255",
+            "code": "00262",
             "type": "character",
             "name": "Long Lances",
             "octgnId": null,
@@ -3771,7 +3941,7 @@
             "rarity": "Common"
         },
         {
-            "code": "00256",
+            "code": "00263",
             "type": "character",
             "name": "Sorrowful Man",
             "octgnId": null,
@@ -3797,7 +3967,7 @@
             "rarity": "Common"
         },
         {
-            "code": "00257",
+            "code": "00264",
             "type": "character",
             "name": "Stalwart Shields",
             "octgnId": null,
@@ -3822,7 +3992,7 @@
             "rarity": "Common"
         },
         {
-            "code": "00258",
+            "code": "00265",
             "type": "character",
             "name": "Free Brothers",
             "octgnId": null,
@@ -3847,7 +4017,7 @@
             "rarity": "Common"
         },
         {
-            "code": "00259",
+            "code": "00266",
             "type": "character",
             "name": "Stormcrows",
             "octgnId": null,
@@ -3872,7 +4042,7 @@
             "rarity": "Common"
         },
         {
-            "code": "00260",
+            "code": "00267",
             "type": "location",
             "name": "Fighting Pit",
             "octgnId": null,
@@ -3891,7 +4061,7 @@
             "rarity": "Common"
         },
         {
-            "code": "00261",
+            "code": "00268",
             "type": "event",
             "name": "Naught but Ashes",
             "octgnId": null,
@@ -3908,7 +4078,7 @@
             "rarity": "Common"
         },
         {
-            "code": "00262",
+            "code": "00269",
             "type": "character",
             "name": "Randyll Tarly",
             "octgnId": "",
@@ -3935,7 +4105,7 @@
             "rarity": "Rare"
         },
         {
-            "code": "00263",
+            "code": "00270",
             "type": "character",
             "name": "Margaery Tyrell",
             "octgnId": null,
@@ -3962,7 +4132,7 @@
             "rarity": "Rare"
         },
         {
-            "code": "00264",
+            "code": "00271",
             "type": "character",
             "name": "Mace Tyrell",
             "octgnId": null,
@@ -3988,7 +4158,7 @@
             "rarity": "Rare"
         },
         {
-            "code": "00265",
+            "code": "00272",
             "type": "character",
             "name": "Willas Tyrell",
             "octgnId": null,
@@ -4014,7 +4184,7 @@
             "rarity": "Rare"
         },
         {
-            "code": "00266",
+            "code": "00273",
             "type": "character",
             "name": "The Knight of Flowers",
             "octgnId": "",
@@ -4041,7 +4211,7 @@
             "rarity": "Rare"
         },
         {
-            "code": "00267",
+            "code": "00274",
             "type": "location",
             "name": "Highgarden",
             "octgnId": null,
@@ -4061,7 +4231,7 @@
             "rarity": "Rare"
         },
         {
-            "code": "00268",
+            "code": "00275",
             "type": "attachment",
             "name": "Garth Greenhand",
             "octgnId": null,
@@ -4081,7 +4251,32 @@
             "rarity": "Rare"
         },
         {
-            "code": "00269",
+            "code": "00276",
+            "type": "plot",
+            "name": "Chivalry of the South",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "tyrell",
+            "plotStats": {
+                "income": 5,
+                "initiative": 4,
+                "claim": 1,
+                "reserve": 6
+            },
+            "loyal": true,
+            "traits": [
+                "Legacy",
+                "Summer"
+            ],
+            "text": "<b>Interrupt:</b> When a challenge ends in which there are no participating characters, gain 2 power for your faction. (Limit 3 times per round.) ",
+            "flavor": "\"Look across the fields, brother. Can you see all those banners?\" <cite>Renly Baratheon</cite>",
+            "deckLimit": 1,
+            "illustrator": "Diego Gisbert Llorens",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ChoS/36_Chivalry_of_the_South.png",
+            "rarity": "Rare"
+        },
+        {
+            "code": "00277",
             "type": "character",
             "name": "Mina Redwyne",
             "octgnId": null,
@@ -4107,7 +4302,7 @@
             "rarity": "Uncommon"
         },
         {
-            "code": "00270",
+            "code": "00278",
             "type": "character",
             "name": "Ser Bryce Caron",
             "octgnId": null,
@@ -4135,7 +4330,7 @@
             "rarity": "Uncommon"
         },
         {
-            "code": "00271",
+            "code": "00279",
             "type": "character",
             "name": "Alla Tyrell",
             "octgnId": null,
@@ -4161,7 +4356,7 @@
             "rarity": "Uncommon"
         },
         {
-            "code": "00272",
+            "code": "00280",
             "type": "character",
             "name": "Ser Robar Royce",
             "octgnId": null,
@@ -4188,7 +4383,7 @@
             "rarity": "Uncommon"
         },
         {
-            "code": "00273",
+            "code": "00281",
             "type": "character",
             "name": "Dickon Tarly",
             "octgnId": null,
@@ -4214,7 +4409,7 @@
             "rarity": "Uncommon"
         },
         {
-            "code": "00274",
+            "code": "00282",
             "type": "character",
             "name": "Ser Emmon Cuy",
             "octgnId": "null",
@@ -4241,7 +4436,7 @@
             "rarity": "Uncommon"
         },
         {
-            "code": "00275",
+            "code": "00283",
             "type": "attachment",
             "name": "Highgarden Destrier",
             "octgnId": null,
@@ -4261,7 +4456,7 @@
             "rarity": "Uncommon"
         },
         {
-            "code": "00276",
+            "code": "00284",
             "type": "event",
             "name": "Gilbert of the Vines",
             "octgnId": null,
@@ -4281,7 +4476,7 @@
             "rarity": "Uncommon"
         },
         {
-            "code": "00277",
+            "code": "00285",
             "type": "character",
             "name": "Blackwater Forces",
             "octgnId": null,
@@ -4307,7 +4502,7 @@
             "rarity": "Common"
         },
         {
-            "code": "00278",
+            "code": "00286",
             "type": "character",
             "name": "Red-Apple Knight",
             "octgnId": null,
@@ -4332,7 +4527,7 @@
             "rarity": "Common"
         },
         {
-            "code": "00279",
+            "code": "00287",
             "type": "character",
             "name": "Brightwater Cavalry",
             "octgnId": null,
@@ -4359,7 +4554,7 @@
             "rarity": "Common"
         },
         {
-            "code": "00280",
+            "code": "00288",
             "type": "character",
             "name": "Arbor Jester",
             "octgnId": null,
@@ -4385,7 +4580,7 @@
             "rarity": "Common"
         },
         {
-            "code": "00281",
+            "code": "00289",
             "type": "character",
             "name": "Youthful Acolyte",
             "octgnId": null,
@@ -4411,7 +4606,7 @@
             "rarity": "Common"
         },
         {
-            "code": "00282",
+            "code": "00290",
             "type": "event",
             "name": "Brienne the Blue",
             "octgnId": null,
@@ -4427,7 +4622,7 @@
             "rarity": "Common"
         },
         {
-            "code": "00283",
+            "code": "00291",
             "type": "event",
             "name": "Behold our Bounty",
             "octgnId": null,
@@ -4443,7 +4638,7 @@
             "rarity": "Common"
         },
         {
-            "code": "00284",
+            "code": "00292",
             "type": "event",
             "name": "Beneath the Petals",
             "octgnId": null,
@@ -4459,7 +4654,7 @@
             "rarity": "Common"
         },
         {
-            "code": "00285",
+            "code": "00293",
             "type": "character",
             "name": "Littlefinger",
             "octgnId": null,
@@ -4484,7 +4679,7 @@
             "rarity": "Rare"
         },
         {
-            "code": "00286",
+            "code": "00294",
             "type": "character",
             "name": "Vargo Hoat",
             "octgnId": "null",
@@ -4510,7 +4705,7 @@
             "rarity": "Rare"
         },
         {
-            "code": "00287",
+            "code": "00295",
             "type": "character",
             "name": "Brienne of Tarth",
             "octgnId": "null",
@@ -4536,7 +4731,7 @@
             "rarity": "Rare"
         },
         {
-            "code": "00288",
+            "code": "00296",
             "type": "character",
             "name": "Harma Dogshead",
             "octgnId": null,
@@ -4561,7 +4756,7 @@
             "rarity": "Rare"
         },
         {
-            "code": "00289",
+            "code": "00297",
             "type": "character",
             "name": "Former Champion",
             "octgnId": null,
@@ -4586,7 +4781,7 @@
             "rarity": "Rare"
         },
         {
-            "code": "00290",
+            "code": "00298",
             "type": "location",
             "name": "The Vale of Arryn",
             "octgnId": null,
@@ -4604,7 +4799,7 @@
             "rarity": "Rare"
         },
         {
-            "code": "00291",
+            "code": "00299",
             "type": "location",
             "name": "The Moon Door",
             "octgnId": null,
@@ -4622,7 +4817,7 @@
             "rarity": "Rare"
         },
         {
-            "code": "00292",
+            "code": "00300",
             "type": "location",
             "name": "The Tower of Joy",
             "octgnId": null,
@@ -4641,7 +4836,189 @@
             "rarity": "Rare"
         },
         {
-            "code": "00293",
+            "code": "00301",
+            "type": "plot",
+            "name": "All Men Must Die",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "neutral",
+            "plotStats": {
+                "income": 2,
+                "initiative": 0,
+                "claim": 0,
+                "reserve": 5
+            },
+            "traits": [
+                "Omen"
+            ],
+            "text": "<b>When Revealed:</b> Kill each character.\nDraft format only.",
+            "deckLimit": 1,
+            "illustrator": "?",
+            "imageUrl": "https://i.imgur.com/QHuWkXI.png",
+            "rarity": "Rare"
+        },
+        {
+            "code": "00302",
+            "type": "plot",
+            "name": "Battle on the Green Fork",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "neutral",
+            "plotStats": {
+                "income": 4,
+                "initiative": 7,
+                "claim": 0,
+                "reserve": 6
+            },
+            "traits": [
+                "War"
+            ],
+            "text": "<b>Reaction:</b> After you win a challenge as the attacking player, raise the claim value on Battle on the Green Fork by 1 until the end of the phase. (Limit 3 times per phase.)",
+            "deckLimit": 1,
+            "illustrator": "Melle (Midjourney)",
+            "designer": "Card design by 2023 Online World Champion, Jim Hansen.",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TTS/79_Battle_on_the_Green_Fork.png",
+            "rarity": "Rare"
+        },
+        {
+            "code": "00303",
+            "type": "plot",
+            "name": "Bran the Builder",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "neutral",
+            "plotStats": {
+                "income": 5,
+                "initiative": 3,
+                "claim": 1,
+                "reserve": 7
+            },
+            "traits": [
+                "Legacy"
+            ],
+            "text": "<b>Reaction:</b> After you win a challenge, search the top 10 cards of your deck for a location, reveal it, and add it to your hand. Shuffle your deck. (Limit twice per phase.)",
+            "deckLimit": 2,
+            "illustrator": "Marc Simonetti",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/29_Bran%20the%20Builder.png",
+            "rarity": "Rare"
+        },
+        {
+            "code": "00304",
+            "type": "plot",
+            "name": "The Father",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "neutral",
+            "plotStats": {
+                "income": 6,
+                "initiative": 0,
+                "claim": 1,
+                "reserve": 4
+            },
+            "traits": [
+                "Edict",
+                "The Seven"
+            ],
+            "text": "<b>Forced Interrupt:</b> When the dominance phase ends, choose a unique non-<i>Army</i> character controlled by each player. Then, return each of those characters to its owner's hand.",
+            "deckLimit": 1,
+            "illustrator": "Niten",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/54_The%20Father.png",
+            "rarity": "Rare"
+        },
+        {
+            "code": "00305",
+            "type": "plot",
+            "name": "The Mad King's Command",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "neutral",
+            "plotStats": {
+                "income": 3,
+                "initiative": 6,
+                "claim": 1,
+                "reserve": 4
+            },
+            "traits": [
+                "Edict",
+                "Legacy"
+            ],
+            "text": "<b>Forced Reaction:</b> After the challenges phase begins, each player chooses up to 3 characters, up to 3 locations, up to 3 attachments, and up to 3 cards in their hand and/or shadows area. Place each card not chosen on the bottom of its owner's deck (cannot be saved).",
+            "deckLimit": 1,
+            "illustrator": "ZG Fisher",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/30_The%20Mad%20King_s%20Command.png",
+            "rarity": "Rare"
+        },
+        {
+            "code": "00306",
+            "type": "plot",
+            "name": "The Maiden",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "neutral",
+            "plotStats": {
+                "income": 6,
+                "initiative": 1,
+                "claim": 1,
+                "reserve": 6
+            },
+            "traits": [
+                "Kingdom",
+                "The Seven"
+            ],
+            "text": "While The Maiden is in your used pile, increase the initiative value on your revealed plot card by 2, and the reserve value on your revealed <i>The Seven</i> plot card by 2.",
+            "deckLimit": 2,
+            "illustrator": "Drew Whitmore",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/56_The%20Maiden.png",
+            "rarity": "Rare"
+        },
+        {
+            "code": "00307",
+            "type": "plot",
+            "name": "The Stranger",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "neutral",
+            "plotStats": {
+                "income": 3,
+                "initiative": 0,
+                "claim": 1,
+                "reserve": 4
+            },
+            "traits": [
+                "The Seven",
+                "Winter"
+            ],
+            "text": "<b>When Revealed:</b> Each player chooses a character controlled by an opponent. Then, kill each character with the same printed cost as the chosen characters.",
+            "deckLimit": 1,
+            "illustrator": "Joshua Cairos",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/59_The%20Stranger.png",
+            "rarity": "Rare"
+        },
+        {
+            "code": "00308",
+            "type": "plot",
+            "name": "The Warrior",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "neutral",
+            "plotStats": {
+                "income": 6,
+                "initiative": 8,
+                "claim": 1,
+                "reserve": 4
+            },
+            "traits": [
+                "War",
+                "The Seven"
+            ],
+            "text": "During a challenge in which you control an attacking <i>The Seven</i> character, raise the claim value on The Warrior by 1.",
+            "deckLimit": 1,
+            "illustrator": "Drew Whitmore",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/60_The%20Warrior.png",
+            "rarity": "Rare"
+        },
+        {
+            "code": "00309",
             "type": "character",
             "name": "Knights of the Vale",
             "octgnId": null,
@@ -4667,7 +5044,7 @@
             "rarity": "Uncommon"
         },
         {
-            "code": "00294",
+            "code": "00310",
             "type": "character",
             "name": "Brave Companions",
             "octgnId": null,
@@ -4692,7 +5069,7 @@
             "rarity": "Uncommon"
         },
         {
-            "code": "00295",
+            "code": "00311",
             "type": "character",
             "name": "Nestor Royce",
             "octgnId": null,
@@ -4718,7 +5095,7 @@
             "rarity": "Uncommon"
         },
         {
-            "code": "00296",
+            "code": "00312",
             "type": "character",
             "name": "Septon Utt",
             "octgnId": null,
@@ -4745,7 +5122,7 @@
             "rarity": "Uncommon"
         },
         {
-            "code": "00297",
+            "code": "00313",
             "type": "character",
             "name": "Bloodraven",
             "octgnId": null,
@@ -4770,7 +5147,7 @@
             "rarity": "Uncommon"
         },
         {
-            "code": "00298",
+            "code": "00314",
             "type": "character",
             "name": "Septa Unella",
             "octgnId": null,
@@ -4795,7 +5172,7 @@
             "rarity": "Uncommon"
         },
         {
-            "code": "00299",
+            "code": "00315",
             "type": "character",
             "name": "Ser Vardis Egen",
             "octgnId": null,
@@ -4821,7 +5198,7 @@
             "rarity": "Uncommon"
         },
         {
-            "code": "00300",
+            "code": "00316",
             "type": "character",
             "name": "Balerion",
             "octgnId": "null",
@@ -4847,7 +5224,7 @@
             "rarity": "Uncommon"
         },
         {
-            "code": "00301",
+            "code": "00317",
             "type": "character",
             "name": "Shagwell",
             "octgnId": null,
@@ -4873,7 +5250,7 @@
             "rarity": "Uncommon"
         },
         {
-            "code": "00302",
+            "code": "00318",
             "type": "character",
             "name": "Jinglebell",
             "octgnId": null,
@@ -4899,7 +5276,7 @@
             "rarity": "Uncommon"
         },
         {
-            "code": "00303",
+            "code": "00319",
             "type": "location",
             "name": "The Green Fork",
             "octgnId": null,
@@ -4918,7 +5295,7 @@
             "rarity": "Uncommon"
         },
         {
-            "code": "00304",
+            "code": "00320",
             "type": "location",
             "name": "Gulltown",
             "octgnId": null,
@@ -4936,7 +5313,7 @@
             "rarity": "Uncommon"
         },
         {
-            "code": "00305",
+            "code": "00321",
             "type": "location",
             "name": "The Bloody Gate",
             "octgnId": null,
@@ -4955,7 +5332,7 @@
             "rarity": "Uncommon"
         },
         {
-            "code": "00306",
+            "code": "00322",
             "type": "location",
             "name": "Milkwater Crossing",
             "octgnId": null,
@@ -4973,7 +5350,7 @@
             "rarity": "Uncommon"
         },
         {
-            "code": "00307",
+            "code": "00323",
             "type": "attachment",
             "name": "Sweetsleep",
             "octgnId": null,
@@ -4991,7 +5368,7 @@
             "rarity": "Uncommon"
         },
         {
-            "code": "00308",
+            "code": "00324",
             "type": "event",
             "name": "As High as Honor",
             "octgnId": null,
@@ -5009,7 +5386,468 @@
             "rarity": "Uncommon"
         },
         {
-            "code": "00309",
+            "code": "00325",
+            "type": "plot",
+            "name": "A Southron Peace",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "neutral",
+            "plotStats": {
+                "income": 4,
+                "initiative": 0,
+                "claim": 1,
+                "reserve": 7
+            },
+            "traits": [
+                "Edict",
+                "Summer"
+            ],
+            "text": "<b>When Revealed:</b> Choose an opponent. Until you reveal a new plot card, you and that player cannot initiate [military] challenges against each other.",
+            "deckLimit": 1,
+            "illustrator": "Onur Bakur",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ChoS/39_A_Southron_Peace.png",
+            "rarity": "Uncommon"
+        },
+        {
+            "code": "00326",
+            "type": "plot",
+            "name": "All Men Must Serve",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "neutral",
+            "plotStats": {
+                "income": 4,
+                "initiative": 6,
+                "claim": 1,
+                "reserve": 6
+            },
+            "traits": [
+                "Omen"
+            ],
+            "text": "<b>When Revealed:</b> Kneel each character.\nDraft format only.",
+            "deckLimit": 1,
+            "illustrator": "?",
+            "imageUrl": "https://i.imgur.com/eViGLaJ.png",
+            "rarity": "Uncommon"
+        },
+        {
+            "code": "00327",
+            "type": "plot",
+            "name": "At the Tower of Joy",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "neutral",
+            "plotStats": {
+                "income": 3,
+                "initiative": 3,
+                "claim": 1,
+                "reserve": 5
+            },
+            "traits": [
+                "Legacy",
+                "War"
+            ],
+            "text": "<b>When Revealed:</b> Choose a character. Until you reveal a new plot card, that character cannot be killed.",
+            "flavor": "It was said that Rhaegar had named that place the tower of joy, but for Ned it was a bitter memory.",
+            "deckLimit": 1,
+            "illustrator": "Florian Biege",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ATT/19_At_the_Tower_of_Joy.png",
+            "rarity": "Uncommon"
+        },
+        {
+            "code": "00328",
+            "type": "plot",
+            "name": "Battle of the Camps",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "neutral",
+            "plotStats": {
+                "income": 4,
+                "initiative": 7,
+                "claim": 1,
+                "reserve": 5
+            },
+            "traits": [
+                "War"
+            ],
+            "text": "<b>Reaction:</b> After you win a [military] challenge as the attacking player, choose and kneel a character controlled by the losing opponent. (You may kill that character instead if it has the <i>Army</i> trait.) (Limit once per phase.)",
+            "deckLimit": 1,
+            "illustrator": "Tomasz Jedruszek",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/30_Battle%20of%20the%20Camps.png",
+            "rarity": "Uncommon"
+        },
+        {
+            "code": "00329",
+            "type": "plot",
+            "name": "Burning the Books",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "neutral",
+            "plotStats": {
+                "income": 5,
+                "initiative": 0,
+                "claim": 1,
+                "reserve": 4
+            },
+            "traits": [
+                "Edict",
+                "The Seven"
+            ],
+            "text": "<b>When Revealed:</b> Each opponent chooses a non-<i>The Seven</i> attachment they control, if able, and discards it from play. Then, you may discard 1 power from a character you control to initiate this effect again.",
+            "flavor": "Baelor the Blessed had ordered all Barth's writings destroyed when he came to the Iron Throne.",
+            "deckLimit": 2,
+            "illustrator": "Piotr Chrzanowski",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WK/119_Burning_the_Books.png",
+            "rarity": "Uncommon"
+        },
+        {
+            "code": "00330",
+            "type": "plot",
+            "name": "City Blockade",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "neutral",
+            "plotStats": {
+                "income": 5,
+                "initiative": 2,
+                "claim": 1,
+                "reserve": 6
+            },
+            "traits": [
+                "City",
+                "Siege"
+            ],
+            "text": "Limited cards cannot be marshaled, played, or put into play.",
+            "deckLimit": 1,
+            "illustrator": "Thomas Denmark",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FUtG/60_City_Blockade.png",
+            "rarity": "Uncommon"
+        },
+        {
+            "code": "00331",
+            "type": "plot",
+            "name": "City Festival",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "neutral",
+            "plotStats": {
+                "income": 2,
+                "initiative": 2,
+                "claim": 1,
+                "reserve": 6
+            },
+            "traits": [
+                "City",
+                "Kingdom"
+            ],
+            "text": "<b>When Revealed:</b> Gain 3 gold. (6 gold instead if there are 2 or more <i>City</i> plot cards in your used pile.)",
+            "deckLimit": 1,
+            "illustrator": "Taehoon Kang",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/JS/20_City_Festival_ENG.png",
+            "rarity": "Uncommon"
+        },
+        {
+            "code": "00332",
+            "type": "plot",
+            "name": "City of Ice",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "neutral",
+            "plotStats": {
+                "income": 3,
+                "initiative": 8,
+                "claim": 1,
+                "reserve": 5
+            },
+            "traits": [
+                "City",
+                "Winter"
+            ],
+            "text": "<b>Reaction:</b> After you win a challenge, choose an attacking character and have it gain 1 power. (Any player may initiate this ability unless there are 2 or more <i>City</i> plot cards in your used pile.) (Limit twice per phase.)\nDraft format only.",
+            "deckLimit": 1,
+            "illustrator": "?",
+            "imageUrl": "https://i.imgur.com/nS1aGDG.png",
+            "rarity": "Uncommon"
+        },
+        {
+            "code": "00333",
+            "type": "plot",
+            "name": "City of Shadows",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "neutral",
+            "plotStats": {
+                "income": 4,
+                "initiative": 5,
+                "claim": 1,
+                "reserve": 5
+            },
+            "traits": [
+                "City",
+                "Scheme"
+            ],
+            "text": "<b>When Revealed:</b> Choose a card you control with shadow and return it to your hand. (You may return it to shadows instead if there is a <i>City</i> plot card in your used pile.)",
+            "deckLimit": 1,
+            "illustrator": "Rene Aigner",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WAID/19_City_of_Shadows.png",
+            "rarity": "Uncommon"
+        },
+        {
+            "code": "00334",
+            "type": "plot",
+            "name": "Enemies in Every Shadow",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "neutral",
+            "plotStats": {
+                "income": 6,
+                "initiative": 2,
+                "claim": 1,
+                "reserve": 4
+            },
+            "traits": [
+                "House Arryn"
+            ],
+            "text": "While there are no cards in shadows, each character you control gets +1 STR.\n<b>Reaction:</b> After you win a challenge, choose a card in shadows controlled by the losing opponent, and discard it. If that card is a character, place it in its owner's dead pile.",
+            "deckLimit": 2,
+            "illustrator": "Thomas Denmark",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TIC/99_Enemies_in_Every_Shadow.png",
+            "rarity": "Uncommon"
+        },
+        {
+            "code": "00335",
+            "type": "plot",
+            "name": "For the Realm",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "neutral",
+            "plotStats": {
+                "income": 4,
+                "initiative": 1,
+                "claim": 1,
+                "reserve": 6
+            },
+            "traits": [
+                "Kingdom",
+                "War"
+            ],
+            "text": "Reduce the cost of the first <i>Army</i> or <i>Stronghold</i> card you marshal this round by 4.",
+            "deckLimit": 2,
+            "illustrator": "Tomasz Jedruszek",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/29_For%20the%20Realm.png",
+            "rarity": "Uncommon"
+        },
+        {
+            "code": "00336",
+            "type": "plot",
+            "name": "Melisandre's Gambit",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "neutral",
+            "plotStats": {
+                "income": 2,
+                "initiative": 4,
+                "claim": 1,
+                "reserve": 6
+            },
+            "traits": [
+                "Scheme",
+                "Winter"
+            ],
+            "text": "<b>When Revealed:</b> You may kill a character you control (cannot be saved). If you do, put another character into play from your dead or discard pile.\nDraft format only.",
+            "deckLimit": 2,
+            "illustrator": "?",
+            "imageUrl": "https://i.imgur.com/XesVziO.png",
+            "rarity": "Uncommon"
+        },
+        {
+            "code": "00337",
+            "type": "plot",
+            "name": "Open Revolt",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "neutral",
+            "plotStats": {
+                "income": 4,
+                "initiative": 2,
+                "claim": 1,
+                "reserve": 5
+            },
+            "traits": [
+                "Scheme",
+                "War"
+            ],
+            "text": "<b>Interrupt:</b> When the challenges phase ends, if you have not lost an [intrigue] challenge this phase, gain 2 power for your faction. (4 power instead if there are 3 or more <i>Scheme</i> plot cards in your used pile.)\n<b>Draft format only.</b>",
+            "deckLimit": 1,
+            "illustrator": "Fuderiki",
+            "imageUrl": "https://i.imgur.com/OzmWr7Z.png",
+            "rarity": "Uncommon"
+        },
+        {
+            "code": "00338",
+            "type": "plot",
+            "name": "Striking at Dawn",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "neutral",
+            "plotStats": {
+                "income": 5,
+                "initiative": 4,
+                "claim": 1,
+                "reserve": 5
+            },
+            "traits": [
+                "Summer",
+                "War"
+            ],
+            "text": "Each character's STR cannot be increased or reduced by card effects.",
+            "flavor": "“We shall see, brother. Come the dawn, we shall see.” - Stannis Baratheon",
+            "deckLimit": 2,
+            "illustrator": "Piotr Chrzanowski",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WoW/39_Striking_at_Dawn.png",
+            "rarity": "Uncommon"
+        },
+        {
+            "code": "00339",
+            "type": "plot",
+            "name": "The Crone",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "neutral",
+            "plotStats": {
+                "income": 6,
+                "initiative": 0,
+                "claim": 1,
+                "reserve": 4
+            },
+            "traits": [
+                "Scheme",
+                "The Seven"
+            ],
+            "text": "Each character with printed STR 1 or lower cannot leave play.",
+            "deckLimit": 1,
+            "illustrator": "Drew Whitmore",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/53_The%20Crone.png",
+            "rarity": "Uncommon"
+        },
+        {
+            "code": "00340",
+            "type": "plot",
+            "name": "The Defiance of Duskendale",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "neutral",
+            "plotStats": {
+                "income": 4,
+                "initiative": 5,
+                "claim": 1,
+                "reserve": 6
+            },
+            "traits": [
+                "Legacy",
+                "Siege"
+            ],
+            "text": "<b>Reaction:</b> After a location is knelt by assault, discard it from play.",
+            "flavor": "\"Unless I returned with the king by dawn of the following day, he would take the town with steel and fire, he told me.\" <cite>Ser Barristan Selmy</cite>",
+            "deckLimit": 1,
+            "illustrator": "Marc Simonetti",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/38%20-%20The%20Defiance%20of%20Duskendale.png",
+            "rarity": "Uncommon"
+        },
+        {
+            "code": "00341",
+            "type": "plot",
+            "name": "The Mother",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "neutral",
+            "plotStats": {
+                "income": 6,
+                "initiative": 4,
+                "claim": 1,
+                "reserve": 4
+            },
+            "traits": [
+                "Summer",
+                "The Seven"
+            ],
+            "text": "<b>Reaction:</b> After a character enters play under an opponent's control, if another character entered play under that player's control this round, draw 1 card. (Limit twice per round.)",
+            "deckLimit": 2,
+            "illustrator": "Niten",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/57_The%20Mother.png",
+            "rarity": "Uncommon"
+        },
+        {
+            "code": "00342",
+            "type": "plot",
+            "name": "The Pointy End",
+            "octgnId": "null",
+            "quantity": 3,
+            "faction": "neutral",
+            "plotStats": {
+                "income": 4,
+                "initiative": 3,
+                "claim": 1,
+                "reserve": 5
+            },
+            "traits": [
+                "Scheme",
+                "War"
+            ],
+            "text": "<b>When Revealed:</b> Choose a character. If there are 2 or more attachments attached to that character, discard each attachment from it. Otherwise, discard each duplicate and each power from it.",
+            "deckLimit": 2,
+            "illustrator": "Darren Tan",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FH/20_Pointy.png",
+            "rarity": "Uncommon"
+        },
+        {
+            "code": "00343",
+            "type": "plot",
+            "name": "The Smith",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "neutral",
+            "plotStats": {
+                "income": 6,
+                "initiative": 4,
+                "claim": 1,
+                "reserve": 4
+            },
+            "traits": [
+                "Siege",
+                "The Seven"
+            ],
+            "text": "<b>Marshaling Action:</b> Kneel an attachment to choose and kneel a location.",
+            "deckLimit": 2,
+            "illustrator": "Niten",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/58_The%20Smith.png",
+            "rarity": "Uncommon"
+        },
+        {
+            "code": "00344",
+            "type": "plot",
+            "name": "Wardens of the East",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "neutral",
+            "plotStats": {
+                "income": 5,
+                "initiative": 0,
+                "claim": 1,
+                "reserve": 5
+            },
+            "traits": [
+                "House Arryn",
+                "Siege"
+            ],
+            "text": "Each player cannot play in-faction events, and plays with each card in their shadows area revealed.",
+            "deckLimit": 1,
+            "illustrator": "Tomasz Jedruszek",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/39%20-%20Wardens%20of%20the%20East.png",
+            "rarity": "Uncommon"
+        },
+        {
+            "code": "00345",
             "type": "character",
             "name": "Gulltown City Guard",
             "octgnId": null,
@@ -5035,7 +5873,7 @@
             "rarity": "Common"
         },
         {
-            "code": "00310",
+            "code": "00346",
             "type": "character",
             "name": "Maester of the Eyrie",
             "octgnId": null,
@@ -5060,7 +5898,7 @@
             "rarity": "Common"
         },
         {
-            "code": "00311",
+            "code": "00347",
             "type": "character",
             "name": "King's Landing Mob",
             "octgnId": null,
@@ -5086,7 +5924,7 @@
             "rarity": "Common"
         },
         {
-            "code": "00312",
+            "code": "00348",
             "type": "character",
             "name": "Mummer's Troupe",
             "octgnId": null,
@@ -5110,7 +5948,7 @@
             "rarity": "Common"
         },
         {
-            "code": "00313",
+            "code": "00349",
             "type": "character",
             "name": "Harrenhal Cupbearer",
             "octgnId": null,
@@ -5134,7 +5972,7 @@
             "rarity": "Common"
         },
         {
-            "code": "00314",
+            "code": "00350",
             "type": "character",
             "name": "Thenns",
             "octgnId": null,
@@ -5160,7 +5998,7 @@
             "rarity": "Common"
         },
         {
-            "code": "00315",
+            "code": "00351",
             "type": "character",
             "name": "Wandering Knight",
             "octgnId": null,
@@ -5185,7 +6023,7 @@
             "rarity": "Common"
         },
         {
-            "code": "00316",
+            "code": "00352",
             "type": "character",
             "name": "King's Landing Smuggler",
             "octgnId": null,
@@ -5210,7 +6048,7 @@
             "rarity": "Common"
         },
         {
-            "code": "00317",
+            "code": "00353",
             "type": "character",
             "name": "Squire",
             "octgnId": null,
@@ -5234,7 +6072,7 @@
             "rarity": "Common"
         },
         {
-            "code": "00318",
+            "code": "00354",
             "type": "character",
             "name": "Gulltown Merchant",
             "octgnId": null,
@@ -5261,7 +6099,7 @@
             "rarity": "Common"
         },
         {
-            "code": "00319",
+            "code": "00355",
             "type": "location",
             "name": "The Highroad",
             "octgnId": null,
@@ -5279,7 +6117,7 @@
             "rarity": "Common"
         },
         {
-            "code": "00320",
+            "code": "00356",
             "type": "attachment",
             "name": "Quill and Parchment",
             "octgnId": null,
@@ -5298,7 +6136,7 @@
             "rarity": "Common"
         },
         {
-            "code": "00321",
+            "code": "00357",
             "type": "attachment",
             "name": "Face Mask",
             "octgnId": null,
@@ -5316,7 +6154,7 @@
             "rarity": "Common"
         },
         {
-            "code": "00322",
+            "code": "00358",
             "type": "event",
             "name": "\"Florian and Jonquil\"",
             "octgnId": null,
@@ -5333,7 +6171,7 @@
             "rarity": "Common"
         },
         {
-            "code": "00323",
+            "code": "00359",
             "type": "event",
             "name": "\"A Thousand Eyes, and One\"",
             "octgnId": null,
@@ -5351,7 +6189,7 @@
             "rarity": "Common"
         },
         {
-            "code": "00324",
+            "code": "00360",
             "type": "event",
             "name": "Calm as Still Water",
             "octgnId": null,
@@ -5367,755 +6205,7 @@
             "rarity": "Common"
         },
         {
-            "code": "00325",
-            "type": "plot",
-            "name": "Robert's Rebellion",
-            "octgnId": null,
-            "quantity": 3,
-            "faction": "baratheon",
-            "plotStats": {
-                "income": 5,
-                "initiative": 9,
-                "claim": 2,
-                "reserve": 6
-            },
-            "loyal": true,
-            "traits": [
-                "Legacy",
-                "War"
-            ],
-            "text": "<b>Forced Interrupt:</b> When the challenges phase ends, if you have lost a [power] challenge this phase, discard 3 power from your faction card.",
-            "flavor": "\"In my dreams, I kill him every night.\" <cite>Robert Baratheon</cite>",
-            "deckLimit": 1,
-            "illustrator": "Dipa dipo",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TIC/82_Roberts_Rebellion.png",
-            "rarity": "Plot"
-        },
-        {
-            "code": "00326",
-            "type": "plot",
-            "name": "Cast Me Forth",
-            "octgnId": null,
-            "quantity": 3,
-            "faction": "greyjoy",
-            "plotStats": {
-                "income": 4,
-                "initiative": 4,
-                "claim": 1,
-                "reserve": 5
-            },
-            "loyal": true,
-            "traits": [
-                "Drowned God"
-            ],
-            "text": "You may ambush non-unique <i>Drowned God</i> or <i>Raider</i> characters from your dead pile as if they were in your hand.\nEach <i>Drowned God</i> or <i>Raider</i> character in your hand or dead pile gains ambush (X). X is that card's printed cost.\n<b>Draft format only.</b>",
-            "flavor": "\"When he cast me forth again he gave me eyes to see, ears to hear, and a voice to spread his word, that I might be his prophet and teach his truth to those who have forgotten.\" <cite>Aeron Damphair</cite>",
-            "deckLimit": 1,
-            "illustrator": "Lincoln Renall",
-            "imageUrl": "https://i.imgur.com/XOInJWt.png",
-            "rarity": "Plot"
-        },
-        {
-            "code": "00327",
-            "type": "plot",
-            "name": "The Sack of King's Landing",
-            "octgnId": null,
-            "quantity": 3,
-            "faction": "lannister",
-            "plotStats": {
-                "income": 5,
-                "initiative": 7,
-                "claim": 1,
-                "reserve": 6
-            },
-            "loyal": true,
-            "traits": [
-                "Legacy",
-                "War"
-            ],
-            "text": "During [intrigue] challenges, each character you control gains pillage.\n<b>Reaction:</b> After a location enters an opponent's discard pile, that player must choose and kill a character they control with the same printed cost.\n<b>Draft format only.</b>",
-            "deckLimit": 1,
-            "illustrator": "Samuel Pi Pedrini",
-            "imageUrl": "https://i.imgur.com/bDiSd1c.png",
-            "rarity": "Plot"
-        },
-        {
-            "code": "00328",
-            "type": "plot",
-            "name": "The Dornish Wars",
-            "octgnId": null,
-            "quantity": 3,
-            "faction": "martell",
-            "plotStats": {
-                "income": 4,
-                "initiative": 6,
-                "claim": 1,
-                "reserve": 5
-            },
-            "loyal": true,
-            "traits": [
-                "Legacy",
-                "War"
-            ],
-            "text": "Each character an opponent controls cannot gain challenge icons.\n<b>Reaction:</b> After you win a challenge, choose a character controlled by the losing opponent. Until the end of the phase, that character loses a challenge icon of your choice. (Limit twice per phase.)",
-            "deckLimit": 1,
-            "illustrator": "millikodea",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WK/108_The_Dornish_Wars.png",
-            "rarity": "Plot"
-        },
-        {
-            "code": "00329",
-            "type": "plot",
-            "name": "The Watch Needs Good Men",
-            "octgnId": null,
-            "quantity": 3,
-            "faction": "thenightswatch",
-            "plotStats": {
-                "income": 3,
-                "initiative": 2,
-                "claim": 1,
-                "reserve": 6
-            },
-            "loyal": true,
-            "traits": [
-                "Edict"
-            ],
-            "text": "You may marshal or ambush characters from any opponent's discard pile as if they were in your hand.",
-            "deckLimit": 1,
-            "illustrator": "Kay Huang",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TTS/70_The_Watch_Needs_Good_Men.png",
-            "rarity": "Plot"
-        },
-        {
-            "code": "00330",
-            "type": "plot",
-            "name": "The Hour of the Wolf",
-            "octgnId": null,
-            "quantity": 3,
-            "faction": "stark",
-            "plotStats": {
-                "income": 5,
-                "initiative": 4,
-                "claim": 1,
-                "reserve": 4
-            },
-            "loyal": true,
-            "traits": [
-                "Edict",
-                "Legacy"
-            ],
-            "text": "<b>When Revealed:</b> Each player sacrifices a non-loyal character, if able.",
-            "flavor": "“The winters are hard, but the Starks will endure. We always have.” \r- Eddard Stark",
-            "deckLimit": 1,
-            "illustrator": "Stephen Patane (Midjourney)",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TTS/72_The_Hour_of_the_Wolf.png",
-            "rarity": "Plot"
-        },
-        {
-            "code": "00331",
-            "type": "plot",
-            "name": "Dance of the Dragons",
-            "octgnId": null,
-            "quantity": 3,
-            "faction": "targaryen",
-            "plotStats": {
-                "income": 4,
-                "initiative": 7,
-                "claim": 1,
-                "reserve": 6
-            },
-            "loyal": true,
-            "traits": [
-                "Legacy",
-                "Scheme",
-                "War"
-            ],
-            "text": "<b>Interrupt:</b> When claim is applied for a [military] or [intrigue] challenge in which you are the attacking player, instead of the normal claim effects, kneel a unique [targaryen] character to move 2 power from the losing opponent's faction card to your own.\n<b>Draft format only.</b>",
-            "deckLimit": 1,
-            "illustrator": "Ruben Devela",
-            "imageUrl": "https://i.imgur.com/l5S0Ikn.png",
-            "rarity": "Plot"
-        },
-        {
-            "code": "00332",
-            "type": "plot",
-            "name": "Chivalry of the South",
-            "octgnId": null,
-            "quantity": 3,
-            "faction": "tyrell",
-            "plotStats": {
-                "income": 5,
-                "initiative": 4,
-                "claim": 1,
-                "reserve": 6
-            },
-            "loyal": true,
-            "traits": [
-                "Legacy",
-                "Summer"
-            ],
-            "text": "<b>Interrupt:</b> When a challenge ends in which there are no participating characters, gain 2 power for your faction. (Limit 3 times per round.) ",
-            "flavor": "\"Look across the fields, brother. Can you see all those banners?\" <cite>Renly Baratheon</cite>",
-            "deckLimit": 1,
-            "illustrator": "Diego Gisbert Llorens",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ChoS/36_Chivalry_of_the_South.png",
-            "rarity": "Plot"
-        },
-        {
-            "code": "00333",
-            "type": "plot",
-            "name": "A Southron Peace",
-            "octgnId": null,
-            "quantity": 3,
-            "faction": "neutral",
-            "plotStats": {
-                "income": 4,
-                "initiative": 0,
-                "claim": 1,
-                "reserve": 7
-            },
-            "traits": [
-                "Edict",
-                "Summer"
-            ],
-            "text": "<b>When Revealed:</b> Choose an opponent. Until you reveal a new plot card, you and that player cannot initiate [military] challenges against each other.",
-            "deckLimit": 1,
-            "illustrator": "Onur Bakur",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ChoS/39_A_Southron_Peace.png",
-            "rarity": "Plot"
-        },
-        {
-            "code": "00334",
-            "type": "plot",
-            "name": "At the Tower of Joy",
-            "octgnId": null,
-            "quantity": 3,
-            "faction": "neutral",
-            "plotStats": {
-                "income": 3,
-                "initiative": 3,
-                "claim": 1,
-                "reserve": 5
-            },
-            "traits": [
-                "Legacy",
-                "War"
-            ],
-            "text": "<b>When Revealed:</b> Choose a character. Until you reveal a new plot card, that character cannot be killed.",
-            "flavor": "It was said that Rhaegar had named that place the tower of joy, but for Ned it was a bitter memory.",
-            "deckLimit": 1,
-            "illustrator": "Florian Biege",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ATT/19_At_the_Tower_of_Joy.png",
-            "rarity": "Plot"
-        },
-        {
-            "code": "00335",
-            "type": "plot",
-            "name": "Battle of the Camps",
-            "octgnId": null,
-            "quantity": 3,
-            "faction": "neutral",
-            "plotStats": {
-                "income": 4,
-                "initiative": 7,
-                "claim": 1,
-                "reserve": 5
-            },
-            "traits": [
-                "War"
-            ],
-            "text": "<b>Reaction:</b> After you win a [military] challenge as the attacking player, choose and kneel a character controlled by the losing opponent. (You may kill that character instead if it has the <i>Army</i> trait.) (Limit once per phase.)",
-            "deckLimit": 1,
-            "illustrator": "Tomasz Jedruszek",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/30_Battle%20of%20the%20Camps.png",
-            "rarity": "Plot"
-        },
-        {
-            "code": "00336",
-            "type": "plot",
-            "name": "Battle on the Green Fork",
-            "octgnId": null,
-            "quantity": 3,
-            "faction": "neutral",
-            "plotStats": {
-                "income": 4,
-                "initiative": 7,
-                "claim": 0,
-                "reserve": 6
-            },
-            "traits": [
-                "War"
-            ],
-            "text": "<b>Reaction:</b> After you win a challenge as the attacking player, raise the claim value on Battle on the Green Fork by 1 until the end of the phase. (Limit 3 times per phase.)",
-            "deckLimit": 1,
-            "illustrator": "Melle (Midjourney)",
-            "designer": "Card design by 2023 Online World Champion, Jim Hansen.",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TTS/79_Battle_on_the_Green_Fork.png",
-            "rarity": "Plot"
-        },
-        {
-            "code": "00337",
-            "type": "plot",
-            "name": "Bran the Builder",
-            "octgnId": null,
-            "quantity": 3,
-            "faction": "neutral",
-            "plotStats": {
-                "income": 5,
-                "initiative": 3,
-                "claim": 1,
-                "reserve": 7
-            },
-            "traits": [
-                "Legacy"
-            ],
-            "text": "<b>Reaction:</b> After you win a challenge, search the top 10 cards of your deck for a location, reveal it, and add it to your hand. Shuffle your deck. (Limit twice per phase.)",
-            "deckLimit": 2,
-            "illustrator": "Marc Simonetti",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/29_Bran%20the%20Builder.png",
-            "rarity": "Plot"
-        },
-        {
-            "code": "00338",
-            "type": "plot",
-            "name": "Burning the Books",
-            "octgnId": null,
-            "quantity": 3,
-            "faction": "neutral",
-            "plotStats": {
-                "income": 5,
-                "initiative": 0,
-                "claim": 1,
-                "reserve": 4
-            },
-            "traits": [
-                "Edict",
-                "The Seven"
-            ],
-            "text": "<b>When Revealed:</b> Each opponent chooses a non-<i>The Seven</i> attachment they control, if able, and discards it from play. Then, you may discard 1 power from a character you control to initiate this effect again.",
-            "flavor": "Baelor the Blessed had ordered all Barth's writings destroyed when he came to the Iron Throne.",
-            "deckLimit": 2,
-            "illustrator": "Piotr Chrzanowski",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WK/119_Burning_the_Books.png",
-            "rarity": "Plot"
-        },
-        {
-            "code": "00339",
-            "type": "plot",
-            "name": "City Blockade",
-            "octgnId": null,
-            "quantity": 3,
-            "faction": "neutral",
-            "plotStats": {
-                "income": 5,
-                "initiative": 2,
-                "claim": 1,
-                "reserve": 6
-            },
-            "traits": [
-                "City",
-                "Siege"
-            ],
-            "text": "Limited cards cannot be marshaled, played, or put into play.",
-            "deckLimit": 1,
-            "illustrator": "Thomas Denmark",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FUtG/60_City_Blockade.png",
-            "rarity": "Plot"
-        },
-        {
-            "code": "00340",
-            "type": "plot",
-            "name": "City Festival",
-            "octgnId": null,
-            "quantity": 3,
-            "faction": "neutral",
-            "plotStats": {
-                "income": 2,
-                "initiative": 2,
-                "claim": 1,
-                "reserve": 6
-            },
-            "traits": [
-                "City",
-                "Kingdom"
-            ],
-            "text": "<b>When Revealed:</b> Gain 3 gold. (6 gold instead if there are 2 or more <i>City</i> plot cards in your used pile.)",
-            "deckLimit": 1,
-            "illustrator": "Taehoon Kang",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/JS/20_City_Festival_ENG.png",
-            "rarity": "Plot"
-        },
-        {
-            "code": "00341",
-            "type": "plot",
-            "name": "City of Shadows",
-            "octgnId": null,
-            "quantity": 3,
-            "faction": "neutral",
-            "plotStats": {
-                "income": 4,
-                "initiative": 5,
-                "claim": 1,
-                "reserve": 5
-            },
-            "traits": [
-                "City",
-                "Scheme"
-            ],
-            "text": "<b>When Revealed:</b> Choose a card you control with shadow and return it to your hand. (You may return it to shadows instead if there is a <i>City</i> plot card in your used pile.)",
-            "deckLimit": 1,
-            "illustrator": "Rene Aigner",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WAID/19_City_of_Shadows.png",
-            "rarity": "Plot"
-        },
-        {
-            "code": "00342",
-            "type": "plot",
-            "name": "Enemies in Every Shadow",
-            "octgnId": null,
-            "quantity": 3,
-            "faction": "neutral",
-            "plotStats": {
-                "income": 6,
-                "initiative": 2,
-                "claim": 1,
-                "reserve": 4
-            },
-            "traits": [
-                "House Arryn"
-            ],
-            "text": "While there are no cards in shadows, each character you control gets +1 STR.\n<b>Reaction:</b> After you win a challenge, choose a card in shadows controlled by the losing opponent, and discard it. If that card is a character, place it in its owner's dead pile.",
-            "deckLimit": 2,
-            "illustrator": "Thomas Denmark",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TIC/99_Enemies_in_Every_Shadow.png",
-            "rarity": "Plot"
-        },
-        {
-            "code": "00343",
-            "type": "plot",
-            "name": "For the Realm",
-            "octgnId": null,
-            "quantity": 3,
-            "faction": "neutral",
-            "plotStats": {
-                "income": 4,
-                "initiative": 1,
-                "claim": 1,
-                "reserve": 6
-            },
-            "traits": [
-                "Kingdom",
-                "War"
-            ],
-            "text": "Reduce the cost of the first <i>Army</i> or <i>Stronghold</i> card you marshal this round by 4.",
-            "deckLimit": 2,
-            "illustrator": "Tomasz Jedruszek",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/29_For%20the%20Realm.png",
-            "rarity": "Plot"
-        },
-        {
-            "code": "00344",
-            "type": "plot",
-            "name": "Open Revolt",
-            "octgnId": null,
-            "quantity": 3,
-            "faction": "neutral",
-            "plotStats": {
-                "income": 4,
-                "initiative": 2,
-                "claim": 1,
-                "reserve": 5
-            },
-            "traits": [
-                "Scheme",
-                "War"
-            ],
-            "text": "<b>Interrupt:</b> When the challenges phase ends, if you have not lost an [intrigue] challenge this phase, gain 2 power for your faction. (4 power instead if there are 2 or more <i>Scheme</i> plot cards in your used pile.)\n<b>Draft format only.</b>",
-            "deckLimit": 1,
-            "illustrator": "Fuderiki",
-            "imageUrl": "https://i.imgur.com/yRiCPSa.png",
-            "rarity": "Plot"
-        },
-        {
-            "code": "00345",
-            "type": "plot",
-            "name": "Striking at Dawn",
-            "octgnId": null,
-            "quantity": 3,
-            "faction": "neutral",
-            "plotStats": {
-                "income": 5,
-                "initiative": 4,
-                "claim": 1,
-                "reserve": 5
-            },
-            "traits": [
-                "Summer",
-                "War"
-            ],
-            "text": "Each character's STR cannot be increased or reduced by card effects.",
-            "flavor": "“We shall see, brother. Come the dawn, we shall see.” - Stannis Baratheon",
-            "deckLimit": 2,
-            "illustrator": "Piotr Chrzanowski",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WoW/39_Striking_at_Dawn.png",
-            "rarity": "Plot"
-        },
-        {
-            "code": "00346",
-            "type": "plot",
-            "name": "The Crone",
-            "octgnId": null,
-            "quantity": 3,
-            "faction": "neutral",
-            "plotStats": {
-                "income": 6,
-                "initiative": 0,
-                "claim": 1,
-                "reserve": 4
-            },
-            "traits": [
-                "Scheme",
-                "The Seven"
-            ],
-            "text": "Each character with printed STR 1 or lower cannot leave play.",
-            "deckLimit": 1,
-            "illustrator": "Drew Whitmore",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/53_The%20Crone.png",
-            "rarity": "Plot"
-        },
-        {
-            "code": "00347",
-            "type": "plot",
-            "name": "The Defiance of Duskendale",
-            "octgnId": null,
-            "quantity": 3,
-            "faction": "neutral",
-            "plotStats": {
-                "income": 4,
-                "initiative": 5,
-                "claim": 1,
-                "reserve": 6
-            },
-            "traits": [
-                "Legacy",
-                "Siege"
-            ],
-            "text": "<b>Reaction:</b> After a location is knelt by assault, discard it from play.",
-            "flavor": "\"Unless I returned with the king by dawn of the following day, he would take the town with steel and fire, he told me.\" <cite>Ser Barristan Selmy</cite>",
-            "deckLimit": 1,
-            "illustrator": "Marc Simonetti",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/38%20-%20The%20Defiance%20of%20Duskendale.png",
-            "rarity": "Plot"
-        },
-        {
-            "code": "00348",
-            "type": "plot",
-            "name": "The Father",
-            "octgnId": null,
-            "quantity": 3,
-            "faction": "neutral",
-            "plotStats": {
-                "income": 6,
-                "initiative": 0,
-                "claim": 1,
-                "reserve": 4
-            },
-            "traits": [
-                "Edict",
-                "The Seven"
-            ],
-            "text": "<b>Forced Interrupt:</b> When the dominance phase ends, choose a unique non-<i>Army</i> character controlled by each player. Then, return each of those characters to its owner's hand.",
-            "deckLimit": 1,
-            "illustrator": "Niten",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/54_The%20Father.png",
-            "rarity": "Plot"
-        },
-        {
-            "code": "00349",
-            "type": "plot",
-            "name": "The Mad King's Command",
-            "octgnId": null,
-            "quantity": 3,
-            "faction": "neutral",
-            "plotStats": {
-                "income": 3,
-                "initiative": 6,
-                "claim": 1,
-                "reserve": 4
-            },
-            "traits": [
-                "Edict",
-                "Legacy"
-            ],
-            "text": "<b>Forced Reaction:</b> After the challenges phase begins, each player chooses up to 3 characters, up to 3 locations, up to 3 attachments, and up to 3 cards in their hand and/or shadows area. Place each card not chosen on the bottom of its owner's deck (cannot be saved).",
-            "deckLimit": 1,
-            "illustrator": "ZG Fisher",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/30_The%20Mad%20King_s%20Command.png",
-            "rarity": "Plot"
-        },
-        {
-            "code": "00350",
-            "type": "plot",
-            "name": "The Maiden",
-            "octgnId": null,
-            "quantity": 3,
-            "faction": "neutral",
-            "plotStats": {
-                "income": 6,
-                "initiative": 1,
-                "claim": 1,
-                "reserve": 6
-            },
-            "traits": [
-                "Kingdom",
-                "The Seven"
-            ],
-            "text": "While The Maiden is in your used pile, increase the initiative value on your revealed plot card by 2, and the reserve value on your revealed <i>The Seven</i> plot card by 2.",
-            "deckLimit": 2,
-            "illustrator": "Drew Whitmore",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/56_The%20Maiden.png",
-            "rarity": "Plot"
-        },
-        {
-            "code": "00351",
-            "type": "plot",
-            "name": "The Mother",
-            "octgnId": null,
-            "quantity": 3,
-            "faction": "neutral",
-            "plotStats": {
-                "income": 6,
-                "initiative": 4,
-                "claim": 1,
-                "reserve": 4
-            },
-            "traits": [
-                "Summer",
-                "The Seven"
-            ],
-            "text": "<b>Reaction:</b> After a character enters play under an opponent's control, if another character entered play under that player's control this round, draw 1 card. (Limit twice per round.)",
-            "deckLimit": 2,
-            "illustrator": "Niten",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/57_The%20Mother.png",
-            "rarity": "Plot"
-        },
-        {
-            "code": "00352",
-            "type": "plot",
-            "name": "The Pointy End",
-            "octgnId": "null",
-            "quantity": 3,
-            "faction": "neutral",
-            "plotStats": {
-                "income": 4,
-                "initiative": 3,
-                "claim": 1,
-                "reserve": 5
-            },
-            "traits": [
-                "Scheme",
-                "War"
-            ],
-            "text": "<b>When Revealed:</b> Choose a character. If there are 2 or more attachments attached to that character, discard each attachment from it. Otherwise, discard each duplicate and each power from it.",
-            "deckLimit": 2,
-            "illustrator": "Darren Tan",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FH/20_Pointy.png",
-            "rarity": "Plot"
-        },
-        {
-            "code": "00353",
-            "type": "plot",
-            "name": "The Smith",
-            "octgnId": null,
-            "quantity": 3,
-            "faction": "neutral",
-            "plotStats": {
-                "income": 6,
-                "initiative": 4,
-                "claim": 1,
-                "reserve": 4
-            },
-            "traits": [
-                "Siege",
-                "The Seven"
-            ],
-            "text": "<b>Marshaling Action:</b> Kneel an attachment to choose and kneel a location.",
-            "deckLimit": 2,
-            "illustrator": "Niten",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/58_The%20Smith.png",
-            "rarity": "Plot"
-        },
-        {
-            "code": "00354",
-            "type": "plot",
-            "name": "The Stranger",
-            "octgnId": null,
-            "quantity": 3,
-            "faction": "neutral",
-            "plotStats": {
-                "income": 3,
-                "initiative": 0,
-                "claim": 1,
-                "reserve": 4
-            },
-            "traits": [
-                "The Seven",
-                "Winter"
-            ],
-            "text": "<b>When Revealed:</b> Each player chooses a character controlled by an opponent. Then, kill each character with the same printed cost as the chosen characters.",
-            "deckLimit": 1,
-            "illustrator": "Joshua Cairos",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/59_The%20Stranger.png",
-            "rarity": "Plot"
-        },
-        {
-            "code": "00355",
-            "type": "plot",
-            "name": "The Warrior",
-            "octgnId": null,
-            "quantity": 3,
-            "faction": "neutral",
-            "plotStats": {
-                "income": 6,
-                "initiative": 8,
-                "claim": 1,
-                "reserve": 4
-            },
-            "traits": [
-                "War",
-                "The Seven"
-            ],
-            "text": "During a challenge in which you control an attacking <i>The Seven</i> character, raise the claim value on The Warrior by 1.",
-            "deckLimit": 1,
-            "illustrator": "Drew Whitmore",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/60_The%20Warrior.png",
-            "rarity": "Plot"
-        },
-        {
-            "code": "00356",
-            "type": "plot",
-            "name": "Wardens of the East",
-            "octgnId": null,
-            "quantity": 3,
-            "faction": "neutral",
-            "plotStats": {
-                "income": 5,
-                "initiative": 0,
-                "claim": 1,
-                "reserve": 5
-            },
-            "traits": [
-                "House Arryn",
-                "Siege"
-            ],
-            "text": "Each player cannot play in-faction events, and plays with each card in their shadows area revealed.",
-            "deckLimit": 1,
-            "illustrator": "Tomasz Jedruszek",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/39%20-%20Wardens%20of%20the%20East.png",
-            "rarity": "Plot"
-        },
-        {
-            "code": "00357",
+            "code": "00361",
             "type": "character",
             "name": "Hot Pie",
             "octgnId": null,
@@ -6139,7 +6229,7 @@
             "rarity": "Hidden"
         },
         {
-            "code": "00358",
+            "code": "00362",
             "type": "agenda",
             "name": "Sealing the Pact",
             "octgnId": null,
@@ -6155,7 +6245,7 @@
             "rarity": "Starter"
         },
         {
-            "code": "00359",
+            "code": "00363",
             "type": "agenda",
             "name": "Unknown and Unknowable",
             "octgnId": null,
@@ -6171,7 +6261,7 @@
             "rarity": "Starter"
         },
         {
-            "code": "00360",
+            "code": "00364",
             "type": "agenda",
             "name": "Pass Beneath the Shadow",
             "octgnId": null,
@@ -6187,7 +6277,7 @@
             "rarity": "Starter"
         },
         {
-            "code": "00361",
+            "code": "00365",
             "type": "agenda",
             "name": "Seeking Fortunes",
             "octgnId": null,
@@ -6203,7 +6293,7 @@
             "rarity": "Starter"
         },
         {
-            "code": "00362",
+            "code": "00366",
             "type": "agenda",
             "name": "Join Forces",
             "octgnId": null,
@@ -6219,7 +6309,7 @@
             "rarity": "Starter"
         },
         {
-            "code": "00363",
+            "code": "00367",
             "type": "agenda",
             "name": "Desperate Hope",
             "octgnId": null,
@@ -6235,7 +6325,7 @@
             "rarity": "Starter"
         },
         {
-            "code": "00364",
+            "code": "00368",
             "type": "character",
             "name": "Faceless Man",
             "octgnId": null,
@@ -6253,11 +6343,11 @@
             "text": "<b>Reaction:</b> After Faceless Man enters play, it gains a <i>Trait</i> and challenge icon of your choice.\n<b>Draft format only.</b>",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/rSY4n3i.png",
+            "imageUrl": "https://i.imgur.com/cP8RIkt.png",
             "rarity": "Starter"
         },
         {
-            "code": "00365",
+            "code": "00369",
             "type": "character",
             "name": "Pentoshi Trader",
             "octgnId": null,
@@ -6281,7 +6371,7 @@
             "rarity": "Starter"
         },
         {
-            "code": "00366",
+            "code": "00370",
             "type": "location",
             "name": "Holdfast Village",
             "octgnId": null,
@@ -6299,7 +6389,7 @@
             "rarity": "Starter"
         },
         {
-            "code": "00367",
+            "code": "00371",
             "type": "location",
             "name": "Market Square",
             "octgnId": null,
@@ -6317,7 +6407,7 @@
             "rarity": "Starter"
         },
         {
-            "code": "00368",
+            "code": "00372",
             "type": "plot",
             "name": "Feast or Famine",
             "octgnId": null,
@@ -6339,7 +6429,7 @@
             "rarity": "Starter"
         },
         {
-            "code": "00369",
+            "code": "00373",
             "type": "plot",
             "name": "The Pale Mare",
             "octgnId": null,
@@ -6356,11 +6446,11 @@
             ],
             "text": "<b>When Revealed:</b> Each player chooses any number of characters they control with total printed cost 10 or lower. Kill each character not chosen (cannot be saved).\n<b>Draft format only.</b>",
             "deckLimit": 2,
-            "imageUrl": "https://i.imgur.com/g8hNKF9.png",
+            "imageUrl": "https://i.imgur.com/P0BrHH8.png",
             "rarity": "Starter"
         },
         {
-            "code": "00370",
+            "code": "00374",
             "type": "plot",
             "name": "City Fair",
             "octgnId": null,
@@ -6382,7 +6472,7 @@
             "rarity": "Starter"
         },
         {
-            "code": "00371",
+            "code": "00375",
             "type": "plot",
             "name": "Manning the City Walls",
             "octgnId": null,
@@ -6405,7 +6495,7 @@
             "rarity": "Starter"
         },
         {
-            "code": "00372",
+            "code": "00376",
             "type": "plot",
             "name": "Razed to the Ground",
             "octgnId": null,
@@ -6427,7 +6517,7 @@
             "rarity": "Starter"
         },
         {
-            "code": "00373",
+            "code": "00377",
             "type": "plot",
             "name": "Bitter Accusation",
             "octgnId": null,
@@ -6449,7 +6539,7 @@
             "rarity": "Starter"
         },
         {
-            "code": "00374",
+            "code": "00378",
             "type": "plot",
             "name": "Royal Decree",
             "octgnId": null,
@@ -6471,7 +6561,7 @@
             "rarity": "Starter"
         },
         {
-            "code": "00375",
+            "code": "00379",
             "type": "plot",
             "name": "Jousting Contest",
             "octgnId": null,
@@ -6493,9 +6583,9 @@
             "rarity": "Starter"
         },
         {
-            "code": "00376",
+            "code": "00380",
             "type": "plot",
-            "name": "The Winds of Winter",
+            "name": "Biting Cold",
             "octgnId": null,
             "quantity": 1,
             "faction": "neutral",
@@ -6511,11 +6601,11 @@
             "text": "<b>When Revealed:</b> Place each character with printed cost 3 or lower without attachments on the bottom of its owner's deck.\n<b>Draft format only.</b>",
             "deckLimit": 2,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/nltRqC3.png",
+            "imageUrl": "https://i.imgur.com/AS362cp.png",
             "rarity": "Starter"
         },
         {
-            "code": "00376",
+            "code": "00381",
             "type": "plot",
             "name": "Secrets of Oldtown",
             "octgnId": null,

@@ -459,10 +459,10 @@
                 "rarity": "common"
         },
         {            
-                "name": "Raider's Axe",
+                "name": "Reaver's Axe",
                 "mana_cost": "1",
                 "type": "Enchantment",
-                "image": "https://i.imgur.com/FjhH8j8.png",
+                "image": "https://i.imgur.com/KHi8Go6.png",
                 "rarity": "common"
         },
         {            
@@ -620,10 +620,10 @@
                 "rarity": "common"
         },
         {            
-                "name": "Hillside River",
+                "name": "Silverhill River",
                 "mana_cost": "2",
                 "type": "Artifact",
-                "image": "https://i.imgur.com/UVsNWlw.png",
+                "image": "https://i.imgur.com/7hg3kdu.png",
                 "rarity": "common"
         },
         {            
@@ -921,10 +921,10 @@
                 "rarity": "uncommon"
         },
         {
-                "name": "Mance's Warriors",
+                "name": "Tormund's Horde",
                 "mana_cost": "5",
                 "type": "Creature",
-                "image": "https://i.imgur.com/wpgUNBC.png",
+                "image": "https://i.imgur.com/w4vvkfr.png",
                 "rarity": "common"
         },
         {
@@ -1537,6 +1537,62 @@
                 "rarity": "rare"
         },
         {
+                "name": "All Men Must Die",
+                "mana_cost": "2",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/dHRd0Xi.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "Battle on the Green Fork (ToJ)",
+                "mana_cost": "4",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/MFI3XO6.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "Bran the Builder (ToJ)",
+                "mana_cost": "5",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/KpVNb68.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "The Father (ToJ)",
+                "mana_cost": "6",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/PmUOhWL.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "The Mad King's Command (ToJ)",
+                "mana_cost": "3",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/L2pA3Fr.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "The Maiden (ToJ)",
+                "mana_cost": "6",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/wqUPXyG.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "The Stranger (ToJ)",
+                "mana_cost": "3",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/xCs4BVa.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "The Warrior (ToJ)",
+                "mana_cost": "6",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/82PiHMy.png",
+                "rarity": "rare"
+        },
+        {
                 "name": "Knights of the Vale (ToJ)",
                 "mana_cost": "6",
                 "type": "Creature",
@@ -1646,6 +1702,139 @@
                 "mana_cost": "1",
                 "type": "Instant",
                 "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/49_As%20High%20As%20Honor.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "All Men Must Serve",
+                "mana_cost": "4",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/6NAarN7.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "At the Tower of Joy (ToJ)",
+                "mana_cost": "3",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/5bVqDve.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "Battle of the Camps (ToJ)",
+                "mana_cost": "4",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/EXFjhcN.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "Burning the Books (ToJ)",
+                "mana_cost": "5",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/0T9YhCZ.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "City Blockade (ToJ)",
+                "mana_cost": "5",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/vOv9WNb.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "City Festival (ToJ)",
+                "mana_cost": "2",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/J8PNBEY.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "City of Ice",
+                "mana_cost": "4",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/0I3ORHE.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "Enemies in Every Shadow (ToJ)",
+                "mana_cost": "6",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/kqNZABo.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "For the Realm (ToJ)",
+                "mana_cost": "4",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/Vo2N2su.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "Melisandre's Gambit",
+                "mana_cost": "2",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/opj1WOH.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "Open Revolt (ToJ)",
+                "mana_cost": "4",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/UGuewNC.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "Striking at Dawn (ToJ)",
+                "mana_cost": "5",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/kEbmZZk.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "The Crone (ToJ)",
+                "mana_cost": "6",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/jUZIGYg.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "The Defiance of Duskendale (ToJ)",
+                "mana_cost": "4",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/VbslRTz.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "The Mother (ToJ)",
+                "mana_cost": "6",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/SGDKPMN.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "The Pointy End (ToJ)",
+                "mana_cost": "4",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/oNoEoW2.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "The Smith (ToJ)",
+                "mana_cost": "6",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/VyxdOoe.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "Wardens of the East (ToJ)",
+                "mana_cost": "5",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/vJzOvEM.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "City of Shadows (ToJ)",
+                "mana_cost": "4",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/Mn5K13J.png",
                 "rarity": "uncommon"
         },
         {
@@ -1761,62 +1950,6 @@
                 "rarity": "common"
         },
         {
-                "name": "All Men Must Die",
-                "mana_cost": "2",
-                "type": "Sorcery",
-                "image": "https://i.imgur.com/dHRd0Xi.png",
-                "rarity": "rare"
-        },
-        {
-                "name": "Battle on the Green Fork (ToJ)",
-                "mana_cost": "4",
-                "type": "Sorcery",
-                "image": "https://i.imgur.com/MFI3XO6.png",
-                "rarity": "rare"
-        },
-        {
-                "name": "Bran the Builder (ToJ)",
-                "mana_cost": "5",
-                "type": "Sorcery",
-                "image": "https://i.imgur.com/KpVNb68.png",
-                "rarity": "rare"
-        },
-        {
-                "name": "The Father (ToJ)",
-                "mana_cost": "6",
-                "type": "Sorcery",
-                "image": "https://i.imgur.com/PmUOhWL.png",
-                "rarity": "rare"
-        },
-        {
-                "name": "The Mad King's Command (ToJ)",
-                "mana_cost": "3",
-                "type": "Sorcery",
-                "image": "https://i.imgur.com/L2pA3Fr.png",
-                "rarity": "rare"
-        },
-        {
-                "name": "The Maiden (ToJ)",
-                "mana_cost": "6",
-                "type": "Sorcery",
-                "image": "https://i.imgur.com/wqUPXyG.png",
-                "rarity": "rare"
-        },
-        {
-                "name": "The Stranger (ToJ)",
-                "mana_cost": "3",
-                "type": "Sorcery",
-                "image": "https://i.imgur.com/xCs4BVa.png",
-                "rarity": "rare"
-        },
-        {
-                "name": "The Warrior (ToJ)",
-                "mana_cost": "6",
-                "type": "Sorcery",
-                "image": "https://i.imgur.com/82PiHMy.png",
-                "rarity": "rare"
-        },
-        {
                 "name": "A Southron Peace (ToJ)",
                 "mana_cost": "4",
                 "type": "Sorcery",
@@ -1824,144 +1957,11 @@
                 "rarity": "uncommon"
         },
         {
-                "name": "All Men Must Serve",
-                "mana_cost": "4",
-                "type": "Sorcery",
-                "image": "https://i.imgur.com/6NAarN7.png",
-                "rarity": "uncommon"
-        },
-        {
-                "name": "At the Tower of Joy (ToJ)",
-                "mana_cost": "3",
-                "type": "Sorcery",
-                "image": "https://i.imgur.com/5bVqDve.png",
-                "rarity": "uncommon"
-        },
-        {
-                "name": "Battle of the Camps (ToJ)",
-                "mana_cost": "4",
-                "type": "Sorcery",
-                "image": "https://i.imgur.com/EXFjhcN.png",
-                "rarity": "uncommon"
-        },
-        {
-                "name": "Burning the Books (ToJ)",
-                "mana_cost": "5",
-                "type": "Sorcery",
-                "image": "https://i.imgur.com/0T9YhCZ.png",
-                "rarity": "uncommon"
-        },
-        {
-                "name": "City Blockade (ToJ)",
-                "mana_cost": "5",
-                "type": "Sorcery",
-                "image": "https://i.imgur.com/vOv9WNb.png",
-                "rarity": "uncommon"
-        },
-        {
-                "name": "City Festival (ToJ)",
-                "mana_cost": "2",
-                "type": "Sorcery",
-                "image": "https://i.imgur.com/J8PNBEY.png",
-                "rarity": "uncommon"
-        },
-        {
-                "name": "City of Ice",
-                "mana_cost": "4",
-                "type": "Sorcery",
-                "image": "https://i.imgur.com/0I3ORHE.png",
-                "rarity": "uncommon"
-        },
-        {
-                "name": "Enemies in Every Shadow (ToJ)",
-                "mana_cost": "6",
-                "type": "Sorcery",
-                "image": "https://i.imgur.com/kqNZABo.png",
-                "rarity": "uncommon"
-        },
-        {
-                "name": "For the Realm (ToJ)",
-                "mana_cost": "4",
-                "type": "Sorcery",
-                "image": "https://i.imgur.com/Vo2N2su.png",
-                "rarity": "uncommon"
-        },
-        {
-                "name": "Melisandre's Gambit",
-                "mana_cost": "5",
-                "type": "Sorcery",
-                "image": "https://i.imgur.com/e1dJhsC.png",
-                "rarity": "uncommon"
-        },
-        {
-                "name": "Open Revolt (ToJ)",
-                "mana_cost": "4",
-                "type": "Sorcery",
-                "image": "https://i.imgur.com/Im3QSxU.png",
-                "rarity": "uncommon"
-        },
-        {
-                "name": "Striking at Dawn (ToJ)",
-                "mana_cost": "5",
-                "type": "Sorcery",
-                "image": "https://i.imgur.com/kEbmZZk.png",
-                "rarity": "uncommon"
-        },
-        {
-                "name": "The Crone (ToJ)",
-                "mana_cost": "6",
-                "type": "Sorcery",
-                "image": "https://i.imgur.com/jUZIGYg.png",
-                "rarity": "uncommon"
-        },
-        {
-                "name": "The Defiance of Duskendale (ToJ)",
-                "mana_cost": "4",
-                "type": "Sorcery",
-                "image": "https://i.imgur.com/VbslRTz.png",
-                "rarity": "uncommon"
-        },
-        {
-                "name": "The Mother (ToJ)",
-                "mana_cost": "6",
-                "type": "Sorcery",
-                "image": "https://i.imgur.com/SGDKPMN.png",
-                "rarity": "uncommon"
-        },
-        {
-                "name": "The Pointy End (ToJ)",
-                "mana_cost": "4",
-                "type": "Sorcery",
-                "image": "https://i.imgur.com/oNoEoW2.png",
-                "rarity": "uncommon"
-        },
-        {
-                "name": "The Smith (ToJ)",
-                "mana_cost": "6",
-                "type": "Sorcery",
-                "image": "https://i.imgur.com/VyxdOoe.png",
-                "rarity": "uncommon"
-        },
-        {
-                "name": "Wardens of the East (ToJ)",
-                "mana_cost": "5",
-                "type": "Sorcery",
-                "image": "https://i.imgur.com/vJzOvEM.png",
-                "rarity": "uncommon"
-        },
-        {
-                "name": "City of Shadows (ToJ)",
-                "mana_cost": "4",
-                "type": "Sorcery",
-                "image": "https://i.imgur.com/Mn5K13J.png",
-                "rarity": "uncommon"
-        },
-        {
                 "name": "Hot Pie (ToJ)",
                 "mana_cost": "1",
                 "type": "Creature",
                 "image": "https://i.imgur.com/WT0HfBT.png",
-                "rarity": "mythic"
+                "rarity": "hidden"
         },
         {
                 "name": "House Baratheon",
@@ -2146,10 +2146,10 @@
                 "rarity": "special"
         },
         {
-                "name": "The Winds of Winter (ToJ)",
+                "name": "Biting Cold",
                 "mana_cost": "4",
                 "type": "Sorcery",
-                "image": "https://i.imgur.com/nltRqC3.png",
+                "image": "https://i.imgur.com/rjbCG5G.png",
                 "rarity": "special"
         },
         {
@@ -2439,14 +2439,14 @@ Saltcliffe Marauder
 Harlaw Scout (ToJ)
 Old Captain (ToJ)
 Stony Shore Thrall
-Raider's Axe
+Reaver's Axe
 Though All Men Do Despise Us (ToJ)
 Warrior's Sons (ToJ)
 Cruel Brigand
 The Imp's Agent (ToJ)
 Ashemark Councilor (ToJ)
 Eager Opportunist
-Hillside River
+Silverhill River
 Burning Bright (ToJ)
 One, Two, Three (ToJ)
 Ghost Hill Elite (ToJ)
@@ -2457,7 +2457,7 @@ Desert Freerider
 Vengeful Lordling
 A Bed of Scorpions (ToJ)
 Red Mountains (ToJ)
-Mance's Warriors
+Tormund's Horde
 Abel's Washerwoman
 Marsh's Conspirator (ToJ)
 Old Steward (ToJ)
@@ -2540,5 +2540,5 @@ Razed to the Ground
 Bitter Accusation
 Royal Decree
 Jousting Contest (ToJ)
-The Winds of Winter (ToJ)
+Biting Cold
 Secrets of Oldtown
