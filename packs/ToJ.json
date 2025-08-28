@@ -6220,10 +6220,10 @@
             "traits": [
                 "Companion"
             ],
-            "text": "<b>Marshaling Action:</b> Kneel Hot Pie to place a pie token on a character. That character gets +1 STR.\n<b>Draft format only.</b>",
+            "text": "Immune to <i>Omen</i> card effects.\n<b>Marshaling Action:</b> Kneel Hot Pie to place a pie token on a character. That character gets +1 STR.\n<b>Draft format only.</b>",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/6PqKzwC.png",
+            "imageUrl": "https://i.imgur.com/QnlcOML.png",
             "rarity": "Hidden"
         },
         {
