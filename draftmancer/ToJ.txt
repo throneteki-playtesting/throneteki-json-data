@@ -1960,7 +1960,7 @@
                 "name": "Hot Pie (ToJ)",
                 "mana_cost": "1",
                 "type": "Creature",
-                "image": "https://i.imgur.com/WT0HfBT.png",
+                "image": "https://i.imgur.com/6PqKzwC.png",
                 "rarity": "hidden"
         },
         {
