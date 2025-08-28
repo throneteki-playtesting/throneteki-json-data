@@ -641,10 +641,10 @@
                 "rarity": "common"
         },
         {
-                "name": "Doran Martell (ToJ)",
-                "mana_cost": "6",
+                "name": "Lord Anders's Host (ToJ)",
+                "mana_cost": "8",
                 "type": "Creature",
-                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/7%20-%20Doran%20Martell.png",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/10_Lord%20Anders's%20Host.png",
                 "rarity": "rare"
         },
         {
@@ -652,6 +652,13 @@
                 "mana_cost": "6",
                 "type": "Creature",
                 "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/16_Anders%20Yronwood.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "Doran Martell (ToJ)",
+                "mana_cost": "6",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/7%20-%20Doran%20Martell.png",
                 "rarity": "rare"
         },
         {
@@ -666,13 +673,6 @@
                 "mana_cost": "4",
                 "type": "Creature",
                 "image": "https://i.imgur.com/zwBU9Ri.png",
-                "rarity": "rare"
-        },
-        {
-                "name": "Elia Sand (ToJ)",
-                "mana_cost": "4",
-                "type": "Creature",
-                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/JS/7_Elia_Sand_ENG.png",
                 "rarity": "rare"
         },
         {
@@ -1141,7 +1141,7 @@
                 "name": "Wolf Dreams (ToJ)",
                 "mana_cost": "1",
                 "type": "Instant",
-                "image": "https://i.imgur.com/ckDsfwH.png",
+                "image": "https://i.imgur.com/UeSUqWx.png",
                 "rarity": "common"
         },
         {
@@ -2182,12 +2182,12 @@ Ser Lancel Lannister (ToJ)
 Tommen Baratheon (ToJ)
 Casterly Rock (ToJ)
 Lannisport (ToJ)
-Doran Martell (ToJ)
+Lord Anders's Host (ToJ)
 Anders Yronwood (ToJ)
+Doran Martell (ToJ)
 Arianne Martell (ToJ)
 Ser Arys Oakheart (ToJ)
 The Tattered Prince (ToJ)
-Elia Sand (ToJ)
 Sword of the Morning (ToJ)
 Great Ranging (ToJ)
 Melisandre (ToJ)
@@ -2263,12 +2263,12 @@ Ser Lancel Lannister (ToJ)
 Tommen Baratheon (ToJ)
 Casterly Rock (ToJ)
 Lannisport (ToJ)
-Doran Martell (ToJ)
+Lord Anders's Host (ToJ)
 Anders Yronwood (ToJ)
+Doran Martell (ToJ)
 Arianne Martell (ToJ)
 Ser Arys Oakheart (ToJ)
 The Tattered Prince (ToJ)
-Elia Sand (ToJ)
 Sword of the Morning (ToJ)
 Great Ranging (ToJ)
 Melisandre (ToJ)

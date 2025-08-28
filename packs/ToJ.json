@@ -1763,6 +1763,31 @@
         {
             "code": "00173",
             "type": "character",
+            "name": "Lord Anders's Host",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "martell",
+            "loyal": true,
+            "cost": 8,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 8,
+            "traits": [
+                "Army",
+                "House Yronwood"
+            ],
+            "text": "Ambush (8). Assault. No attachments. \n<b>Reaction:</b> After a card enters play from your hand or shadows area during a challenge, choose a participating character with a lower printed cost than that card's and return it to its owner's hand. (Limit once per round.)\n+1 Initiative",
+            "deckLimit": 3,
+            "illustrator": "Tomasz Jedruszek",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/10_Lord%20Anders's%20Host.png"
+        },
+        {
+            "code": "00174",
+            "type": "character",
             "name": "Anders Yronwood",
             "octgnId": null,
             "quantity": 3,
@@ -1788,7 +1813,7 @@
             "rarity": "Rare"
         },
         {
-            "code": "00174",
+            "code": "00175",
             "type": "character",
             "name": "Doran Martell",
             "octgnId": null,
@@ -1813,7 +1838,7 @@
             "rarity": "Rare"
         },
         {
-            "code": "00175",
+            "code": "00176",
             "type": "character",
             "name": "Ser Arys Oakheart",
             "octgnId": null,
@@ -1840,7 +1865,7 @@
             "rarity": "Rare"
         },
         {
-            "code": "00176",
+            "code": "00177",
             "type": "character",
             "name": "Arianne Martell",
             "octgnId": null,
@@ -1862,33 +1887,6 @@
             "deckLimit": 40,
             "illustrator": "?",
             "imageUrl": "https://i.imgur.com/zwBU9Ri.png",
-            "rarity": "Rare"
-        },
-        {
-            "code": "00177",
-            "type": "character",
-            "name": "Elia Sand",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": true,
-            "faction": "martell",
-            "loyal": true,
-            "cost": 4,
-            "icons": {
-                "military": true,
-                "intrigue": true,
-                "power": false
-            },
-            "strength": 3,
-            "traits": [
-                "Bastard",
-                "Sand Snake"
-            ],
-            "text": "While Elia Sand is attacking, if you control another attacking <i>Sand Snake</i> character, raise the claim value on your revealed plot card by 1.",
-            "flavor": "The girl was mad for horses, which might be why she often smelled like one, to the despair of her mother.",
-            "deckLimit": 40,
-            "illustrator": "Cristina Vela",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/JS/7_Elia_Sand_ENG.png",
             "rarity": "Rare"
         },
         {
@@ -3490,10 +3488,10 @@
                 "Dream",
                 "Old Gods"
             ],
-            "text": "<b>Challenges Action:</b> Choose an attacking character you control and name a <i>Trait</i>. Until the end of the end of the challenge, it gets +2 STR, then attach Wolf Dreams to that character as a <i>Direwolf</i> attachment with the text: 'Terminal. Attached character gains the named <i>Trait</i>.'\n<b>Draft format only.</b>",
+            "text": "<b>Challenges Action:</b> Choose an attacking character you control and name a <i>Trait</i>. Until the end of the end of the challenge, it gets +2 STR, then attach Wolf Dreams to that character as a <i>Direwolf</i> attachment with the text: 'Terminal. Attached character gains the named <i>Trait</i>.' (Max 1 per phase.)\n<b>Draft format only.</b>",
             "deckLimit": 40,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/ckDsfwH.png",
+            "imageUrl": "https://i.imgur.com/UeSUqWx.png",
             "rarity": "Common"
         },
         {
@@ -3930,7 +3928,7 @@
                 "intrigue": false,
                 "power": true
             },
-            "strength": 5,
+            "strength": 4,
             "traits": [
                 "Mercenary"
             ],
