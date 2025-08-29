@@ -893,10 +893,10 @@
                 "rarity": "uncommon"
         },
         {
-                "name": "Weirwood Grove (ToJ)",
+                "name": "Lord Steward (ToJ)",
                 "mana_cost": "2",
-                "type": "Artifact",
-                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WK/110_Weirwood_Grove.png",
+                "type": "Enchantment",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/23_Lord%20Steward.png",
                 "rarity": "uncommon"
         },
         {
@@ -2037,7 +2037,7 @@
                 "name": "Seeking Fortunes",
                 "mana_cost": "",
                 "type": "Land",
-                "image": "https://i.imgur.com/dnNydTh.png",
+                "image": "https://i.imgur.com/XR8leH5.png",
                 "rarity": "special"
         },
         {
@@ -2360,7 +2360,7 @@ Samwell Tarly (ToJ)
 Iron Emmett (ToJ)
 Old Tattersalt (ToJ)
 Gared (ToJ)
-Weirwood Grove (ToJ)
+Lord Steward (ToJ)
 Insubordination (ToJ)
 I Pledge My Life and Honor (ToJ)
 When All is Darkest (ToJ)

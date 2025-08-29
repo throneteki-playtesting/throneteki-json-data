@@ -1781,9 +1781,10 @@
                 "House Yronwood"
             ],
             "text": "Ambush (8). Assault. No attachments. \n<b>Reaction:</b> After a card enters play from your hand or shadows area during a challenge, choose a participating character with a lower printed cost than that card's and return it to its owner's hand. (Limit once per round.)\n+1 Initiative",
-            "deckLimit": 3,
+            "deckLimit": 40,
             "illustrator": "Tomasz Jedruszek",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/10_Lord%20Anders's%20Host.png"
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/10_Lord%20Anders's%20Host.png",
+            "rarity": "Rare"
         },
         {
             "code": "00174",
@@ -1986,27 +1987,28 @@
         {
             "code": "00182",
             "type": "character",
-            "name": "Ser Andrey Dalt",
+            "name": "Ser Gulian Qorgyle",
             "octgnId": null,
             "quantity": 3,
             "unique": true,
             "faction": "martell",
-            "loyal": false,
-            "cost": 4,
+            "loyal": true,
+            "cost": 3,
             "icons": {
                 "military": true,
-                "intrigue": true,
-                "power": false
+                "intrigue": false,
+                "power": true
             },
-            "strength": 4,
+            "strength": 2,
             "traits": [
+                "House Qorgyle",
                 "Knight"
             ],
-            "text": "Shadow (3).\nEach opponent cannot gain power from winning dominance.",
-            "flavor": "\"I have a wonderful horse and a very fine sword, and my valor is second to… well, several, actually.\"",
+            "text": "<b>Reaction:</b> After a character an opponent controls is declared as an attacker or defender, it loses a challenge icon of your choice until the end of the phase. (Limit twice per phase.)",
+            "flavor": "\"They're scorpions, ser. House Qorgyle of Sandstone, three scorpions black on red.\" <cite>Podrick Payne</cite>",
             "deckLimit": 40,
-            "illustrator": "Harry Platt",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/10_Ser%20Andrey%20Dalt.png",
+            "illustrator": "Gergely Nagy",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/MaV/47_Ser_Gulian_Qorgyle.png",
             "rarity": "Uncommon"
         },
         {
@@ -2168,7 +2170,7 @@
                 "Army"
             ],
             "text": "Ambush (6). No attachments.\n<b>Reaction:</b> After Ghost Hill Elite enters play, choose a character. Until the end of the phase, that character loses an [intrigue] or [power] icon and Ghost Hill Elite gains that icon. Then, if that character has no challenge icons, kill it.",
-            "deckLimit": 3,
+            "deckLimit": 40,
             "illustrator": "Adam Lane",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WoW/27_Ghost_Hill_Elite.png",
             "rarity": "Common"
@@ -2305,25 +2307,6 @@
         },
         {
             "code": "00195",
-            "type": "location",
-            "name": "Red Mountains",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": false,
-            "faction": "martell",
-            "loyal": false,
-            "cost": 1,
-            "traits": [
-                "Dorne"
-            ],
-            "text": "<b>Challenges Action:</b> Kneel and sacrifice Red Mountains to choose an opponent. That player must initiate a [military] challenge against you as their next challenge this phase, if able.\n+1 Initiative.",
-            "deckLimit": 40,
-            "illustrator": "Alasdair M (Leonardo AI)",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TIC/88_Red_Mountains.png",
-            "rarity": "Common"
-        },
-        {
-            "code": "00196",
             "type": "event",
             "name": "A Bed of Scorpions",
             "octgnId": null,
@@ -2339,6 +2322,23 @@
             "deckLimit": 40,
             "illustrator": "Melle (DALL-E)",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ATT/8_A_Bed_of_Scorpions.png",
+            "rarity": "Common"
+        },
+        {
+            "code": "00196",
+            "type": "event",
+            "name": "Retribution",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "martell",
+            "loyal": true,
+            "cost": 1,
+            "traits": [],
+            "text": "<b>Reaction:</b> After a character you control is killed for [military] claim, if you control fewer characters than the attacking player, that player must choose and kill an attacking character.",
+            "flavor": "\"Only royal blood can wash out my father's murder.\" <cite>Nymeria Sand</cite>",
+            "deckLimit": 40,
+            "illustrator": "Régis Moulun",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/MaV/48_Retribution.png",
             "rarity": "Common"
         },
         {
@@ -2641,23 +2641,21 @@
         },
         {
             "code": "00209",
-            "type": "location",
-            "name": "Weirwood Grove",
+            "type": "attachment",
+            "name": "Lord Steward",
             "octgnId": null,
             "quantity": 3,
-            "unique": false,
+            "unique": true,
             "faction": "thenightswatch",
             "loyal": true,
             "cost": 2,
             "traits": [
-                "Old Gods",
-                "The North"
+                "Title"
             ],
-            "text": "<b>Reaction:</b> After an opponent reveals a non-<i>Omen</i> plot card, kneel your faction card and remove Weirwood Grove from the game to initiate the when revealed ability on that card as if you had just revealed it.",
-            "flavor": "\"Small wonder men feared them when they first came to Westeros.\" <cite>Thoren Smallwood</cite>",
+            "text": "Unique character only.\nAttached character gains an [intrigue] icon and the <i>Steward</i> trait.\n<b>Reaction:</b> After you win an [intrigue] challenge in which you control a participating <i>Steward</i> character, choose a character with printed cost X or lower controlled by the losing opponent. Take control of it until the end of the phase. X is the number of <i>Steward</i> characters you control. (Limit once per phase.)",
             "deckLimit": 40,
-            "illustrator": "Franz Miklis",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WK/110_Weirwood_Grove.png",
+            "illustrator": "Roman Papsuev",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/23_Lord%20Steward.png",
             "rarity": "Uncommon"
         },
         {
@@ -2874,6 +2872,25 @@
         },
         {
             "code": "00219",
+            "type": "location",
+            "name": "Grey Galley",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 2,
+            "traits": [
+                "Warship"
+            ],
+            "text": "Shadow (1).\nGrey Galley contributes 1 STR to your side during any challenge in which you control a defending character. (3 STR instead if Grey Galley came out of shadows this phase.)",
+            "deckLimit": 40,
+            "illustrator": "Gergely Nagy",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/MaV/50_Grey_Galley.png",
+            "rarity": "Common"
+        },
+        {
+            "code": "00220",
             "type": "event",
             "name": "You Know Nothing",
             "octgnId": null,
@@ -2887,22 +2904,6 @@
             "deckLimit": 40,
             "illustrator": "Roman Papsuev",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/15_You%20Know%20Nothing.png",
-            "rarity": "Common"
-        },
-        {
-            "code": "00220",
-            "type": "event",
-            "name": "Corn, Corn, Corn",
-            "octgnId": null,
-            "quantity": 3,
-            "faction": "thenightswatch",
-            "loyal": true,
-            "cost": 0,
-            "traits": [],
-            "text": "<b>Interrupt:</b> When the challenges phase ends, kneel a <i>Steward</i> or <i>Raven</i> card to choose an opponent who does not support you and a challenge type that has not been initiated against you this phase. That player must satisfy the claim of that challenge type as if you were the winning opponent. (Max 1 per phase.)",
-            "deckLimit": 40,
-            "illustrator": "Dimitri Bielak",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/25_Corn,%20Corn,%20Corn.png",
             "rarity": "Common"
         },
         {
@@ -3577,6 +3578,32 @@
         {
             "code": "00248",
             "type": "character",
+            "name": "Magister Illyrio",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": true,
+            "cost": 6,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 5,
+            "traits": [
+                "Lord",
+                "Merchant"
+            ],
+            "text": "Insight. Shadow (5).\n<b>Reaction:</b> After the challenges phase begins, gain 1 gold for every 2 cards in shadows.\n+1 Income.",
+            "deckLimit": 40,
+            "illustrator": "Tiziano Baracchi",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/MaV/53_Magister_Illyrio.png",
+            "rarity": "Rare"
+        },
+        {
+            "code": "00249",
+            "type": "character",
             "name": "Lysono Maar",
             "octgnId": null,
             "quantity": 3,
@@ -3602,7 +3629,7 @@
             "rarity": "Rare"
         },
         {
-            "code": "00249",
+            "code": "00250",
             "type": "character",
             "name": "Quentyn Martell",
             "octgnId": null,
@@ -3625,32 +3652,6 @@
             "deckLimit": 40,
             "illustrator": "?",
             "imageUrl": "https://i.imgur.com/V2z6QIQ.png",
-            "rarity": "Rare"
-        },
-        {
-            "code": "00250",
-            "type": "character",
-            "name": "Hero",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": true,
-            "faction": "targaryen",
-            "loyal": false,
-            "cost": 4,
-            "icons": {
-                "military": true,
-                "intrigue": false,
-                "power": true
-            },
-            "strength": 4,
-            "traits": [
-                "Commander",
-                "Companion"
-            ],
-            "text": "No attachments except <i>Weapon</i>.\n<b>Reaction:</b> After you win a challenge in which Hero is participating, if you have fewer cards in hand than the losing opponent, choose and stand an <i>Army</i> character or Grey Worm. (Limit twice per phase.)",
-            "deckLimit": 40,
-            "illustrator": "Melle (Midjourney)",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/19_Hero.png",
             "rarity": "Rare"
         },
         {
@@ -5287,7 +5288,7 @@
                 "Westeros"
             ],
             "text": "<b>Reaction:</b> After you win an [intrigue] challenge by 5 or more STR, put The Green Fork into play from your discard pile.\n+1 Income.",
-            "deckLimit": 3,
+            "deckLimit": 40,
             "illustrator": "Andreas Rocha",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TTS/78_The_Green_Fork.png",
             "rarity": "Uncommon"
@@ -5386,29 +5387,6 @@
         {
             "code": "00325",
             "type": "plot",
-            "name": "A Southron Peace",
-            "octgnId": null,
-            "quantity": 3,
-            "faction": "neutral",
-            "plotStats": {
-                "income": 4,
-                "initiative": 0,
-                "claim": 1,
-                "reserve": 7
-            },
-            "traits": [
-                "Edict",
-                "Summer"
-            ],
-            "text": "<b>When Revealed:</b> Choose an opponent. Until you reveal a new plot card, you and that player cannot initiate [military] challenges against each other.",
-            "deckLimit": 1,
-            "illustrator": "Onur Bakur",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ChoS/39_A_Southron_Peace.png",
-            "rarity": "Uncommon"
-        },
-        {
-            "code": "00326",
-            "type": "plot",
             "name": "All Men Must Serve",
             "octgnId": null,
             "quantity": 3,
@@ -5429,7 +5407,7 @@
             "rarity": "Uncommon"
         },
         {
-            "code": "00327",
+            "code": "00326",
             "type": "plot",
             "name": "At the Tower of Joy",
             "octgnId": null,
@@ -5450,6 +5428,28 @@
             "deckLimit": 1,
             "illustrator": "Florian Biege",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ATT/19_At_the_Tower_of_Joy.png",
+            "rarity": "Uncommon"
+        },
+        {
+            "code": "00327",
+            "type": "plot",
+            "name": "Battle Beneath the Wall",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "neutral",
+            "plotStats": {
+                "income": 5,
+                "initiative": 5,
+                "claim": 1,
+                "reserve": 5
+            },
+            "traits": [
+                "War"
+            ],
+            "text": "<b>When Revealed:</b> Name a challenge type. Until you reveal a new plot card, each player must declare all eligible characters as attackers or defenders during challenges of that type.",
+            "deckLimit": 1,
+            "illustrator": "Tomasz Jedruszek",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/MaV/59_Battle_Beneath_the_Wall.png",
             "rarity": "Uncommon"
         },
         {
@@ -5684,6 +5684,28 @@
         {
             "code": "00338",
             "type": "plot",
+            "name": "Strained Reserves",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "neutral",
+            "plotStats": {
+                "income": 3,
+                "initiative": 6,
+                "claim": 2,
+                "reserve": 3
+            },
+            "traits": [
+                "Winter"
+            ],
+            "text": "Each player cannot marshal or put into play more than 2 characters, locations, or attachments this round. (4 characters, locations, or attachments instead if that player has a <i>Summer</i> plot card revealed.)",
+            "deckLimit": 1,
+            "illustrator": "Régis Moulun",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/MaV/60_Strained_Reserves.png",
+            "rarity": "Uncommon"
+        },
+        {
+            "code": "00339",
+            "type": "plot",
             "name": "Striking at Dawn",
             "octgnId": null,
             "quantity": 3,
@@ -5706,7 +5728,7 @@
             "rarity": "Uncommon"
         },
         {
-            "code": "00339",
+            "code": "00340",
             "type": "plot",
             "name": "The Crone",
             "octgnId": null,
@@ -5729,7 +5751,7 @@
             "rarity": "Uncommon"
         },
         {
-            "code": "00340",
+            "code": "00341",
             "type": "plot",
             "name": "The Defiance of Duskendale",
             "octgnId": null,
@@ -5753,7 +5775,7 @@
             "rarity": "Uncommon"
         },
         {
-            "code": "00341",
+            "code": "00342",
             "type": "plot",
             "name": "The Mother",
             "octgnId": null,
@@ -5776,7 +5798,7 @@
             "rarity": "Uncommon"
         },
         {
-            "code": "00342",
+            "code": "00343",
             "type": "plot",
             "name": "The Pointy End",
             "octgnId": "null",
@@ -5799,7 +5821,7 @@
             "rarity": "Uncommon"
         },
         {
-            "code": "00343",
+            "code": "00344",
             "type": "plot",
             "name": "The Smith",
             "octgnId": null,
@@ -5819,29 +5841,6 @@
             "deckLimit": 2,
             "illustrator": "Niten",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/58_The%20Smith.png",
-            "rarity": "Uncommon"
-        },
-        {
-            "code": "00344",
-            "type": "plot",
-            "name": "Wardens of the East",
-            "octgnId": null,
-            "quantity": 3,
-            "faction": "neutral",
-            "plotStats": {
-                "income": 5,
-                "initiative": 0,
-                "claim": 1,
-                "reserve": 5
-            },
-            "traits": [
-                "House Arryn",
-                "Siege"
-            ],
-            "text": "Each player cannot play in-faction events, and plays with each card in their shadows area revealed.",
-            "deckLimit": 1,
-            "illustrator": "Tomasz Jedruszek",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/39%20-%20Wardens%20of%20the%20East.png",
             "rarity": "Uncommon"
         },
         {
@@ -5964,7 +5963,7 @@
                 "Spy"
             ],
             "text": "Shadow (3).\n<b>Reaction:</b> After you win a challenge in which Harrenhal Cupbearer is participating, return it to shadows to choose and kneel a character with printed cost 5 or lower controlled by the losing opponent.",
-            "deckLimit": 3,
+            "deckLimit": 40,
             "illustrator": "Stephen Patane (Midjourney)",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WAID/17_Harrenhal_Cupbearer.png",
             "rarity": "Common"
@@ -6221,7 +6220,7 @@
                 "Companion"
             ],
             "text": "Immune to <i>Omen</i> card effects.\n<b>Marshaling Action:</b> Kneel Hot Pie to place a pie token on a character. That character gets +1 STR.\n<b>Draft format only.</b>",
-            "deckLimit": 3,
+            "deckLimit": 40,
             "illustrator": "?",
             "imageUrl": "https://i.imgur.com/QnlcOML.png",
             "rarity": "Hidden"
@@ -6284,10 +6283,10 @@
             "traits": [
                 "Essos"
             ],
-            "text": "You may include locations and cards with the printed bestow keyword from any faction in your deck.\n<b>Action:</b> Kneel your faction card to either: reduce the cost of the next location or card with bestow you marshal this phase by 1, or move 1 gold from your gold pool to a card you control without gold.\n<b>Draft format only.</b>",
+            "text": "You may include cards with the printed bestow keyword and locations from any faction in your deck.\n<b>Action:</b> Kneel your faction card to either: reduce the cost of the next card with bestow or location you marshal this phase by 1, or move 1 gold from your gold pool to a card you control without gold.\n<b>Draft format only.</b>",
             "deckLimit": 1,
             "illustrator": "?",
-            "imageUrl": "https://i.imgur.com/dnNydTh.png",
+            "imageUrl": "https://i.imgur.com/XR8leH5.png",
             "rarity": "Starter"
         },
         {
