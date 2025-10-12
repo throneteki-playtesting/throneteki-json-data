@@ -32,32 +32,6 @@
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/1@1.2.0.png"
         },
         {
-            "code": "26502",
-            "version": "1.0.0",
-            "type": "character",
-            "name": "Edric Storm",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": true,
-            "faction": "baratheon",
-            "loyal": true,
-            "cost": 5,
-            "icons": {
-                "military": false,
-                "intrigue": false,
-                "power": true
-            },
-            "strength": 5,
-            "traits": [
-                "Bastard",
-                "The Seven"
-            ],
-            "text": "Stealth.\nEach player cannot gain more than 3 power each round.",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/2@1.0.0.png"
-        },
-        {
             "code": "26506",
             "version": "1.1.0",
             "type": "character",
@@ -101,22 +75,6 @@
             "deckLimit": 3,
             "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/10@1.0.1.png"
-        },
-        {
-            "code": "26511",
-            "version": "1.0.1",
-            "type": "event",
-            "name": "A New Hand",
-            "octgnId": null,
-            "quantity": 3,
-            "faction": "baratheon",
-            "loyal": false,
-            "cost": 0,
-            "traits": [],
-            "text": "<b>Reaction:</b> After a <i>Small Council</i> character you control leaves play, search your deck for another <i>Small Council</i> character, reveal it, and add it to your hand. Shuffle your deck. (Max once per phase.)",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/11@1.0.1.png"
         },
         {
             "code": "26512",
@@ -164,32 +122,6 @@
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/14@1.0.1.png"
         },
         {
-            "code": "26516",
-            "version": "1.0.1",
-            "type": "character",
-            "name": "Orkmont Elite",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": false,
-            "faction": "greyjoy",
-            "loyal": false,
-            "cost": 6,
-            "icons": {
-                "military": true,
-                "intrigue": false,
-                "power": true
-            },
-            "strength": 5,
-            "traits": [
-                "Army",
-                "Raider"
-            ],
-            "text": "Assault. Pillage.\n<b>Reaction:</b> After Orkmont Elite discards an attachment using pillage choose an attachment in an opponent's discard pile, and put it into play under your control.",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/16@1.0.1.png"
-        },
-        {
             "code": "26517",
             "version": "1.0.0",
             "type": "character",
@@ -233,25 +165,6 @@
             "deckLimit": 3,
             "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/19@1.0.0.png"
-        },
-        {
-            "code": "26520",
-            "version": "1.0.1",
-            "type": "attachment",
-            "name": "Raider's Scythe",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": false,
-            "faction": "greyjoy",
-            "loyal": false,
-            "cost": 1,
-            "traits": [
-                "Weapon"
-            ],
-            "text": "Non-unique [greyjoy] character only.\nWhile attached character is attacking an opponent who controls fewer attachments than you, it does not kneel in the first challenge you initiate each phase.",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/20@1.0.1.png"
         },
         {
             "code": "26521",
@@ -300,32 +213,6 @@
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/26@1.0.0.png"
         },
         {
-            "code": "26527",
-            "version": "1.0.1",
-            "type": "character",
-            "name": "Gyles Rosby",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": true,
-            "faction": "lannister",
-            "loyal": false,
-            "cost": 3,
-            "icons": {
-                "military": false,
-                "intrigue": false,
-                "power": true
-            },
-            "strength": 3,
-            "traits": [
-                "Lord",
-                "Small Council"
-            ],
-            "text": "If you have no gold in your gold pool during the challenges phase, kill Gyles Rosby.\n+2 Income.",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/27@1.0.1.png"
-        },
-        {
             "code": "26530",
             "version": "1.0.0",
             "type": "character",
@@ -368,25 +255,6 @@
             "deckLimit": 3,
             "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/32@1.0.1.png"
-        },
-        {
-            "code": "26534",
-            "version": "1.1.1",
-            "type": "location",
-            "name": "King's Landing Dromond",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": false,
-            "faction": "lannister",
-            "loyal": false,
-            "cost": 2,
-            "traits": [
-                "Warship"
-            ],
-            "text": "Shadow (1).\nYou do not return 1 unspent gold to the treasury during the taxation phase.\n<b>Reaction:</b> After King's Landing Dromond comes out of shadows, choose a character with printed cost 2 or lower and return it to its owner's hand.",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/34@1.1.1.png"
         },
         {
             "code": "26535",
@@ -457,31 +325,6 @@
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/38@1.0.0.png"
         },
         {
-            "code": "26542",
-            "version": "1.0.1",
-            "type": "character",
-            "name": "Southron Informant",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": false,
-            "faction": "martell",
-            "loyal": false,
-            "cost": 1,
-            "icons": {
-                "military": false,
-                "intrigue": true,
-                "power": false
-            },
-            "strength": 1,
-            "traits": [
-                "Spy"
-            ],
-            "text": "Ambush (1).\n<b>Reaction:</b> After Southron Informant enters play during the challenges phase, give control of it to an opponent. Then, discard 1 card at random from that player's hand and draw 1 card.",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/42@1.0.1.png"
-        },
-        {
             "code": "26543",
             "version": "1.0.0",
             "type": "attachment",
@@ -521,60 +364,15 @@
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/44@1.0.1.png"
         },
         {
-            "code": "26546",
-            "version": "1.1.1",
-            "type": "location",
-            "name": "Dornish Sea Vessel",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": false,
-            "faction": "martell",
-            "loyal": false,
-            "cost": 2,
-            "traits": [
-                "Warship"
-            ],
-            "text": "Shadow (0).\n<b>Reaction:</b> After Dornish Sea Vessel comes out of shadows, choose a character with printed cost 5 or lower. Until the end of the phase, that character loses a challenge icon of your choice.\n+1 Reserve.",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/46@1.1.1.png"
-        },
-        {
-            "code": "26550",
-            "version": "1.0.0",
-            "type": "character",
-            "name": "Dirk",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": true,
-            "faction": "thenightswatch",
-            "loyal": false,
-            "cost": 5,
-            "icons": {
-                "military": true,
-                "intrigue": true,
-                "power": false
-            },
-            "strength": 2,
-            "traits": [
-                "Ally",
-                "Ranger"
-            ],
-            "text": "<b>Forced Interrupt:</b> When a character would be discarded from play, place it in it's owners dead pile instead of placing it in their discard pile.",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/50@1.0.0.png"
-        },
-        {
             "code": "26551",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "type": "character",
             "name": "Wick Wittlestick",
             "octgnId": null,
             "quantity": 3,
             "unique": true,
             "faction": "thenightswatch",
-            "loyal": false,
+            "loyal": true,
             "cost": 4,
             "icons": {
                 "military": false,
@@ -586,10 +384,10 @@
                 "Ally",
                 "Steward"
             ],
-            "text": "Shadow (3).\n<b>Reaction:</b> After Wick Wittlestick comes out of shadows during a challenge in which you control a participating character, each player must sacrifice a participating character they control.",
+            "text": "Shadow (3).\n<b>Reaction:</b> After Wick Wittlestick comes out of shadows during a challenge in which you control a participating character, each player must discard a participating character they control.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/51@1.0.0.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/51@1.0.1.png"
         },
         {
             "code": "26553",
@@ -615,25 +413,6 @@
             "deckLimit": 3,
             "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/53@1.0.0.png"
-        },
-        {
-            "code": "26555",
-            "version": "1.0.0",
-            "type": "attachment",
-            "name": "Mutineer's Blade",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": false,
-            "faction": "thenightswatch",
-            "loyal": true,
-            "cost": 3,
-            "traits": [
-                "Weapon"
-            ],
-            "text": "Shadow (2).\n<b>Reaction:</b> After you win a challenge in which attached character is participating, kneel Mutineer's Blade and sacrifice attached character to choose and kill a participating character.",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/55@1.0.0.png"
         },
         {
             "code": "26556",
@@ -672,32 +451,6 @@
             "deckLimit": 3,
             "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/59@1.0.0.png"
-        },
-        {
-            "code": "26561",
-            "version": "1.0.0",
-            "type": "character",
-            "name": "Tytos Blackwood",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": true,
-            "faction": "stark",
-            "loyal": true,
-            "cost": 6,
-            "icons": {
-                "military": true,
-                "intrigue": false,
-                "power": true
-            },
-            "strength": 4,
-            "traits": [
-                "House Tully",
-                "Lord"
-            ],
-            "text": "Renown.\nWhile Tytos Blackwood is participating in a challenge, treat the printed text box of each other character without power as if it were blank (except for <i>Traits</i>).",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/61@1.0.0.png"
         },
         {
             "code": "26562",
@@ -773,24 +526,6 @@
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/69@1.0.0.png"
         },
         {
-            "code": "26571",
-            "version": "1.0.0",
-            "type": "event",
-            "name": "Above the Rest",
-            "octgnId": null,
-            "quantity": 3,
-            "faction": "stark",
-            "loyal": false,
-            "cost": 0,
-            "traits": [
-                "House Tully"
-            ],
-            "text": "<b>Challenges Action:</b> Kneel your faction card to choose a <i>House Tully</i> character. Until the end of the phase, that character gains an additional power using renown.",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/71@1.0.0.png"
-        },
-        {
             "code": "26572",
             "version": "1.0.1",
             "type": "event",
@@ -809,35 +544,8 @@
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/72@1.0.1.png"
         },
         {
-            "code": "26574",
-            "version": "1.1.0",
-            "type": "character",
-            "name": "Ser Harry Strickland",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": true,
-            "faction": "targaryen",
-            "loyal": false,
-            "cost": 4,
-            "icons": {
-                "military": true,
-                "intrigue": false,
-                "power": true
-            },
-            "strength": 3,
-            "traits": [
-                "Commander",
-                "Mercenary",
-                "Knight"
-            ],
-            "text": "Shadow (3). Renown.\n<b>Reaction:</b> After Ser Harry Strickland enters play, choose an <i>Army</i> or <i>Mercenary</i> character. Stand that character and have it gain a challenge icon of your choice until the end of the phase.",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/74@1.1.0.png"
-        },
-        {
             "code": "26576",
-            "version": "1.0.2",
+            "version": "1.0.3",
             "type": "character",
             "name": "War Elephants",
             "octgnId": null,
@@ -857,10 +565,10 @@
                 "Elephant",
                 "Mercenary"
             ],
-            "text": "Intimidate. No attachments.\nWar Elephants cannot be placed during setup, or marshaled into play.",
+            "text": "Ambush (8). Intimidate. No attachments.\nReduce the cost to ambush War Elephants by 1 for each <i>Commander</i> character you control.\nWar Elephants cannot be placed during setup, or marshaled into play.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/76@1.0.2.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/76@1.0.3.png"
         },
         {
             "code": "26578",
@@ -910,26 +618,6 @@
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/80@1.0.2.png"
         },
         {
-            "code": "26582",
-            "version": "1.1.1",
-            "type": "location",
-            "name": "Qartheen Galleas",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": false,
-            "faction": "targaryen",
-            "loyal": false,
-            "cost": 2,
-            "traits": [
-                "Qarth",
-                "Warship"
-            ],
-            "text": "Shadow (1).\nYou are considered to have 1 fewer card in hand.\n<b>Reaction:</b> After Qartheen Galleas comes out of shadows, choose a card with shadow in your discard pile and return it to your hand.",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/82@1.1.1.png"
-        },
-        {
             "code": "26584",
             "version": "1.0.1",
             "type": "event",
@@ -972,31 +660,6 @@
             "deckLimit": 3,
             "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/85@1.0.2.png"
-        },
-        {
-            "code": "26586",
-            "version": "1.0.2",
-            "type": "character",
-            "name": "Megga Tyrell",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": true,
-            "faction": "tyrell",
-            "loyal": true,
-            "cost": 4,
-            "icons": {
-                "military": false,
-                "intrigue": true,
-                "power": true
-            },
-            "strength": 3,
-            "traits": [
-                "Lady"
-            ],
-            "text": "<b>Reaction:</b> After 1 or more characters are removed from a challenge, gain 1 power for your faction. (Limit twice per round.)",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/86@1.0.2.png"
         },
         {
             "code": "26589",
@@ -1044,26 +707,6 @@
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/91@1.0.1.png"
         },
         {
-            "code": "26594",
-            "version": "1.1.2",
-            "type": "location",
-            "name": "Redwyne Merchanter",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": false,
-            "faction": "tyrell",
-            "loyal": false,
-            "cost": 2,
-            "traits": [
-                "House Redwyne",
-                "Warship"
-            ],
-            "text": "Shadow (1).\n<b>Reaction:</b> After Redwyne Merchanter comes out of shadows, choose a character. Until the end of the phase, that character gets +2 STR.\n+1 Income",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/94@1.1.2.png"
-        },
-        {
             "code": "26596",
             "version": "1.1.1",
             "type": "event",
@@ -1078,31 +721,6 @@
             "deckLimit": 3,
             "illustrator": "?",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/96@1.1.1.png"
-        },
-        {
-            "code": "26599",
-            "version": "1.0.0",
-            "type": "character",
-            "name": "The Bastard of Driftmark",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": true,
-            "faction": "neutral",
-            "cost": 5,
-            "icons": {
-                "military": false,
-                "intrigue": true,
-                "power": true
-            },
-            "strength": 3,
-            "traits": [
-                "Bastard",
-                "Small Council"
-            ],
-            "text": "<b>Taxation Action:</b> Search your deck for a <i>Warship</i> location, reveal it, and place it in shadows. Shuffle your deck. (Limit once per phase.)",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/99@1.0.0.png"
         },
         {
             "code": "26600",
@@ -1195,25 +813,6 @@
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/105@2.0.0.png"
         },
         {
-            "code": "26606",
-            "version": "1.0.0",
-            "type": "location",
-            "name": "Ibbenese Whaler",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": false,
-            "faction": "neutral",
-            "cost": 2,
-            "traits": [
-                "Ibben",
-                "Warship"
-            ],
-            "text": "Shadow (2).\n<b>Taxation Action:</b> If you have no cards in hand, kneel and return Ibbenese Whaler to shadows to draw 2 cards.",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/106@1.0.0.png"
-        },
-        {
             "code": "26608",
             "version": "1.0.0",
             "type": "event",
@@ -1255,31 +854,8 @@
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/112@1.2.1.png"
         },
         {
-            "code": "26613",
-            "version": "1.0.2",
-            "type": "plot",
-            "name": "The War of the Five Kings",
-            "octgnId": null,
-            "quantity": 3,
-            "faction": "neutral",
-            "plotStats": {
-                "income": 5,
-                "initiative": 2,
-                "claim": 1,
-                "reserve": 4
-            },
-            "traits": [
-                "Noble",
-                "War"
-            ],
-            "text": "Raise the claim value on The War of the Five Kings by 1 for each rival you have.",
-            "deckLimit": 1,
-            "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/113@1.0.2.png"
-        },
-        {
             "code": "26615",
-            "version": "1.0.2",
+            "version": "1.0.3",
             "type": "plot",
             "name": "The Age of Heroes",
             "octgnId": null,
@@ -1294,10 +870,10 @@
             "traits": [
                 "Legacy"
             ],
-            "text": "<b>Reaction:</b> After the challenges phase begins, kneel your faction card to search your deck for a <i>Legacy</i> or <i>Valyrian Steel</i> attachment, reveal it, and add it to your hand (put it into play instead if it is a <i>Tapestry</i> attachment).",
+            "text": "<b>Reaction:</b> After the challenges phase begins, kneel your faction card to search your deck for a <i>Legacy</i> or <i>Valyrian Steel</i> attachment, reveal it, and add it to your hand (you may put it into play instead if it is a <i>Tapestry</i> attachment). Shuffle your deck.",
             "deckLimit": 2,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/115@1.0.2.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/115@1.0.3.png"
         },
         {
             "code": "26618",
@@ -1313,22 +889,6 @@
             "illustrator": "?",
             "designer": "Card design by 2022 Castle Stahleck Joust Champion, Marti Foz Hernandez.",
             "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/118@1.0.2.png"
-        },
-        {
-            "code": "26620",
-            "version": "1.0.1",
-            "type": "agenda",
-            "name": "Trading with Braavos",
-            "octgnId": null,
-            "quantity": 3,
-            "faction": "neutral",
-            "traits": [
-                "Banner"
-            ],
-            "text": "Your deck may include non-loyal <i>Warship</i> locations from any faction. Your deck cannot include more than 1 copy of each non-limited location.\n<b>Reaction:</b> After claim is applied for a challenge in which you won, kneel your faction card to search the top 10 cards of your deck for a non-limited location, reveal it, and add it to your hand (you may place it in shadows instead if it has the <i>Warship</i> trait).",
-            "deckLimit": 1,
-            "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/120@1.0.1.png"
         }
     ]
 }
