@@ -1961,7 +1961,7 @@
                 "mana_cost": "1",
                 "type": "Creature",
                 "image": "https://i.imgur.com/QnlcOML.png",
-                "rarity": "hidden"
+                "rarity": "mythic"
         },
         {
                 "name": "House Baratheon",

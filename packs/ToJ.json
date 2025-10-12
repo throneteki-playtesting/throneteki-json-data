@@ -107,7 +107,7 @@
             ],
             "text": "Renown.\n<b>Reaction:</b> After power is gained by or moved to a character, kneel a non-limited location to choose and kneel a character. (Limit once per phase.)\n<b>Draft format only.</b>",
             "deckLimit": 40,
-            "illustrator": "?",
+            "illustrator": "Allen Douglas",
             "imageUrl": "https://i.imgur.com/g4LC2Z8.png",
             "rarity": "Rare"
         },
@@ -422,7 +422,7 @@
             ],
             "text": "Shadow (3).\n<b>Reaction:</b> After Myrish Pirates enters play during the challenges phase, move 1 power or 1 gold from a character you do not control to a character you control.\n<b>Draft format only.</b>",
             "deckLimit": 40,
-            "illustrator": "?",
+            "illustrator": "Henning Ludvigsen",
             "imageUrl": "https://i.imgur.com/maiAAFV.png",
             "rarity": "Common"
         },
@@ -574,7 +574,7 @@
             ],
             "text": "Bestow (2).\nNightfort Ruins contributes X STR to your side during any [power] challenge in which you control a participating character. X is the number of gold Nightfort Ruins has.\n+1 Reserve.\n<b>Draft format only.</b>",
             "deckLimit": 40,
-            "illustrator": "?",
+            "illustrator": "Marc Simonetti",
             "imageUrl": "https://i.imgur.com/FmnRFAc.png",
             "rarity": "Common"
         },
@@ -594,7 +594,7 @@
             ],
             "text": "Attached character gains a [power] icon and intimidate.\n<b>Forced Interrupt:</b> When the challenges phase ends, if attached character was declared as an attacker this phase, sacrifice Flaming Sword.\n<b>Draft format only.</b>",
             "deckLimit": 40,
-            "illustrator": "?",
+            "illustrator": "Jason Engle",
             "imageUrl": "https://i.imgur.com/MKlFxK5.png",
             "rarity": "Common"
         },
@@ -622,7 +622,7 @@
             ],
             "text": "Intimidate. Pillage.\n<b>Reaction:</b> After a character you control discards a non-character card using pillage, that character gains 1 power. (Limit twice per round.)\n<b>Draft format only.</b>",
             "deckLimit": 40,
-            "illustrator": "?",
+            "illustrator": "Mathia Arkoniel",
             "imageUrl": "https://i.imgur.com/FS5tz1t.png",
             "rarity": "Rare"
         },
@@ -755,7 +755,7 @@
             ],
             "text": "<b>Reaction:</b> After you win an unopposed challenge, kneel Winterfell to choose a character controlled by the losing opponent. Until the end of the phase, take control of that character.\n-2 Initiative.",
             "deckLimit": 40,
-            "illustrator": "Roman Papuev",
+            "illustrator": "Roman Papsuev",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WK/104_Winterfell.png",
             "rarity": "Rare"
         },
@@ -1076,7 +1076,7 @@
             ],
             "text": "Bestow (3). Pillage.\nWhile Saltcliffe Marauder has 1 or more gold, it gains stealth.<b>Action:</b> Discard 1 gold from Saltcliffe Marauder to choose a character. Until the end of the phase, that character gains stealth.\n<b>Draft format only.</b>",
             "deckLimit": 40,
-            "illustrator": "?",
+            "illustrator": "Marc Scheff",
             "imageUrl": "https://i.imgur.com/Q0Ha0zP.png",
             "rarity": "Common"
         },
@@ -1155,14 +1155,14 @@
             ],
             "text": "<b>Reaction:</b> After a card enters play during the challenges phase, kneel Stony Shore Thrall to choose an opponent. Until that player reveals a new plot card, reduce the reserve value on their revealed plot card by 1 (to a minimum of 2). Then, you may have each player check reserve.\n<b>Draft format only.</b>",
             "deckLimit": 40,
-            "illustrator": "?",
+            "illustrator": "Hermann Baisch",
             "imageUrl": "https://i.imgur.com/yugMB7y.png",
             "rarity": "Common"
         },
         {
             "code": "00147",
             "type": "attachment",
-            "name": "Reaver's Axe",
+            "name": "Kraken's Hatchet",
             "octgnId": null,
             "quantity": 3,
             "unique": false,
@@ -1175,7 +1175,7 @@
             ],
             "text": "Attached character gets +1 STR and gains the <i>Raider</i> trait.\n<b>Reaction:</b> After you win a challenge in which attached character is attacking, pay 2 gold or discard 1 gold from attached character to stand it. (Limit once per round.)\n<b>Draft format only.</b>",
             "deckLimit": 40,
-            "illustrator": "?",
+            "illustrator": "Aaron Riley",
             "imageUrl": "https://i.imgur.com/KHi8Go6.png",
             "rarity": "Common"
         },
@@ -1325,7 +1325,7 @@
             ],
             "text": "Tommen Baratheon contributes his STR to your total for dominance even while kneeling.\nWhile you control:\n - 1 or more <i>Cat</i> cards, he gains an [intrigue] icon.\n - 2 or more <i>Cat</i> cards, he gains insight.\n - 3 or more <i>Cat</i> cards, he gets +3 STR.\n<b>Draft format only.</b>",
             "deckLimit": 40,
-            "illustrator": "?",
+            "illustrator": "Joshua Cairos",
             "imageUrl": "https://i.imgur.com/CrfCIr7.png",
             "rarity": "Rare"
         },
@@ -1653,7 +1653,7 @@
             ],
             "text": "Bestow (1).\n<b>Challenges Action:</b> Discard 1 gold from Eager Opportunist to put a character with printed cost 4 or lower into play from your hand. At the end of the phase, if that card is still in play, discard it from play. (Limit once per phase.)\n<b>Draft format only.</b>",
             "deckLimit": 40,
-            "illustrator": "?",
+            "illustrator": "Aleksander Karcz",
             "imageUrl": "https://i.imgur.com/WdaQAr9.png",
             "rarity": "Common"
         },
@@ -1704,7 +1704,7 @@
             ],
             "text": "Ambush (3).\n<b>Reaction:</b> After Cruel Brigand enters play, if you have won an [intrigue] challenge this phase, kneel your faction card to choose a character with STR 3 or lower and return it to its owner's hand.\n<b>Draft format only.</b>",
             "deckLimit": 40,
-            "illustrator": "?",
+            "illustrator": "N.C. Wyeth",
             "imageUrl": "https://i.imgur.com/6dZ5M6X.png",
             "rarity": "Common"
         },
@@ -1723,7 +1723,7 @@
             ],
             "text": "Reaction: After claim is applied for an [intrigue] challenge you won, if you have more cards in hand than the losing opponent, sacrifice Silverhill River to gain 1 power for your faction.\n+1 Income.\n<b>Draft format only.</b>",
             "deckLimit": 40,
-            "illustrator": "?",
+            "illustrator": "Anton Hansch",
             "imageUrl": "https://i.imgur.com/7hg3kdu.png",
             "rarity": "Common"
         },
@@ -1886,7 +1886,7 @@
             ],
             "text": "Insight.\n<b>Action:</b> Choose a character. Until the end of the phase, that character loses a challenge icon of your choice, and each non-Martell character you control gains that challenge icon. Then, return Arianne to your hand (cannot be saved). (Max once per round.)\n<b>Draft format only.</b>",
             "deckLimit": 40,
-            "illustrator": "?",
+            "illustrator": "Drazenka Kimpel",
             "imageUrl": "https://i.imgur.com/zwBU9Ri.png",
             "rarity": "Rare"
         },
@@ -2197,7 +2197,7 @@
             ],
             "text": "Shadow (3). Stealth.\n<b>Reaction:</b> After Starfall Servant enters play, choose a character. Until the end of the phase, that character loses a challenge icon of your choice.\n<b>Draft format only.</b>",
             "deckLimit": 40,
-            "illustrator": "?",
+            "illustrator": "Harold Piffard",
             "imageUrl": "https://i.imgur.com/lYN2aZl.png",
             "rarity": "Common"
         },
@@ -2276,7 +2276,7 @@
             ],
             "text": "Bestow (2).\n<b>Challenges Action:</b> Discard 1 gold from Desert Freerider to choose a character. Until the end of the phase, that character gains or loses an [intrigue] icon.\n<b>Draft format only.</b>",
             "deckLimit": 40,
-            "illustrator": "?",
+            "illustrator": "Henri Rousseau",
             "imageUrl": "https://i.imgur.com/uLmZMDC.png",
             "rarity": "Common"
         },
@@ -2301,7 +2301,7 @@
             ],
             "text": "<b>Reaction:</b> After you lose a challenge in which Vengeful Lordling is participating, reduce the cost of the next card you ambush or bring out of shadows this phase by 1.\n<b>Draft format only.</b>",
             "deckLimit": 40,
-            "illustrator": "?",
+            "illustrator": "Jean-Léon Gérôme",
             "imageUrl": "https://i.imgur.com/L08yWz3.png",
             "rarity": "Common"
         },
@@ -2364,7 +2364,7 @@
             ],
             "text": "Assault. Insight. Intimidate. No attachments.\n<b>Reaction:</b> After you marshal Great Ranging, search your deck and discard pile for a non-limited location and add it to your hand. Shuffle your deck.\n+1 Reserve.\n<b>Draft format only.</b>",
             "deckLimit": 40,
-            "illustrator": "?",
+            "illustrator": "Tomasz Jedruszek",
             "imageUrl": "https://i.imgur.com/xVCUTf2.png",
             "rarity": "Rare"
         },
@@ -2390,7 +2390,7 @@
             ],
             "text": "Insight.\n<b>Reaction:</b> After you win a challenge in which Melisandre is attacking, sacrifice another character to choose a non-loyal character with lower printed cost and take control of it. (Limit once per round.)\n<b>Draft format only.</b>",
             "deckLimit": 40,
-            "illustrator": "?",
+            "illustrator": "Alexandre Dainche",
             "imageUrl": "https://i.imgur.com/kRkXIPu.png",
             "rarity": "Rare"
         },
@@ -2736,7 +2736,7 @@
             ],
             "text": "Intimidate.\n<b>Reaction:</b> After you win a challenge in which Tormund's Horde is attacking, reveal the top card of each player's deck. You may either: discard each of those cards, or have each player draw 1 card.\n<b>Draft format only.</b>",
             "deckLimit": 40,
-            "illustrator": "?",
+            "illustrator": "Tomasz Jedruszek",
             "imageUrl": "https://i.imgur.com/w4vvkfr.png",
             "rarity": "Common"
         },
@@ -2762,7 +2762,7 @@
             ],
             "text": "<b>Action:</b> Kneel a non-limited location to choose a character. Until the end of the phase, that character gains pillage or stealth. (Limit once per round.)\n<b>Draft format only.</b>",
             "deckLimit": 40,
-            "illustrator": "?",
+            "illustrator": "Jean-Baptiste Greuze",
             "imageUrl": "https://i.imgur.com/JHLupcg.png",
             "rarity": "Common"
         },
@@ -2840,7 +2840,7 @@
             ],
             "text": "Shadow (2).\n<b>Reaction:</b> After Wall-Bound Knight enters play during the challenges phase, move 1 gold from an opponent's gold pool or a card an opponent controls to your gold pool.\n<b>Draft format only.</b>",
             "deckLimit": 40,
-            "illustrator": "?",
+            "illustrator": "Rudolf Otto Ritter von Ottenfeld",
             "imageUrl": "https://i.imgur.com/PUPB2wk.png",
             "rarity": "Common"
         },
@@ -2929,7 +2929,7 @@
             ],
             "text": "Intimidate. Renown.\n<b>Action:</b> Kneel a non-limited location to choose a participating character. Until the end of the challenge, it gets +X STR, where X is that location's printed cost. (1 higher instead if you control Grey Wind.) (Limit twice per round.)\n<b>Draft format only.</b>",
             "deckLimit": 40,
-            "illustrator": "?",
+            "illustrator": "Christine Griffin",
             "imageUrl": "https://i.imgur.com/NMbhVj7.png",
             "rarity": "Rare"
         },
@@ -3371,7 +3371,7 @@
             ],
             "text": "Bestow (2).\n<b>Reaction:</b> After Merman's Guard is declared as an attacker or defender, kneel your faction card and discard 1 gold from Merman's Guard to choose and stand a unique character. Until the end of the phase, that character gains renown.\n<b>Draft format only.</b>",
             "deckLimit": 40,
-            "illustrator": "?",
+            "illustrator": "Aurelien Hubert",
             "imageUrl": "https://i.imgur.com/aXNyzpF.png",
             "rarity": "Common"
         },
@@ -3470,7 +3470,7 @@
             ],
             "text": "<b>Reaction:</b> After you initiate a challenge, kneel and sacrifice The Wolfswood to raise the claim value on your revealed plot card by 1 until the end of the challenge. (Max 1 per challenge.)\n+1 Initiative.\n<b>Draft format only.</b>",
             "deckLimit": 40,
-            "illustrator": "?",
+            "illustrator": "Eric Lofgren",
             "imageUrl": "https://i.imgur.com/j0JaBTP.png",
             "rarity": "Common"
         },
@@ -3491,7 +3491,7 @@
             ],
             "text": "<b>Challenges Action:</b> Choose an attacking character you control and name a <i>Trait</i>. Until the end of the end of the challenge, it gets +2 STR, then attach Wolf Dreams to that character as a <i>Direwolf</i> attachment with the text: 'Terminal. Attached character gains the named <i>Trait</i>.' (Max 1 per phase.)\n<b>Draft format only.</b>",
             "deckLimit": 40,
-            "illustrator": "?",
+            "illustrator": "Jon Bosco",
             "imageUrl": "https://i.imgur.com/UeSUqWx.png",
             "rarity": "Common"
         },
@@ -3650,7 +3650,7 @@
             ],
             "text": "Shadow (4).\n<b>Action:</b> Return Quentyn Martell to shadows to put a character with lower STR than his into play from your hand or shadows area. At the end of the phase, if it is still in play, return it to your hand. (Max once per round.)\n<b>Draft format only.</b>",
             "deckLimit": 40,
-            "illustrator": "?",
+            "illustrator": "Tiziano Baracchi",
             "imageUrl": "https://i.imgur.com/V2z6QIQ.png",
             "rarity": "Rare"
         },
@@ -3935,7 +3935,7 @@
             ],
             "text": "Bestow (2). Intimidate.\n<b>Forced Interrupt:</b> When the challenges phase ends, return Long Lances to its owner's hand unless you discard 1 gold from it.\n<b>Draft format only.</b>",
             "deckLimit": 40,
-            "illustrator": "?",
+            "illustrator": "David Horne",
             "imageUrl": "https://i.imgur.com/v6I0iLN.png",
             "rarity": "Common"
         },
@@ -4036,7 +4036,7 @@
             ],
             "text": "Shadow (2).\nYou may marshal Stormcrows into shadows from your discard pile as if it were in your hand.\n<b>Reaction:</b> After Stormcrows comes out of shadows, choose a participating character without attachments. Until the end of the challenge, that character gets -1 STR and is killed if its STR is 0.\n<b>Draft format only.</b>",
             "deckLimit": 40,
-            "illustrator": "?",
+            "illustrator": "Régis Moulun",
             "imageUrl": "https://i.imgur.com/Kk1xbz7.png",
             "rarity": "Common"
         },
@@ -4055,7 +4055,7 @@
             ],
             "text": "<b>Challenges Action:</b> Sacrifice Fighting Pit to choose and discard a card from your hand. Then, put a character with printed cost 3 or lower into play from your discard pile. At the end of the phase, if that card is still in play, return it to its owner's hand.\n<b>Draft format only.</b>",
             "deckLimit": 40,
-            "illustrator": "?",
+            "illustrator": "Martina Pilcerova",
             "imageUrl": "https://i.imgur.com/hDqSWXK.png",
             "rarity": "Common"
         },
@@ -4205,7 +4205,7 @@
             ],
             "text": "Renown.\n<b>Reaction:</b> After you initiate a challenge in which a <i>Knight</i> character is attacking alone, stand that character. (Limit once per round.)\n<b>Draft format only.</b>",
             "deckLimit": 40,
-            "illustrator": "?",
+            "illustrator": "Felicia Cano",
             "imageUrl": "https://i.imgur.com/9YbeEz6.png",
             "rarity": "Rare"
         },
@@ -4548,7 +4548,7 @@
             ],
             "text": "<b>Reaction:</b> After Brightwater Cavalry enters play, draw 1 card. Then, choose a card in your hand and place it on top of your deck.\n<b>Draft format only.</b>",
             "deckLimit": 40,
-            "illustrator": "?",
+            "illustrator": "Tomasz Jedruszek",
             "imageUrl": "https://i.imgur.com/f2B1qLo.png",
             "rarity": "Common"
         },
@@ -4574,7 +4574,7 @@
             ],
             "text": "Shadow (2).\n<b>Reaction:</b> After Arbor Jester comes out of shadows, choose a character and reveal the top 2 cards of your deck. Place one of them on the bottom of your deck. Until the end of the phase, that character gets +X STR. X is the printed cost of the other revealed card.\n<b>Draft format only.</b>",
             "deckLimit": 40,
-            "illustrator": "?",
+            "illustrator": "Gerard van Honthorst",
             "imageUrl": "https://i.imgur.com/jHLUaIm.png",
             "rarity": "Common"
         },
@@ -4600,7 +4600,7 @@
             ],
             "text": "Shadow (1).\n<b>Reaction:</b> After Youthful Acolyte enters play during a challenge, stand a participating character you control and remove it from the challenge. Until the end of the phase, that character gains renown.\n<b>Draft format only.</b>",
             "deckLimit": 40,
-            "illustrator": "?",
+            "illustrator": "Régis Moulun",
             "imageUrl": "https://i.imgur.com/t4Cdwkz.png",
             "rarity": "Common"
         },
@@ -4725,7 +4725,7 @@
             ],
             "text": "While Brienne of Tarth has an attachment, she gains renown. Brienne of Tarth gets +1 STR for each attachment she has.\n<b>Draft format only.</b>",
             "deckLimit": 40,
-            "illustrator": "?",
+            "illustrator": "Chris Dien",
             "imageUrl": "https://i.imgur.com/Qi1Jw9Z.png",
             "rarity": "Rare"
         },
@@ -4852,7 +4852,7 @@
             ],
             "text": "<b>When Revealed:</b> Kill each character.\nDraft format only.",
             "deckLimit": 1,
-            "illustrator": "?",
+            "illustrator": "Józef Simmler",
             "imageUrl": "https://i.imgur.com/QHuWkXI.png",
             "rarity": "Rare"
         },
@@ -5402,7 +5402,7 @@
             ],
             "text": "<b>When Revealed:</b> Kneel each character.\nDraft format only.",
             "deckLimit": 1,
-            "illustrator": "?",
+            "illustrator": "Franz von Defregger",
             "imageUrl": "https://i.imgur.com/eViGLaJ.png",
             "rarity": "Uncommon"
         },
@@ -5563,7 +5563,7 @@
             ],
             "text": "<b>Reaction:</b> After you win a challenge, choose an attacking character and have it gain 1 power. (Any player may initiate this ability unless there are 2 or more <i>City</i> plot cards in your used pile.) (Limit twice per phase.)\nDraft format only.",
             "deckLimit": 1,
-            "illustrator": "?",
+            "illustrator": "Ludwig Hermann",
             "imageUrl": "https://i.imgur.com/nS1aGDG.png",
             "rarity": "Uncommon"
         },
@@ -5654,7 +5654,7 @@
             ],
             "text": "<b>When Revealed:</b> You may kill a character you control (cannot be saved). If you do, put another character into play from your dead or discard pile.\nDraft format only.",
             "deckLimit": 2,
-            "illustrator": "?",
+            "illustrator": "Lukasz Jaskolski",
             "imageUrl": "https://i.imgur.com/XesVziO.png",
             "rarity": "Uncommon"
         },
@@ -5890,7 +5890,7 @@
             ],
             "text": "Reaction: After you win a challenge in which Maester of the Eyrie is participating, reveal the top 3 cards of your deck. Place any number of those cards on the bottom of the deck, and the others on top, in any order.\n+1 Reserve.\n<b>Draft format only.</ b>",
             "deckLimit": 40,
-            "illustrator": "?",
+            "illustrator": "Salomon Koninck",
             "imageUrl": "https://i.imgur.com/cR5lvDz.png",
             "rarity": "Common"
         },
@@ -5940,7 +5940,7 @@
             ],
             "text": "Mummer's Troupe gets +1 STR for each gold it has. While it has 3 or more gold, it gains renown.\n<b>Reaction:</b> After Mummer's Troupe stands, move 1 gold from the treasury to it or a card you control without gold. (Limit once per round.)\n<b>Draft format only.</b>",
             "deckLimit": 40,
-            "illustrator": "?",
+            "illustrator": "Frederick Arthur Bridgman",
             "imageUrl": "https://i.imgur.com/dcbzckS.png",
             "rarity": "Common"
         },
@@ -6015,7 +6015,7 @@
             ],
             "text": "Wandering Knight gets +1 STR for each non-limited location you control. While its STR is 5 or greater, it gains a [power] icon.\nDraft format only.",
             "deckLimit": 40,
-            "illustrator": "?",
+            "illustrator": "Eugène Joseph Verboeckhoven",
             "imageUrl": "https://i.imgur.com/fv6zLb4.png",
             "rarity": "Common"
         },
@@ -6128,7 +6128,7 @@
             ],
             "text": "Ambush (1).\nAttached character gets +1 STR.\n<b>Action:</b> Kneel and sacrifice Quill and Parchment to choose a character. Until the end of the phase, treat that character as if its printed text box were blank (except for <i>Traits</i>).\n<b>Draft format only.</b>",
             "deckLimit": 40,
-            "illustrator": "?",
+            "illustrator": "Rutilio Manetti",
             "imageUrl": "https://i.imgur.com/Wtw7GrY.png",
             "rarity": "Common"
         },
@@ -6146,7 +6146,7 @@
             ],
             "text": "Character you control only.\nAttached character gains the named <i>Trait</i>.\n<b>Reaction:</b> After Face Mask enters play, name a <i>Trait</i>.\n<b>Draft format only.</b>",
             "deckLimit": 40,
-            "illustrator": "?",
+            "illustrator": "Victor Wong",
             "imageUrl": "https://i.imgur.com/w3mGt0M.png",
             "rarity": "Common"
         },
@@ -6221,7 +6221,7 @@
             ],
             "text": "Immune to <i>Omen</i> card effects.\n<b>Marshaling Action:</b> Kneel Hot Pie to place a pie token on a character. That character gets +1 STR.\n<b>Draft format only.</b>",
             "deckLimit": 40,
-            "illustrator": "?",
+            "illustrator": "Roman Papsuev",
             "imageUrl": "https://i.imgur.com/QnlcOML.png",
             "rarity": "Hidden"
         },
@@ -6237,7 +6237,7 @@
             ],
             "text": "When you announce Sealing the Pact as your agenda, name 1 faction. You may include cards from that faction in your draw deck and plot deck.\n<b>Reaction:</b> After you win a challenge in which you control a participating in-faction character, kneel your faction card to have an out-of-faction character you control gain 1 power.\n<b>Draft format only.</b>",
             "deckLimit": 1,
-            "illustrator": "?",
+            "illustrator": "Tomasz Jedruszek",
             "imageUrl": "https://i.imgur.com/AjGRMDR.png",
             "rarity": "Starter"
         },
@@ -6253,7 +6253,7 @@
             ],
             "text": "When you announce Unknown and Unknowable as your agenda, name 2 factions. You may include cards from those factions in your draw deck and plot deck.\n<b>Action:</b> Kneel your faction card to choose a character you control. Until the end of the phase, that character gains a <i>Trait</i> of your choice.\n<b>Draft format only.</b>",
             "deckLimit": 1,
-            "illustrator": "?",
+            "illustrator": "Onur Bakar",
             "imageUrl": "https://i.imgur.com/oiJg4lj.png",
             "rarity": "Starter"
         },
@@ -6269,7 +6269,7 @@
             ],
             "text": "You may include cards with the printed shadow keyword from any faction in your deck.\n<b>Reaction:</b> After a card you control comes out of shadows (choose 1 that you have not chosen this round):\n - Gain 1 gold.\n - Pay 1 gold to draw 1 card.\n - Give a character +2 STR until the end of the phase.\n<b>Draft format only.</b>",
             "deckLimit": 1,
-            "illustrator": "?",
+            "illustrator": "Camille Roqueplan",
             "imageUrl": "https://i.imgur.com/ZHXaBOj.png",
             "rarity": "Starter"
         },
@@ -6285,7 +6285,7 @@
             ],
             "text": "You may include cards with the printed bestow keyword and locations from any faction in your deck.\n<b>Action:</b> Kneel your faction card to either: reduce the cost of the next card with bestow or location you marshal this phase by 1, or move 1 gold from your gold pool to a card you control without gold.\n<b>Draft format only.</b>",
             "deckLimit": 1,
-            "illustrator": "?",
+            "illustrator": "Marc Simonetti",
             "imageUrl": "https://i.imgur.com/XR8leH5.png",
             "rarity": "Starter"
         },
@@ -6301,7 +6301,7 @@
             ],
             "text": "When you announce Join Forces as your agenda, name a <i>Trait</i>. You may include cards with that printed <i>Trait</i> from any faction in your draw deck and plot deck.\nReduce the cost of the first card with the named <i>Trait</i> you marshal or play each round by 1.\n<b>Draft format only.</b>",
             "deckLimit": 1,
-            "illustrator": "?",
+            "illustrator": "Régis Moulun",
             "imageUrl": "https://i.imgur.com/PzOREns.png",
             "rarity": "Starter"
         },
@@ -6317,7 +6317,7 @@
             ],
             "text": "You may include cards from any faction in your draw deck and plot deck.\nYou cannot spend more than 6 gold during setup.\n-1 Income. -1 Initiative. -1 Reserve.\n<b>Draft format only.</b>",
             "deckLimit": 1,
-            "illustrator": "?",
+            "illustrator": "Régis Moulun",
             "imageUrl": "https://i.imgur.com/g3XQ09E.png",
             "rarity": "Starter"
         },
@@ -6339,7 +6339,7 @@
             "traits": [],
             "text": "<b>Reaction:</b> After Faceless Man enters play, it gains a <i>Trait</i> and challenge icon of your choice.\n<b>Draft format only.</b>",
             "deckLimit": 3,
-            "illustrator": "?",
+            "illustrator": "@justinwongart",
             "imageUrl": "https://i.imgur.com/cP8RIkt.png",
             "rarity": "Starter"
         },
@@ -6363,7 +6363,7 @@
             ],
             "text": "<b>Marshaling Action:</b> Kneel Pentoshi Trader to reduce the cost of the next character you marshal this phase by 1.\n<b>Draft format only.</b>",
             "deckLimit": 3,
-            "illustrator": "?",
+            "illustrator": "Francesco Ballesio",
             "imageUrl": "https://i.imgur.com/rSY4n3i.png",
             "rarity": "Starter"
         },
@@ -6381,7 +6381,7 @@
             ],
             "text": "Limited.\n<b>Marshaling Action:</b> Kneel Holdfast Village to reduce the cost of the next card you marshal <em>(or marshal into shadows)</em> this phase by 1.\n<b>Action:</b> Sacrifice Holdfast Village to, either: gain 1 gold, or draw 1 card.\n<b>Draft format only.</b>",
             "deckLimit": 3,
-            "illustrator": "?",
+            "illustrator": "Johann Ludwig Bleuler",
             "imageUrl": "https://i.imgur.com/alQuqBg.png",
             "rarity": "Starter"
         },
@@ -6399,7 +6399,7 @@
             ],
             "text": "Limited.\n<b>Marshaling Action:</b> Kneel and sacrifice Market Square to gain 2 gold.\n<b>Draft format only.</b>",
             "deckLimit": 3,
-            "illustrator": "?",
+            "illustrator": "Cornelis Springer",
             "imageUrl": "https://i.imgur.com/JUiHN6F.png",
             "rarity": "Starter"
         },
@@ -6422,6 +6422,7 @@
             ],
             "text": "<b>When Revealed:</b> Either, increase the gold value on Feast or Famine by 5, or increase the claim value on Feast or Famine by 2.\n<b>Draft format only.</b>",
             "deckLimit": 2,
+            "illustrator": "Circle of Sebastian Stoskopff",
             "imageUrl": "https://i.imgur.com/CL6wVDV.png",
             "rarity": "Starter"
         },
@@ -6443,6 +6444,7 @@
             ],
             "text": "<b>When Revealed:</b> Each player chooses any number of characters they control with total printed cost 10 or lower. Kill each character not chosen (cannot be saved).\n<b>Draft format only.</b>",
             "deckLimit": 2,
+            "illustrator": "Carlo Coppola",
             "imageUrl": "https://i.imgur.com/P0BrHH8.png",
             "rarity": "Starter"
         },
@@ -6464,7 +6466,7 @@
             ],
             "text": "<b>When Revealed:</b> Draw 1 card. (2 cards instead if there is a <i>City</i> plot card in your used pile.)\n<b>Draft format only.</b>",
             "deckLimit": 2,
-            "illustrator": "?",
+            "illustrator": "Fritz Beinke",
             "imageUrl": "https://i.imgur.com/4vZHrUe.png",
             "rarity": "Starter"
         },
@@ -6487,7 +6489,7 @@
             ],
             "text": "<b>When Revealed:</b> Put a character with printed cost 3 or lower into play from your hand. (Printed cost 6 or lower instead if there is a <i>City</i> plot card in your used pile.)\n<b>Draft format only.</b>",
             "deckLimit": 2,
-            "illustrator": "?",
+            "illustrator": "Tomasz Jedruszek",
             "imageUrl": "https://i.imgur.com/svmOre6.png",
             "rarity": "Starter"
         },
@@ -6509,7 +6511,7 @@
             ],
             "text": "During the first [military] challenge you initiate during the challenges phase, raise the claim value on Razed to the Ground by 1.\n<b>Draft format only.</b>",
             "deckLimit": 2,
-            "illustrator": "?",
+            "illustrator": "Pieter Meulener",
             "imageUrl": "https://i.imgur.com/EwDF3u5.png",
             "rarity": "Starter"
         },
@@ -6531,7 +6533,7 @@
             ],
             "text": "<b>Reaction:</b> After you win an [intrigue] challenge, draw X cards, where X is the claim value on Bitter Accusation. Then, choose and discard 1 card from your hand.\n<b>Draft format only.</b>",
             "deckLimit": 2,
-            "illustrator": "?",
+            "illustrator": "Emil Lauffer",
             "imageUrl": "https://i.imgur.com/nZ272xo.png",
             "rarity": "Starter"
         },
@@ -6553,7 +6555,7 @@
             ],
             "text": "You may initiate an additional [power] challenge during the challenges phase.\n<b>Draft format only.</b>",
             "deckLimit": 2,
-            "illustrator": "?",
+            "illustrator": "Tomasz Jedruszek",
             "imageUrl": "https://i.imgur.com/JkuAbaE.png",
             "rarity": "Starter"
         },
@@ -6575,7 +6577,7 @@
             ],
             "text": "Each player cannot declare more than 1 character as an attacker or defender in each challenge.\n<b>Draft format only.</b>",
             "deckLimit": 2,
-            "illustrator": "?",
+            "illustrator": "Zygmunt Ajdukiewicz",
             "imageUrl": "https://i.imgur.com/Pgo9rAX.png",
             "rarity": "Starter"
         },
@@ -6597,7 +6599,7 @@
             ],
             "text": "<b>When Revealed:</b> Place each character with printed cost 3 or lower without attachments on the bottom of its owner's deck.\n<b>Draft format only.</b>",
             "deckLimit": 2,
-            "illustrator": "?",
+            "illustrator": "Julius Sergius Klever",
             "imageUrl": "https://i.imgur.com/AS362cp.png",
             "rarity": "Starter"
         },
@@ -6620,7 +6622,7 @@
             ],
             "text": "<b>Action:</b> Choose a character. Until the end of the phase, that character gains a <i>Trait</i> or challenge icon of your choice. (Limit once per round.)\n<b>Draft format only.</b>",
             "deckLimit": 2,
-            "illustrator": "?",
+            "illustrator": "Juan Carlos Barquet",
             "imageUrl": "https://i.imgur.com/Zu5w7B4.png",
             "rarity": "Starter"
         }
