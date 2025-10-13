@@ -106,6 +106,7 @@
                 "R'hllor"
             ],
             "text": "Renown.\n<b>Reaction:</b> After power is gained by or moved to a character, kneel a non-limited location to choose and kneel a character. (Limit once per phase.)\n<b>Draft format only.</b>",
+            "flavor": "\"Stannis is pure iron, black and hard and strong, yes, but brittle, the way iron gets. He'll break before he bends.\" <cite>Donal Noye</cite>",
             "deckLimit": 40,
             "illustrator": "Allen Douglas",
             "imageUrl": "https://i.imgur.com/g4LC2Z8.png",
@@ -593,6 +594,7 @@
                 "Weapon"
             ],
             "text": "Attached character gains a [power] icon and intimidate.\n<b>Forced Interrupt:</b> When the challenges phase ends, if attached character was declared as an attacker this phase, sacrifice Flaming Sword.\n<b>Draft format only.</b>",
+            "flavor": "\"It's only a trick, I told you. The wildfire ruins the steel.\" <cite>Gendry</cite>",
             "deckLimit": 40,
             "illustrator": "Jason Engle",
             "imageUrl": "https://i.imgur.com/MKlFxK5.png",
@@ -621,6 +623,7 @@
                 "Raider"
             ],
             "text": "Intimidate. Pillage.\n<b>Reaction:</b> After a character you control discards a non-character card using pillage, that character gains 1 power. (Limit twice per round.)\n<b>Draft format only.</b>",
+            "flavor": "\"Balon was mad, Aeron is madder, and Euron is maddest of them all\" <cite>Baelor Blacktyde</cite>",
             "deckLimit": 40,
             "illustrator": "Mathia Arkoniel",
             "imageUrl": "https://i.imgur.com/FS5tz1t.png",
@@ -1711,6 +1714,25 @@
         {
             "code": "00170",
             "type": "location",
+            "name": "King's Landing Dromond",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 2,
+            "traits": [
+                "Warship"
+            ],
+            "text": "Shadow (1).\nReduce the number of unspent gold you return to the treasury during the taxation phase by 1.\n<b>Reaction:</b> After King's Landing Dromond comes out of shadows, choose a character with printed cost 2 or lower and return it to its owner's hand.",
+            "deckLimit": 40,
+            "illustrator": "Gergely Nagy",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/LotW/66_Kings_Landing_Dromond.png",
+            "rarity": "Common"
+        },
+        {
+            "code": "00171",
+            "type": "location",
             "name": "Silverhill River",
             "octgnId": null,
             "quantity": 3,
@@ -1728,7 +1750,7 @@
             "rarity": "Common"
         },
         {
-            "code": "00171",
+            "code": "00172",
             "type": "event",
             "name": "Burning Bright",
             "octgnId": null,
@@ -1742,22 +1764,6 @@
             "deckLimit": 40,
             "illustrator": "Grandfailure",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/15_Burning%20Bright.png",
-            "rarity": "Common"
-        },
-        {
-            "code": "00172",
-            "type": "event",
-            "name": "One, Two, Three",
-            "octgnId": null,
-            "quantity": 3,
-            "faction": "lannister",
-            "loyal": true,
-            "cost": 1,
-            "traits": [],
-            "text": "<b>Reaction:</b> After you win an [intrigue] challenge, choose a participating character you control and (choose one):\n- return it to its owner's hand.\n- place it in shadows.\n- have it gain insight until the end of the phase.",
-            "deckLimit": 40,
-            "illustrator": "Borja Pindado",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/09_One%2C%20Two%2C%20Three.png",
             "rarity": "Common"
         },
         {
@@ -2326,19 +2332,21 @@
         },
         {
             "code": "00196",
-            "type": "event",
-            "name": "Retribution",
+            "type": "location",
+            "name": "Dornish Sloop",
             "octgnId": null,
             "quantity": 3,
+            "unique": false,
             "faction": "martell",
-            "loyal": true,
-            "cost": 1,
-            "traits": [],
-            "text": "<b>Reaction:</b> After a character you control is killed for [military] claim, if you control fewer characters than the attacking player, that player must choose and kill an attacking character.",
-            "flavor": "\"Only royal blood can wash out my father's murder.\" <cite>Nymeria Sand</cite>",
+            "loyal": false,
+            "cost": 2,
+            "traits": [
+                "Warship"
+            ],
+            "text": "Shadow (0).\n<b>Reaction:</b> After Dornish Sloop comes out of shadows, choose a character with printed cost 5 or lower. Until the end of the phase, that character loses a challenge icon of your choice.\n+1 Reserve.",
             "deckLimit": 40,
-            "illustrator": "Régis Moulun",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/MaV/48_Retribution.png",
+            "illustrator": "Gergely Nagy",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/LotW/68_Dornish_Sloop.png",
             "rarity": "Common"
         },
         {
@@ -2389,6 +2397,7 @@
                 "R'hllor"
             ],
             "text": "Insight.\n<b>Reaction:</b> After you win a challenge in which Melisandre is attacking, sacrifice another character to choose a non-loyal character with lower printed cost and take control of it. (Limit once per round.)\n<b>Draft format only.</b>",
+            "flavor": "\"I pray for a glimpse of Azor Ahai, and R'hllor shows me only Snow.\"",
             "deckLimit": 40,
             "illustrator": "Alexandre Dainche",
             "imageUrl": "https://i.imgur.com/kRkXIPu.png",
@@ -2761,6 +2770,7 @@
                 "Wildling"
             ],
             "text": "<b>Action:</b> Kneel a non-limited location to choose a character. Until the end of the phase, that character gains pillage or stealth. (Limit once per round.)\n<b>Draft format only.</b>",
+            "flavor": "Lord Manderly had brought musicians from White Harbor, but none were singers, so when Abel turned up at the gates with a lute and six women, he had been made welcome.",
             "deckLimit": 40,
             "illustrator": "Jean-Baptiste Greuze",
             "imageUrl": "https://i.imgur.com/JHLupcg.png",
@@ -2992,6 +3002,32 @@
         {
             "code": "00224",
             "type": "character",
+            "name": "Tytos Blackwood",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "stark",
+            "loyal": true,
+            "cost": 6,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "House Tully",
+                "Lord"
+            ],
+            "text": "Renown.\nWhile Tytos Blackwood is participating in a challenge, treat each other character without power as if its printed text box were blank (except for <i>Traits</i>).",
+            "deckLimit": 40,
+            "illustrator": "Anh Bui",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/LotW/71_Tytos_Blackwood.png",
+            "rarity": "Rare"
+        },
+        {
+            "code": "00225",
+            "type": "character",
             "name": "Rickard Karstark",
             "octgnId": null,
             "quantity": 3,
@@ -3013,26 +3049,6 @@
             "deckLimit": 40,
             "illustrator": "Jeff Lee Johnson",
             "imageUrl": "https://i.imgur.com/I6GyCTh.png",
-            "rarity": "Rare"
-        },
-        {
-            "code": "00225",
-            "type": "location",
-            "name": "Winterfell Castle",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": true,
-            "faction": "stark",
-            "loyal": true,
-            "cost": 5,
-            "traits": [
-                "Stronghold",
-                "Winterfell"
-            ],
-            "text": "Each character with the highest printed cost among unique [stark] characters you control gains the <i>Old Gods</i> trait and insight.\n<b>Interrupt:</b> When an <i>Old Gods</i> card would be killed or discarded from play, kneel that card to save it. (Limit once per phase.)",
-            "deckLimit": 40,
-            "illustrator": "Lino Drieghe",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/18_Winterfell%20Castle.png",
             "rarity": "Rare"
         },
         {
@@ -3649,6 +3665,7 @@
                 "Lord"
             ],
             "text": "Shadow (4).\n<b>Action:</b> Return Quentyn Martell to shadows to put a character with lower STR than his into play from your hand or shadows area. At the end of the phase, if it is still in play, return it to your hand. (Max once per round.)\n<b>Draft format only.</b>",
+            "flavor": "Oh, he thought. Then he began to scream.",
             "deckLimit": 40,
             "illustrator": "Tiziano Baracchi",
             "imageUrl": "https://i.imgur.com/V2z6QIQ.png",
@@ -3657,7 +3674,7 @@
         {
             "code": "00251",
             "type": "character",
-            "name": "Tyrion Lannister",
+            "name": "Ser Harry Strickland",
             "octgnId": null,
             "quantity": 3,
             "unique": true,
@@ -3665,18 +3682,21 @@
             "loyal": false,
             "cost": 4,
             "icons": {
-                "military": false,
-                "intrigue": true,
+                "military": true,
+                "intrigue": false,
                 "power": true
             },
             "strength": 3,
             "traits": [
+                "Commander",
+                "Knight",
                 "Mercenary"
             ],
-            "text": "Bestow (3). Stealth.\n<b>Action:</b> Discard 1 gold from Tyrion Lannister to put a <i>Mercenary</i> character into play under your control from any player’s discard pile. At the end of the phase, if that card is still in play, place it on the bottom of its owner's deck. (Limit once per phase.)",
+            "text": "Renown. Shadow (3).\n<b>Reaction:</b> After Ser Harry Strickland enters play, choose and stand a <i>Mercenary</i> character. Until the end of the phase, that character gains a challenge icon of your choice.",
+            "flavor": "Homeless Harry looked little like a warrior.",
             "deckLimit": 40,
-            "illustrator": "Lukasz Jaskolski",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/JS/14_Tyrion_Lannister_ENG.png",
+            "illustrator": "Paw",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/LotW/73_Ser_Harry_Strickland.png",
             "rarity": "Rare"
         },
         {
@@ -3760,6 +3780,31 @@
         {
             "code": "00255",
             "type": "character",
+            "name": "Tyrion Lannister",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Mercenary"
+            ],
+            "text": "Bestow (3). Stealth.\n<b>Action:</b> Discard 1 gold from Tyrion Lannister to put a <i>Mercenary</i> character into play under your control from any player’s discard pile. At the end of the phase, if that card is still in play, place it on the bottom of its owner's deck. (Limit once per phase.)",
+            "deckLimit": 40,
+            "illustrator": "Lukasz Jaskolski",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/JS/14_Tyrion_Lannister_ENG.png",
+            "rarity": "Uncommon"
+        },
+        {
+            "code": "00256",
+            "type": "character",
             "name": "Black Balaq",
             "octgnId": null,
             "quantity": 3,
@@ -3782,32 +3827,6 @@
             "deckLimit": 40,
             "illustrator": "Stephen Patane (Midjourney)",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TTS/73_Black_Balaq.png",
-            "rarity": "Uncommon"
-        },
-        {
-            "code": "00256",
-            "type": "character",
-            "name": "Haldon Halfmaester",
-            "octgnId": "null",
-            "quantity": 3,
-            "unique": true,
-            "faction": "targaryen",
-            "loyal": false,
-            "cost": 3,
-            "icons": {
-                "military": false,
-                "intrigue": true,
-                "power": true
-            },
-            "strength": 2,
-            "traits": [
-                "Companion",
-                "Maester"
-            ],
-            "text": "<b>Reaction:</b> After you win a challenge in which Haldon Halfmaester is participating, reveal the top card of your deck:\n- Place 1 gold from the treasury on a card with the same cardtype.\n- If it is an event, draw it.\n- If it is Aegon Targaryen, put him into play.",
-            "deckLimit": 40,
-            "illustrator": "Mike Gardner",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FH/14_Haldon.png",
             "rarity": "Uncommon"
         },
         {
@@ -4204,6 +4223,7 @@
                 "Rainbow Guard"
             ],
             "text": "Renown.\n<b>Reaction:</b> After you initiate a challenge in which a <i>Knight</i> character is attacking alone, stand that character. (Limit once per round.)\n<b>Draft format only.</b>",
+            "flavor": "\"Grant me your blessing, and a knight to ride beside me with your banner. Let the stag and rose go to battle side by side.\"",
             "deckLimit": 40,
             "illustrator": "Felicia Cano",
             "imageUrl": "https://i.imgur.com/9YbeEz6.png",
@@ -4724,6 +4744,7 @@
                 "Lady"
             ],
             "text": "While Brienne of Tarth has an attachment, she gains renown. Brienne of Tarth gets +1 STR for each attachment she has.\n<b>Draft format only.</b>",
+            "flavor": "\"I promised Jaime. Oathkeeper, he named the sword. I have to try to save her . . . or die in the attempt.\"",
             "deckLimit": 40,
             "illustrator": "Chris Dien",
             "imageUrl": "https://i.imgur.com/Qi1Jw9Z.png",
@@ -5653,6 +5674,7 @@
                 "Winter"
             ],
             "text": "<b>When Revealed:</b> You may kill a character you control (cannot be saved). If you do, put another character into play from your dead or discard pile.\nDraft format only.",
+            "flavor": "\"Call it what you will. Glamor, seeming, illusion. R'hllor is Lord of Light, Jon Snow, and it is given to his servants to weave with it, as others weave with thread.\" <cite>Melisandre</cite>",
             "deckLimit": 2,
             "illustrator": "Lukasz Jaskolski",
             "imageUrl": "https://i.imgur.com/XesVziO.png",
@@ -6014,6 +6036,7 @@
                 "Mercenary"
             ],
             "text": "Wandering Knight gets +1 STR for each non-limited location you control. While its STR is 5 or greater, it gains a [power] icon.\nDraft format only.",
+            "flavor": "\"Other knights serve the lords who keep them, or from whom they hold their lands, but we serve where we will, for men whose causes we believe in.\" <cite>Ser Arlan of Pennytree</cite>",
             "deckLimit": 40,
             "illustrator": "Eugène Joseph Verboeckhoven",
             "imageUrl": "https://i.imgur.com/fv6zLb4.png",
@@ -6145,6 +6168,7 @@
                 "Item"
             ],
             "text": "Character you control only.\nAttached character gains the named <i>Trait</i>.\n<b>Reaction:</b> After Face Mask enters play, name a <i>Trait</i>.\n<b>Draft format only.</b>",
+            "flavor": "\"Your name will be a lie, and the very face you wear will not be your own.\" <cite>Plague Face</cite>",
             "deckLimit": 40,
             "illustrator": "Victor Wong",
             "imageUrl": "https://i.imgur.com/w3mGt0M.png",
@@ -6220,6 +6244,7 @@
                 "Companion"
             ],
             "text": "Immune to <i>Omen</i> card effects.\n<b>Marshaling Action:</b> Kneel Hot Pie to place a pie token on a character. That character gets +1 STR.\n<b>Draft format only.</b>",
+            "flavor": "\"Everyone was yelling stuff. Hot Pie yelled hot pie. He must have yelled it a hundred times.\" <cite>Arya Stark</cite>",
             "deckLimit": 40,
             "illustrator": "Roman Papsuev",
             "imageUrl": "https://i.imgur.com/QnlcOML.png",

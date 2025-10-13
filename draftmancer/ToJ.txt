@@ -459,7 +459,7 @@
                 "rarity": "common"
         },
         {            
-                "name": "Reaver's Axe",
+                "name": "Kraken's Hatchet",
                 "mana_cost": "1",
                 "type": "Enchantment",
                 "image": "https://i.imgur.com/KHi8Go6.png",
@@ -620,6 +620,13 @@
                 "rarity": "common"
         },
         {            
+                "name": "King's Landing Dromond (ToJ)",
+                "mana_cost": "2",
+                "type": "Artifact",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/LotW/66_Kings_Landing_Dromond.png",
+                "rarity": "common"
+        },
+        {            
                 "name": "Silverhill River",
                 "mana_cost": "2",
                 "type": "Artifact",
@@ -631,13 +638,6 @@
                 "mana_cost": "2",
                 "type": "Instant",
                 "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/15_Burning%20Bright.png",
-                "rarity": "common"
-        },
-        {            
-                "name": "One, Two, Three (ToJ)",
-                "mana_cost": "1",
-                "type": "Instant",
-                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/09_One%2C%20Two%2C%20Three.png",
                 "rarity": "common"
         },
         {
@@ -704,10 +704,10 @@
                 "rarity": "uncommon"
         },
         {
-                "name": "Ser Andrey Dalt (ToJ)",
-                "mana_cost": "4",
+                "name": "Ser Gulian Qorgyle (ToJ)",
+                "mana_cost": "3",
                 "type": "Creature",
-                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/10_Ser%20Andrey%20Dalt.png",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/MaV/47_Ser_Gulian_Qorgyle.png",
                 "rarity": "uncommon"
         },
         {
@@ -795,10 +795,10 @@
                 "rarity": "common"
         },
         {
-                "name": "Red Mountains (ToJ)",
-                "mana_cost": "1",
+                "name": "Dornish Sloop (ToJ)",
+                "mana_cost": "2",
                 "type": "Artifact",
-                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TIC/88_Red_Mountains.png",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/LotW/68_Dornish_Sloop.png",
                 "rarity": "common"
         },
         {
@@ -963,17 +963,17 @@
                 "rarity": "common"
         },
         {
+                "name": "Grey Galley (ToJ)",
+                "mana_cost": "2",
+                "type": "Artifact",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/MaV/50_Grey_Galley.png",
+                "rarity": "common"
+        },
+        {
                 "name": "You Know Nothing (ToJ)",
                 "mana_cost": "1",
                 "type": "Instant",
                 "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/15_You%20Know%20Nothing.png",
-                "rarity": "common"
-        },
-        {
-                "name": "Corn, Corn, Corn (ToJ)",
-                "mana_cost": "0",
-                "type": "Instant",
-                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/25_Corn,%20Corn,%20Corn.png",
                 "rarity": "common"
         },
         {
@@ -998,17 +998,17 @@
                 "rarity": "rare"
         },
         {
+                "name": "Tytos Blackwood (ToJ)",
+                "mana_cost": "6",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/LotW/71_Tytos_Blackwood.png",
+                "rarity": "rare"
+        },
+        {
                 "name": "Rickard Karstark (ToJ)",
                 "mana_cost": "5",
                 "type": "Creature",
                 "image": "https://i.imgur.com/I6GyCTh.png",
-                "rarity": "rare"
-        },
-        {
-                "name": "Winterfell Castle (ToJ)",
-                "mana_cost": "5",
-                "type": "Artifact",
-                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/18_Winterfell%20Castle.png",
                 "rarity": "rare"
         },
         {
@@ -1166,6 +1166,13 @@
                 "rarity": "rare"
         },
         {
+                "name": "Magister Illyrio (ToJ)",
+                "mana_cost": "6",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/MaV/53_Magister_Illyrio.png",
+                "rarity": "rare"
+        },
+        {
                 "name": "Quentyn Martell (ToJ)",
                 "mana_cost": "5",
                 "type": "Creature",
@@ -1180,17 +1187,10 @@
                 "rarity": "rare"
         },
         {
-                "name": "Tyrion Lannister (ToJ)",
+                "name": "Ser Harry Strickland (ToJ)",
                 "mana_cost": "4",
                 "type": "Creature",
-                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/JS/14_Tyrion_Lannister_ENG.png",
-                "rarity": "rare"
-        },
-        {
-                "name": "Hero (ToJ)",
-                "mana_cost": "4",
-                "type": "Creature",
-                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/19_Hero.png",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/LotW/73_Ser_Harry_Strickland.png",
                 "rarity": "rare"
         },
         {
@@ -1215,17 +1215,17 @@
                 "rarity": "uncommon"
         },
         {
+                "name": "Tyrion Lannister (ToJ)",
+                "mana_cost": "4",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/JS/14_Tyrion_Lannister_ENG.png",
+                "rarity": "uncommon"
+        },
+        {
                 "name": "Black Balaq (ToJ)",
                 "mana_cost": "3",
                 "type": "Creature",
                 "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TTS/73_Black_Balaq.png",
-                "rarity": "uncommon"
-        },
-        {
-                "name": "Haldon Halfmaester (ToJ)",
-                "mana_cost": "3",
-                "type": "Creature",
-                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FH/14_Haldon.png",
                 "rarity": "uncommon"
         },
         {
@@ -1782,6 +1782,13 @@
                 "rarity": "uncommon"
         },
         {
+                "name": "Strained Reserves (ToJ)",
+                "mana_cost": "3",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/4hkwfMY.png",
+                "rarity": "uncommon"
+        },
+        {
                 "name": "Striking at Dawn (ToJ)",
                 "mana_cost": "5",
                 "type": "Sorcery",
@@ -1824,10 +1831,10 @@
                 "rarity": "uncommon"
         },
         {
-                "name": "Wardens of the East (ToJ)",
+                "name": "Battle Beneath the Wall (ToJ)",
                 "mana_cost": "5",
                 "type": "Sorcery",
-                "image": "https://i.imgur.com/vJzOvEM.png",
+                "image": "https://i.imgur.com/PmMe9u2.png",
                 "rarity": "uncommon"
         },
         {
@@ -1948,13 +1955,6 @@
                 "type": "Instant",
                 "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WK/118_A_Thousand_Eyes,_and_One.png",
                 "rarity": "common"
-        },
-        {
-                "name": "A Southron Peace (ToJ)",
-                "mana_cost": "4",
-                "type": "Sorcery",
-                "image": "https://i.imgur.com/RYc9ESM.png",
-                "rarity": "uncommon"
         },
         {
                 "name": "Hot Pie (ToJ)",
@@ -2199,17 +2199,17 @@ Sentinel Stand (ToJ)
 Robb Stark (ToJ)
 The Blackfish (ToJ)
 Roose Bolton (ToJ)
+Tytos Blackwood (ToJ)
 Rickard Karstark (ToJ)
-Winterfell Castle (ToJ)
 The Crag (ToJ)
 Grey Wind (ToJ)
 Aegon Targaryen (ToJ)
 Ser Barristan Selmy (ToJ)
 Daenerys Targaryen (ToJ)
+Magister Illyrio (ToJ)
 Quentyn Martell (ToJ)
 Lysono Maar (ToJ)
-Tyrion Lannister (ToJ)
-Hero (ToJ)
+Ser Harry Strickland (ToJ)
 Randyll Tarly (ToJ)
 Margaery Tyrell (ToJ)
 Mace Tyrell (ToJ)
@@ -2280,8 +2280,8 @@ Sentinel Stand (ToJ)
 Robb Stark (ToJ)
 The Blackfish (ToJ)
 Roose Bolton (ToJ)
+Tytos Blackwood (ToJ)
 Rickard Karstark (ToJ)
-Winterfell Castle (ToJ)
 The Crag (ToJ)
 Grey Wind (ToJ)
 Aegon Targaryen (ToJ)
@@ -2289,8 +2289,8 @@ Ser Barristan Selmy (ToJ)
 Daenerys Targaryen (ToJ)
 Quentyn Martell (ToJ)
 Lysono Maar (ToJ)
-Tyrion Lannister (ToJ)
-Hero (ToJ)
+Ser Harry Strickland (ToJ)
+Magister Illyrio (ToJ)
 Randyll Tarly (ToJ)
 Margaery Tyrell (ToJ)
 Mace Tyrell (ToJ)
@@ -2349,7 +2349,7 @@ Boots (ToJ)
 Lady Whiskers (ToJ)
 A Lannister's Honor (ToJ)
 Mellario of Norvos (ToJ)
-Ser Andrey Dalt (ToJ)
+Ser Gulian Qorgyle (ToJ)
 Trystane Martell (ToJ)
 Tyene Sand (ToJ)
 Ser Willam Wells (ToJ)
@@ -2374,8 +2374,8 @@ The Wolf's Den (ToJ)
 Greywater Watch (ToJ)
 Grey Worm (ToJ)
 Ser Rolly Duckfield (ToJ)
+Tyrion Lannister (ToJ)
 Black Balaq (ToJ)
-Haldon Halfmaester (ToJ)
 Septa Lemore (ToJ)
 Beneath the Gold, the Bitter Steel (ToJ)
 Grey Worm's Spear (ToJ)
@@ -2404,9 +2404,9 @@ The Bloody Gate (ToJ)
 Milkwater Crossing (ToJ)
 Sweetsleep (ToJ)
 As High as Honor (ToJ)
-A Southron Peace (ToJ)
 All Men Must Serve
 At the Tower of Joy (ToJ)
+Battle Beneath the Wall (ToJ)
 Battle of the Camps (ToJ)
 Burning the Books (ToJ)
 City Blockade (ToJ)
@@ -2417,13 +2417,13 @@ Enemies in Every Shadow (ToJ)
 For the Realm (ToJ)
 Melisandre's Gambit
 Open Revolt (ToJ)
+Strained Reserves (ToJ)
 Striking at Dawn (ToJ)
 The Crone (ToJ)
 The Defiance of Duskendale (ToJ)
 The Mother (ToJ)
 The Pointy End (ToJ)
 The Smith (ToJ)
-Wardens of the East (ToJ)
 [Common]
 Myrish Pirates
 Blackhaven Rider (ToJ)
@@ -2439,16 +2439,16 @@ Saltcliffe Marauder
 Harlaw Scout (ToJ)
 Old Captain (ToJ)
 Stony Shore Thrall
-Reaver's Axe
+Kraken's Hatchet
 Though All Men Do Despise Us (ToJ)
 Warrior's Sons (ToJ)
 Cruel Brigand
 The Imp's Agent (ToJ)
 Ashemark Councilor (ToJ)
 Eager Opportunist
+King's Landing Dromond (ToJ)
 Silverhill River
 Burning Bright (ToJ)
-One, Two, Three (ToJ)
 Ghost Hill Elite (ToJ)
 Starfall Servant
 Windblown (ToJ)
@@ -2456,15 +2456,15 @@ Scheming Snake (ToJ)
 Desert Freerider
 Vengeful Lordling
 A Bed of Scorpions (ToJ)
-Red Mountains (ToJ)
+Dornish Sloop (ToJ)
 Tormund's Horde
 Abel's Washerwoman
 Marsh's Conspirator (ToJ)
 Old Steward (ToJ)
 Wall-Bound Knight
 Highborn Recruit (ToJ)
+Grey Galley (ToJ)
 You Know Nothing (ToJ)
-Corn, Corn, Corn (ToJ)
 The Bastard's Boys (ToJ)
 Crannogmen (ToJ)
 Merman's Guard
