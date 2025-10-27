@@ -7,7 +7,7 @@
     "cards": [
         {
             "code": "26501",
-            "version": "1.2.0",
+            "version": "1.3.0",
             "type": "character",
             "name": "Melisandre",
             "octgnId": null,
@@ -26,10 +26,10 @@
                 "Lady",
                 "R'hllor"
             ],
-            "text": "Shadow (5). Stealth.\n<b>Reaction:</b> After you win a challenge in which you control a participating character with shadow, choose a character. Until the end of the phase, that character gets -1 STR, and is placed in shadows if its STR is 0. (Limit 3 times per phase.)",
+            "text": "Shadow (5).\nEach participating character without shadow gets -1 STR and is placed in shadows if its STR is 0.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/1@1.2.0.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/1@1.3.0.png"
         },
         {
             "code": "26506",
@@ -326,22 +326,22 @@
         },
         {
             "code": "26543",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "type": "attachment",
             "name": "The Viper's Spear",
             "octgnId": null,
             "quantity": 3,
             "unique": true,
             "faction": "martell",
-            "loyal": true,
+            "loyal": false,
             "cost": 2,
             "traits": [
                 "Weapon"
             ],
-            "text": "<i>Sand Snake</i> or The Red Viper only.\nAttached character does not kneel when declared as an attacker against an opponent who controls more characters than you.",
+            "text": "<i>Sand Snake</i> or The Red Viper only.\nAttached character gets +3 STR during [military] challenges, and does not kneel when declared as an attacker in a [military] challenge against an opponent who controls more characters than you.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/43@1.0.0.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/26/43@1.0.1.png"
         },
         {
             "code": "26544",
