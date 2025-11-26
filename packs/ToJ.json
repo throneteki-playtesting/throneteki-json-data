@@ -4872,6 +4872,7 @@
                 "Omen"
             ],
             "text": "<b>When Revealed:</b> Kill each character.\nDraft format only.",
+            "flavor": "Promise me, she had cried, in a room that smelled of blood and roses. Promise me, Ned.",
             "deckLimit": 1,
             "illustrator": "Józef Simmler",
             "imageUrl": "https://i.imgur.com/QHuWkXI.png",
@@ -5675,7 +5676,7 @@
             ],
             "text": "<b>When Revealed:</b> You may kill a character you control (cannot be saved). If you do, put another character into play from your dead or discard pile.\nDraft format only.",
             "flavor": "\"Call it what you will. Glamor, seeming, illusion. R'hllor is Lord of Light, Jon Snow, and it is given to his servants to weave with it, as others weave with thread.\" <cite>Melisandre</cite>",
-            "deckLimit": 2,
+            "deckLimit": 1,
             "illustrator": "Lukasz Jaskolski",
             "imageUrl": "https://i.imgur.com/XesVziO.png",
             "rarity": "Uncommon"
