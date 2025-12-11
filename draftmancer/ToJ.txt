@@ -26,80 +26,38 @@
                     "burns": 0
                 },
             {
-                    "picks": 33,
+                    "picks": 36,
                     "burns": 0
                 },
         ],
         "layouts":
         {
             "DraftPack":
-                {
-                   "weight": 1,
-                    "slots":[
-                    {"name": "Rare",   "count": 1},
-                    {
-                        "name": "UncommonOrPlot",
-                        "count": 1,
-                        "sheets": [
-                            {"name": "Uncommon",   "weight": 8},
-                            {"name": "Plot", "weight": 2}
-                        ]
-                    },
-                    {
-                        "name": "UncommonOrPlot",
-                        "count": 1,
-                        "sheets": [
-                            {"name": "Uncommon",   "weight": 8},
-                            {"name": "Plot", "weight": 2}
-                        ]
-                    },
-                    {
-                        "name": "UncommonOrPlot",
-                        "count": 1,
-                        "sheets": [
-                            {"name": "Uncommon",   "weight": 8},
-                            {"name": "Plot", "weight": 2}
-                        ]
-                    },
-                    {
-                        "name": "UncommonOrPlot",
-                        "count": 1,
-                        "sheets": [
-                            {"name": "Uncommon",   "weight": 8},
-                            {"name": "Plot", "weight": 2}
-                        ]
-                    },
-                    {
-                        "name": "UncommonOrPlot",
-                        "count": 1,
-                        "sheets": [
-                            {"name": "Uncommon",   "weight": 8},
-                            {"name": "Plot", "weight": 2}
-                        ]
-                    },
-                    {"name": "Common",   "count": 6},
+            {
+                "weight": 1,
+                "slots":[
+                    {"name": "Rare",   "count": 2},
+                    {"name": "Uncommon", "count": 5},
+                    {"name": "Common",   "count": 7},
                     {
                         "name": "Foil",
                         "count": 1,
                         "sheets": [
-                            {"name": "FoilRare",   "weight": 1},
-                            {"name": "Uncommon",   "weight": 2},
-                            {"name": "Common",   "weight": 4},
-                            {"name": "Plot",   "weight": 1},
+                            {"name": "FoilRare",   "weight": 167},
+                            {"name": "Uncommon",   "weight": 333},
+                            {"name": "Common",   "weight": 500},
                         ]
                     },
                 ]
-
-
-                },
+            },
             "Starter":
+            {
+                "weight": 1,
+                "slots":
                 {
-                        "weight": 1,
-                    "slots":
-                        {
-                            "Starter": 33
-                        }
+                    "Starter": 36
                 }
+            }
         },
         "predeterminedLayouts": ["DraftPack", "DraftPack", "DraftPack", "DraftPack", "Starter"]
 }
@@ -178,6 +136,13 @@
                     "Legacy","Tapestry"
                 ],
                 "image": "https://i.imgur.com/cXAKM9M.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "Robert's Rebellion (ToJ)",
+                "mana_cost": "5",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/mib6FP7.png",
                 "rarity": "rare"
         },
         {            
@@ -318,15 +283,15 @@
                 "subtypes": [
                         "Ally","Mercenary","Smuggler"
                 ],
-                "image": "https://i.imgur.com/6erD708.png",
+                "image": "https://i.imgur.com/iUdKCWm.png",
                 "power": 2,
                 "rarity": "common"
         },
         {
                 "name": "Nightfort Ruins",
-                "mana_cost": "1",
+                "mana_cost": "0",
                 "type": "Artifact",
-                "image": "https://i.imgur.com/w5CjUgs.png",
+                "image": "https://i.imgur.com/FmnRFAc.png",
                 "rarity": "common"
         },
         {            
@@ -386,6 +351,13 @@
                 "mana_cost": "3",
                 "type": "Enchantment",
                 "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/06_Valyrian%20Steel%20Armor.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "Cast Me Forth (ToJ)",
+                "mana_cost": "4",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/sbIbi96.png",
                 "rarity": "rare"
         },
         {            
@@ -487,10 +459,10 @@
                 "rarity": "common"
         },
         {            
-                "name": "Raider's Axe",
+                "name": "Kraken's Hatchet",
                 "mana_cost": "1",
                 "type": "Enchantment",
-                "image": "https://i.imgur.com/FjhH8j8.png",
+                "image": "https://i.imgur.com/KHi8Go6.png",
                 "rarity": "common"
         },
         {            
@@ -549,7 +521,14 @@
                 "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WAID/6_Lannisport.png",
                 "rarity": "rare"
         },
-        {            
+        {
+                "name": "The Sack of King's Landing (ToJ)",
+                "mana_cost": "5",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/rZkYjZj.png",
+                "rarity": "rare"
+        },
+        {
                 "name": "Ser Addam Marbrand (ToJ)",
                 "mana_cost": "5",
                 "type": "Creature",
@@ -641,10 +620,17 @@
                 "rarity": "common"
         },
         {            
-                "name": "Hillside River",
+                "name": "King's Landing Dromond (ToJ)",
                 "mana_cost": "2",
                 "type": "Artifact",
-                "image": "https://i.imgur.com/UVsNWlw.png",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/LotW/66_Kings_Landing_Dromond.png",
+                "rarity": "common"
+        },
+        {            
+                "name": "Silverhill River",
+                "mana_cost": "2",
+                "type": "Artifact",
+                "image": "https://i.imgur.com/7hg3kdu.png",
                 "rarity": "common"
         },
         {            
@@ -654,18 +640,11 @@
                 "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/15_Burning%20Bright.png",
                 "rarity": "common"
         },
-        {            
-                "name": "One, Two, Three (ToJ)",
-                "mana_cost": "1",
-                "type": "Instant",
-                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/09_One%2C%20Two%2C%20Three.png",
-                "rarity": "common"
-        },
         {
-                "name": "Doran Martell (ToJ)",
-                "mana_cost": "6",
+                "name": "Lord Anders's Host (ToJ)",
+                "mana_cost": "8",
                 "type": "Creature",
-                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/7%20-%20Doran%20Martell.png",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/10_Lord%20Anders's%20Host.png",
                 "rarity": "rare"
         },
         {
@@ -673,6 +652,13 @@
                 "mana_cost": "6",
                 "type": "Creature",
                 "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/16_Anders%20Yronwood.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "Doran Martell (ToJ)",
+                "mana_cost": "6",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/7%20-%20Doran%20Martell.png",
                 "rarity": "rare"
         },
         {
@@ -690,13 +676,6 @@
                 "rarity": "rare"
         },
         {
-                "name": "Elia Sand (ToJ)",
-                "mana_cost": "4",
-                "type": "Creature",
-                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/JS/7_Elia_Sand_ENG.png",
-                "rarity": "rare"
-        },
-        {
                 "name": "The Tattered Prince (ToJ)",
                 "mana_cost": "3",
                 "type": "Creature",
@@ -711,6 +690,13 @@
                 "rarity": "rare"
         },
         {
+                "name": "The Dornish Wars (ToJ)",
+                "mana_cost": "4",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/IU7V38L.png",
+                "rarity": "rare"
+        },
+        {
                 "name": "Mellario of Norvos (ToJ)",
                 "mana_cost": "4",
                 "type": "Creature",
@@ -718,10 +704,10 @@
                 "rarity": "uncommon"
         },
         {
-                "name": "Ser Andrey Dalt (ToJ)",
-                "mana_cost": "4",
+                "name": "Ser Gulian Qorgyle (ToJ)",
+                "mana_cost": "3",
                 "type": "Creature",
-                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/10_Ser%20Andrey%20Dalt.png",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/MaV/47_Ser_Gulian_Qorgyle.png",
                 "rarity": "uncommon"
         },
         {
@@ -809,10 +795,10 @@
                 "rarity": "common"
         },
         {
-                "name": "Red Mountains (ToJ)",
-                "mana_cost": "1",
+                "name": "Dornish Sloop (ToJ)",
+                "mana_cost": "2",
                 "type": "Artifact",
-                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TIC/88_Red_Mountains.png",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/LotW/68_Dornish_Sloop.png",
                 "rarity": "common"
         },
         {
@@ -872,6 +858,13 @@
                 "rarity": "rare"
         },
         {
+                "name": "The Watch Needs Good Men (ToJ)",
+                "mana_cost": "3",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/2rOC24N.png",
+                "rarity": "rare"
+        },
+        {
                 "name": "Samwell Tarly (ToJ)",
                 "mana_cost": "6",
                 "type": "Creature",
@@ -900,10 +893,10 @@
                 "rarity": "uncommon"
         },
         {
-                "name": "Weirwood Grove (ToJ)",
+                "name": "Lord Steward (ToJ)",
                 "mana_cost": "2",
-                "type": "Artifact",
-                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WK/110_Weirwood_Grove.png",
+                "type": "Enchantment",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/23_Lord%20Steward.png",
                 "rarity": "uncommon"
         },
         {
@@ -928,10 +921,10 @@
                 "rarity": "uncommon"
         },
         {
-                "name": "Mance's Warriors",
+                "name": "Tormund's Horde",
                 "mana_cost": "5",
                 "type": "Creature",
-                "image": "https://i.imgur.com/wpgUNBC.png",
+                "image": "https://i.imgur.com/w4vvkfr.png",
                 "rarity": "common"
         },
         {
@@ -970,17 +963,17 @@
                 "rarity": "common"
         },
         {
+                "name": "Grey Galley (ToJ)",
+                "mana_cost": "2",
+                "type": "Artifact",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/MaV/50_Grey_Galley.png",
+                "rarity": "common"
+        },
+        {
                 "name": "You Know Nothing (ToJ)",
                 "mana_cost": "1",
                 "type": "Instant",
                 "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/15_You%20Know%20Nothing.png",
-                "rarity": "common"
-        },
-        {
-                "name": "Corn, Corn, Corn (ToJ)",
-                "mana_cost": "0",
-                "type": "Instant",
-                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/25_Corn,%20Corn,%20Corn.png",
                 "rarity": "common"
         },
         {
@@ -1005,17 +998,17 @@
                 "rarity": "rare"
         },
         {
+                "name": "Tytos Blackwood (ToJ)",
+                "mana_cost": "6",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/LotW/71_Tytos_Blackwood.png",
+                "rarity": "rare"
+        },
+        {
                 "name": "Rickard Karstark (ToJ)",
                 "mana_cost": "5",
                 "type": "Creature",
                 "image": "https://i.imgur.com/I6GyCTh.png",
-                "rarity": "rare"
-        },
-        {
-                "name": "Winterfell Castle (ToJ)",
-                "mana_cost": "5",
-                "type": "Artifact",
-                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/18_Winterfell%20Castle.png",
                 "rarity": "rare"
         },
         {
@@ -1030,6 +1023,13 @@
                 "mana_cost": "3",
                 "type": "Enchantment",
                 "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/18_Grey%20Wind.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "The Hour of the Wolf (ToJ)",
+                "mana_cost": "5",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/PwZSxCi.png",
                 "rarity": "rare"
         },
         {
@@ -1141,7 +1141,7 @@
                 "name": "Wolf Dreams (ToJ)",
                 "mana_cost": "1",
                 "type": "Instant",
-                "image": "https://i.imgur.com/ckDsfwH.png",
+                "image": "https://i.imgur.com/UeSUqWx.png",
                 "rarity": "common"
         },
         {
@@ -1166,6 +1166,13 @@
                 "rarity": "rare"
         },
         {
+                "name": "Magister Illyrio (ToJ)",
+                "mana_cost": "6",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/MaV/53_Magister_Illyrio.png",
+                "rarity": "rare"
+        },
+        {
                 "name": "Quentyn Martell (ToJ)",
                 "mana_cost": "5",
                 "type": "Creature",
@@ -1180,17 +1187,17 @@
                 "rarity": "rare"
         },
         {
-                "name": "Tyrion Lannister (ToJ)",
+                "name": "Ser Harry Strickland (ToJ)",
                 "mana_cost": "4",
                 "type": "Creature",
-                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/JS/14_Tyrion_Lannister_ENG.png",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/LotW/73_Ser_Harry_Strickland.png",
                 "rarity": "rare"
         },
         {
-                "name": "Hero (ToJ)",
+                "name": "Dance of the Dragons (ToJ)",
                 "mana_cost": "4",
-                "type": "Creature",
-                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/19_Hero.png",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/CZ4UApJ.png",
                 "rarity": "rare"
         },
         {
@@ -1208,17 +1215,17 @@
                 "rarity": "uncommon"
         },
         {
+                "name": "Tyrion Lannister (ToJ)",
+                "mana_cost": "4",
+                "type": "Creature",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/JS/14_Tyrion_Lannister_ENG.png",
+                "rarity": "uncommon"
+        },
+        {
                 "name": "Black Balaq (ToJ)",
                 "mana_cost": "3",
                 "type": "Creature",
                 "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TTS/73_Black_Balaq.png",
-                "rarity": "uncommon"
-        },
-        {
-                "name": "Haldon Halfmaester (ToJ)",
-                "mana_cost": "3",
-                "type": "Creature",
-                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FH/14_Haldon.png",
                 "rarity": "uncommon"
         },
         {
@@ -1355,6 +1362,13 @@
                 "rarity": "rare"
         },
         {
+                "name": "Chivalry of the South (ToJ)",
+                "mana_cost": "5",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/okSAbxP.png",
+                "rarity": "rare"
+        },
+        {
                 "name": "Ser Bryce Caron (ToJ)",
                 "mana_cost": "5",
                 "type": "Creature",
@@ -1418,10 +1432,10 @@
                 "rarity": "common"
         },
         {
-                "name": "Wandering Knight",
+                "name": "Brightwater Cavalry",
                 "mana_cost": "3",
                 "type": "Creature",
-                "image": "https://i.imgur.com/NceV1xG.png",
+                "image": "https://i.imgur.com/f2B1qLo.png",
                 "rarity": "common"
         },
         {
@@ -1519,7 +1533,63 @@
                 "name": "The Tower of Joy",
                 "mana_cost": "1",
                 "type": "Artifact",
-                "image": "https://i.imgur.com/04987Zo.png",
+                "image": "https://i.imgur.com/dJqLCbP.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "All Men Must Die",
+                "mana_cost": "2",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/dHRd0Xi.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "Battle on the Green Fork (ToJ)",
+                "mana_cost": "4",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/MFI3XO6.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "Bran the Builder (ToJ)",
+                "mana_cost": "5",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/KpVNb68.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "The Father (ToJ)",
+                "mana_cost": "6",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/PmUOhWL.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "The Mad King's Command (ToJ)",
+                "mana_cost": "3",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/L2pA3Fr.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "The Maiden (ToJ)",
+                "mana_cost": "6",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/wqUPXyG.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "The Stranger (ToJ)",
+                "mana_cost": "3",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/xCs4BVa.png",
+                "rarity": "rare"
+        },
+        {
+                "name": "The Warrior (ToJ)",
+                "mana_cost": "6",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/82PiHMy.png",
                 "rarity": "rare"
         },
         {
@@ -1635,6 +1705,146 @@
                 "rarity": "uncommon"
         },
         {
+                "name": "All Men Must Serve",
+                "mana_cost": "4",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/6NAarN7.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "At the Tower of Joy (ToJ)",
+                "mana_cost": "3",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/5bVqDve.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "Battle of the Camps (ToJ)",
+                "mana_cost": "4",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/EXFjhcN.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "Burning the Books (ToJ)",
+                "mana_cost": "5",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/0T9YhCZ.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "City Blockade (ToJ)",
+                "mana_cost": "5",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/vOv9WNb.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "City Festival (ToJ)",
+                "mana_cost": "2",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/J8PNBEY.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "City of Ice",
+                "mana_cost": "4",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/0I3ORHE.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "Enemies in Every Shadow (ToJ)",
+                "mana_cost": "6",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/kqNZABo.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "For the Realm (ToJ)",
+                "mana_cost": "4",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/Vo2N2su.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "Melisandre's Gambit",
+                "mana_cost": "2",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/opj1WOH.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "Open Revolt (ToJ)",
+                "mana_cost": "4",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/UGuewNC.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "Strained Reserves (ToJ)",
+                "mana_cost": "3",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/4hkwfMY.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "Striking at Dawn (ToJ)",
+                "mana_cost": "5",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/kEbmZZk.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "The Crone (ToJ)",
+                "mana_cost": "6",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/jUZIGYg.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "The Defiance of Duskendale (ToJ)",
+                "mana_cost": "4",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/VbslRTz.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "The Mother (ToJ)",
+                "mana_cost": "6",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/SGDKPMN.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "The Pointy End (ToJ)",
+                "mana_cost": "4",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/oNoEoW2.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "The Smith (ToJ)",
+                "mana_cost": "6",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/VyxdOoe.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "Battle Beneath the Wall (ToJ)",
+                "mana_cost": "5",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/PmMe9u2.png",
+                "rarity": "uncommon"
+        },
+        {
+                "name": "City of Shadows (ToJ)",
+                "mana_cost": "4",
+                "type": "Sorcery",
+                "image": "https://i.imgur.com/Mn5K13J.png",
+                "rarity": "uncommon"
+        },
+        {
                 "name": "Gulltown City Guard (ToJ)",
                 "mana_cost": "6",
                 "type": "Creature",
@@ -1649,6 +1859,13 @@
                 "rarity": "common"
         },
         {
+                "name": "Maester of the Eyrie",
+                "mana_cost": "5",
+                "type": "Creature",
+                "image": "https://i.imgur.com/cR5lvDz.png",
+                "rarity": "common"
+        },
+        {
                 "name": "Mummer's Troupe",
                 "mana_cost": "4",
                 "type": "Creature",
@@ -1656,10 +1873,10 @@
                 "rarity": "common"
         },
         {
-                "name": "Faceless Man (ToJ)",
+                "name": "Harrenhal Cupbearer (ToJ)",
                 "mana_cost": "3",
                 "type": "Creature",
-                "image": "https://i.imgur.com/vCFkmZC.png",
+                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WAID/17_Harrenhal_Cupbearer.png",
                 "rarity": "common"
         },
         {
@@ -1670,10 +1887,10 @@
                 "rarity": "common"
         },
         {
-                "name": "Winged Knight (ToJ)",
-                "mana_cost": "2",
+                "name": "Wandering Knight",
+                "mana_cost": "3",
                 "type": "Creature",
-                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/29%20-%20Winged%20Knight.png",
+                "image": "https://i.imgur.com/fv6zLb4.png",
                 "rarity": "common"
         },
         {
@@ -1688,13 +1905,6 @@
                 "mana_cost": "2",
                 "type": "Creature",
                 "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/27_Squire.png",
-                "rarity": "common"
-        },
-        {
-                "name": "Little Bird (ToJ)",
-                "mana_cost": "2",
-                "type": "Creature",
-                "image": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TIC/97_Little_Bird.png",
                 "rarity": "common"
         },
         {
@@ -1747,234 +1957,10 @@
                 "rarity": "common"
         },
         {
-                "name": "Robert's Rebellion (ToJ)",
-                "mana_cost": "5",
-                "type": "Sorcery",
-                "image": "https://i.imgur.com/mib6FP7.png",
-                "rarity": "common"
-        },
-        {
-                "name": "Cast Me Forth (ToJ)",
-                "mana_cost": "4",
-                "type": "Sorcery",
-                "image": "https://i.imgur.com/sbIbi96.png",
-                "rarity": "rare"
-        },
-        {
-                "name": "The Sack of King's Landing (ToJ)",
-                "mana_cost": "5",
-                "type": "Sorcery",
-                "image": "https://i.imgur.com/rZkYjZj.png",
-                "rarity": "rare"
-        },
-        {
-                "name": "The Dornish Wars (ToJ)",
-                "mana_cost": "4",
-                "type": "Sorcery",
-                "image": "https://i.imgur.com/IU7V38L.png",
-                "rarity": "rare"
-        },
-        {
-                "name": "The Watch Needs Good Men (ToJ)",
-                "mana_cost": "3",
-                "type": "Sorcery",
-                "image": "https://i.imgur.com/2rOC24N.png",
-                "rarity": "rare"
-        },
-        {
-                "name": "The Hour of the Wolf (ToJ)",
-                "mana_cost": "5",
-                "type": "Sorcery",
-                "image": "https://i.imgur.com/PwZSxCi.png",
-                "rarity": "rare"
-        },
-        {
-                "name": "Dance of the Dragons (ToJ)",
-                "mana_cost": "4",
-                "type": "Sorcery",
-                "image": "https://i.imgur.com/CZ4UApJ.png",
-                "rarity": "rare"
-        },
-        {
-                "name": "Chivalry of the South (ToJ)",
-                "mana_cost": "5",
-                "type": "Sorcery",
-                "image": "https://i.imgur.com/okSAbxP.png",
-                "rarity": "rare"
-        },
-        {
-                "name": "A Southron Peace (ToJ)",
-                "mana_cost": "4",
-                "type": "Sorcery",
-                "image": "https://i.imgur.com/RYc9ESM.png",
-                "rarity": "rare"
-        },
-        {
-                "name": "At the Tower of Joy (ToJ)",
-                "mana_cost": "3",
-                "type": "Sorcery",
-                "image": "https://i.imgur.com/5bVqDve.png",
-                "rarity": "rare"
-        },
-        {
-                "name": "Battle of the Camps (ToJ)",
-                "mana_cost": "4",
-                "type": "Sorcery",
-                "image": "https://i.imgur.com/EXFjhcN.png",
-                "rarity": "rare"
-        },
-        {
-                "name": "Battle on the Green Fork (ToJ)",
-                "mana_cost": "4",
-                "type": "Sorcery",
-                "image": "https://i.imgur.com/MFI3XO6.png",
-                "rarity": "rare"
-        },
-        {
-                "name": "Bran the Builder (ToJ)",
-                "mana_cost": "5",
-                "type": "Sorcery",
-                "image": "https://i.imgur.com/KpVNb68.png",
-                "rarity": "rare"
-        },
-        {
-                "name": "Burning the Books (ToJ)",
-                "mana_cost": "5",
-                "type": "Sorcery",
-                "image": "https://i.imgur.com/0T9YhCZ.png",
-                "rarity": "rare"
-        },
-        {
-                "name": "City Blockade (ToJ)",
-                "mana_cost": "5",
-                "type": "Sorcery",
-                "image": "https://i.imgur.com/vOv9WNb.png",
-                "rarity": "rare"
-        },
-        {
-                "name": "City Festival (ToJ)",
-                "mana_cost": "2",
-                "type": "Sorcery",
-                "image": "https://i.imgur.com/J8PNBEY.png",
-                "rarity": "rare"
-        },
-        {
-                "name": "Enemies in Every Shadow (ToJ)",
-                "mana_cost": "6",
-                "type": "Sorcery",
-                "image": "https://i.imgur.com/kqNZABo.png",
-                "rarity": "rare"
-        },
-        {
-                "name": "For the Realm (ToJ)",
-                "mana_cost": "4",
-                "type": "Sorcery",
-                "image": "https://i.imgur.com/Vo2N2su.png",
-                "rarity": "rare"
-        },
-        {
-                "name": "Open Revolt (ToJ)",
-                "mana_cost": "4",
-                "type": "Sorcery",
-                "image": "https://i.imgur.com/Im3QSxU.png",
-                "rarity": "rare"
-        },
-        {
-                "name": "Striking at Dawn (ToJ)",
-                "mana_cost": "5",
-                "type": "Sorcery",
-                "image": "https://i.imgur.com/kEbmZZk.png",
-                "rarity": "rare"
-        },
-        {
-                "name": "The Crone (ToJ)",
-                "mana_cost": "6",
-                "type": "Sorcery",
-                "image": "https://i.imgur.com/jUZIGYg.png",
-                "rarity": "rare"
-        },
-        {
-                "name": "The Defiance of Duskendale (ToJ)",
-                "mana_cost": "4",
-                "type": "Sorcery",
-                "image": "https://i.imgur.com/VbslRTz.png",
-                "rarity": "rare"
-        },
-        {
-                "name": "The Father (ToJ)",
-                "mana_cost": "6",
-                "type": "Sorcery",
-                "image": "https://i.imgur.com/PmUOhWL.png",
-                "rarity": "rare"
-        },
-        {
-                "name": "The Mad King's Command (ToJ)",
-                "mana_cost": "3",
-                "type": "Sorcery",
-                "image": "https://i.imgur.com/L2pA3Fr.png",
-                "rarity": "rare"
-        },
-        {
-                "name": "The Maiden (ToJ)",
-                "mana_cost": "6",
-                "type": "Sorcery",
-                "image": "https://i.imgur.com/wqUPXyG.png",
-                "rarity": "rare"
-        },
-        {
-                "name": "The Mother (ToJ)",
-                "mana_cost": "6",
-                "type": "Sorcery",
-                "image": "https://i.imgur.com/SGDKPMN.png",
-                "rarity": "rare"
-        },
-        {
-                "name": "The Pointy End (ToJ)",
-                "mana_cost": "4",
-                "type": "Sorcery",
-                "image": "https://i.imgur.com/oNoEoW2.png",
-                "rarity": "rare"
-        },
-        {
-                "name": "The Smith (ToJ)",
-                "mana_cost": "6",
-                "type": "Sorcery",
-                "image": "https://i.imgur.com/VyxdOoe.png",
-                "rarity": "rare"
-        },
-        {
-                "name": "The Stranger (ToJ)",
-                "mana_cost": "3",
-                "type": "Sorcery",
-                "image": "https://i.imgur.com/xCs4BVa.png",
-                "rarity": "rare"
-        },
-        {
-                "name": "The Warrior (ToJ)",
-                "mana_cost": "6",
-                "type": "Sorcery",
-                "image": "https://i.imgur.com/82PiHMy.png",
-                "rarity": "rare"
-        },
-        {
-                "name": "Wardens of the East (ToJ)",
-                "mana_cost": "5",
-                "type": "Sorcery",
-                "image": "https://i.imgur.com/vJzOvEM.png",
-                "rarity": "rare"
-        },
-        {
-                "name": "City of Shadows (ToJ)",
-                "mana_cost": "4",
-                "type": "Sorcery",
-                "image": "https://i.imgur.com/Mn5K13J.png",
-                "rarity": "rare"
-        },
-        {
                 "name": "Hot Pie (ToJ)",
                 "mana_cost": "1",
                 "type": "Creature",
-                "image": "https://i.imgur.com/WT0HfBT.png",
+                "image": "https://i.imgur.com/QnlcOML.png",
                 "rarity": "mythic"
         },
         {
@@ -2051,7 +2037,7 @@
                 "name": "Seeking Fortunes",
                 "mana_cost": "",
                 "type": "Land",
-                "image": "https://i.imgur.com/LiupziD.png",
+                "image": "https://i.imgur.com/XR8leH5.png",
                 "rarity": "special"
         },
         {
@@ -2073,6 +2059,13 @@
                 "mana_cost": "",
                 "type": "Land",
                 "image": "https://i.imgur.com/PzOREns.png",
+                "rarity": "special"
+        },
+        {
+                "name": "Faceless Man (ToJ)",
+                "mana_cost": "2",
+                "type": "Creature",
+                "image": "https://i.imgur.com/cP8RIkt.png",
                 "rarity": "special"
         },
         {
@@ -2107,7 +2100,7 @@
                 "name": "The Pale Mare (ToJ)",
                 "mana_cost": "4",
                 "type": "Sorcery",
-                "image": "https://i.imgur.com/TP75CvG.png",
+                "image": "https://i.imgur.com/g8hNKF9.png",
                 "rarity": "special"
         },
         {
@@ -2153,10 +2146,10 @@
                 "rarity": "special"
         },
         {
-                "name": "Freezing Cold",
-                "mana_cost": "3",
+                "name": "Biting Cold",
+                "mana_cost": "4",
                 "type": "Sorcery",
-                "image": "https://i.imgur.com/WZFg1Jt.png",
+                "image": "https://i.imgur.com/rjbCG5G.png",
                 "rarity": "special"
         },
         {
@@ -2189,12 +2182,12 @@ Ser Lancel Lannister (ToJ)
 Tommen Baratheon (ToJ)
 Casterly Rock (ToJ)
 Lannisport (ToJ)
-Doran Martell (ToJ)
+Lord Anders's Host (ToJ)
 Anders Yronwood (ToJ)
+Doran Martell (ToJ)
 Arianne Martell (ToJ)
 Ser Arys Oakheart (ToJ)
 The Tattered Prince (ToJ)
-Elia Sand (ToJ)
 Sword of the Morning (ToJ)
 Great Ranging (ToJ)
 Melisandre (ToJ)
@@ -2206,17 +2199,17 @@ Sentinel Stand (ToJ)
 Robb Stark (ToJ)
 The Blackfish (ToJ)
 Roose Bolton (ToJ)
+Tytos Blackwood (ToJ)
 Rickard Karstark (ToJ)
-Winterfell Castle (ToJ)
 The Crag (ToJ)
 Grey Wind (ToJ)
 Aegon Targaryen (ToJ)
 Ser Barristan Selmy (ToJ)
 Daenerys Targaryen (ToJ)
+Magister Illyrio (ToJ)
 Quentyn Martell (ToJ)
 Lysono Maar (ToJ)
-Tyrion Lannister (ToJ)
-Hero (ToJ)
+Ser Harry Strickland (ToJ)
 Randyll Tarly (ToJ)
 Margaery Tyrell (ToJ)
 Mace Tyrell (ToJ)
@@ -2232,6 +2225,22 @@ Former Champion (ToJ)
 The Moon Door (ToJ)
 The Vale of Arryn (ToJ)
 The Tower of Joy
+Robert's Rebellion (ToJ)
+Cast Me Forth (ToJ)
+The Sack of King's Landing (ToJ)
+The Dornish Wars (ToJ)
+The Watch Needs Good Men (ToJ)
+The Hour of the Wolf (ToJ)
+Dance of the Dragons (ToJ)
+Chivalry of the South (ToJ)
+All Men Must Die
+Battle on the Green Fork (ToJ)
+Bran the Builder (ToJ)
+The Father (ToJ)
+The Mad King's Command (ToJ)
+The Maiden (ToJ)
+The Stranger (ToJ)
+The Warrior (ToJ)
 [FoilRare]
 King Stannis's Host (ToJ)
 Beric Dondarrion (ToJ)
@@ -2254,12 +2263,12 @@ Ser Lancel Lannister (ToJ)
 Tommen Baratheon (ToJ)
 Casterly Rock (ToJ)
 Lannisport (ToJ)
-Doran Martell (ToJ)
+Lord Anders's Host (ToJ)
 Anders Yronwood (ToJ)
+Doran Martell (ToJ)
 Arianne Martell (ToJ)
 Ser Arys Oakheart (ToJ)
 The Tattered Prince (ToJ)
-Elia Sand (ToJ)
 Sword of the Morning (ToJ)
 Great Ranging (ToJ)
 Melisandre (ToJ)
@@ -2271,8 +2280,8 @@ Sentinel Stand (ToJ)
 Robb Stark (ToJ)
 The Blackfish (ToJ)
 Roose Bolton (ToJ)
+Tytos Blackwood (ToJ)
 Rickard Karstark (ToJ)
-Winterfell Castle (ToJ)
 The Crag (ToJ)
 Grey Wind (ToJ)
 Aegon Targaryen (ToJ)
@@ -2280,8 +2289,8 @@ Ser Barristan Selmy (ToJ)
 Daenerys Targaryen (ToJ)
 Quentyn Martell (ToJ)
 Lysono Maar (ToJ)
-Tyrion Lannister (ToJ)
-Hero (ToJ)
+Ser Harry Strickland (ToJ)
+Magister Illyrio (ToJ)
 Randyll Tarly (ToJ)
 Margaery Tyrell (ToJ)
 Mace Tyrell (ToJ)
@@ -2297,8 +2306,6 @@ Former Champion (ToJ)
 The Moon Door (ToJ)
 The Vale of Arryn (ToJ)
 The Tower of Joy
-Hot Pie (ToJ)
-[Plot]
 Robert's Rebellion (ToJ)
 Cast Me Forth (ToJ)
 The Sack of King's Landing (ToJ)
@@ -2307,30 +2314,15 @@ The Watch Needs Good Men (ToJ)
 The Hour of the Wolf (ToJ)
 Dance of the Dragons (ToJ)
 Chivalry of the South (ToJ)
-A Southron Peace (ToJ)
-At the Tower of Joy (ToJ)
-Battle of the Camps (ToJ)
+All Men Must Die
 Battle on the Green Fork (ToJ)
 Bran the Builder (ToJ)
-Burning the Books (ToJ)
-City Blockade (ToJ)
-City Festival (ToJ)
-Enemies in Every Shadow (ToJ)
-For the Realm (ToJ)
-Open Revolt (ToJ)
-Striking at Dawn (ToJ)
-The Crone (ToJ)
-The Defiance of Duskendale (ToJ)
 The Father (ToJ)
 The Mad King's Command (ToJ)
 The Maiden (ToJ)
-The Mother (ToJ)
-The Pointy End (ToJ)
-The Smith (ToJ)
 The Stranger (ToJ)
 The Warrior (ToJ)
-Wardens of the East (ToJ)
-City of Shadows (ToJ)
+Hot Pie (ToJ)
 [Uncommon]
 Gendry (ToJ)
 Bonifer the Good (ToJ)
@@ -2357,7 +2349,7 @@ Boots (ToJ)
 Lady Whiskers (ToJ)
 A Lannister's Honor (ToJ)
 Mellario of Norvos (ToJ)
-Ser Andrey Dalt (ToJ)
+Ser Gulian Qorgyle (ToJ)
 Trystane Martell (ToJ)
 Tyene Sand (ToJ)
 Ser Willam Wells (ToJ)
@@ -2368,7 +2360,7 @@ Samwell Tarly (ToJ)
 Iron Emmett (ToJ)
 Old Tattersalt (ToJ)
 Gared (ToJ)
-Weirwood Grove (ToJ)
+Lord Steward (ToJ)
 Insubordination (ToJ)
 I Pledge My Life and Honor (ToJ)
 When All is Darkest (ToJ)
@@ -2382,8 +2374,8 @@ The Wolf's Den (ToJ)
 Greywater Watch (ToJ)
 Grey Worm (ToJ)
 Ser Rolly Duckfield (ToJ)
+Tyrion Lannister (ToJ)
 Black Balaq (ToJ)
-Haldon Halfmaester (ToJ)
 Septa Lemore (ToJ)
 Beneath the Gold, the Bitter Steel (ToJ)
 Grey Worm's Spear (ToJ)
@@ -2412,6 +2404,26 @@ The Bloody Gate (ToJ)
 Milkwater Crossing (ToJ)
 Sweetsleep (ToJ)
 As High as Honor (ToJ)
+All Men Must Serve
+At the Tower of Joy (ToJ)
+Battle Beneath the Wall (ToJ)
+Battle of the Camps (ToJ)
+Burning the Books (ToJ)
+City Blockade (ToJ)
+City Festival (ToJ)
+City of Shadows (ToJ)
+City of Ice
+Enemies in Every Shadow (ToJ)
+For the Realm (ToJ)
+Melisandre's Gambit
+Open Revolt (ToJ)
+Strained Reserves (ToJ)
+Striking at Dawn (ToJ)
+The Crone (ToJ)
+The Defiance of Duskendale (ToJ)
+The Mother (ToJ)
+The Pointy End (ToJ)
+The Smith (ToJ)
 [Common]
 Myrish Pirates
 Blackhaven Rider (ToJ)
@@ -2427,16 +2439,16 @@ Saltcliffe Marauder
 Harlaw Scout (ToJ)
 Old Captain (ToJ)
 Stony Shore Thrall
-Raider's Axe
+Kraken's Hatchet
 Though All Men Do Despise Us (ToJ)
 Warrior's Sons (ToJ)
 Cruel Brigand
 The Imp's Agent (ToJ)
 Ashemark Councilor (ToJ)
 Eager Opportunist
-Hillside River
+King's Landing Dromond (ToJ)
+Silverhill River
 Burning Bright (ToJ)
-One, Two, Three (ToJ)
 Ghost Hill Elite (ToJ)
 Starfall Servant
 Windblown (ToJ)
@@ -2444,15 +2456,15 @@ Scheming Snake (ToJ)
 Desert Freerider
 Vengeful Lordling
 A Bed of Scorpions (ToJ)
-Red Mountains (ToJ)
-Mance's Warriors
+Dornish Sloop (ToJ)
+Tormund's Horde
 Abel's Washerwoman
 Marsh's Conspirator (ToJ)
 Old Steward (ToJ)
 Wall-Bound Knight
 Highborn Recruit (ToJ)
+Grey Galley (ToJ)
 You Know Nothing (ToJ)
-Corn, Corn, Corn (ToJ)
 The Bastard's Boys (ToJ)
 Crannogmen (ToJ)
 Merman's Guard
@@ -2470,7 +2482,7 @@ Stormcrows (ToJ)
 Fighting Pit
 Naught but Ashes (ToJ)
 Blackwater Forces (ToJ)
-Wandering Knight
+Brightwater Cavalry
 Red-Apple Knight (ToJ)
 Youthful Acolyte
 Arbor Jester
@@ -2479,13 +2491,13 @@ Behold our Bounty (ToJ)
 Beneath the Petals (ToJ)
 Gulltown City Guard (ToJ)
 King's Landing Mob (ToJ)
+Maester of the Eyrie
 Mummer's Troupe
-Faceless Man (ToJ)
+Harrenhal Cupbearer (ToJ)
 Thenns (ToJ)
-Winged Knight (ToJ)
+Wandering Knight
 King's Landing Smuggler (ToJ)
 Squire (ToJ)
-Little Bird (ToJ)
 Gulltown Merchant (ToJ)
 The Highroad (ToJ)
 Quill and Parchment
@@ -2493,7 +2505,7 @@ Face Mask
 "Florian and Jonquil" (ToJ)
 Calm as Still Water (ToJ)
 "A Thousand Eyes, and One" (ToJ)
-[Starter {"collation": "printRun", "groupSize": 33}]
+[Starter {"collation": "printRun", "groupSize": 36}]
 House Baratheon
 House Greyjoy
 House Lannister
@@ -2508,6 +2520,9 @@ Seeking Fortunes
 Pass Beneath the Shadow
 Desperate Hope
 Join Forces
+Faceless Man (ToJ)
+Faceless Man (ToJ)
+Faceless Man (ToJ)
 Pentoshi Trader
 Pentoshi Trader
 Pentoshi Trader
@@ -2525,5 +2540,5 @@ Razed to the Ground
 Bitter Accusation
 Royal Decree
 Jousting Contest (ToJ)
-Freezing Cold
+Biting Cold
 Secrets of Oldtown
