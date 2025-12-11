@@ -227,15 +227,7 @@
             "WoW",
             "MaV",
             "LotW",
-            "JfE",
-            "SoS"
-        ]
-    },
-    {
-        "id": "oldnew",
-        "name": "Old and the New",
-        "packs": [
-            "OatN"
+            "JfE"
         ]
     }
 ]
