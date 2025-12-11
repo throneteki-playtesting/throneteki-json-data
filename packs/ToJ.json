@@ -28,7 +28,7 @@
             "text": "Assault. No attachments. Renown.\nWhile you control Stannis Baratheon, he gains stealth.\nDuring [power] challenges, each participating character an opponent controls gets -1 STR.",
             "deckLimit": 40,
             "illustrator": "Tomasz Jedruszek",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/01_King%20Stannis's%20Host.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/1R_King_Stanniss_Host.png",
             "rarity": "Rare"
         },
         {
@@ -54,7 +54,7 @@
             "text": "Renown.\n<b>Reaction:</b> After you win a challenge in which Beric Dondarrion is attacking, choose a character controlled by the losing opponent. Until the end of the round, that character cannot kneel or stand. (Limit once per round.)",
             "deckLimit": 40,
             "illustrator": "Marc Simonetti",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ATT/1_Beric_Dondarrion.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/2R_Beric_Dondarrion.png",
             "rarity": "Rare"
         },
         {
@@ -81,7 +81,7 @@
             "text": "Assault. No attachments.\n<b>Reaction:</b> After you win a challenge in which Salladhor Saan's Lyseni is attacking, it gains 1 power for every 2 kneeling locations the defending player controls. (Limit once per phase.)",
             "deckLimit": 40,
             "illustrator": "Melle (Midjourney)",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/01_Sallador%20Saan_s%20Lyseni.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/3R_Salladhor_Saans_Lyseni.png",
             "rarity": "Rare"
         },
         {
@@ -109,7 +109,7 @@
             "flavor": "\"Stannis is pure iron, black and hard and strong, yes, but brittle, the way iron gets. He'll break before he bends.\" <cite>Donal Noye</cite>",
             "deckLimit": 40,
             "illustrator": "Allen Douglas",
-            "imageUrl": "https://i.imgur.com/g4LC2Z8.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/4R_Stannis_Baratheon.png",
             "rarity": "Rare"
         },
         {
@@ -135,7 +135,7 @@
             "text": "Renown.\nSer Richard Horpe gets +1 STR for each power he has.\n<b>Action:</b> Move 1 power from a card you control to another card in play. (Limit once per round.)",
             "deckLimit": 40,
             "illustrator": "Tomasz Jedruszek",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/1_Ser%20Richard%20Horpe.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/5R_Ser_Richard_Horpe.png",
             "rarity": "Rare"
         },
         {
@@ -155,7 +155,7 @@
             "text": "During the challenges phase, characters without a [power] icon cannot stand.\n<b>Reaction:</b> After a [military] or [intrigue] challenge is initiated by or against you, kneel Storm's End to change the challenge type to [power].",
             "deckLimit": 40,
             "illustrator": "Ted Nasmith",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/03_Storm_s%20End.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/6R_Storms_End.png",
             "rarity": "Rare"
         },
         {
@@ -176,7 +176,7 @@
             "deckLimit": 40,
             "illustrator": "Kris Cooper",
             "designer": "Card inspired by 2010 Joust World Champion, Alec Irwin.",
-            "imageUrl": "https://i.imgur.com/YLRzATd.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/7R_The_Laughing_Storm.png",
             "rarity": "Rare"
         },
         {
@@ -201,7 +201,7 @@
             "flavor": "\"In my dreams, I kill him every night.\" <cite>Robert Baratheon</cite>",
             "deckLimit": 1,
             "illustrator": "Dipa dipo",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TIC/82_Roberts_Rebellion.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/8R_Roberts_Rebellion.png",
             "rarity": "Rare"
         },
         {
@@ -228,7 +228,7 @@
             "text": "While you control no loyal characters, Gendry gains renown.\n<b>Reaction:</b> After the challenges phase begins, choose a non-loyal character with a <i>Weapon</i> attachment. Until the end of the phase, that character gets +2 STR and gains each of Gendry's keywords.",
             "deckLimit": 40,
             "illustrator": "Henning Ludvigsen",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/01_Gendry.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/9U_Gendry.png",
             "rarity": "Uncommon"
         },
         {
@@ -256,7 +256,7 @@
             "flavor": "\"The Crone will light our way, and the Warrior will give strength to our arms.\"",
             "deckLimit": 40,
             "illustrator": "Ben Guldemond",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FH/1_Bonifer.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/10U_Bonifer_the_Good.png",
             "rarity": "Uncommon"
         },
         {
@@ -282,7 +282,7 @@
             "flavor": "\"A few good men remain, it's true. Ser Gilbert Farring holds Storm's End for me still, with two hundred loyal men.\" <cite>Stannis Baratheon</cite>",
             "deckLimit": 40,
             "illustrator": "Harry Platt",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/02_Ser%20Gilbert%20Farring.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/11U_Ser_Gilbert_Farring.png",
             "rarity": "Uncommon"
         },
         {
@@ -309,7 +309,7 @@
             "text": "Insight. Renown.\nJon Arryn cannot be saved.\n<b>Forced Interrupt:</b> When Jon Arryn is killed, each player may either: draw 2 cards, or gain 1 power for their faction.",
             "deckLimit": 40,
             "illustrator": "Allen Douglas",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/1%20-%20Jon%20Arryn.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/12U_Jon_Arryn.png",
             "rarity": "Uncommon"
         },
         {
@@ -336,7 +336,7 @@
             "flavor": "\"What sort of god lets himself be pissed upon by dogs?\"",
             "deckLimit": 40,
             "illustrator": "Chillyraven",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WAID/1_Ser_Clayton_Suggs.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/13U_Ser_Clayton_Suggs.png",
             "rarity": "Uncommon"
         },
         {
@@ -363,7 +363,7 @@
             "flavor": "\"I have slain a giant, boy. Why should I fear some flea-ridden northman who paints one on his shield?\"",
             "deckLimit": 40,
             "illustrator": "Mike Gardner",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FH/2_Godry.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/14U_Godry_the_Giantslayer.png",
             "rarity": "Uncommon"
         },
         {
@@ -379,7 +379,7 @@
             "text": "<b>Action:</b> During a [power] challenge, choose a standing [baratheon] character you control and have it participate in the challenge on your side.\n<b>Reaction:</b> After you play a <i>Song</i> event, pay 1 gold to return No Song So Sweet from your discard pile to your hand.",
             "deckLimit": 40,
             "illustrator": "GooseFrol",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/4_No%20Song%20So%20Sweet.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/15U_No_Song_So_Sweet.png",
             "rarity": "Uncommon"
         },
         {
@@ -396,7 +396,7 @@
             "flavor": "Ser Cortnay Penrose wore no armor. He sat a sorrel stallion, his standard-bearer a dapple grey. Above them flapped Baratheon's crowned stag and the crossed quills of Penrose, white on a russet field.",
             "deckLimit": 40,
             "illustrator": "Ekaterina Burmak",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/5_Set%20Down%20Our%20Deeds.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/16U_Set_Down_Our_Deeds.png",
             "rarity": "Uncommon"
         },
         {
@@ -424,7 +424,7 @@
             "text": "Shadow (3).\n<b>Reaction:</b> After Myrish Pirates enters play during the challenges phase, move 1 power or 1 gold from a character you do not control to a character you control.\n<b>Draft format only.</b>",
             "deckLimit": 40,
             "illustrator": "Henning Ludvigsen",
-            "imageUrl": "https://i.imgur.com/maiAAFV.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/17C_Myrish_Pirates.png",
             "rarity": "Common"
         },
         {
@@ -450,7 +450,7 @@
             "flavor": "“Robert is slain, but his realm remains. And we defend her.” - Beric Dondarrion",
             "deckLimit": 40,
             "illustrator": "Nils Kratt (DALL-E)",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TIC/81_Blackhaven_Rider.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/18C_Blackhaven_Rider.png",
             "rarity": "Common"
         },
         {
@@ -477,7 +477,7 @@
             "deckLimit": 40,
             "flavor": "\"They pray well, I suppose, but can they fight?\" <cite>Jaime Lannister</cite>",
             "illustrator": "Andrew Bosley",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/02_The%20Holy%20Hundred.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/19C_The_Holy_Hundred.png",
             "rarity": "Common"
         },
         {
@@ -503,7 +503,7 @@
             "flavor": "\"Shadows are the servants of light, the children of fire.\" -Melisandre",
             "deckLimit": 40,
             "illustrator": "Marc Simonetti",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ChoS/21_Acolyte_of_the_Shadow.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/20C_Acolyte_of_the_Shadow.png",
             "rarity": "Common"
         },
         {
@@ -529,7 +529,7 @@
             "flavor": "\"They call themselves the Antler Men, after the crowned stag.\" <cite>Varys</cite>",
             "deckLimit": 40,
             "illustrator": "Mike Capprotti",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/02_Antler%20Men.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/21C_Antler_Men.png",
             "rarity": "Common"
         },
         {
@@ -557,7 +557,7 @@
             "deckLimit": 40,
             "flavor": "The striped hulls of Lysene war galleys had been seen offshore, and Varys had reports from Myr of sellsail captains taking service with Dragonstone.",
             "illustrator": "Dimitri Bielak",
-            "imageUrl": "https://i.imgur.com/iUdKCWm.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/22C_Sellsails.png",
             "rarity": "Common"
         },
         {
@@ -576,7 +576,7 @@
             "text": "Bestow (2).\nNightfort Ruins contributes X STR to your side during any [power] challenge in which you control a participating character. X is the number of gold Nightfort Ruins has.\n+1 Reserve.\n<b>Draft format only.</b>",
             "deckLimit": 40,
             "illustrator": "Marc Simonetti",
-            "imageUrl": "https://i.imgur.com/FmnRFAc.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/23C_Nightfort_Ruins.png",
             "rarity": "Common"
         },
         {
@@ -597,7 +597,7 @@
             "flavor": "\"It's only a trick, I told you. The wildfire ruins the steel.\" <cite>Gendry</cite>",
             "deckLimit": 40,
             "illustrator": "Jason Engle",
-            "imageUrl": "https://i.imgur.com/MKlFxK5.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/24C_Flaming_Sword.png",
             "rarity": "Common"
         },
         {
@@ -626,7 +626,7 @@
             "flavor": "\"Balon was mad, Aeron is madder, and Euron is maddest of them all\" <cite>Baelor Blacktyde</cite>",
             "deckLimit": 40,
             "illustrator": "Mathia Arkoniel",
-            "imageUrl": "https://i.imgur.com/FS5tz1t.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/25R_Euron_Crows_Eye.png",
             "rarity": "Rare"
         },
         {
@@ -654,7 +654,7 @@
             "flavor": "\"The Crow's Eye has been too long away. He knows us not.\"",
             "deckLimit": 40,
             "illustrator": "Rafal Hrynkiewicz",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WoW/23_Ralf_the_Limper.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/26R_Ralf_the_Limper.png",
             "rarity": "Rare"
         },
         {
@@ -682,7 +682,7 @@
             "text": "<b>Reaction:</b> After a phase begins, kneel a character you control. If it has the:\n- <i>R’hllor</i> trait, Victarion Greyjoy gains insight and \"immune to opponents' character abilities\" until the end of the phase.\n- <i>Drowned God</i> or <i>Raider</i> trait, Victarion Greyjoy gains renown and cannot be killed until the end of the phase.\n<b>Draft format only.</b>",
             "deckLimit": 40,
             "illustrator": "Nikolai Kalinin",
-            "imageUrl": "https://i.imgur.com/Hol0kyS.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/27R_Victarion_Greyjoy.png",
             "rarity": "Rare"
         },
         {
@@ -710,7 +710,7 @@
             "deckLimit": 40,
             "illustrator": "Guillem H.Pongiluppi",
             "designer": "Card design by 2017 Castle Stahleck Joust Champion, Martí Foz Hernàndez.",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ChoS/23_Ralf_Kenning.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/28R_Ralf_Kenning.png",
             "rarity": "Rare"
         },
         {
@@ -738,7 +738,7 @@
             "flavor": "\"Stand up, Erik. Stand up and I'll shout your name with all the rest. Stand up and I'll be the first to follow you.\" <cite>Asha Greyjoy</cite>",
             "deckLimit": 40,
             "illustrator": "Stepan Gilev",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/04_Erik%20Anvil-Breaker.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/29R_Erik_Anvil-Breaker.png",
             "rarity": "Rare"
         },
         {
@@ -759,7 +759,7 @@
             "text": "<b>Reaction:</b> After you win an unopposed challenge, kneel Winterfell to choose a character controlled by the losing opponent. Until the end of the phase, take control of that character.\n-2 Initiative.",
             "deckLimit": 40,
             "illustrator": "Roman Papsuev",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WK/104_Winterfell.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/30R_Winterfell.png",
             "rarity": "Rare"
         },
         {
@@ -779,7 +779,7 @@
             "text": "If attached character is Euron Crow's Eye, he gains insight.\nWhile you control no non-<i>Army</i> characters with printed cost 6 or higher other than attached character, attached character cannot be killed or discarded from play.",
             "deckLimit": 40,
             "illustrator": "Roman Papsuev",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/06_Valyrian%20Steel%20Armor.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/31R_Valyrian_Steel_Armor.png",
             "rarity": "Rare"
         },
         {
@@ -803,7 +803,7 @@
             "flavor": "\"When he cast me forth again he gave me eyes to see, ears to hear, and a voice to spread his word, that I might be his prophet and teach his truth to those who have forgotten.\" <cite>Aeron Damphair</cite>",
             "deckLimit": 1,
             "illustrator": "Lincoln Renall",
-            "imageUrl": "https://i.imgur.com/XOInJWt.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/32R_Cast_Me_Forth.png",
             "rarity": "Rare"
         },
         {
@@ -829,7 +829,7 @@
             "text": "Pillage.\n<b>Action:</b> During a challenge in which you are the attacking player, return 2 characters from the defending player's discard pile to their owner's hand. Then, raise the claim value on your revealed plot card by 1 until the end of the challenge. (Limit once per challenge.)",
             "deckLimit": 40,
             "illustrator": "Andrea Piazza",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TIC/83_The_Knight.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/33U_The_Knight.png",
             "rarity": "Uncommon"
         },
         {
@@ -857,7 +857,7 @@
             "flavor": "\"Dagmer lives, be grateful for that much.\" <cite>Asha Greyjoy</cite>",
             "deckLimit": 40,
             "illustrator": "Roman Papsuev",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/04_Dagmer%20Cleftjaw.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/34U_Dagmer_Cleftjaw.png",
             "rarity": "Uncommon"
         },
         {
@@ -885,7 +885,7 @@
             "flavor": "\"I am unwed.\"",
             "deckLimit": 40,
             "illustrator": "Helder Almeida",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FH/3_Left-Hand.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/35U_Left-Hand_Lucas_Codd.png",
             "rarity": "Uncommon"
         },
         {
@@ -912,7 +912,7 @@
             "flavor": "\"The singers call Andrik best now. And Black Lorren and Qarl the Maid are near as dread.\" <cite>Dagmer Cleftjaw</cite>",
             "deckLimit": 40,
             "illustrator": "Tommy Arnold",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/6_Black%20Lorren.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/36U_Black_Lorren.png",
             "rarity": "Uncommon"
         },
         {
@@ -939,7 +939,7 @@
             "flavor": "\"Every night in my fires I glimpse the glory that awaits you.\"",
             "deckLimit": 40,
             "illustrator": "Elena María Vacas",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WAID/3_Moqorro.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/37U_Moqorro.png",
             "rarity": "Uncommon"
         },
         {
@@ -964,7 +964,7 @@
             "text": "Bestow (3).\n<b>Challenges Action:</b> Discard 1 gold from a <i>Raider</i> character to search the top 10 cards of your deck for an <i>Item</i> or <i>Weapon</i> attachment with printed cost 3 or lower and put it into play. Shuffle your deck. (Limit once per phase.)",
             "deckLimit": 40,
             "illustrator": "Yoann Boissonnet",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FH/4_Cragorn.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/38U_Cragorn.png",
             "rarity": "Uncommon"
         },
         {
@@ -983,7 +983,7 @@
             "text": "Each <i>Raider</i> character you control gains pillage.\nWhile an opponent has 10 or more cards in their discard pile, each <i>Raider</i> character you control gets +1 STR.",
             "deckLimit": 40,
             "illustrator": "Juan Carlos Barquet",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/JS/4_Silence_ENG.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/39U_Silence.png",
             "rarity": "Uncommon"
         },
         {
@@ -1003,7 +1003,7 @@
             "flavor": "The islands are stern and stony places, scant of comfort and bleak of prospect. Death is never far here, and life is mean and meager.",
             "deckLimit": 40,
             "illustrator": "Tysen Johnson",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/8_Saltcliffe.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/40U_Saltcliffe.png",
             "rarity": "Uncommon"
         },
         {
@@ -1029,7 +1029,7 @@
             "text": "Assault. No attachments.\nWhile Fleet from Ten Towers is attacking an opponent whose reserve value is 4 or lower, it gets +3 STR and gains renown.",
             "deckLimit": 40,
             "illustrator": "Tomasz Jedruszek",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/05_Fleet%20from%20Ten%20Towers.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/41C_Fleet_from_Ten_Towers.png",
             "rarity": "Common"
         },
         {
@@ -1054,7 +1054,7 @@
             "text": "No attachments. Shadow (2).\n<b>Reaction:</b> After Great Kraken's Crew comes out of shadows during a challenge, choose a defending character with printed cost 3 or lower. That character does not contribute its STR to this challenge.",
             "deckLimit": 40,
             "illustrator": "Matt Olson",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TTS/63_Great_Krakens_Crew.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/42C_Great_Krakens_Crew.png",
             "rarity": "Common"
         },
         {
@@ -1080,7 +1080,7 @@
             "text": "Bestow (3). Pillage.\nWhile Saltcliffe Marauder has 1 or more gold, it gains stealth.<b>Action:</b> Discard 1 gold from Saltcliffe Marauder to choose a character. Until the end of the phase, that character gains stealth.\n<b>Draft format only.</b>",
             "deckLimit": 40,
             "illustrator": "Marc Scheff",
-            "imageUrl": "https://i.imgur.com/Q0Ha0zP.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/43C_Saltcliffe_Marauder.png",
             "rarity": "Common"
         },
         {
@@ -1106,7 +1106,7 @@
             "text": "Shadow (1).\n<b>Reaction:</b> After an opponent discards 1 or more cards for reserve, gain 1 gold. (Limit twice per round.)",
             "deckLimit": 40,
             "illustrator": "Tomasz Jedruszek",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/05_Harlaw%20Scout.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/44C_Harlaw_Scout.png",
             "rarity": "Common"
         },
         {
@@ -1133,7 +1133,7 @@
             "flavor": "It was said that the ironmen of old had oft been blood-drunk in battle, so berserk that they felt no pain and feared no foe.",
             "deckLimit": 40,
             "illustrator": "Aurelien Hubert",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ChoS/24_Old_Captain.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/45C_Old_Captain.png",
             "rarity": "Common"
         },
         {
@@ -1159,7 +1159,7 @@
             "text": "<b>Reaction:</b> After a card enters play during the challenges phase, kneel Stony Shore Thrall to choose an opponent. Until that player reveals a new plot card, reduce the reserve value on their revealed plot card by 1 (to a minimum of 2). Then, you may have each player check reserve.\n<b>Draft format only.</b>",
             "deckLimit": 40,
             "illustrator": "Hermann Baisch",
-            "imageUrl": "https://i.imgur.com/yugMB7y.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/46C_Stony_Shore_Thrall.png",
             "rarity": "Common"
         },
         {
@@ -1179,7 +1179,7 @@
             "text": "Attached character gets +1 STR and gains the <i>Raider</i> trait.\n<b>Reaction:</b> After you win a challenge in which attached character is attacking, pay 2 gold or discard 1 gold from attached character to stand it. (Limit once per round.)\n<b>Draft format only.</b>",
             "deckLimit": 40,
             "illustrator": "Aaron Riley",
-            "imageUrl": "https://i.imgur.com/KHi8Go6.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/47C_Krakens_Hatchet.png",
             "rarity": "Common"
         },
         {
@@ -1196,7 +1196,7 @@
             "flavor": "The Codds were not well regarded in the Iron Islands; the men were said to be thieves and cowards, the women wantons who bedded with their own fathers and brothers.",
             "deckLimit": 40,
             "illustrator": "Aurelien Hubert",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/9_Though%20All%20Men%20Do%20Despise%20Us.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/48C_Though_All_Men_Do_Despise_Us.png",
             "rarity": "Common"
         },
         {
@@ -1222,7 +1222,7 @@
             "flavor": "\"Nothing is won so long as we have enemies in the field...\"",
             "deckLimit": 40,
             "illustrator": "Magali Villeneuve",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ChoS/25_Tywin_Lannister.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/49R_Tywin_Lannister.png",
             "rarity": "Rare"
         },
         {
@@ -1249,7 +1249,7 @@
             "text": "Renown.\n<b>Reaction:</b> After Ser Daven Lannister gains 1 or more power, each opponent must choose and discard 1 card from their hand. Then, if you have more cards in hand than each opponent, draw 1 card. (Limit twice per round.)",
             "deckLimit": 40,
             "illustrator": "Nacho Molina",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/07_Ser%20Daven%20Lannister.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/50R_Ser_Daven_Lannister.png",
             "rarity": "Rare"
         },
         {
@@ -1276,7 +1276,7 @@
             "text": "Renown.\n<b>Forced Reaction:</b> After a character enters play during the challenges phase, stand Ser Jaime Lannister. Then, discard that character from play.",
             "deckLimit": 40,
             "illustrator": "Jason Engle",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/07_Ser%20Jaime%20Lannister.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/51R_Ser_Jaime_Lannister.png",
             "rarity": "Rare"
         },
         {
@@ -1303,7 +1303,7 @@
             "flavor": "\"On the morrow I will return to King's Landing and swear my sword to the new High Septon and the Seven. I mean to take vows and join the Warrior's Sons.\"",
             "deckLimit": 40,
             "illustrator": "Tomasz Jedruszek",
-            "imageUrl": "https://i.imgur.com/rCxoqHi.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/52R_Ser_Lancel_Lannister.png",
             "rarity": "Rare"
         },
         {
@@ -1329,7 +1329,7 @@
             "text": "Tommen Baratheon contributes his STR to your total for dominance even while kneeling.\nWhile you control:\n - 1 or more <i>Cat</i> cards, he gains an [intrigue] icon.\n - 2 or more <i>Cat</i> cards, he gains insight.\n - 3 or more <i>Cat</i> cards, he gets +3 STR.\n<b>Draft format only.</b>",
             "deckLimit": 40,
             "illustrator": "Joshua Cairos",
-            "imageUrl": "https://i.imgur.com/CrfCIr7.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/53R_Tommen_Baratheon.png",
             "rarity": "Rare"
         },
         {
@@ -1349,7 +1349,7 @@
             "text": "While Casterly Rock is standing, you may spend gold on [lannister] cards you control as if it were in your gold pool.\n<b>Marshaling Action:</b> Kneel Casterly Rock to choose up to 3 cards. Each of those cards gains 1 gold.",
             "deckLimit": 40,
             "illustrator": "Ted Nasmith",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/08_Casterly%20Rock.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/54R_Casterly_Rock.png",
             "rarity": "Rare"
         },
         {
@@ -1368,7 +1368,7 @@
             "text": "<b>Reaction:</b> After a [power] challenge is initiated against you, kneel Lannisport to end the challenge with no winner or loser unless the attacking player chooses and discards 1 card from their hand.\n+1 Income.",
             "deckLimit": 40,
             "illustrator": "Félix Sotomayor",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WAID/6_Lannisport.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/55R_Lannisport.png",
             "rarity": "Rare"
         },
         {
@@ -1392,7 +1392,7 @@
             "text": "During [intrigue] challenges, each character you control gains pillage.\n<b>Reaction:</b> After a location enters an opponent's discard pile, that player must choose and kill a character they control with the same printed cost.\n<b>Draft format only.</b>",
             "deckLimit": 1,
             "illustrator": "Samuel Pi Pedrini",
-            "imageUrl": "https://i.imgur.com/bDiSd1c.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/56R_The_Sack_of_Kings_Landing.png",
             "rarity": "Rare"
         },
         {
@@ -1418,7 +1418,7 @@
             "text": "<b>Reaction:</b> After an <i>Army</i> or <i>Knight</i> card enters play under your control, Ser Addam Marbrand gains 1 gold. (Limit once per phase.)\n<b>Reaction:</b> After a character enters your discard pile, discard 1 gold from Ser Addam Marbrand to return it to your hand. (Limit twice per round.)",
             "deckLimit": 40,
             "illustrator": "Roman Papsuev",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FH/5_Ser_Addam.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/57U_Ser_Addam_Marbrand.png",
             "rarity": "Uncommon"
         },
         {
@@ -1445,7 +1445,7 @@
             "text": "<b>Action:</b> Move 1 gold from your gold pool to a card without gold. (Limit twice per round.)\n+1 Income.",
             "deckLimit": 40,
             "illustrator": "Kirill Nedorosol",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FH/6_Ser_Harys.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/58U_Ser_Harys_Swyft.png",
             "rarity": "Uncommon"
         },
         {
@@ -1471,7 +1471,7 @@
             "text": "Bestow (3). No attachments except <i>Weapon</i>.\nBronn gets +2 STR for each gold he has.\n<b>Interrupt:</b> When a <i>Lord</i> or <i>Lady</i> character would be killed, discard each gold (cannot be 0) from Bronn to save it. Then, if that character was Tyrion Lannister, you may return Bronn to your hand.",
             "deckLimit": 40,
             "illustrator": "Natascha Röösli",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/12_Bronn.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/59U_Bronn.png",
             "rarity": "Uncommon"
         },
         {
@@ -1496,7 +1496,7 @@
             "text": "<b>Reaction:</b> After you win a challenge in which Myrcella Baratheon is participating, return her to your hand. Then, you may initiate an additional [intrigue] challenge against the losing opponent this phase. (Max once per phase.)",
             "deckLimit": 40,
             "illustrator": "Sacha Diener",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ATT/5_Myrcella_Baratheon.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/60U_Myrcella_Baratheon.png",
             "rarity": "Uncommon"
         },
         {
@@ -1522,7 +1522,7 @@
             "text": "Ambush (3). Shadow (1).\n<b>Reaction:</b> After Ser Boros Blount enters play, search the top 10 cards of your deck for a <i>Kingsguard</i> character or a non-[lannister] <i>Knight</i> character and put it into play. Shuffle your deck. At the end of the phase, if that card is still in play, discard it from play.",
             "deckLimit": 40,
             "illustrator": "Henning Ludvigsen",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/JS/6_Ser_Boros_Blount_ENG.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/61U_Ser_Boros_Blount.png",
             "rarity": "Uncommon"
         },
         {
@@ -1542,7 +1542,7 @@
             "text": "Unique character with printed cost 3 or lower only. Ambush (1).\nAttached character gains renown.",
             "deckLimit": 40,
             "illustrator": "Katalin Illés",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ChoS/26_Boots.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/62U_Boots.png",
             "rarity": "Uncommon"
         },
         {
@@ -1562,7 +1562,7 @@
             "text": "Unique character with printed cost 3 or lower only. Ambush (1).\nIf attached character is Tommen Baratheon, he gains stealth.\nAttached character does not kneel when declared as an attacker in a [power] challenge.",
             "deckLimit": 40,
             "illustrator": "Joshua Cairos",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/09_Lady%20Whiskers.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/63U_Lady_Whiskers.png",
             "rarity": "Uncommon"
         },
         {
@@ -1579,7 +1579,7 @@
             "flavor": "\"The Lannisters have no honor.\" <cite>Ser Jorah Mormont</cite>",
             "deckLimit": 40,
             "illustrator": "Nikolai Kalinin",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WK/106_A_Lannisters_Honor.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/64U_A_Lannisters_Honor.png",
             "rarity": "Uncommon"
         },
         {
@@ -1605,7 +1605,7 @@
             "text": "No attachments.\n<b>Reaction:</b> After power is gained by or moved to Warrior's Sons, stand Warrior's Sons. (Limit once per phase.)",
             "deckLimit": 40,
             "illustrator": "Gergely Nagy",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FUtG/45_Warriors_Sons.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/65C_Warriors_Sons.png",
             "rarity": "Common"
         },
         {
@@ -1631,7 +1631,7 @@
             "text": "X is the number of cards with 1 or more gold.\n<b>Reaction:</b> After Ashemark Councilor enters play, choose up to 3 cards. Each of those cards gains 1 gold.",
             "deckLimit": 40,
             "illustrator": "Owen William Weber",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WAID/5_Ashemark_Councilor.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/66C_Ashemark_Councilor.png",
             "rarity": "Common"
         },
         {
@@ -1657,7 +1657,7 @@
             "text": "Bestow (1).\n<b>Challenges Action:</b> Discard 1 gold from Eager Opportunist to put a character with printed cost 4 or lower into play from your hand. At the end of the phase, if that card is still in play, discard it from play. (Limit once per phase.)\n<b>Draft format only.</b>",
             "deckLimit": 40,
             "illustrator": "Aleksander Karcz",
-            "imageUrl": "https://i.imgur.com/WdaQAr9.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/67C_Eager_Opportunist.png",
             "rarity": "Common"
         },
         {
@@ -1682,7 +1682,7 @@
             "text": "Shadow (3).\n<b>Reaction:</b> After you win a challenge in which The Imp's Agent is participating, return it to shadows to have the losing opponent choose a card in their hand and place it on the top or bottom of their deck.",
             "deckLimit": 40,
             "illustrator": "Marc Scheff",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WoW/25_The_Imps_Agent.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/68C_The_Imps_Agent.png",
             "rarity": "Common"
         },
         {
@@ -1708,7 +1708,7 @@
             "text": "Ambush (3).\n<b>Reaction:</b> After Cruel Brigand enters play, if you have won an [intrigue] challenge this phase, kneel your faction card to choose a character with STR 3 or lower and return it to its owner's hand.\n<b>Draft format only.</b>",
             "deckLimit": 40,
             "illustrator": "N.C. Wyeth",
-            "imageUrl": "https://i.imgur.com/6dZ5M6X.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/69C_Cruel_Brigand.png",
             "rarity": "Common"
         },
         {
@@ -1727,7 +1727,7 @@
             "text": "Shadow (1).\nReduce the number of unspent gold you return to the treasury during the taxation phase by 1.\n<b>Reaction:</b> After King's Landing Dromond comes out of shadows, choose a character with printed cost 2 or lower and return it to its owner's hand.",
             "deckLimit": 40,
             "illustrator": "Gergely Nagy",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/LotW/66_Kings_Landing_Dromond.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/70C_Kings_Landing_Dromond.png",
             "rarity": "Common"
         },
         {
@@ -1746,7 +1746,7 @@
             "text": "Reaction: After claim is applied for an [intrigue] challenge you won, if you have more cards in hand than the losing opponent, sacrifice Silverhill River to gain 1 power for your faction.\n+1 Income.\n<b>Draft format only.</b>",
             "deckLimit": 40,
             "illustrator": "Anton Hansch",
-            "imageUrl": "https://i.imgur.com/7hg3kdu.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/71C_Silverhill_River.png",
             "rarity": "Common"
         },
         {
@@ -1763,7 +1763,7 @@
             "flavor": "Ser Addam Marbrand had the command. Tyrion saw his banner unfurl as his standard-bearer shook it out; a burning tree, orange and smoke.",
             "deckLimit": 40,
             "illustrator": "Grandfailure",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/15_Burning%20Bright.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/72C_Burning_Bright.png",
             "rarity": "Common"
         },
         {
@@ -1789,7 +1789,7 @@
             "text": "Ambush (8). Assault. No attachments. \n<b>Reaction:</b> After a card enters play from your hand or shadows area during a challenge, choose a participating character with a lower printed cost than that card's and return it to its owner's hand. (Limit once per round.)\n+1 Initiative",
             "deckLimit": 40,
             "illustrator": "Tomasz Jedruszek",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/10_Lord%20Anders's%20Host.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/73R_Lord_Anderss_Host.png",
             "rarity": "Rare"
         },
         {
@@ -1816,7 +1816,7 @@
             "flavor": "The most powerful of the Dornish lords was Anders Yronwood, the Bloodroyal, Lord of Yronwood and Warden of the Stone Way.",
             "deckLimit": 40,
             "illustrator": "Lukasz Jaskolski",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/16_Anders%20Yronwood.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/74R_Anders_Yronwood.png",
             "rarity": "Rare"
         },
         {
@@ -1841,7 +1841,7 @@
             "text": "Insight. Shadow (5).\nEach card you control in shadows gains shadow (X). X is that card's printed cost.\n<b>Reaction:</b> After you lose dominance, look at the top 2 cards of your deck. Place 1 in shadows, and the other on the bottom of your deck. ",
             "deckLimit": 40,
             "illustrator": "Borja Pindado",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/7%20-%20Doran%20Martell.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/75R_Doran_Martell.png",
             "rarity": "Rare"
         },
         {
@@ -1868,7 +1868,7 @@
             "flavor": "\"You will not take her whilst I still draw breath.\"",
             "deckLimit": 40,
             "illustrator": "Harry Platt",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FUtG/47_Ser_Arys_Oakheart.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/76R_Ser_Arys_Oakheart.png",
             "rarity": "Rare"
         },
         {
@@ -1893,7 +1893,7 @@
             "text": "Insight.\n<b>Action:</b> Choose a character. Until the end of the phase, that character loses a challenge icon of your choice, and each non-Martell character you control gains that challenge icon. Then, return Arianne to your hand (cannot be saved). (Max once per round.)\n<b>Draft format only.</b>",
             "deckLimit": 40,
             "illustrator": "Drazenka Kimpel",
-            "imageUrl": "https://i.imgur.com/zwBU9Ri.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/77R_Arianne_Martell.png",
             "rarity": "Rare"
         },
         {
@@ -1919,7 +1919,7 @@
             "text": "Bestow (2). Renown. Shadow (2).\n<b>Forced Reaction:</b> After a plot card enters your used pile, return The Tattered Prince to shadows unless you discard 1 gold from him.",
             "deckLimit": 40,
             "illustrator": "Diego Gisbert Llorens",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FH/8_Tattered.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/78R_The_Tattered_Prince.png",
             "rarity": "Rare"
         },
         {
@@ -1938,7 +1938,7 @@
             "text": "Unique character or <i>House Dayne</i> character only.\nWhile attached character is attacking, it gets +1 STR for each defending character.\n<b>Reaction:</b> After attached character is declared as an attacker, choose up to 3 characters controlled by the defending player. Each of those characters must be declared as a defender for this challenge, if able.\n<b>Draft format only.</b>",
             "deckLimit": 40,
             "illustrator": "Henning Ludvigsen",
-            "imageUrl": "https://i.imgur.com/AfgWETJ.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/79R_Sword_of_the_Morning.png",
             "rarity": "Rare"
         },
         {
@@ -1962,7 +1962,7 @@
             "text": "Each character an opponent controls cannot gain challenge icons.\n<b>Reaction:</b> After you win a challenge, choose a character controlled by the losing opponent. Until the end of the phase, that character loses a challenge icon of your choice. (Limit twice per phase.)",
             "deckLimit": 1,
             "illustrator": "millikodea",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WK/108_The_Dornish_Wars.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/80R_The_Dornish_Wars.png",
             "rarity": "Rare"
         },
         {
@@ -1987,7 +1987,7 @@
             "text": "While you have Arianne Martell in your hand, reduce the cost to marshal her by 1.\nWhile you control:\n- Doran Martell, he gains: \"immune to opponents' plot effects.\"\n- Quentyn Martell, he gets +2 STR.\n- Trystane Martell, he gains insight.",
             "deckLimit": 40,
             "illustrator": "Karla Ortiz",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FH/7_Mellario.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/81U_Mellario.png",
             "rarity": "Uncommon"
         },
         {
@@ -2014,7 +2014,7 @@
             "flavor": "\"They're scorpions, ser. House Qorgyle of Sandstone, three scorpions black on red.\" <cite>Podrick Payne</cite>",
             "deckLimit": 40,
             "illustrator": "Gergely Nagy",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/MaV/47_Ser_Gulian_Qorgyle.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/82U_Ser_Gulian_Qorgyle.png",
             "rarity": "Uncommon"
         },
         {
@@ -2039,7 +2039,7 @@
             "text": "Shadow (2).\n<b>Reaction:</b> After Trystane Martell enters play, choose a character with no challenge icons and return it to its owner's hand.",
             "deckLimit": 40,
             "illustrator": "Anh Bui",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/10_Trystane%20Martell.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/83U_Trystane_Martell.png",
             "rarity": "Uncommon"
         },
         {
@@ -2067,7 +2067,7 @@
             "flavor": "\"Doubt your little sister if you like, but never doubt our sire.\"",
             "deckLimit": 40,
             "illustrator": "Sara Betsy",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WK/107_Tyene_Sand.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/84U_Tyene_Sand.png",
             "rarity": "Uncommon"
         },
         {
@@ -2093,7 +2093,7 @@
             "flavor": "\"Will will never have his wedding. Their deaths should have some meaning.\" <cite>Quentyn Martell</cite>",
             "deckLimit": 40,
             "illustrator": "Nils Kratt (DALL-E)",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TIC/87_Ser_Willam_Wells.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/85U_Ser_Willam_Wells.png",
             "rarity": "Uncommon"
         },
         {
@@ -2114,7 +2114,7 @@
             "text": "<b>Reaction:</b> After you win a challenge as the attacking player, kneel Sandstone to have an attacking character gain 1 power for each defending character with fewer than 2 challenge icons (to a maximum of 3 power). ",
             "deckLimit": 40,
             "illustrator": "Tomasz Jedruszek",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/12_Sandstone.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/86U_Sandstone.png",
             "rarity": "Uncommon"
         },
         {
@@ -2133,7 +2133,7 @@
             "text": "Ambush (3).\nAttached character gets +2 STR.\n<b>Challenges Action:</b> Sacrifice War Scorpion to choose an attacking character, and remove it from the challenge. (You may kill that character instead if it has the <i>Army</i> or <i>Dragon</i> trait.)",
             "deckLimit": 40,
             "illustrator": "Luis Guggenberger",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/12_War%20Scorpion.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/87U_War_Scorpion.png",
             "rarity": "Uncommon"
         },
         {
@@ -2153,7 +2153,7 @@
             "text": "Attached character gains pillage.\n<b>Reaction:</b> After you win a challenge in which attached character is participating, discard the top card of your deck to choose a character controlled by the losing opponent. Until the end of the phase, that character loses a challenge icon of your choice.",
             "deckLimit": 40,
             "illustrator": "Stephen Patane (Midjourney)",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FUtG/48_Vulture_King.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/88U_Vulture_King.png",
             "rarity": "Uncommon"
         },
         {
@@ -2178,7 +2178,7 @@
             "text": "Ambush (6). No attachments.\n<b>Reaction:</b> After Ghost Hill Elite enters play, choose a character. Until the end of the phase, that character loses an [intrigue] or [power] icon and Ghost Hill Elite gains that icon. Then, if that character has no challenge icons, kill it.",
             "deckLimit": 40,
             "illustrator": "Adam Lane",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WoW/27_Ghost_Hill_Elite.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/89C_Ghost_Hill_Elite.png",
             "rarity": "Common"
         },
         {
@@ -2204,7 +2204,7 @@
             "text": "Shadow (3). Stealth.\n<b>Reaction:</b> After Starfall Servant enters play, choose a character. Until the end of the phase, that character loses a challenge icon of your choice.\n<b>Draft format only.</b>",
             "deckLimit": 40,
             "illustrator": "Harold Piffard",
-            "imageUrl": "https://i.imgur.com/lYN2aZl.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/90C_Starfall_Servant.png",
             "rarity": "Common"
         },
         {
@@ -2230,7 +2230,7 @@
             "text": "Shadow (2).\n<b>Reaction:</b> After Scheming Snake enters play during a challenge, choose a participating character with fewer than 2 challenge icons. That character does not contribute its STR to this challenge.",
             "deckLimit": 40,
             "illustrator": "Stephen Patane (Midjourney)",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ATT/7_Scheming_Snake.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/91C_Scheming_Snake.png",
             "rarity": "Common"
         },
         {
@@ -2257,7 +2257,7 @@
             "flavor": "The men of the Windblown used what names they would, and changed them at a whim.",
             "deckLimit": 40,
             "illustrator": "Tomasz Jedruszek",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/11_Windblown.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/92C_Windblown.png",
             "rarity": "Common"
         },
         {
@@ -2283,7 +2283,7 @@
             "text": "Bestow (2).\n<b>Challenges Action:</b> Discard 1 gold from Desert Freerider to choose a character. Until the end of the phase, that character gains or loses an [intrigue] icon.\n<b>Draft format only.</b>",
             "deckLimit": 40,
             "illustrator": "Henri Rousseau",
-            "imageUrl": "https://i.imgur.com/uLmZMDC.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/93C_Desert_Freerider.png",
             "rarity": "Common"
         },
         {
@@ -2308,7 +2308,7 @@
             "text": "<b>Reaction:</b> After you lose a challenge in which Vengeful Lordling is participating, reduce the cost of the next card you ambush or bring out of shadows this phase by 1.\n<b>Draft format only.</b>",
             "deckLimit": 40,
             "illustrator": "Jean-Léon Gérôme",
-            "imageUrl": "https://i.imgur.com/L08yWz3.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/94C_Vengeful_Lordling.png",
             "rarity": "Common"
         },
         {
@@ -2327,7 +2327,7 @@
             "text": "Shadow (0).\n<b>Reaction:</b> After Dornish Sloop comes out of shadows, choose a character with printed cost 5 or lower. Until the end of the phase, that character loses a challenge icon of your choice.\n+1 Reserve.",
             "deckLimit": 40,
             "illustrator": "Gergely Nagy",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/LotW/68_Dornish_Sloop.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/95C_Dornish_Sloop.png",
             "rarity": "Common"
         },
         {
@@ -2346,7 +2346,7 @@
             "flavor": "Lord Tyrell and his train traveled to Sandstone, where his lordship was murdered in a bed of scorpions.",
             "deckLimit": 40,
             "illustrator": "Melle (DALL-E)",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ATT/8_A_Bed_of_Scorpions.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/96C_A_Bed_of_Scorpions.png",
             "rarity": "Common"
         },
         {
@@ -2373,7 +2373,7 @@
             "text": "Assault. Insight. Intimidate. No attachments.\n<b>Reaction:</b> After you marshal Great Ranging, search your deck and discard pile for a non-limited location and add it to your hand. Shuffle your deck.\n+1 Reserve.\n<b>Draft format only.</b>",
             "deckLimit": 40,
             "illustrator": "Tomasz Jedruszek",
-            "imageUrl": "https://i.imgur.com/xVCUTf2.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/97R_Great_Ranging.png",
             "rarity": "Rare"
         },
         {
@@ -2400,7 +2400,7 @@
             "flavor": "\"I pray for a glimpse of Azor Ahai, and R'hllor shows me only Snow.\"",
             "deckLimit": 40,
             "illustrator": "Alexandre Dainche",
-            "imageUrl": "https://i.imgur.com/kRkXIPu.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/98R_Melisandre.png",
             "rarity": "Rare"
         },
         {
@@ -2426,7 +2426,7 @@
             "flavor": "\"Our wife is duty. Our mistress is honor.\"",
             "deckLimit": 40,
             "illustrator": "Christine Griffin",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WAID/9_Benjen_Stark.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/99R_Benjen_Stark.png",
             "rarity": "Rare"
         },
         {
@@ -2451,7 +2451,7 @@
             "text": "Stealth.\nEach [thenightswatch] character you control with stealth does not kneel when declared as an attacker during a [military] challenge.\n+1 Reserve.",
             "deckLimit": 40,
             "illustrator": "Tony Nguyen",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FH/9_Dywen.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/100R_Dywen.png",
             "rarity": "Rare"
         },
         {
@@ -2477,7 +2477,7 @@
             "text": "Insight. Shadow (4).\n<b>Reaction:</b> After a card you control comes out of shadows, choose a character and a challenge type. Until the end of the phase, that character cannot be declared as an attacker in challenges of that type. (Limit 3 times per phase.)",
             "deckLimit": 40,
             "illustrator": "Melle (Midjourney)",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TTS/69_Bowen_Marsh.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/101R_Bowen_Marsh.png",
             "rarity": "Rare"
         },
         {
@@ -2497,7 +2497,7 @@
             "text": "<b>Reaction:</b> After a challenge is initiated against you, choose and stand a [thenightswatch] character or Castle Black. (Limit once per phase.)\n<b>Interrupt:</b> When the effects of an opponent's triggered location ability would initiate, kneel Castle Black to cancel those effects.",
             "deckLimit": 40,
             "illustrator": "Ted Nasmith",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/14_Castle%20Black.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/102R_Castle_Black.png",
             "rarity": "Rare"
         },
         {
@@ -2518,7 +2518,7 @@
             "flavor": "The other keeps, long deserted, were lonely, haunted places, where cold winds whistled through black windows and the spirits of the dead manned the parapets.",
             "deckLimit": 40,
             "illustrator": "Marc Simonetti",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ATT/10_Sentinel_Stand.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/103R_Sentinel_Stand.png",
             "rarity": "Rare"
         },
         {
@@ -2541,7 +2541,7 @@
             "text": "You may marshal or ambush characters from any opponent's discard pile as if they were in your hand.",
             "deckLimit": 1,
             "illustrator": "Kay Huang",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TTS/70_The_Watch_Needs_Good_Men.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/104R_The_Watch_Needs_Good_Men.png",
             "rarity": "Rare"
         },
         {
@@ -2567,7 +2567,7 @@
             "text": "<b>Reaction:</b> After you win a challenge in which Samwell Tarly is participating, if your reserve value is:\n - 6 or higher, draw 1 card.\n - 8 or higher, gain 1 power for your faction.\n - 10 or higher, choose and stand another character that shares a <i>Trait</i> with him, if able.",
             "deckLimit": 40,
             "illustrator": "Colin Boyer",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/13_Samwell%20Tarly.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/105U_Samwell_Tarly.png",
             "rarity": "Uncommon"
         },
         {
@@ -2594,7 +2594,7 @@
             "flavor": "\"I hope this don't mean I can't beat the bloody piss out of you next time we train, my lord.\"",
             "deckLimit": 40,
             "illustrator": "Lucas Soriano",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/13_Iron%20Emmett.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/106U_Iron_Emmett.png",
             "rarity": "Uncommon"
         },
         {
@@ -2619,7 +2619,7 @@
             "text": "Shadow (2).\n<b>Reaction:</b> After Old Tattersalt enters play, search the top X cards of your deck for a card with printed cost 1 or lower, reveal it, and add it to your hand. Shuffle your deck. X is your reserve value.\n<b>Action:</b> Kneel a non-limited location to return Old Tattersalt to shadows.\n<b>Draft format only.</b>",
             "deckLimit": 40,
             "illustrator": "Raymond Bonilla",
-            "imageUrl": "https://i.imgur.com/r0ywbME.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/107U_Old_Tattersalt.png",
             "rarity": "Uncommon"
         },
         {
@@ -2645,7 +2645,7 @@
             "flavor": "“Everyone talks about snows forty foot deep, and how the ice wind comes howling out of the north, but the real enemy is the cold.”",
             "deckLimit": 40,
             "illustrator": "Stephen Patane (DALL-E)",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ATT/9_Gared.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/108U_Gared.png",
             "rarity": "Uncommon"
         },
         {
@@ -2664,7 +2664,7 @@
             "text": "Unique character only.\nAttached character gains an [intrigue] icon and the <i>Steward</i> trait.\n<b>Reaction:</b> After you win an [intrigue] challenge in which you control a participating <i>Steward</i> character, choose a character with printed cost X or lower controlled by the losing opponent. Take control of it until the end of the phase. X is the number of <i>Steward</i> characters you control. (Limit once per phase.)",
             "deckLimit": 40,
             "illustrator": "Roman Papsuev",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/23_Lord%20Steward.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/109U_Lord_Steward.png",
             "rarity": "Uncommon"
         },
         {
@@ -2684,7 +2684,7 @@
             "flavor": "\"Do you hear me, boy? I will not have it!\" <cite>Janos Slynt</cite>",
             "deckLimit": 40,
             "illustrator": "Lukasz Jaskolski",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ChoS/30_Insubordination.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/110U_Insubordination.png",
             "rarity": "Uncommon"
         },
         {
@@ -2701,7 +2701,7 @@
             "flavor": "...to the Night's Watch, for this night and all the nights to come.",
             "deckLimit": 40,
             "illustrator": "Jason Engle",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/24_%20I%20Pledge%20My%20Life%20and%20Honor.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/111U_I_Pledge_My_Life_and_Honor.png",
             "rarity": "Uncommon"
         },
         {
@@ -2718,7 +2718,7 @@
             "flavor": "\"If the Wall falls, night falls as well, the long night that never ends.\" <cite>Melisandre</cite>",
             "deckLimit": 40,
             "illustrator": "Pedro H. Cardoso",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WAID/10_When_All_Is_Darkest.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/112U_When_All_is_Darkest.png",
             "rarity": "Uncommon"
         },
         {
@@ -2746,7 +2746,7 @@
             "text": "Intimidate.\n<b>Reaction:</b> After you win a challenge in which Tormund's Horde is attacking, reveal the top card of each player's deck. You may either: discard each of those cards, or have each player draw 1 card.\n<b>Draft format only.</b>",
             "deckLimit": 40,
             "illustrator": "Tomasz Jedruszek",
-            "imageUrl": "https://i.imgur.com/w4vvkfr.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/113C_Tormunds_Horde.png",
             "rarity": "Common"
         },
         {
@@ -2773,7 +2773,7 @@
             "flavor": "Lord Manderly had brought musicians from White Harbor, but none were singers, so when Abel turned up at the gates with a lute and six women, he had been made welcome.",
             "deckLimit": 40,
             "illustrator": "Jean-Baptiste Greuze",
-            "imageUrl": "https://i.imgur.com/JHLupcg.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/114C_Abels_Washerwoman.png",
             "rarity": "Common"
         },
         {
@@ -2799,7 +2799,7 @@
             "text": "Shadow (2).\n<b>Reaction:</b> After Marsh's Conspirator comes out of shadows, choose a character. Until the end of the phase, treat that character as if its printed text box were blank (except for <i>Traits</i>).",
             "deckLimit": 40,
             "illustrator": "Owen William Weber",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FUtG/49_Marshs_Conspirator.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/115C_Marshs_Conspirator.png",
             "rarity": "Common"
         },
         {
@@ -2824,7 +2824,7 @@
             "text": "+1 Reserve.",
             "deckLimit": 40,
             "illustrator": "Aaron Riley",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/JS/10_Old_Steward_ENG.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/116C_Old_Steward.png",
             "rarity": "Common"
         },
         {
@@ -2851,7 +2851,7 @@
             "text": "Shadow (2).\n<b>Reaction:</b> After Wall-Bound Knight enters play during the challenges phase, move 1 gold from an opponent's gold pool or a card an opponent controls to your gold pool.\n<b>Draft format only.</b>",
             "deckLimit": 40,
             "illustrator": "Rudolf Otto Ritter von Ottenfeld",
-            "imageUrl": "https://i.imgur.com/PUPB2wk.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/117C_Wall-Bound_Knight.png",
             "rarity": "Common"
         },
         {
@@ -2877,7 +2877,7 @@
             "text": "<b>Challenges Action:</b> Kneel Highborn Recruit to choose a character with 1 or fewer challenge icons. Until the end of the phase, that character gains insight or renown.",
             "deckLimit": 40,
             "illustrator": "Stephen Patane (Midjourney)",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ChoS/29_Highborn_Recruit.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/118C_Highborn_Recruit.png",
             "rarity": "Common"
         },
         {
@@ -2896,7 +2896,7 @@
             "text": "Shadow (1).\nGrey Galley contributes 1 STR to your side during any challenge in which you control a defending character. (3 STR instead if Grey Galley came out of shadows this phase.)",
             "deckLimit": 40,
             "illustrator": "Gergely Nagy",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/MaV/50_Grey_Galley.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/119C_Grey_Galley.png",
             "rarity": "Common"
         },
         {
@@ -2913,7 +2913,7 @@
             "flavor": "\"I know nothing, Ygritte, and perhaps I never will.\" <cite>Jon Snow</cite>",
             "deckLimit": 40,
             "illustrator": "Roman Papsuev",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/15_You%20Know%20Nothing.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/120C_You_Know_Nothing.png",
             "rarity": "Common"
         },
         {
@@ -2940,7 +2940,7 @@
             "text": "Intimidate. Renown.\n<b>Action:</b> Kneel a non-limited location to choose a participating character. Until the end of the challenge, it gets +X STR, where X is that location's printed cost. (1 higher instead if you control Grey Wind.) (Limit twice per round.)\n<b>Draft format only.</b>",
             "deckLimit": 40,
             "illustrator": "Christine Griffin",
-            "imageUrl": "https://i.imgur.com/NMbhVj7.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/121R_Robb_Stark.png",
             "rarity": "Rare"
         },
         {
@@ -2968,7 +2968,7 @@
             "flavor": "\"A peaceful land, a quiet people.\"",
             "deckLimit": 40,
             "illustrator": "Mihai Radu",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WK/111_Roose_Bolton.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/122R_Roose_Bolton.png",
             "rarity": "Rare"
         },
         {
@@ -2996,7 +2996,7 @@
             "flavor": "Ser Brynden Tully was Robb's eyes and ears, the commander of his scouts and outriders.",
             "deckLimit": 40,
             "illustrator": "Roman Papsuev",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/16_The%20Blackfish.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/123R_The_Blackfish.png",
             "rarity": "Rare"
         },
         {
@@ -3022,7 +3022,7 @@
             "text": "Renown.\nWhile Tytos Blackwood is participating in a challenge, treat each other character without power as if its printed text box were blank (except for <i>Traits</i>).",
             "deckLimit": 40,
             "illustrator": "Anh Bui",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/LotW/71_Tytos_Blackwood.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/124R_Tytos_Blackwood.png",
             "rarity": "Rare"
         },
         {
@@ -3048,7 +3048,7 @@
             "text": "<b>Challenges Action:</b> Kneel a non-limited location to have each player sacrifice a character or location. (Limit once per phase.)\n<b>Reaction:</b> After a <i>Winter</i> plot card is revealed, return a non-limited location from your discard pile to your hand. (Limit once per phase.)\n<b>Draft format only.</b>",
             "deckLimit": 40,
             "illustrator": "Jeff Lee Johnson",
-            "imageUrl": "https://i.imgur.com/I6GyCTh.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/125R_Rickard_Karstark.png",
             "rarity": "Rare"
         },
         {
@@ -3068,7 +3068,7 @@
             "text": "You cannot initiate [intrigue] challenges.\n<b>Reaction:</b> After you win a [military] challenge as the attacking player, The Crag gains 1 power. (2 power instead if you control a [stark] <i>King</i> character.) (Limit twice per phase.)",
             "deckLimit": 40,
             "illustrator": "Tsvetomir Zehov",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/18_The%20Crag.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/126R_The_Crag.png",
             "rarity": "Rare"
         },
         {
@@ -3087,7 +3087,7 @@
             "text": "Unique [stark] character only.\nAttached character gains stealth.\n<b>Interrupt:</b> When the effects of a triggered character ability would initiate, return a <i>Direwolf</i> card to your hand to cancel those effects. (Limit once per phase.)\n<b>Action:</b> Pay 1 gold to attach Grey Wind to a different character. (Limit once per phase.)",
             "deckLimit": 40,
             "illustrator": "Roman Papsuev",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/18_Grey%20Wind.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/127R_Grey_Wind.png",
             "rarity": "Rare"
         },
         {
@@ -3112,7 +3112,7 @@
             "flavor": "“The winters are hard, but the Starks will endure. We always have.” \r- Eddard Stark",
             "deckLimit": 1,
             "illustrator": "Stephen Patane (Midjourney)",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TTS/72_The_Hour_of_the_Wolf.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/128R_The_Hour_of_the_Wolf.png",
             "rarity": "Rare"
         },
         {
@@ -3138,7 +3138,7 @@
             "flavor": "She had insisted that he be guarded as well, and the lords bannermen had agreed.",
             "deckLimit": 40,
             "illustrator": "Sedone Thongvilay",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/16_King%20Robb_s%20Bannermen.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/129U_King_Robbs_Bannermen.png",
             "rarity": "Uncommon"
         },
         {
@@ -3164,7 +3164,7 @@
             "text": "Each <i>Old Gods</i> character you control cannot be knelt by card effects.\n<b>Interrupt:</b> When claim is applied for an [intrigue] challenge in which you control a participating <i>Old Gods</i> character, instead of the normal claim effects, look at the defending player's hand. Choose and discard X cards from that hand, if able. X is the claim value on the attacking player's revealed plot card.",
             "deckLimit": 40,
             "illustrator": "jason840629",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/16_Bran%20Stark.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/130U_Bran_Stark.png",
             "rarity": "Uncommon"
         },
         {
@@ -3190,7 +3190,7 @@
             "deckLimit": 40,
             "illustrator": "Ertaç Altınöz",
             "designer": "Card design by 2019 Melee World Champion, Richard Walker.",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TTS/71_Jon_Snow.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/131U_Jon_Snow.png",
             "rarity": "Uncommon"
         },
         {
@@ -3215,7 +3215,7 @@
             "text": "Each unique <i>Direwolf</i> character you control gains renown.\n<b>Reaction:</b> After you marshal Farlen, search your hand, deck, and discard pile for The Wolfswood and put it into play. Shuffle your deck.",
             "deckLimit": 40,
             "illustrator": "Anna Christenson",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/26_Farlen.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/132U_Farlen.png",
             "rarity": "Uncommon"
         },
         {
@@ -3241,7 +3241,7 @@
             "deckLimit": 40,
             "illustrator": "Ertaç Altınöz",
             "designer": "Card design by 2019 European Melee Champion, Chris Meeuwsen.",
-            "imageUrl": "https://i.imgur.com/hMZCeJm.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/133U_Ghost.png",
             "rarity": "Uncommon"
         },
         {
@@ -3267,7 +3267,7 @@
             "text": "Bestow (2). No attachments except <i>Warhorse</i>.\n<b>Action:</b> During a challenge in which you control a participating non-loyal character, discard 1 gold from Harwin to choose a character you control with 2 or more keywords and have it participate in the challenge on your side. (Limit once per phase.)",
             "deckLimit": 40,
             "illustrator": "JB Casacop",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FH/12_Harwin.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/134U_Harwin.png",
             "rarity": "Uncommon"
         },
         {
@@ -3287,7 +3287,7 @@
             "text": "<b>Reaction:</b> After a character you control is sacrificed or killed, kneel The Wolf's Den to place the bottom card of your deck in shadows with a shadow token on it. While that card is in shadows, it gains shadow (X). X is its printed cost.",
             "deckLimit": 40,
             "illustrator": "Sergey Vasnev",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/12%20-%20The%20Wolfs%20Den.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/135U_The_Wolfs_Den.png",
             "rarity": "Uncommon"
         },
         {
@@ -3307,7 +3307,7 @@
             "text": "Shadow (1).\n<b>Action:</b> Kneel and return Greywater Watch to shadows and kneel a [stark] character to have it participate in the current challenge on your side. (Max 1 per challenge.)",
             "deckLimit": 40,
             "illustrator": "Sebastián Aguirre",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/JS/11_Greywater_Watch_ENG.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/136U_Greywater_Watch.png",
             "rarity": "Uncommon"
         },
         {
@@ -3334,7 +3334,7 @@
             "flavor": "When the tale reached Lord Ramsay, he sent his Bastard's Boys to seize the man and drag him out into the snow.",
             "deckLimit": 40,
             "illustrator": "\nIgnacio Bazan-Lazcano",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/17_The%20Bastard_s%20Boys.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/137C_The_Bastards_Boys.png",
             "rarity": "Common"
         },
         {
@@ -3360,7 +3360,7 @@
             "text": "Shadow (3).\n<b>Interrupt:</b> When claim is applied for an [intrigue] challenge in which Crannogmen is attacking, return it to shadows to choose a character with printed cost 3 or lower controlled by the losing opponent. Instead of the normal claim effects, kill that character.",
             "deckLimit": 40,
             "illustrator": "Stephen Patane (Midjourney)",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/11%20-%20Crannogmen.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/138C_Crannogmen.png",
             "rarity": "Common"
         },
         {
@@ -3388,7 +3388,7 @@
             "text": "Bestow (2).\n<b>Reaction:</b> After Merman's Guard is declared as an attacker or defender, kneel your faction card and discard 1 gold from Merman's Guard to choose and stand a unique character. Until the end of the phase, that character gains renown.\n<b>Draft format only.</b>",
             "deckLimit": 40,
             "illustrator": "Aurelien Hubert",
-            "imageUrl": "https://i.imgur.com/aXNyzpF.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/139C_Mermans_Guard.png",
             "rarity": "Common"
         },
         {
@@ -3415,7 +3415,7 @@
             "flavor": "\"They shall not cross.\" <cite>Ser Edmure Tully</cite>",
             "deckLimit": 40,
             "illustrator": "Andrius Anezin",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WAID/11_Trident_Guard.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/140C_Trident_Guard.png",
             "rarity": "Common"
         },
         {
@@ -3441,7 +3441,7 @@
             "text": "Assault. No attachments.\nWhile you control a non-limited location, Brynden's Outriders gains stealth.\nWhile you control a <i>Commander</i> character, Brynden's Outriders gains a [power] icon.\n<b>Draft format only.</b>",
             "deckLimit": 40,
             "illustrator": "Tomasz Jedruszek",
-            "imageUrl": "https://i.imgur.com/2Onyn0T.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/141C_Bryndens_Outriders.png",
             "rarity": "Common"
         },
         {
@@ -3468,7 +3468,7 @@
             "flavor": "\"Rickard Karstark killed more than a Frey and a Lannister. He killed my honor.\" <cite>Robb Stark</cite>",
             "deckLimit": 40,
             "illustrator": "Melle (DALL-E)",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ATT/11_Karstark_Lancer.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/142C_Karstark_Lancer.png",
             "rarity": "Common"
         },
         {
@@ -3487,7 +3487,7 @@
             "text": "<b>Reaction:</b> After you initiate a challenge, kneel and sacrifice The Wolfswood to raise the claim value on your revealed plot card by 1 until the end of the challenge. (Max 1 per challenge.)\n+1 Initiative.\n<b>Draft format only.</b>",
             "deckLimit": 40,
             "illustrator": "Eric Lofgren",
-            "imageUrl": "https://i.imgur.com/j0JaBTP.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/143C_The_Wolfswood.png",
             "rarity": "Common"
         },
         {
@@ -3508,7 +3508,7 @@
             "text": "<b>Challenges Action:</b> Choose an attacking character you control and name a <i>Trait</i>. Until the end of the end of the challenge, it gets +2 STR, then attach Wolf Dreams to that character as a <i>Direwolf</i> attachment with the text: 'Terminal. Attached character gains the named <i>Trait</i>.' (Max 1 per phase.)\n<b>Draft format only.</b>",
             "deckLimit": 40,
             "illustrator": "Jon Bosco",
-            "imageUrl": "https://i.imgur.com/UeSUqWx.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/144C_Wolf_Dreams.png",
             "rarity": "Common"
         },
         {
@@ -3535,7 +3535,7 @@
             "flavor": "\"Daenerys is Prince Rhaegar's sister but I am Rhaegar's son. I am the only dragon you need.\"",
             "deckLimit": 40,
             "illustrator": "Diego Gisbert Llorens",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WK/113_Aegon_Targaryen.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/145R_Aegon_Targaryen.png",
             "rarity": "Rare"
         },
         {
@@ -3561,7 +3561,7 @@
             "text": "Renown.\n<b>Reaction:</b> After you win a challenge in which Ser Barristan Selmy is participating, discard 1 card from your hand to, either: stand each defending <i>Knight</i> character, or raise the claim value on your revealed plot card by 1 until the end of the challenge. (Limit twice per phase.)",
             "deckLimit": 40,
             "illustrator": "Mike Capprotti",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/19_Ser%20Barristan%20Selmy.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/146R_Ser_Barristan_Selmy.png",
             "rarity": "Rare"
         },
         {
@@ -3588,7 +3588,7 @@
             "deckLimit": 40,
             "illustrator": "Harry Platt",
             "designer": "Card design by 2019 Joust World Champion, Francis Côté.",
-            "imageUrl": "https://i.imgur.com/f93mAGO.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/147R_Daenerys_Targaryen.png",
             "rarity": "Rare"
         },
         {
@@ -3614,7 +3614,7 @@
             "text": "Insight. Shadow (5).\n<b>Reaction:</b> After the challenges phase begins, gain 1 gold for every 2 cards in shadows.\n+1 Income.",
             "deckLimit": 40,
             "illustrator": "Tiziano Baracchi",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/MaV/53_Magister_Illyrio.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/148R_Magister_Illyrio.png",
             "rarity": "Rare"
         },
         {
@@ -3641,7 +3641,7 @@
             "deckLimit": 40,
             "illustrator": "Mark Bulahao",
             "designer": "Card design by 2017 European Joust Champion, Reinhard Schefcik.",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/13%20-%20Lysono%20Maar.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/149R_Lysono_Maar.png",
             "rarity": "Rare"
         },
         {
@@ -3668,7 +3668,7 @@
             "flavor": "Oh, he thought. Then he began to scream.",
             "deckLimit": 40,
             "illustrator": "Tiziano Baracchi",
-            "imageUrl": "https://i.imgur.com/V2z6QIQ.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/150R_Quentyn_Martell.png",
             "rarity": "Rare"
         },
         {
@@ -3696,7 +3696,7 @@
             "flavor": "Homeless Harry looked little like a warrior.",
             "deckLimit": 40,
             "illustrator": "Paw",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/LotW/73_Ser_Harry_Strickland.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/151R_Ser_Harry_Strickland.png",
             "rarity": "Rare"
         },
         {
@@ -3721,7 +3721,7 @@
             "text": "<b>Interrupt:</b> When claim is applied for a [military] or [intrigue] challenge in which you are the attacking player, instead of the normal claim effects, kneel a unique [targaryen] character to move 2 power from the losing opponent's faction card to your own.\n<b>Draft format only.</b>",
             "deckLimit": 1,
             "illustrator": "Ruben Devela",
-            "imageUrl": "https://i.imgur.com/l5S0Ikn.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/152R_Dance_of_the_Dragons.png",
             "rarity": "Rare"
         },
         {
@@ -3747,7 +3747,7 @@
             "text": "No attachments except <i>Weapon</i>.\nGrey Worm does not kneel when declared as a defender against an opponent with more cards in their hand than you.",
             "deckLimit": 40,
             "illustrator": "Tomasz Jedruszek",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/JS/13_Grey_Worm_ENG.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/153U_Grey_Worm.png",
             "rarity": "Uncommon"
         },
         {
@@ -3774,7 +3774,7 @@
             "text": "While you control Aegon Targaryen, he gains a [military] icon.\n<b>Interrupt:</b> When a <i>King</i> or <i>Lord</i> character would be killed, discard 1 card from your hand to save it. (Limit once per round.)",
             "deckLimit": 40,
             "illustrator": "Darek Zabrocki",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/19_Ser%20Rolly%20Duckfield.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/154U_Ser_Rolly_Duckfield.png",
             "rarity": "Uncommon"
         },
         {
@@ -3799,7 +3799,7 @@
             "text": "Bestow (3). Stealth.\n<b>Action:</b> Discard 1 gold from Tyrion Lannister to put a <i>Mercenary</i> character into play under your control from any player’s discard pile. At the end of the phase, if that card is still in play, place it on the bottom of its owner's deck. (Limit once per phase.)",
             "deckLimit": 40,
             "illustrator": "Lukasz Jaskolski",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/JS/14_Tyrion_Lannister_ENG.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/155U_Tyrion_Lannister.png",
             "rarity": "Uncommon"
         },
         {
@@ -3826,7 +3826,7 @@
             "flavor": "He wore a feathered cloak of green and orange, magnificent to behold.",
             "deckLimit": 40,
             "illustrator": "Stephen Patane (Midjourney)",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TTS/73_Black_Balaq.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/156U_Black_Balaq.png",
             "rarity": "Uncommon"
         },
         {
@@ -3852,7 +3852,7 @@
             "text": "While you control Aegon Targaryen, he gains insight.\n<b>Interrupt:</b> When Septa Lemore leaves play, choose a [targaryen] character you control with shadow. Return that character to shadows.",
             "deckLimit": 40,
             "illustrator": "Sara Biddle",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/32_Septa%20Lemore.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/157U_Septa_Lemore.png",
             "rarity": "Uncommon"
         },
         {
@@ -3871,7 +3871,7 @@
             "text": "If attached character is Grey Worm, he gains a [power] icon and intimidate.\nWhile attached character is attacking, each defending character gets -1 STR. ",
             "deckLimit": 40,
             "illustrator": "Alex Serban (Midjourney)",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WK/114_Grey_Worms_Spear.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/158U_Grey_Worms_Spear.png",
             "rarity": "Uncommon"
         },
         {
@@ -3888,7 +3888,7 @@
             "flavor": "Our word is good as gold has been their boast since the days of Bittersteel.",
             "deckLimit": 40,
             "illustrator": "Tomasz Jedruszek",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/33_Our%20Word%20is%20Good%20as%20Gold.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/159U_Our_Word_Is_Good_as_Gold.png",
             "rarity": "Uncommon"
         },
         {
@@ -3904,7 +3904,7 @@
             "text": "<b>Challenges Action:</b> Choose a <i>Mercenary</i> character with 1 or more gold. Until the end of the phase, it gains renown and no attachments except <i>Item</i>. If it has 3 or more gold, it gains insight and intimidate until the end of the phase.",
             "deckLimit": 40,
             "illustrator": "Marc Simonetti",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/35_Beneath%20the%20Gold,%20the%20Bitter%20Steel.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/160U_Beneath_the_Gold_the_Bitter_Steel.png",
             "rarity": "Uncommon"
         },
         {
@@ -3930,7 +3930,7 @@
             "text": "Bestow (1).\nWhile Golden Company has 1 or more gold, it gains renown.\n<b>Interrupt:</b> When a <i>Mercenary</i> character would be returned to your hand, discard 1 gold from Golden Company to save that character.",
             "deckLimit": 40,
             "illustrator": "Tomasz Jedruszek",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/31_Golden%20Company.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/161C_Golden_Company.png",
             "rarity": "Common"
         },
         {
@@ -3955,7 +3955,7 @@
             "text": "Bestow (2). Intimidate.\n<b>Forced Interrupt:</b> When the challenges phase ends, return Long Lances to its owner's hand unless you discard 1 gold from it.\n<b>Draft format only.</b>",
             "deckLimit": 40,
             "illustrator": "David Horne",
-            "imageUrl": "https://i.imgur.com/v6I0iLN.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/162C_Long_Lances.png",
             "rarity": "Common"
         },
         {
@@ -3981,7 +3981,7 @@
             "flavor": "\"I am so sorry.\"",
             "deckLimit": 40,
             "illustrator": "Jon Bosco",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WoW/33_Sorrowful_Man.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/163C_Sorrowful_Man.png",
             "rarity": "Common"
         },
         {
@@ -4006,7 +4006,7 @@
             "text": "Assault. No attachments.\nWhile Stalwart Shields is participating in a challenge, each <i>Army</i> character an opponent controls loses all keywords.",
             "deckLimit": 40,
             "illustrator": "Stephen Patane (Midjourney)",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/20_Stalwart%20Shields.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/164C_Stalwart_Shields.png",
             "rarity": "Common"
         },
         {
@@ -4031,7 +4031,7 @@
             "text": "<b>Reaction:</b> After Free Brothers enters play, search your deck for a character with printed cost 3 or lower and place it in your discard pile. Shuffle your deck.\n<b>Draft format only.</b>",
             "deckLimit": 40,
             "illustrator": "Stephen Patane (Midjourney)",
-            "imageUrl": "https://i.imgur.com/EBGpUyA.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/165C_Free_Brothers.png",
             "rarity": "Common"
         },
         {
@@ -4053,10 +4053,10 @@
             "traits": [
                 "Mercenary"
             ],
-            "text": "Shadow (2).\nYou may marshal Stormcrows into shadows from your discard pile as if it were in your hand.\n<b>Reaction:</b> After Stormcrows comes out of shadows, choose a participating character without attachments. Until the end of the challenge, that character gets -1 STR and is killed if its STR is 0.\n<b>Draft format only.</b>",
+            "text": "Shadow (2).\nYou may marshal Stormcrows into shadows from your discard pile as if it were in your hand.\n<b>Reaction:</b> After Stormcrows enters play during a challenge, choose a participating character without attachments. Until the end of the challenge, that character gets -1 STR and is killed if its STR is 0.\n<b>Draft format only.</b>",
             "deckLimit": 40,
             "illustrator": "Régis Moulun",
-            "imageUrl": "https://i.imgur.com/Kk1xbz7.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/166C_Stormcrows.png",
             "rarity": "Common"
         },
         {
@@ -4075,7 +4075,7 @@
             "text": "<b>Challenges Action:</b> Sacrifice Fighting Pit to choose and discard a card from your hand. Then, put a character with printed cost 3 or lower into play from your discard pile. At the end of the phase, if that card is still in play, return it to its owner's hand.\n<b>Draft format only.</b>",
             "deckLimit": 40,
             "illustrator": "Martina Pilcerova",
-            "imageUrl": "https://i.imgur.com/hDqSWXK.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/167C_Fighting_Pit.png",
             "rarity": "Common"
         },
         {
@@ -4092,7 +4092,7 @@
             "flavor": "\"Aerys was mad, the whole realm knew it.\" <cite>Catelyn Stark</cite>",
             "deckLimit": 40,
             "illustrator": "Laio Yuni",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FUtG/54_Naught_but_Ashes.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/168C_Naught_but_Ashes.png",
             "rarity": "Common"
         },
         {
@@ -4119,7 +4119,7 @@
             "text": "Renown.\n<b>Action:</b> Kneel a non-limited location to, either: stand an <i>Army</i> character, or reveal the top card of your deck. If it is a location, draw it (put it into play instead if it is non-limited). (Limit twice per phase.)\n<b>Draft format only.</b>",
             "deckLimit": 40,
             "illustrator": "Francisco Rico Torres",
-            "imageUrl": "https://i.imgur.com/zekkL5e.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/169R_Randyll_Tarly.png",
             "rarity": "Rare"
         },
         {
@@ -4146,7 +4146,7 @@
             "flavor": "Margaery was different, though. Sweet and gentle, yet there was a little of her grandmother in her, too.",
             "deckLimit": 40,
             "illustrator": "Cristi Balanescu",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TIC/95_Margaery_Tyrell.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/170R_Margaery_Tyrell.png",
             "rarity": "Rare"
         },
         {
@@ -4172,7 +4172,7 @@
             "text": "Renown.\n<b>Action:</b> Stand a participating <i>Army</i> character and remove it from the challenge to choose another participating character with equal or lower printed cost. Stand that character and remove it from the challenge. (Limit once per phase.)",
             "deckLimit": 40,
             "illustrator": "DrEvilsPjs (Midjourney)",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/22_Mace%20Tyrell.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/171R_Mace_Tyrell.png",
             "rarity": "Rare"
         },
         {
@@ -4198,7 +4198,7 @@
             "flavor": "\"Willas has a bad leg but a good heart.\" <cite>Margaery Tyrell</cite>",
             "deckLimit": 40,
             "illustrator": "Stephen Patane (Midjourney)",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FUtG/55_Willas_Tyrell.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/172R_Willas_Tyrell.png",
             "rarity": "Rare"
         },
         {
@@ -4226,7 +4226,7 @@
             "flavor": "\"Grant me your blessing, and a knight to ride beside me with your banner. Let the stag and rose go to battle side by side.\"",
             "deckLimit": 40,
             "illustrator": "Felicia Cano",
-            "imageUrl": "https://i.imgur.com/9YbeEz6.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/173R_The_Knight_of_Flowers.png",
             "rarity": "Rare"
         },
         {
@@ -4246,7 +4246,7 @@
             "text": "<b>Action:</b> Kneel Highgarden to reveal up to 3 [tyrell] characters from your hand. For each card revealed this way, choose a character. Until the end of the phase, that character gets +2 STR. (You may choose the same character more than once.)\n<b>Challenges Action:</b> Return a unique [tyrell] character you control to your hand. (Limit once per phase.)",
             "deckLimit": 40,
             "illustrator": "Ted Nasmith",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/23_Highgarden.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/174R_Highgarden.png",
             "rarity": "Rare"
         },
         {
@@ -4266,7 +4266,7 @@
             "text": "Non-limited location you control only.\nDuring a challenge, each unique participating character you control gets +1 STR.\n+1 Income.\n<b>Draft format only.</b>",
             "deckLimit": 40,
             "illustrator": "Kris Cooper",
-            "imageUrl": "https://i.imgur.com/1F2zN6Q.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/175R_Garth_Greenhand.png",
             "rarity": "Rare"
         },
         {
@@ -4291,7 +4291,7 @@
             "flavor": "\"Look across the fields, brother. Can you see all those banners?\" <cite>Renly Baratheon</cite>",
             "deckLimit": 1,
             "illustrator": "Diego Gisbert Llorens",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ChoS/36_Chivalry_of_the_South.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/176R_Chivalry_of_the_South.png",
             "rarity": "Rare"
         },
         {
@@ -4317,7 +4317,7 @@
             "text": "<b>Reaction:</b> After a <i>House Redwyne</i> or <i>Knight</i> card enters play under your control or your discard pile, draw 1 card. (Limit once per phase.)",
             "deckLimit": 40,
             "illustrator": "Joshua Cairos",
-            "imageUrl": "https://i.imgur.com/mfJi2Pg.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/177U_Mina_Redwyne.png",
             "rarity": "Uncommon"
         },
         {
@@ -4345,7 +4345,7 @@
             "text": "Each <i>Knight</i> character you control gets +1 STR.",
             "deckLimit": 40,
             "illustrator": "Michael Chrzanowski",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/JS/16_Ser_Bryce_Caron_ENG.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/178U_Ser_Bryce_Caron.png",
             "rarity": "Uncommon"
         },
         {
@@ -4371,7 +4371,7 @@
             "flavor": "Alla Tyrell would be of great help, if Taena could deliver her.",
             "deckLimit": 40,
             "illustrator": "Drazenka Kimpel",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/22_Alla%20Tyrell.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/179U_Alla_Tyrell.png",
             "rarity": "Uncommon"
         },
         {
@@ -4398,7 +4398,7 @@
             "text": "Ser Robar Royce cannot be declared as an attacker or defender in the first challenge each player initiates each round.\n-1 Initiative.",
             "deckLimit": 40,
             "illustrator": "Anh Bui",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/15%20-%20Robar%20Royce.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/180U_Ser_Robar_Royce.png",
             "rarity": "Uncommon"
         },
         {
@@ -4424,7 +4424,7 @@
             "flavor": "His own mother was a thousand leagues south, safe with his sisters and his little brother Dickon in the keep at Horn Hill.",
             "deckLimit": 40,
             "illustrator": "Stephen Patane (Midjourney)",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TTS/75_Dickon_Tarly.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/181U_Dickon_Tarly.png",
             "rarity": "Uncommon"
         },
         {
@@ -4451,7 +4451,7 @@
             "text": "Bestow (1).\n<b>Reaction:</b> After you initiate a challenge, discard 1 gold from Ser Emmon Cuy to raise the claim value on your revealed plot card by 1 until the end of the challenge. Then, if he has no gold, kill him. (Limit once per phase.)",
             "deckLimit": 40,
             "illustrator": "Michael Chrzanowski",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FH/16_Ser_Emmon.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/182U_Ser_Emmon_Cuy.png",
             "rarity": "Uncommon"
         },
         {
@@ -4471,7 +4471,7 @@
             "flavor": "Destriers were trained to kick and bite. In war they were a weapon, like the men who rode them.",
             "deckLimit": 40,
             "illustrator": "Storn Cook",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WAID/16_Highgarden_Destrier.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/183U_Highgarden_Destrier.png",
             "rarity": "Uncommon"
         },
         {
@@ -4491,7 +4491,7 @@
             "flavor": "“Can you smell the fruit, ser? The perfume of the Arbor. Taste it, my lord, and tell me it isn't the finest, richest wine that's ever touched your tongue.”\r",
             "deckLimit": 40,
             "illustrator": "Nils Kratt (DALL-E)",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TIC/96_Gilbert_of_the_Vines.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/184U_Gilbert_of_the_Vines.png",
             "rarity": "Uncommon"
         },
         {
@@ -4517,7 +4517,7 @@
             "text": "No attachments except <i>Weapon</i>.\n<b>Reaction:</b> After Blackwater Forces stands during a challenge, choose a participating character. Until the end of the challenge, that character gets +2 STR. (Limit 3 times per phase.)",
             "deckLimit": 40,
             "illustrator": "Stephen Patane (Midjourney)",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WK/115_Blackwater_Forces.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/185C_Blackwater_Forces.png",
             "rarity": "Common"
         },
         {
@@ -4542,7 +4542,7 @@
             "text": "While you control exactly 1 unique <i>Knight</i> character, Red-Apple Knight gets +X STR. X is that character's STR.\n<b>Draft format only.</b>",
             "deckLimit": 40,
             "illustrator": "JB Casacop",
-            "imageUrl": "https://i.imgur.com/shQTzrE.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/186C_Red-Apple_Knight.png",
             "rarity": "Common"
         },
         {
@@ -4569,7 +4569,7 @@
             "text": "<b>Reaction:</b> After Brightwater Cavalry enters play, draw 1 card. Then, choose a card in your hand and place it on top of your deck.\n<b>Draft format only.</b>",
             "deckLimit": 40,
             "illustrator": "Tomasz Jedruszek",
-            "imageUrl": "https://i.imgur.com/f2B1qLo.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/187C_Brightwater_Cavalry.png",
             "rarity": "Common"
         },
         {
@@ -4592,10 +4592,10 @@
                 "Fool",
                 "House Redwyne"
             ],
-            "text": "Shadow (2).\n<b>Reaction:</b> After Arbor Jester comes out of shadows, choose a character and reveal the top 2 cards of your deck. Place one of them on the bottom of your deck. Until the end of the phase, that character gets +X STR. X is the printed cost of the other revealed card.\n<b>Draft format only.</b>",
+            "text": "Shadow (2).\n<b>Reaction:</b> After Arbor Jester enters play, choose a character and reveal the top 2 cards of your deck. Place one of them on the bottom of your deck. Until the end of the phase, that character gets +X STR. X is the printed cost of the other revealed card.\n<b>Draft format only.</b>",
             "deckLimit": 40,
             "illustrator": "Gerard van Honthorst",
-            "imageUrl": "https://i.imgur.com/jHLUaIm.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/188C_Arbor_Jester.png",
             "rarity": "Common"
         },
         {
@@ -4621,7 +4621,7 @@
             "text": "Shadow (1).\n<b>Reaction:</b> After Youthful Acolyte enters play during a challenge, stand a participating character you control and remove it from the challenge. Until the end of the phase, that character gains renown.\n<b>Draft format only.</b>",
             "deckLimit": 40,
             "illustrator": "Régis Moulun",
-            "imageUrl": "https://i.imgur.com/t4Cdwkz.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/189C_Youthful_Acolyte.png",
             "rarity": "Common"
         },
         {
@@ -4637,7 +4637,7 @@
             "text": "<b>Action:</b> Choose a character that is attacking or defending alone. Until the end of the challenge, that character gets +5 STR. (+10 STR instead if it is a <i>Rainbow Guard</i> character or Brienne of Tarth.)",
             "deckLimit": 40,
             "illustrator": "Clément Fëanor",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/24_Brienne%20the%20Blue.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/190C_Brienne_the_Blue.png",
             "rarity": "Common"
         },
         {
@@ -4653,7 +4653,7 @@
             "text": "<b>Reaction:</b> After you win a challenge, return an attacking character to your hand to raise the claim value on your revealed plot card by 1 until the end of the challenge.\n<b>Draft format only.</b>",
             "deckLimit": 40,
             "illustrator": "Dimitri Bielak",
-            "imageUrl": "https://i.imgur.com/WsHdsA5.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/191C_Behold_Our_Bounty.png",
             "rarity": "Common"
         },
         {
@@ -4669,7 +4669,7 @@
             "text": "Shadow (0).\n<b>Action:</b> Choose a character with shadow. Until the end of the phase, that character gains insight and a challenge icon of your choice.\n<b>Interrupt:</b> When Beneath the Petals is revealed from your deck, place it in shadows and gain 1 gold.",
             "deckLimit": 40,
             "illustrator": "Katalin Illés",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WoW/36_Beneath_the_Petals.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/192C_Beneath_the_Petals.png",
             "rarity": "Common"
         },
         {
@@ -4694,7 +4694,7 @@
             "text": "Insight.\n<b>Reaction:</b> After you win a challenge in which Littlefinger is participating, each player chooses a card in their hand or shadows area. Then, reveal those cards. If no opponent revealed a card with the same cardtype as you, move 1 power from a card in play to Littlefinger.",
             "deckLimit": 40,
             "illustrator": "Josu Hernaiz",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/17%20-%20Littlefinger.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/193R_Littlefinger.png",
             "rarity": "Rare"
         },
         {
@@ -4720,7 +4720,7 @@
             "text": "Bestow (2).\n<b>Reaction:</b> After a card with bestow enters play, it gains 1 gold. (Limit twice per phase.)\n<b>Action:</b> Move 1 gold from Vargo Hoat to a character with 2 or less gold. Until the end of the phase, Vargo Hoat gains that character's keywords.",
             "deckLimit": 40,
             "illustrator": "Andrius Anezin",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FH/17_Vargo.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/194R_Vargo_Hoat.png",
             "rarity": "Rare"
         },
         {
@@ -4747,7 +4747,7 @@
             "flavor": "\"I promised Jaime. Oathkeeper, he named the sword. I have to try to save her . . . or die in the attempt.\"",
             "deckLimit": 40,
             "illustrator": "Chris Dien",
-            "imageUrl": "https://i.imgur.com/Qi1Jw9Z.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/195R_Brienne_of_Tarth.png",
             "rarity": "Rare"
         },
         {
@@ -4772,7 +4772,7 @@
             "text": "Pillage.\n<b>Reaction:</b> After a <i>Wildling</i> character you control discards a card using pillage, search the top 10 cards of your deck for an <i>Item</i> or <i>Weapon</i> attachment with printed cost 2 or lower and put it into play. Shuffle your deck. (Limit twice per phase.)",
             "deckLimit": 40,
             "illustrator": "Henning Ludvigsen",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/25_Harma%20Dogshead.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/196R_Harma_Dogshead.png",
             "rarity": "Rare"
         },
         {
@@ -4797,7 +4797,7 @@
             "deckLimit": 40,
             "illustrator": "Christine Griffin",
             "designer": "Card design by 2008 Overall World Champion, Tzu-Mainn Chen.",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/26_Former%20Champion.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/197R_Former_Champion.png",
             "rarity": "Rare"
         },
         {
@@ -4815,7 +4815,7 @@
             "text": "<b>Reaction:</b> After you win a challenge by 5 or more STR, choose a participating loyal or <i>House Arryn</i> character you control and have it gain 1 power. (2 power instead if The Vale of Arryn is kneeling.) (Limit once per phase.)",
             "deckLimit": 40,
             "illustrator": "Ted Nasmith",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/32%20-%20The%20Vale%20of%20Arryn.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/198R_The_Vale_of_Arryn.png",
             "rarity": "Rare"
         },
         {
@@ -4833,7 +4833,7 @@
             "text": "You choose which player wins ties for initiative and dominance.\n<b>Reaction:</b> After The Moon Door is knelt during a challenge, choose and kill a participating character with printed STR 3 or lower.",
             "deckLimit": 40,
             "illustrator": "Thomas Denmark",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ChoS/38_The_Moon_Door.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/199R_The_Moon_Door.png",
             "rarity": "Rare"
         },
         {
@@ -4852,7 +4852,7 @@
             "text": "While The Tower of Joy is standing and a unique character you control is attacking or defending alone, it gets +2 STR.\r<b>Reaction:</b> After a unique character is killed, The Tower of Joy gains 1 power. (Limit once per phase.)\n<b>Draft format only.</b>",
             "deckLimit": 40,
             "illustrator": "Henning Ludvigsen",
-            "imageUrl": "https://i.imgur.com/dJqLCbP.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/200R_The_Tower_of_Joy.png",
             "rarity": "Rare"
         },
         {
@@ -4875,7 +4875,7 @@
             "flavor": "Promise me, she had cried, in a room that smelled of blood and roses. Promise me, Ned.",
             "deckLimit": 1,
             "illustrator": "Józef Simmler",
-            "imageUrl": "https://i.imgur.com/QHuWkXI.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/201R_All_Men_Must_Die.png",
             "rarity": "Rare"
         },
         {
@@ -4898,7 +4898,7 @@
             "deckLimit": 1,
             "illustrator": "Melle (Midjourney)",
             "designer": "Card design by 2023 Online World Champion, Jim Hansen.",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TTS/79_Battle_on_the_Green_Fork.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/202R_Battle_on_the_Green_Fork.png",
             "rarity": "Rare"
         },
         {
@@ -4920,7 +4920,7 @@
             "text": "<b>Reaction:</b> After you win a challenge, search the top 10 cards of your deck for a location, reveal it, and add it to your hand. Shuffle your deck. (Limit twice per phase.)",
             "deckLimit": 2,
             "illustrator": "Marc Simonetti",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/29_Bran%20the%20Builder.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/203R_Bran_the_Builder.png",
             "rarity": "Rare"
         },
         {
@@ -4943,7 +4943,7 @@
             "text": "<b>Forced Interrupt:</b> When the dominance phase ends, choose a unique non-<i>Army</i> character controlled by each player. Then, return each of those characters to its owner's hand.",
             "deckLimit": 1,
             "illustrator": "Niten",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/54_The%20Father.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/204R_The_Father.png",
             "rarity": "Rare"
         },
         {
@@ -4966,7 +4966,7 @@
             "text": "<b>Forced Reaction:</b> After the challenges phase begins, each player chooses up to 3 characters, up to 3 locations, up to 3 attachments, and up to 3 cards in their hand and/or shadows area. Place each card not chosen on the bottom of its owner's deck (cannot be saved).",
             "deckLimit": 1,
             "illustrator": "ZG Fisher",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/30_The%20Mad%20King_s%20Command.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/205R_The_Mad_Kings_Command.png",
             "rarity": "Rare"
         },
         {
@@ -4989,7 +4989,7 @@
             "text": "While The Maiden is in your used pile, increase the initiative value on your revealed plot card by 2, and the reserve value on your revealed <i>The Seven</i> plot card by 2.",
             "deckLimit": 2,
             "illustrator": "Drew Whitmore",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/56_The%20Maiden.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/206R_The_Maiden.png",
             "rarity": "Rare"
         },
         {
@@ -5012,7 +5012,7 @@
             "text": "<b>When Revealed:</b> Each player chooses a character controlled by an opponent. Then, kill each character with the same printed cost as the chosen characters.",
             "deckLimit": 1,
             "illustrator": "Joshua Cairos",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/59_The%20Stranger.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/207R_The_Stranger.png",
             "rarity": "Rare"
         },
         {
@@ -5035,7 +5035,7 @@
             "text": "During a challenge in which you control an attacking <i>The Seven</i> character, raise the claim value on The Warrior by 1.",
             "deckLimit": 1,
             "illustrator": "Drew Whitmore",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/60_The%20Warrior.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/208R_The_Warrior.png",
             "rarity": "Rare"
         },
         {
@@ -5061,7 +5061,7 @@
             "text": "Assault. No attachments.\n<b>Challenges Action:</b> Kneel a neutral location with printed cost 1 or higher to choose a defending character that shares a <i>Trait</i> with Knights of the Vale. Until the end of the challenge, that character gets +2 STR. (+4 STR instead if your initiative value is 0.) (Limit once per phase.)",
             "deckLimit": 40,
             "illustrator": "Fadly Romdhani",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/19%20-%20Knights%20of%20the%20Vale.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/209U_Knights_of_the_Vale.png",
             "rarity": "Uncommon"
         },
         {
@@ -5086,7 +5086,7 @@
             "text": "Bestow (1). Pillage.\nBrave Companions get +1 STR for each character you control with 1 or more gold.\n<b>Reaction:</b> After you marshal Brave Companions, search the top 10 cards of your deck for an <i>Army</i> character, a <i>Commander</i> character, and a <i>Mercenary</i> character, reveal them, and add them to your hand. Shuffle your deck.",
             "deckLimit": 40,
             "illustrator": "Tomasz Jedruszek",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/42_Brave%20Companions.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/210U_Brave_Companions.png",
             "rarity": "Uncommon"
         },
         {
@@ -5112,7 +5112,7 @@
             "text": "<b>Reaction:</b> After you win a challenge in which Nestor Royce is participating, kneel a neutral location with printed cost 1 or higher to have him gain intimidate or renown until the end of the challenge.",
             "deckLimit": 40,
             "illustrator": "Chris Dien",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/23%20-%20Nestor%20Royce.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/211U_Nestor_Royce.png",
             "rarity": "Uncommon"
         },
         {
@@ -5139,7 +5139,7 @@
             "deckLimit": 40,
             "flavor": "\"I pray to the Warrior for strength, but the gods made me weak.\"",
             "illustrator": "Jeff Lee Johnson",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/43_Septon%20Utt.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/212U_Septon_Utt.png",
             "rarity": "Uncommon"
         },
         {
@@ -5164,7 +5164,7 @@
             "deckLimit": 40,
             "illustrator": "Marc Simonetti",
             "designer": "Card design by 2022 Online World Champion, Alexandre Carry.",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ATT/17_Bloodraven.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/213U_Bloodraven.png",
             "rarity": "Uncommon"
         },
         {
@@ -5189,7 +5189,7 @@
             "flavor": "\"Shame upon the sinner, shame, shame.\"",
             "deckLimit": 40,
             "illustrator": "Jomiiyy",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WK/117_Septa_Unella.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/214U_Septa_Unella.png",
             "rarity": "Uncommon"
         },
         {
@@ -5215,7 +5215,7 @@
             "text": "<b>Reaction:</b> After you lose a challenge in which Ser Vardis Egen is defending, sacrifice him to choose an attacking character. Place it in shadows with a shadow token on it (cannot be saved). While that card is in shadows, it gains shadow (X). X is its printed cost.",
             "deckLimit": 40,
             "illustrator": "Marc Simonetti",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/26%20-%20Ser%20Vardis%20Egen.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/215U_Ser_Vardis_Egen.png",
             "rarity": "Uncommon"
         },
         {
@@ -5241,7 +5241,7 @@
             "flavor": "\"That's the real king of this castle right there, older than sin and twice as mean.\"",
             "deckLimit": 40,
             "illustrator": "Joshua Cairos",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FH/18_Balerion.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/216U_Balerion.png",
             "rarity": "Uncommon"
         },
         {
@@ -5267,7 +5267,7 @@
             "deckLimit": 40,
             "flavor": "\"You mustn't hurt sweet Shagwell, I'm too droll to die.\"",
             "illustrator": "Rafal Hrynkiewicz",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/45_Shagwell.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/217U_Shagwell.png",
             "rarity": "Uncommon"
         },
         {
@@ -5293,7 +5293,7 @@
             "deckLimit": 40,
             "flavor": "\"A son for a son, heh. But that’s a grandson… and he never was much use.\" <cite>Walder Frey</cite>",
             "illustrator": "Polina Kirillova",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/46_Jinglebell.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/218U_Jinglebell.png",
             "rarity": "Uncommon"
         },
         {
@@ -5312,7 +5312,7 @@
             "text": "<b>Reaction:</b> After you win an [intrigue] challenge by 5 or more STR, put The Green Fork into play from your discard pile.\n+1 Income.",
             "deckLimit": 40,
             "illustrator": "Andreas Rocha",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TTS/78_The_Green_Fork.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/219U_The_Green_Fork.png",
             "rarity": "Uncommon"
         },
         {
@@ -5330,7 +5330,7 @@
             "text": "Limited.\nEach player is considered to have 1 additional <i>City</i> plot card in their used pile.\n+1 Income.",
             "deckLimit": 40,
             "illustrator": "Taehoon Kang",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/JS/19_Gulltown_ENG.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/220U_Gulltown.png",
             "rarity": "Uncommon"
         },
         {
@@ -5349,7 +5349,7 @@
             "text": "<b>Reaction:</b> After you lose a [military] challenge in which you control a defending character, the winning opponent must choose and discard 1 card from their hand. (Discard 1 card at random from their hand instead if The Bloody Gate is kneeling.)",
             "deckLimit": 40,
             "illustrator": "Stephen Patane (Midjourney)",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/33%20-%20The%20Bloody%20Gate.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/221U_The_Bloody_Gate.png",
             "rarity": "Uncommon"
         },
         {
@@ -5367,7 +5367,7 @@
             "text": "<b>Reaction:</b> After a phase begins, kneel and sacrifice Milkwater Crossing to have each character lose all keywords and immunities until the end of the phase.\n+1 Initiative.",
             "deckLimit": 40,
             "illustrator": "Andreas Rocha",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WAID/18_Milkwater_Crossing.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/222U_Milkwater_Crossing.png",
             "rarity": "Uncommon"
         },
         {
@@ -5385,7 +5385,7 @@
             "text": "Terminal.\nTreat the printed text box of each other attachment attached to the attached card as if it were blank (except for <i>Traits</i>).",
             "deckLimit": 40,
             "illustrator": "Tiziano Baracchi",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/47_Sweetsleep.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/223U_Sweetsleep.png",
             "rarity": "Uncommon"
         },
         {
@@ -5403,7 +5403,7 @@
             "flavor": "The Arryns were proud, and prickly of their honor.",
             "deckLimit": 40,
             "illustrator": "Stephen Najarian",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/49_As%20High%20As%20Honor.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/224U_As_High_as_Honor.png",
             "rarity": "Uncommon"
         },
         {
@@ -5425,7 +5425,7 @@
             "text": "<b>When Revealed:</b> Kneel each character.\nDraft format only.",
             "deckLimit": 1,
             "illustrator": "Franz von Defregger",
-            "imageUrl": "https://i.imgur.com/eViGLaJ.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/225U_All_Men_Must_Serve.png",
             "rarity": "Uncommon"
         },
         {
@@ -5449,7 +5449,7 @@
             "flavor": "It was said that Rhaegar had named that place the tower of joy, but for Ned it was a bitter memory.",
             "deckLimit": 1,
             "illustrator": "Florian Biege",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ATT/19_At_the_Tower_of_Joy.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/226U_At_the_Tower_of_Joy.png",
             "rarity": "Uncommon"
         },
         {
@@ -5471,7 +5471,7 @@
             "text": "<b>When Revealed:</b> Name a challenge type. Until you reveal a new plot card, each player must declare all eligible characters as attackers or defenders during challenges of that type.",
             "deckLimit": 1,
             "illustrator": "Tomasz Jedruszek",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/MaV/59_Battle_Beneath_the_Wall.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/227U_Battle_Beneath_the_Wall.png",
             "rarity": "Uncommon"
         },
         {
@@ -5493,7 +5493,7 @@
             "text": "<b>Reaction:</b> After you win a [military] challenge as the attacking player, choose and kneel a character controlled by the losing opponent. (You may kill that character instead if it has the <i>Army</i> trait.) (Limit once per phase.)",
             "deckLimit": 1,
             "illustrator": "Tomasz Jedruszek",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/30_Battle%20of%20the%20Camps.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/228U_Battle_of_the_Camps.png",
             "rarity": "Uncommon"
         },
         {
@@ -5517,7 +5517,7 @@
             "flavor": "Baelor the Blessed had ordered all Barth's writings destroyed when he came to the Iron Throne.",
             "deckLimit": 2,
             "illustrator": "Piotr Chrzanowski",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WK/119_Burning_the_Books.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/229U_Burning_the_Books.png",
             "rarity": "Uncommon"
         },
         {
@@ -5540,7 +5540,7 @@
             "text": "Limited cards cannot be marshaled, played, or put into play.",
             "deckLimit": 1,
             "illustrator": "Thomas Denmark",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FUtG/60_City_Blockade.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/230U_City_Blockade.png",
             "rarity": "Uncommon"
         },
         {
@@ -5563,7 +5563,7 @@
             "text": "<b>When Revealed:</b> Gain 3 gold. (6 gold instead if there are 2 or more <i>City</i> plot cards in your used pile.)",
             "deckLimit": 1,
             "illustrator": "Taehoon Kang",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/JS/20_City_Festival_ENG.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/231U_City_Festival.png",
             "rarity": "Uncommon"
         },
         {
@@ -5586,7 +5586,7 @@
             "text": "<b>Reaction:</b> After you win a challenge, choose an attacking character and have it gain 1 power. (Any player may initiate this ability unless there are 2 or more <i>City</i> plot cards in your used pile.) (Limit twice per phase.)\nDraft format only.",
             "deckLimit": 1,
             "illustrator": "Ludwig Hermann",
-            "imageUrl": "https://i.imgur.com/nS1aGDG.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/232U_City_of_Ice.png",
             "rarity": "Uncommon"
         },
         {
@@ -5609,7 +5609,7 @@
             "text": "<b>When Revealed:</b> Choose a card you control with shadow and return it to your hand. (You may return it to shadows instead if there is a <i>City</i> plot card in your used pile.)",
             "deckLimit": 1,
             "illustrator": "Rene Aigner",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WAID/19_City_of_Shadows.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/233U_City_of_Shadows.png",
             "rarity": "Uncommon"
         },
         {
@@ -5631,7 +5631,7 @@
             "text": "While there are no cards in shadows, each character you control gets +1 STR.\n<b>Reaction:</b> After you win a challenge, choose a card in shadows controlled by the losing opponent, and discard it. If that card is a character, place it in its owner's dead pile.",
             "deckLimit": 2,
             "illustrator": "Thomas Denmark",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TIC/99_Enemies_in_Every_Shadow.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/234U_Enemies_in_Every_Shadow.png",
             "rarity": "Uncommon"
         },
         {
@@ -5654,7 +5654,7 @@
             "text": "Reduce the cost of the first <i>Army</i> or <i>Stronghold</i> card you marshal this round by 4.",
             "deckLimit": 2,
             "illustrator": "Tomasz Jedruszek",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/29_For%20the%20Realm.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/235U_For_the_Realm.png",
             "rarity": "Uncommon"
         },
         {
@@ -5678,7 +5678,7 @@
             "flavor": "\"Call it what you will. Glamor, seeming, illusion. R'hllor is Lord of Light, Jon Snow, and it is given to his servants to weave with it, as others weave with thread.\" <cite>Melisandre</cite>",
             "deckLimit": 1,
             "illustrator": "Lukasz Jaskolski",
-            "imageUrl": "https://i.imgur.com/XesVziO.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/236U_Melisandres_Gambit.png",
             "rarity": "Uncommon"
         },
         {
@@ -5701,7 +5701,7 @@
             "text": "<b>Interrupt:</b> When the challenges phase ends, if you have not lost an [intrigue] challenge this phase, gain 2 power for your faction. (4 power instead if there are 3 or more <i>Scheme</i> plot cards in your used pile.)\n<b>Draft format only.</b>",
             "deckLimit": 1,
             "illustrator": "Fuderiki",
-            "imageUrl": "https://i.imgur.com/OzmWr7Z.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/237U_Open_Revolt.png",
             "rarity": "Uncommon"
         },
         {
@@ -5723,7 +5723,7 @@
             "text": "Each player cannot marshal or put into play more than 2 characters, locations, or attachments this round. (4 characters, locations, or attachments instead if that player has a <i>Summer</i> plot card revealed.)",
             "deckLimit": 1,
             "illustrator": "Régis Moulun",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/MaV/60_Strained_Reserves.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/238U_Strained_Reserves.png",
             "rarity": "Uncommon"
         },
         {
@@ -5747,7 +5747,7 @@
             "flavor": "“We shall see, brother. Come the dawn, we shall see.” - Stannis Baratheon",
             "deckLimit": 2,
             "illustrator": "Piotr Chrzanowski",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WoW/39_Striking_at_Dawn.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/239U_Striking_at_Dawn.png",
             "rarity": "Uncommon"
         },
         {
@@ -5770,7 +5770,7 @@
             "text": "Each character with printed STR 1 or lower cannot leave play.",
             "deckLimit": 1,
             "illustrator": "Drew Whitmore",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/53_The%20Crone.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/240U_The_Crone.png",
             "rarity": "Uncommon"
         },
         {
@@ -5794,7 +5794,7 @@
             "flavor": "\"Unless I returned with the king by dawn of the following day, he would take the town with steel and fire, he told me.\" <cite>Ser Barristan Selmy</cite>",
             "deckLimit": 1,
             "illustrator": "Marc Simonetti",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/38%20-%20The%20Defiance%20of%20Duskendale.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/241U_The_Defiance_of_Duskendale.png",
             "rarity": "Uncommon"
         },
         {
@@ -5817,7 +5817,7 @@
             "text": "<b>Reaction:</b> After a character enters play under an opponent's control, if another character entered play under that player's control this round, draw 1 card. (Limit twice per round.)",
             "deckLimit": 2,
             "illustrator": "Niten",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/57_The%20Mother.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/242U_The_Mother.png",
             "rarity": "Uncommon"
         },
         {
@@ -5840,7 +5840,7 @@
             "text": "<b>When Revealed:</b> Choose a character. If there are 2 or more attachments attached to that character, discard each attachment from it. Otherwise, discard each duplicate and each power from it.",
             "deckLimit": 2,
             "illustrator": "Darren Tan",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FH/20_Pointy.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/243U_The_Pointy_End.png",
             "rarity": "Uncommon"
         },
         {
@@ -5863,7 +5863,7 @@
             "text": "<b>Marshaling Action:</b> Kneel an attachment to choose and kneel a location.",
             "deckLimit": 2,
             "illustrator": "Niten",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/58_The%20Smith.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/244U_The_Smith.png",
             "rarity": "Uncommon"
         },
         {
@@ -5889,7 +5889,7 @@
             "text": "No attachments except <i>Weapon</i>.\nReduce the cost to marshal Gulltown City Guard by 1 for each <i>City</i> plot card in your used pile (to a minimum of 1).",
             "deckLimit": 40,
             "illustrator": "Robbie McSweeney",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/JS/17_Gulltown_City_Guard_ENG.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/245C_Gulltown_City_Guard.png",
             "rarity": "Common"
         },
         {
@@ -5914,7 +5914,7 @@
             "text": "Reaction: After you win a challenge in which Maester of the Eyrie is participating, reveal the top 3 cards of your deck. Place any number of those cards on the bottom of the deck, and the others on top, in any order.\n+1 Reserve.\n<b>Draft format only.</ b>",
             "deckLimit": 40,
             "illustrator": "Salomon Koninck",
-            "imageUrl": "https://i.imgur.com/cR5lvDz.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/246C_Maester_of_the_Eyrie.png",
             "rarity": "Common"
         },
         {
@@ -5940,7 +5940,7 @@
             "flavor": "\"You were glad enough to see my face when the mob had you, though. Remember?\" <cite>The Hound</cite>",
             "deckLimit": 40,
             "illustrator": "Mathia Arkoniel",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/25_King_s%20Landing%20Mob.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/247C_Kings_Landing_Mob.png",
             "rarity": "Common"
         },
         {
@@ -5964,7 +5964,7 @@
             "text": "Mummer's Troupe gets +1 STR for each gold it has. While it has 3 or more gold, it gains renown.\n<b>Reaction:</b> After Mummer's Troupe stands, move 1 gold from the treasury to it or a card you control without gold. (Limit once per round.)\n<b>Draft format only.</b>",
             "deckLimit": 40,
             "illustrator": "Frederick Arthur Bridgman",
-            "imageUrl": "https://i.imgur.com/dcbzckS.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/248C_Mummers_Troupe.png",
             "rarity": "Common"
         },
         {
@@ -5988,7 +5988,7 @@
             "text": "Shadow (3).\n<b>Reaction:</b> After you win a challenge in which Harrenhal Cupbearer is participating, return it to shadows to choose and kneel a character with printed cost 5 or lower controlled by the losing opponent.",
             "deckLimit": 40,
             "illustrator": "Stephen Patane (Midjourney)",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WAID/17_Harrenhal_Cupbearer.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/249C_Harrenhal_Cupbearer.png",
             "rarity": "Common"
         },
         {
@@ -6014,7 +6014,7 @@
             "flavor": "The Thenns were hardened warriors, and more disciplined than the common run of wildling.",
             "deckLimit": 40,
             "illustrator": "Kerem Beyit",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/26_Thenns.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/250C_Thenns.png",
             "rarity": "Common"
         },
         {
@@ -6040,7 +6040,7 @@
             "flavor": "\"Other knights serve the lords who keep them, or from whom they hold their lands, but we serve where we will, for men whose causes we believe in.\" <cite>Ser Arlan of Pennytree</cite>",
             "deckLimit": 40,
             "illustrator": "Eugène Joseph Verboeckhoven",
-            "imageUrl": "https://i.imgur.com/fv6zLb4.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/251C_Wandering_Knight.png",
             "rarity": "Common"
         },
         {
@@ -6065,7 +6065,7 @@
             "text": "<b>Interrupt:</b> When King's Landing Smuggler leaves play, place 1 gold from the treasury on a card without gold.",
             "deckLimit": 40,
             "illustrator": "ZG Fisher",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/JS/18_Kings_Landing_Smuggler_ENG.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/252C_Kings_Landing_Smuggler.png",
             "rarity": "Common"
         },
         {
@@ -6089,7 +6089,7 @@
             "text": "<b>Marshaling Action:</b> Kneel Squire to reduce the cost of the next <i>Army</i> or <i>Knight</i> character you marshal this phase by 1. (By 2 instead if that character's printed cost is 6 or higher.)",
             "deckLimit": 40,
             "illustrator": "Tomasz Jedruszek",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/27_Squire.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/253C_Squire.png",
             "rarity": "Common"
         },
         {
@@ -6116,7 +6116,7 @@
             "flavor": "\"There are several branches of House Arryn scattered across the Vale, all as proud as they are penurious, save for the Gulltown Arryns, who had the rare good sense to marry merchants.\" <cite>Littlefinger</cite>",
             "deckLimit": 40,
             "illustrator": "Pastén (Midjourney)",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/30%20-%20Gulltown%20Merchant.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/254C_Gulltown_Merchant.png",
             "rarity": "Common"
         },
         {
@@ -6134,7 +6134,7 @@
             "text": "Limited.\n<b>Action:</b> Kneel and sacrifice The Highroad to reduce the cost of the next non-character card you marshal or play this phase by 2.\n+1 Income.",
             "deckLimit": 40,
             "illustrator": "Torbjörn Källström",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/34%20-%20The%20Highroad.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/255C_The_Highroad.png",
             "rarity": "Common"
         },
         {
@@ -6153,7 +6153,7 @@
             "text": "Ambush (1).\nAttached character gets +1 STR.\n<b>Action:</b> Kneel and sacrifice Quill and Parchment to choose a character. Until the end of the phase, treat that character as if its printed text box were blank (except for <i>Traits</i>).\n<b>Draft format only.</b>",
             "deckLimit": 40,
             "illustrator": "Rutilio Manetti",
-            "imageUrl": "https://i.imgur.com/Wtw7GrY.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/256C_Quill_and_Parchment.png",
             "rarity": "Common"
         },
         {
@@ -6172,7 +6172,7 @@
             "flavor": "\"Your name will be a lie, and the very face you wear will not be your own.\" <cite>Plague Face</cite>",
             "deckLimit": 40,
             "illustrator": "Victor Wong",
-            "imageUrl": "https://i.imgur.com/w3mGt0M.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/257C_Face_Mask.png",
             "rarity": "Common"
         },
         {
@@ -6189,7 +6189,7 @@
             "text": "<b>Action:</b> Choose a unique character with printed cost 3 or lower. Until the end of the phase, that character gains renown. Then, attach \"Florian and Jonquil\" to that character as an attachment with the text: \"Terminal. Attached character gains the <i>Fool</i> and <i>Knight</i> traits.\"",
             "deckLimit": 40,
             "illustrator": "Octavio Huerta",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/28_Florian%20and%20Jonquil.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/258C_Florian_and_Jonquil.png",
             "rarity": "Common"
         },
         {
@@ -6207,7 +6207,7 @@
             "flavor": "How many eyes does Lord Bloodraven have?",
             "deckLimit": 40,
             "illustrator": "Janka Nagy-Hernádi",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WK/118_A_Thousand_Eyes,_and_One.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/259C_A_Thousand_Eyes_and_One.png",
             "rarity": "Common"
         },
         {
@@ -6223,7 +6223,7 @@
             "flavor": "Arya took a breath to still her soul.",
             "deckLimit": 40,
             "illustrator": "Rene Aigner",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ATT/18_Calm_as_still_water.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/260C_Calm_as_still_water.png",
             "rarity": "Common"
         },
         {
@@ -6248,7 +6248,7 @@
             "flavor": "\"Everyone was yelling stuff. Hot Pie yelled hot pie. He must have yelled it a hundred times.\" <cite>Arya Stark</cite>",
             "deckLimit": 40,
             "illustrator": "Roman Papsuev",
-            "imageUrl": "https://i.imgur.com/QnlcOML.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/261H_Hot_Pie.png",
             "rarity": "Hidden"
         },
         {
@@ -6264,7 +6264,7 @@
             "text": "When you announce Sealing the Pact as your agenda, name 1 faction. You may include cards from that faction in your draw deck and plot deck.\n<b>Reaction:</b> After you win a challenge in which you control a participating in-faction character, kneel your faction card to have an out-of-faction character you control gain 1 power.\n<b>Draft format only.</b>",
             "deckLimit": 1,
             "illustrator": "Tomasz Jedruszek",
-            "imageUrl": "https://i.imgur.com/AjGRMDR.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/262S_Sealing_the_Pact.png",
             "rarity": "Starter"
         },
         {
@@ -6280,7 +6280,7 @@
             "text": "When you announce Unknown and Unknowable as your agenda, name 2 factions. You may include cards from those factions in your draw deck and plot deck.\n<b>Action:</b> Kneel your faction card to choose a character you control. Until the end of the phase, that character gains a <i>Trait</i> of your choice.\n<b>Draft format only.</b>",
             "deckLimit": 1,
             "illustrator": "Onur Bakar",
-            "imageUrl": "https://i.imgur.com/oiJg4lj.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/263S_Unknown_and_Unknowable.png",
             "rarity": "Starter"
         },
         {
@@ -6296,7 +6296,7 @@
             "text": "You may include cards with the printed shadow keyword from any faction in your deck.\n<b>Reaction:</b> After a card you control comes out of shadows (choose 1 that you have not chosen this round):\n - Gain 1 gold.\n - Pay 1 gold to draw 1 card.\n - Give a character +2 STR until the end of the phase.\n<b>Draft format only.</b>",
             "deckLimit": 1,
             "illustrator": "Camille Roqueplan",
-            "imageUrl": "https://i.imgur.com/ZHXaBOj.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/264S_Pass_Beneath_the_Shadow.png",
             "rarity": "Starter"
         },
         {
@@ -6312,7 +6312,7 @@
             "text": "You may include cards with the printed bestow keyword and locations from any faction in your deck.\n<b>Action:</b> Kneel your faction card to either: reduce the cost of the next card with bestow or location you marshal this phase by 1, or move 1 gold from your gold pool to a card you control without gold.\n<b>Draft format only.</b>",
             "deckLimit": 1,
             "illustrator": "Marc Simonetti",
-            "imageUrl": "https://i.imgur.com/XR8leH5.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/265S_Seeking_Fortunes.png",
             "rarity": "Starter"
         },
         {
@@ -6328,7 +6328,7 @@
             "text": "When you announce Join Forces as your agenda, name a <i>Trait</i>. You may include cards with that printed <i>Trait</i> from any faction in your draw deck and plot deck.\nReduce the cost of the first card with the named <i>Trait</i> you marshal or play each round by 1.\n<b>Draft format only.</b>",
             "deckLimit": 1,
             "illustrator": "Régis Moulun",
-            "imageUrl": "https://i.imgur.com/PzOREns.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/266S_Join_Forces.png",
             "rarity": "Starter"
         },
         {
@@ -6344,7 +6344,7 @@
             "text": "You may include cards from any faction in your draw deck and plot deck.\nYou cannot spend more than 6 gold during setup.\n-1 Income. -1 Initiative. -1 Reserve.\n<b>Draft format only.</b>",
             "deckLimit": 1,
             "illustrator": "Régis Moulun",
-            "imageUrl": "https://i.imgur.com/g3XQ09E.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/267S_Desperate_Hope.png",
             "rarity": "Starter"
         },
         {
@@ -6366,7 +6366,7 @@
             "text": "<b>Reaction:</b> After Faceless Man enters play, it gains a <i>Trait</i> and challenge icon of your choice.\n<b>Draft format only.</b>",
             "deckLimit": 3,
             "illustrator": "@justinwongart",
-            "imageUrl": "https://i.imgur.com/cP8RIkt.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/268S_Faceless_Man.png",
             "rarity": "Starter"
         },
         {
@@ -6390,7 +6390,7 @@
             "text": "<b>Marshaling Action:</b> Kneel Pentoshi Trader to reduce the cost of the next character you marshal this phase by 1.\n<b>Draft format only.</b>",
             "deckLimit": 3,
             "illustrator": "Francesco Ballesio",
-            "imageUrl": "https://i.imgur.com/rSY4n3i.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/269S_Pentoshi_Trader.png",
             "rarity": "Starter"
         },
         {
@@ -6408,7 +6408,7 @@
             "text": "Limited.\n<b>Marshaling Action:</b> Kneel Holdfast Village to reduce the cost of the next card you marshal <em>(or marshal into shadows)</em> this phase by 1.\n<b>Action:</b> Sacrifice Holdfast Village to, either: gain 1 gold, or draw 1 card.\n<b>Draft format only.</b>",
             "deckLimit": 3,
             "illustrator": "Johann Ludwig Bleuler",
-            "imageUrl": "https://i.imgur.com/alQuqBg.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/270S_Holdfast_Village.png",
             "rarity": "Starter"
         },
         {
@@ -6426,7 +6426,7 @@
             "text": "Limited.\n<b>Marshaling Action:</b> Kneel and sacrifice Market Square to gain 2 gold.\n<b>Draft format only.</b>",
             "deckLimit": 3,
             "illustrator": "Cornelis Springer",
-            "imageUrl": "https://i.imgur.com/JUiHN6F.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/271S_Market_Square.png",
             "rarity": "Starter"
         },
         {
@@ -6449,7 +6449,7 @@
             "text": "<b>When Revealed:</b> Either, increase the gold value on Feast or Famine by 5, or increase the claim value on Feast or Famine by 2.\n<b>Draft format only.</b>",
             "deckLimit": 2,
             "illustrator": "Circle of Sebastian Stoskopff",
-            "imageUrl": "https://i.imgur.com/CL6wVDV.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/272S_Feast_or_Famine.png",
             "rarity": "Starter"
         },
         {
@@ -6471,7 +6471,7 @@
             "text": "<b>When Revealed:</b> Each player chooses any number of characters they control with total printed cost 10 or lower. Kill each character not chosen (cannot be saved).\n<b>Draft format only.</b>",
             "deckLimit": 2,
             "illustrator": "Carlo Coppola",
-            "imageUrl": "https://i.imgur.com/P0BrHH8.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/273S_The_Pale_Mare.png",
             "rarity": "Starter"
         },
         {
@@ -6493,7 +6493,7 @@
             "text": "<b>When Revealed:</b> Draw 1 card. (2 cards instead if there is a <i>City</i> plot card in your used pile.)\n<b>Draft format only.</b>",
             "deckLimit": 2,
             "illustrator": "Fritz Beinke",
-            "imageUrl": "https://i.imgur.com/4vZHrUe.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/274S_City_Fair.png",
             "rarity": "Starter"
         },
         {
@@ -6516,7 +6516,7 @@
             "text": "<b>When Revealed:</b> Put a character with printed cost 3 or lower into play from your hand. (Printed cost 6 or lower instead if there is a <i>City</i> plot card in your used pile.)\n<b>Draft format only.</b>",
             "deckLimit": 2,
             "illustrator": "Tomasz Jedruszek",
-            "imageUrl": "https://i.imgur.com/svmOre6.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/275S_Manning_the_City_Walls.png",
             "rarity": "Starter"
         },
         {
@@ -6538,7 +6538,7 @@
             "text": "During the first [military] challenge you initiate during the challenges phase, raise the claim value on Razed to the Ground by 1.\n<b>Draft format only.</b>",
             "deckLimit": 2,
             "illustrator": "Pieter Meulener",
-            "imageUrl": "https://i.imgur.com/EwDF3u5.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/276S_Razed_to_the_Ground.png",
             "rarity": "Starter"
         },
         {
@@ -6560,7 +6560,7 @@
             "text": "<b>Reaction:</b> After you win an [intrigue] challenge, draw X cards, where X is the claim value on Bitter Accusation. Then, choose and discard 1 card from your hand.\n<b>Draft format only.</b>",
             "deckLimit": 2,
             "illustrator": "Emil Lauffer",
-            "imageUrl": "https://i.imgur.com/nZ272xo.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/277S_Bitter_Accusation.png",
             "rarity": "Starter"
         },
         {
@@ -6582,7 +6582,7 @@
             "text": "You may initiate an additional [power] challenge during the challenges phase.\n<b>Draft format only.</b>",
             "deckLimit": 2,
             "illustrator": "Tomasz Jedruszek",
-            "imageUrl": "https://i.imgur.com/JkuAbaE.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/278S_Royal_Decree.png",
             "rarity": "Starter"
         },
         {
@@ -6604,7 +6604,7 @@
             "text": "Each player cannot declare more than 1 character as an attacker or defender in each challenge.\n<b>Draft format only.</b>",
             "deckLimit": 2,
             "illustrator": "Zygmunt Ajdukiewicz",
-            "imageUrl": "https://i.imgur.com/Pgo9rAX.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/279S_Jousting_Contest.png",
             "rarity": "Starter"
         },
         {
@@ -6626,7 +6626,7 @@
             "text": "<b>When Revealed:</b> Place each character with printed cost 3 or lower without attachments on the bottom of its owner's deck.\n<b>Draft format only.</b>",
             "deckLimit": 2,
             "illustrator": "Julius Sergius Klever",
-            "imageUrl": "https://i.imgur.com/AS362cp.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/280S_Biting_Cold.png",
             "rarity": "Starter"
         },
         {
@@ -6649,7 +6649,7 @@
             "text": "<b>Action:</b> Choose a character. Until the end of the phase, that character gains a <i>Trait</i> or challenge icon of your choice. (Limit once per round.)\n<b>Draft format only.</b>",
             "deckLimit": 2,
             "illustrator": "Juan Carlos Barquet",
-            "imageUrl": "https://i.imgur.com/Zu5w7B4.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/281S_Secrets_of_Oldtown.png",
             "rarity": "Starter"
         }
     ]
