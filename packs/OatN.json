@@ -62,7 +62,7 @@
         },
         {
             "code": "27503",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "type": "character",
             "name": "Ser Patrek of King's Mountain",
             "octgnId": null,
@@ -81,10 +81,10 @@
                 "Knight",
                 "R'hllor"
             ],
-            "text": "<b>Reaction:</b> After you win a challenge in which Ser Patrek of King’s Mountain is participating, if there is a <i>Winter</i> plot revealed, stand him.",
+            "text": "<b>Reaction:</b> After you win a challenge in which Ser Patrek of King’s Mountain is participating, if there is a <i>Winter</i> plot revealed, stand him. (Limit twice per phase.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/3@1.0.0.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/3@1.0.1.png"
         },
         {
             "code": "27504",
@@ -548,7 +548,7 @@
             "code": "27525",
             "version": "1.0.0",
             "type": "character",
-            "name": "Daemon Marbrand",
+            "name": "Damon Marbrand",
             "octgnId": null,
             "quantity": 3,
             "unique": true,
@@ -648,29 +648,30 @@
         },
         {
             "code": "27529",
-            "version": "1.0.0",
+            "version": "2.0.0",
             "type": "character",
-            "name": "Western Patriarch",
+            "name": "Clegane Bannerman",
             "octgnId": null,
             "quantity": 3,
             "unique": false,
             "faction": "lannister",
             "loyal": false,
-            "cost": 4,
+            "cost": 2,
             "icons": {
                 "military": true,
                 "intrigue": false,
                 "power": true
             },
-            "strength": 4,
+            "strength": 2,
             "traits": [
-                "Lord"
+                "Ally",
+                "House Clegane"
             ],
-            "text": "Pillage\n<b>Reaction:</b> After Western Patriarch discards a card using pillage, choose a card in the losing opponent's discard pile and place it on top of their deck.",
+            "text": "Pillage\n<b>Reaction:</b> After Clegane Bannerman discards a card using pillage, choose a card in the losing opponent's discard pile and place it on top of their deck.",
             "deckLimit": 3,
             "illustrator": "?",
             "designer": "Card Designed by 2025 Online Worlds Champion, Jim Hansen.",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/29@1.0.0.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/29@2.0.0.png"
         },
         {
             "code": "27530",
@@ -1151,7 +1152,7 @@
         },
         {
             "code": "27552",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "type": "character",
             "name": "Sentinel Stand Garrison",
             "octgnId": null,
@@ -1161,7 +1162,7 @@
             "loyal": false,
             "cost": 6,
             "icons": {
-                "military": true,
+                "military": false,
                 "intrigue": false,
                 "power": false
             },
@@ -1169,10 +1170,10 @@
             "traits": [
                 "Guard"
             ],
-            "text": "<b>Reaction:</b> After a character with fewer than 2 challenge icons is declared as a defender, kneel Sentinel Stand Garrison. Until the end of the challenge, that character gets +X STR. X is Sentinel Stand Garrison's STR.",
+            "text": "<b>Reaction:</b> After a character with fewer than 2 challenge icons is declared as a defender, kneel Sentinel Stand Garrison. Until the end of the challenge, that character gets +X STR. X is Sentinel Stand Garrison's STR.While Sentinel Stand Garrison is standing, it contributes its STR to your side during any challenge in which you controll a defending characters with 1 or fewer challenge icons.\n<b>Forced Reaction:</b> After you lose a challenge, kneel Sentinel Stand Garrison.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/52@1.0.0.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/52@1.0.1.png"
         },
         {
             "code": "27553",
@@ -1867,7 +1868,7 @@
         },
         {
             "code": "27585",
-            "version": "1.0.0",
+            "version": "1.1.0",
             "type": "character",
             "name": "Paxter Redwyne",
             "octgnId": null,
@@ -1887,10 +1888,10 @@
                 "Lord",
                 "Small Council"
             ],
-            "text": "Shadow (5). Renown.\n<b>Reaction:</b> After a card comes out of shadows under your control, choose a [tyrell] character. Until the end of the phase, that character gets +2 STR. (Limit 3 times per round.)",
+            "text": "Renown. Shadow (5).\n<b>Reaction:</b> After you win a challenge in which Paxter Redwyne is participating, choose a location you own and return it to your hand. (You may place it in shadows instead if it has the <i>Warship</i> trait.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/85@1.0.0.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/85@1.1.0.png"
         },
         {
             "code": "27586",
@@ -2101,7 +2102,7 @@
         },
         {
             "code": "27595",
-            "version": "1.0.0",
+            "version": "1.1.0",
             "type": "event",
             "name": "Olenna's Stratagem",
             "octgnId": null,
@@ -2110,10 +2111,10 @@
             "loyal": true,
             "cost": 1,
             "traits": [],
-            "text": "<b>Action:</b> Kneel your faction card to reduce the cost of each card you bring out of shadow by 1 this phase. Then, if you control The Queen of Thorns, draw 1 card.",
+            "text": "Shadow (0).\n<b>Action:</b> Choose a non-event card in your discard pile, and place it into shadows. Then, if you control The Queen of Thorns, draw 1 card.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/95@1.0.0.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/95@1.1.0.png"
         },
         {
             "code": "27596",
@@ -2285,21 +2286,21 @@
         },
         {
             "code": "27603",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "type": "attachment",
             "name": "Shadowskin Cloak",
             "octgnId": null,
             "quantity": 3,
             "unique": false,
             "faction": "neutral",
-            "cost": 1,
+            "cost": 2,
             "traits": [
                 "Item"
             ],
-            "text": "Shadow (1).\nAttached character gains stealth.\n<b>Forced Interrupt:</b> When the challenges phase ends, return Shadowskin cloak to shadows",
+            "text": "Shadow (0).\nAttached character gains stealth.\n<b>Forced Interrupt:</b> When the challenges phase ends, return Shadowskin Cloak to your hand.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/103@1.0.0.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/103@1.0.1.png"
         },
         {
             "code": "27604",
