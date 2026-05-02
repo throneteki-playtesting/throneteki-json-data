@@ -7,7 +7,7 @@
     "cards": [
         {
             "code": "27501",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "type": "character",
             "name": "Stannis Baratheon",
             "octgnId": null,
@@ -21,16 +21,17 @@
                 "intrigue": false,
                 "power": true
             },
-            "strength": 7,
+            "strength": 6,
             "traits": [
                 "Commander",
                 "King",
-                "Lord"
+                "Lord",
+                "R'hllor"
             ],
-            "text": "Insight.\nWhile there is a <i>Winter</i> plot card revealed, characters STR cannot be increased.",
+            "text": "Insight.\nWhile there is a <i>Winter</i> plot card revealed, opponent's characters STR cannot be raised by card effects.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/1@1.0.0.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/1@1.0.1.png"
         },
         {
             "code": "27502",
@@ -862,7 +863,7 @@
         },
         {
             "code": "27539",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "type": "character",
             "name": "Dorea Sand",
             "octgnId": null,
@@ -881,10 +882,10 @@
                 "Bastard",
                 "Sand Snake"
             ],
-            "text": "<b>Challenges Action:</b> Return Dorea Sand to your hand. Then, if you control fewer characters than each opponent, stand The Red Viper or a <i>Sand Snake</i> character you control.",
+            "text": "<b>Challenges Action:</b> Return Dorea Sand to your hand. Then, if you control fewer characters than each opponent, stand The Red Viper or a <i>Sand Snake</i> character you control. (Max once per round.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/39@1.0.0.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/39@1.0.1.png"
         },
         {
             "code": "27540",
@@ -1152,7 +1153,7 @@
         },
         {
             "code": "27552",
-            "version": "1.0.1",
+            "version": "1.0.2",
             "type": "character",
             "name": "Sentinel Stand Garrison",
             "octgnId": null,
@@ -1170,10 +1171,10 @@
             "traits": [
                 "Guard"
             ],
-            "text": "<b>Reaction:</b> After a character with fewer than 2 challenge icons is declared as a defender, kneel Sentinel Stand Garrison. Until the end of the challenge, that character gets +X STR. X is Sentinel Stand Garrison's STR.While Sentinel Stand Garrison is standing, it contributes its STR to your side during any challenge in which you controll a defending characters with 1 or fewer challenge icons.\n<b>Forced Reaction:</b> After you lose a challenge, kneel Sentinel Stand Garrison.",
+            "text": "While Sentinel Stand Garrison is standing, it contributes its STR to your side during any challenge in which you controll a defending characters with 1 or fewer challenge icons.\n<b>Forced Reaction:</b> After you lose a challenge, kneel Sentinel Stand Garrison.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/52@1.0.1.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/52@1.0.2.png"
         },
         {
             "code": "27553",
@@ -1777,7 +1778,7 @@
         },
         {
             "code": "27580",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "type": "attachment",
             "name": "Blood of Valyria",
             "octgnId": null,
@@ -1785,14 +1786,14 @@
             "unique": false,
             "faction": "targaryen",
             "loyal": true,
-            "cost": 0,
+            "cost": 1,
             "traits": [
                 "Legacy"
             ],
             "text": "Unique [targaryen] character only.\nAttached character cannot have its STR reduced by card effects, and gains insight during [power] challenges.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/80@1.0.0.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/80@1.0.1.png"
         },
         {
             "code": "27581",
@@ -1921,7 +1922,7 @@
         },
         {
             "code": "27587",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "type": "character",
             "name": "Tommen Baratheon",
             "octgnId": null,
@@ -1940,10 +1941,10 @@
                 "King",
                 "Lord"
             ],
-            "text": "Each participating [tyrell] character you control gets +2 STR during:\n- [military] challenges, if there is a revealed <i>Siege</i> plot card.\n-    [intrigue] challenges, if there is a revealed <i>Scheme</i> plot card.\n-    [power] challenges, if there is a revealed <i>Kingdom</i> plot card.",
+            "text": "Each participating [tyrell] character you control gets +2 STR during:\n- [military] challenges, if there is a revealed <i>Noble</i> plot card.\n-    [intrigue] challenges, if there is a revealed <i>Edict</i> plot card.\n-    [power] challenges, if there is a revealed <i>Kingdom</i> plot card.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/87@1.0.0.png"
+            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/87@1.0.1.png"
         },
         {
             "code": "27588",
