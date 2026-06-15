@@ -505,9 +505,9 @@
                 "Warship"
             ],
             "text": "Shadow (1).\n<b>Challenges Action:</b> Pay 1 gold to treat Iron Fleet Detatchment as a <i>Raider</i> character with STR 2, a [military] icon, a [power] icon, and the text \"Stealth.\" until the end of the phase.",
-            "designer": "Card design by 2024 Stahleck Melee Champion, Alexandre Carry.",
             "deckLimit": 3,
             "illustrator": "?",
+            "designer": "Card design by 2024 Stahleck Melee Champion, Alexandre Carry.",
             "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27522@1_0_0.png"
         },
         {
@@ -669,9 +669,9 @@
                 "House Clegane"
             ],
             "text": "Pillage\n<b>Reaction:</b> After Clegane Bannerman discards a card using pillage, choose a card in the losing opponent's discard pile and place it on top of their deck.",
-            "designer": "Card Designed by 2025 Online Worlds Champion, Jim Hansen.",
             "deckLimit": 3,
             "illustrator": "?",
+            "designer": "Card Designed by 2025 Online Worlds Champion, Jim Hansen.",
             "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27529@2_0_0.png"
         },
         {
@@ -934,9 +934,9 @@
                 "Spy"
             ],
             "text": "Shadow (3).\n<b>Reaction:</b> After Dornish Diplomat comes out of shadows, search the top 10 cards of your deck for up to 3 [martell] attachments with printed cost 1 or lower, and put them into play.",
-            "designer": "Card design by 2018 Worlds Joust Champion, Lennart Paga.",
             "deckLimit": 3,
             "illustrator": "?",
+            "designer": "Card design by 2018 Worlds Joust Champion, Lennart Paga.",
             "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27541@1_0_0.png"
         },
         {
@@ -2258,9 +2258,9 @@
                 "Old Gods"
             ],
             "text": "Insight. No attachments except <i>Old Gods</i>.\n<b>Action:</b> Discard a non-event card from your hand to choose another card of the same cardtype in your discard pile. Return that card to your hand. (Limit once per round.)",
-            "designer": "Card Designed by 2024 Stahleck Joust Champion, Alex Carter.",
             "deckLimit": 3,
             "illustrator": "?",
+            "designer": "Card Designed by 2024 Stahleck Joust Champion, Alex Carter.",
             "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27601@1_0_1.png"
         },
         {
@@ -2603,9 +2603,9 @@
             "faction": "neutral",
             "traits": [],
             "text": "Your deck cannot include more than 1 copy of each card (by title).\n<b>Reaction:</b> After you play an event or a card enters play under your control, search your deck for a card of the same cardtype and equal or lower printed cost, reveal it, and add it to your hand. Shuffle your deck. (Limit once per round.)",
-            "designer": "Card Designed by 2024 Online Worlds Champion, Superduck.",
             "deckLimit": 1,
             "illustrator": "?",
+            "designer": "Card Designed by 2024 Online Worlds Champion, Superduck.",
             "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27618@1_0_1.png"
         },
         {
