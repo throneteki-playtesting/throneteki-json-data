@@ -31,7 +31,7 @@
             "text": "Insight.\nWhile there is a <i>Winter</i> plot card revealed, opponent's characters STR cannot be raised by card effects.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/1@1.0.1.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27501@1_0_1.png"
         },
         {
             "code": "27502",
@@ -59,7 +59,7 @@
             "flavor": "\"One land, one god, one king!\"",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/2@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27502@1_0_0.png"
         },
         {
             "code": "27503",
@@ -85,18 +85,18 @@
             "text": "<b>Reaction:</b> After you win a challenge in which Ser Patrek of King’s Mountain is participating, if there is a <i>Winter</i> plot revealed, stand him. (Limit twice per phase.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/3@1.0.1.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27503@1_0_1.png"
         },
         {
             "code": "27504",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "type": "character",
             "name": "Northern Mountain Clans",
             "octgnId": null,
             "quantity": 3,
             "unique": false,
             "faction": "baratheon",
-            "loyal": true,
+            "loyal": false,
             "cost": 6,
             "icons": {
                 "military": true,
@@ -108,10 +108,10 @@
                 "Army",
                 "Clansman"
             ],
-            "text": "No attachments.\n<b>Reaction:</b> After you win a challenge in which Northern Mountain Clans is attacking, choose X kneeling characters. Those characters cannot stand during the standing phase this round. X is the claim value on your revealed plot card.",
+            "text": "Ambush (6). No attachments.\n<b>Reaction:</b> After you win a challenge in which Northern Mountain Clans is attacking, choose X characters. Those characters cannot stand during the standing phase this round. X is the claim value on your revealed plot card.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/4@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27504@1_0_1.png"
         },
         {
             "code": "27505",
@@ -136,11 +136,11 @@
             "text": "<b>Interrupt:</b> When the effects of a triggered character ability would initiate, move 1 power from your faction card to that character to cancel those effects. (Limit once per round.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/5@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27505@1_0_0.png"
         },
         {
             "code": "27506",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "type": "character",
             "name": "Deepwood Steward",
             "octgnId": null,
@@ -159,10 +159,10 @@
                 "Ally",
                 "Steward"
             ],
-            "text": "<b>Reaction:</b> After Deepwood Steward enters play, search the top 10 cards of your deck for a <i>The North</i> or out-of-faction location. Reveal it and add it to your hand. Shuffle your deck.",
+            "text": "<b>Reaction:</b> After you marshal Deepwood Steward, search the top 10 cards of your deck for a <i>The North</i> or out-of-faction location. Reveal it, and add it to your hand. Shuffle your deck.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/6@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27506@1_0_1.png"
         },
         {
             "code": "27507",
@@ -181,7 +181,7 @@
             "text": "Shadow (1).\nDuring [power] challenges, set attached character's STR to 3.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/7@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27507@1_0_0.png"
         },
         {
             "code": "27508",
@@ -200,11 +200,11 @@
             "text": "[baratheon] character only.\nAttached character gets +1 STR for each power it has.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/8@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27508@1_0_0.png"
         },
         {
             "code": "27509",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "type": "location",
             "name": "Dragonglass Mine",
             "octgnId": null,
@@ -216,10 +216,10 @@
             "traits": [
                 "Dragonstone"
             ],
-            "text": "<b>Challenges Action:</b> If you have 5 or more power on your faction card, kneel Dragonglass Mine to choose a participating character. Until the end of the challenge, that character is immune to opponent's character abilities.",
+            "text": "<b>Challenges Action:</b> If you have 5 or more power on your faction card, kneel Dragonglass Mine to choose a character you control. Until the end of the phase, that character is immune to opponent's character abilities.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/9@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27509@1_0_1.png"
         },
         {
             "code": "27510",
@@ -239,29 +239,29 @@
             "text": "While there are more <i>Winter</i> plot cards than <i>Summer</i> plot cards revealed, each character gets -1 STR.\n<b>Reaction:</b> After the standing phase begins, kneel The Wall. Each character controlled by an opponent with lowest STR in play cannot stand this phase.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/10@1.0.1.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27510@1_0_1.png"
         },
         {
             "code": "27511",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "type": "event",
             "name": "Fiery Talons",
             "octgnId": null,
             "quantity": 3,
             "faction": "baratheon",
-            "loyal": true,
-            "cost": 2,
+            "loyal": false,
+            "cost": 0,
             "traits": [
                 "R'hllor"
             ],
-            "text": "Play only if you control a <i>R'hllor</i> character.\n<b>Challenges Action:</b> Choose a participating character. Until the end of the phase, that character gets -1 STR and placed in shadows if its STR is 0.",
+            "text": "<b>Challenges Action:</b> Kneel a <i>R'hllor</i> character to choose a participating character. Until the end of the phase, that character gets -1 STR and placed in shadows if its STR is 0.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/11@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27511@1_0_1.png"
         },
         {
             "code": "27512",
-            "version": "1.0.0",
+            "version": "1.1.0",
             "type": "event",
             "name": "Wedding at the Wall",
             "octgnId": null,
@@ -272,10 +272,10 @@
             "traits": [
                 "R'hllor"
             ],
-            "text": "<b>Marshaling Action:</b> Discard a card in shadows to stand each <i>R'hllor</i> and <i>Wildling</i> character.",
+            "text": "<b>Reaction:</b> After a [power] challenge is initiated, reveal your shadow area (of at least 1 card). Then, each <i>R'hllor</i> and <i>Wildling</i> character you control gains the <i>R'hllor</i> and <i>Wildling</i> traits until the end of the phase.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/12@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27512@1_1_0.png"
         },
         {
             "code": "27513",
@@ -303,7 +303,7 @@
             "text": "Shadow (6). Pillage. Renown.\n<b>Reaction:</b> After a card comes out of shadows under your control, discard the top card of an opponent's deck. Then, if that card is an event, stand Euron Crow's Eye. (Limit twice per round.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/13@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27513@1_0_0.png"
         },
         {
             "code": "27514",
@@ -329,7 +329,7 @@
             "text": "<b>Reaction:</b> After an opponent discards cards for reserve, discard the same amount from their deck.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/14@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27514@1_0_0.png"
         },
         {
             "code": "27515",
@@ -355,7 +355,7 @@
             "text": "<b>Reaction:</b> After you win a challenge by 5 or more STR in which Blind Beron is participating, kill him to put another <i>Drowned God</i> character into play from your dead pile.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/15@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27515@1_0_0.png"
         },
         {
             "code": "27516",
@@ -380,7 +380,7 @@
             "text": "Shadow (5). Pillage.\n<b>Reaction:</b> After Silence's Crew comes out of shadows, if you are the first player, stand each character you control with pillage.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/16@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27516@1_0_0.png"
         },
         {
             "code": "27517",
@@ -405,7 +405,7 @@
             "text": "While Kingsmoot Claimant is attacking a player who does not control a <i>King</i> character, Kingsmoot Claimant gains the <i>King</i> trait and renown.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/17@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27517@1_0_0.png"
         },
         {
             "code": "27518",
@@ -430,7 +430,7 @@
             "text": "<b>Interrupt:</b> When the effects of a triggered character ability would initiate, kill Priest on the Docks to cancel those effects. (Max once per round.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/18@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27518@1_0_0.png"
         },
         {
             "code": "27519",
@@ -449,7 +449,7 @@
             "text": "<i>Ironborn</i> character only.\nAttached character gains the <i>Captain</i> trait.\n<b>Challenges Action:</b> During a [military] or [power] challenge, kneel Captain of the Iron Fleet and a <i>Warship</i> location you control to have attached character participate in this challenge on your side.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/19@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27519@1_0_0.png"
         },
         {
             "code": "27520",
@@ -468,7 +468,7 @@
             "text": "<i>Drowned God</i> character only.\n<b>Interrupt:</b> When a character you control is killed, kill attached character to save it.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/20@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27520@1_0_0.png"
         },
         {
             "code": "27521",
@@ -488,7 +488,7 @@
             "text": "<b>Reaction:</b> After you kneel a location using assault, stand Asha Greyjoy or a <i>Raider</i> character you control.\n-2 Initiative.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/21@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27521@1_0_0.png"
         },
         {
             "code": "27522",
@@ -508,7 +508,7 @@
             "deckLimit": 3,
             "illustrator": "?",
             "designer": "Card design by 2024 Stahleck Melee Champion, Alexandre Carry.",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/22@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27522@1_0_0.png"
         },
         {
             "code": "27523",
@@ -527,7 +527,7 @@
             "flavor": "\"I prefer my history dead.\" <cite>The Reader</cite>",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/23@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27523@1_0_0.png"
         },
         {
             "code": "27524",
@@ -543,11 +543,11 @@
             "text": "<b>Reaction:</b> After you win an unopposed challenge, search the top 10 cards of your deck for a [greyjoy] character with printed cost 6 or higher, and put it into play knelt. Shuffle your deck. (Max 1 per challenge.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/24@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27524@1_0_0.png"
         },
         {
             "code": "27525",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "type": "character",
             "name": "Damon Marbrand",
             "octgnId": null,
@@ -565,14 +565,14 @@
             "traits": [
                 "Lord"
             ],
-            "text": "<b>Reaction:</b> After a character is returned to an opponent's hand, discard a card at random from that player's hand. (Limit twice per phase.)",
+            "text": "<b>Reaction:</b> After a character is discarded from an opponent's hand, that player must choose a character they control and return it to their hand. (Limit twice per phase.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/25@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27525@1_0_1.png"
         },
         {
             "code": "27526",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "type": "character",
             "name": "Orton Merryweather",
             "octgnId": null,
@@ -591,10 +591,10 @@
                 "Lord",
                 "Small Council"
             ],
-            "text": "Each gold in your gold pool contributes 2 STR towards your total for dominance.\n<b>Interrupt:</b> When the challenges phase ends, if you have not lost an [intrigue] challenge this round, gain 2 gold.",
+            "text": "Each gold in your gold pool contributes an additional 1 STR towards your total for dominance.\n<b>Interrupt:</b> When dominance is determined, if you have not lost an [intrigue] challenge this round, gain 2 gold.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/26@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27526@1_0_1.png"
         },
         {
             "code": "27527",
@@ -619,7 +619,7 @@
             "text": "While you control Brienne of Tarth, Podrick Payne gains a [military] icon.\nWhile you control Tyrion Lannister, Podrick Payne gains an [intrigue] icon.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/27@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27527@1_0_0.png"
         },
         {
             "code": "27528",
@@ -645,7 +645,7 @@
             "text": "No attachments.\n<b>Reaction:</b> After a character gains power, it's controller must discard 1 power from their faction card, unless they discard 1 card from their hand. (Limit twice per round.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/28@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27528@1_0_0.png"
         },
         {
             "code": "27529",
@@ -672,7 +672,7 @@
             "deckLimit": 3,
             "illustrator": "?",
             "designer": "Card Designed by 2025 Online Worlds Champion, Jim Hansen.",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/29@2.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27529@2_0_0.png"
         },
         {
             "code": "27530",
@@ -697,7 +697,7 @@
             "text": "<b>Interrupt:</b> When the effects of a triggered character ability would initiate, return a <i>The Seven</i> character to your hand to cancel those effects. (Limit once per round.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/30@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27530@1_0_0.png"
         },
         {
             "code": "27531",
@@ -717,7 +717,7 @@
             "text": "<i>Lady</i> character only.\nIf attached character is Cercei Lannister, she gets +2 STR.\n<b>Reaction:</b> After you win an [intrigue] challenge in which attached character is attacking, kneel Jeweled Tiara to discard 1 card at random from the losing opponents hand for every 5 STR in which you won the challenge by.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/31@1.1.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27531@1_1_0.png"
         },
         {
             "code": "27532",
@@ -736,7 +736,7 @@
             "text": "Shadow (1).\nCharacter with printed STR 3 or lower only.\nAttached character contributes its STR to your side during [intrigue] challenges in which you control a participating character.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/32@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27532@1_0_0.png"
         },
         {
             "code": "27533",
@@ -756,7 +756,7 @@
             "text": "<b>Reaction:</b> After you win an [intrigue] challenge, kneel Hornvale to have the losing opponent choose a card in their hand and place it facedown under Hornvale. If Hornvale leaves play, return each card you placed under it to it's owners hand.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/33@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27533@1_0_0.png"
         },
         {
             "code": "27534",
@@ -775,7 +775,7 @@
             "text": "Limited.\n<b>Challenges Action:</b> Kneel and sacrifice Rosby Road to gain 3 gold.\n+1 Initiative.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/34@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27534@1_0_0.png"
         },
         {
             "code": "27535",
@@ -791,7 +791,7 @@
             "text": "<b>Reaction:</b> After you win an [intrigue] challenge by 5 or more STR, gain 2 power for your faction. The losing opponent may give you 2 gold to cancel this effect. (Max 1 per challenge.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/35@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27535@1_0_0.png"
         },
         {
             "code": "27536",
@@ -807,7 +807,7 @@
             "text": "<b>Challenges Action:</b> Choose a defending character without an [intrigue] icon. That character does not contribute is STR to this challenge.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/36@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27536@1_0_0.png"
         },
         {
             "code": "27537",
@@ -833,7 +833,7 @@
             "text": "Ambush (6).\n<b>Reaction:</b> After you win a challenge in which Areo Hotah is defending, kneel your faction card to have the losing opponent satisfy the claim of that challenge type as if you were the winning opponent.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/37@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27537@1_0_0.png"
         },
         {
             "code": "27538",
@@ -858,7 +858,7 @@
             "text": "<b>Action:</b> Choose a character who is attacking or defending alone, and remove it from the challenge. (Limit once per round.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/38@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27538@1_0_0.png"
         },
         {
             "code": "27539",
@@ -884,7 +884,7 @@
             "text": "<b>Challenges Action:</b> Return Dorea Sand to your hand. Then, if you control fewer characters than each opponent, stand The Red Viper or a <i>Sand Snake</i> character you control. (Limit once per phase.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/39@1.0.2.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27539@1_0_2.png"
         },
         {
             "code": "27540",
@@ -910,7 +910,7 @@
             "text": "<b>Interrupt:</b> When Sunspear Sentinel is discarded for [intrigue] claim, put it into play instead of placing it in your discard pile. Until the end of the phase, it gains an [intrigue] icon.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/40@2.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27540@2_0_0.png"
         },
         {
             "code": "27541",
@@ -937,7 +937,7 @@
             "deckLimit": 3,
             "illustrator": "?",
             "designer": "Card design by 2018 Worlds Joust Champion, Lennart Paga.",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/41@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27541@1_0_0.png"
         },
         {
             "code": "27542",
@@ -962,7 +962,7 @@
             "text": "<b>Interrupt:</b> When the effects of a triggered character ability would initiate, discard a card from shadows to cancel those effects. (Limit once per round.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/42@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27542@1_0_0.png"
         },
         {
             "code": "27543",
@@ -981,7 +981,7 @@
             "text": "Unique [martell] character only.\nAttached character gains the <i>Lord</i> trait.\nWhile an opponent controls more characters than you, attached character gains \"immune to opponent's plot effects.\"",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/43@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27543@1_0_0.png"
         },
         {
             "code": "27544",
@@ -1001,7 +1001,7 @@
             "text": "Opponent's characters only.\nWhile attached character has no challenge icons, treat its printed text box as if its blank (except for <i>Traits</i>).",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/44@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27544@1_0_0.png"
         },
         {
             "code": "27545",
@@ -1021,7 +1021,7 @@
             "flavor": "\"It is lovely here.\"\n—Andrey Dalt ",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/45@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27545@1_0_0.png"
         },
         {
             "code": "27546",
@@ -1040,7 +1040,7 @@
             "text": "<b>Reaction:</b> After a character is declared as an attacker or defender, kneel Sunkissed Sands to have that character lose a challenge icon of your choice until the end of the challenge.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/46@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27546@1_0_0.png"
         },
         {
             "code": "27547",
@@ -1056,7 +1056,7 @@
             "text": "<b>Reaction:</b> After the challenges phase begins, each player must choose a character he or she controls. Then, remove each of the chosen characters from the game until you win your next challenge.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/47@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27547@1_0_0.png"
         },
         {
             "code": "27548",
@@ -1072,7 +1072,7 @@
             "text": "<b>Reaction:</b> After a [martell] character you control is killed, choose and stand any number of <i>Bastard</i> characters you control.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/48@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27548@1_0_0.png"
         },
         {
             "code": "27549",
@@ -1098,7 +1098,7 @@
             "text": "Shadow (4). No attachments except <i>Weapon</i>.\n<b>Reaction:</b> After a card you control comes out of shadows, choose a [thenightswatch] character you control. Until the end of the phase, that character gains stealth. (Limit twice per round.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/49@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27549@1_0_0.png"
         },
         {
             "code": "27550",
@@ -1125,7 +1125,7 @@
             "text": "<b>Reaction:</b> After Alys Karstark stands, choose another <i>Wildling</i> character you control, and have it gain 1 power. If that character is Sigorn, draw 1 card. (Limit twice per round.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/50@1.1.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27550@1_1_0.png"
         },
         {
             "code": "27551",
@@ -1150,7 +1150,7 @@
             "text": "Shadow (1).\n<b>Reaction:</b> After Alan of Rosby comes out of shadows during a challenge, stand a defending [thenightswatch] character you control.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/51@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27551@1_0_0.png"
         },
         {
             "code": "27552",
@@ -1175,7 +1175,7 @@
             "text": "While Sentinel Stand Garrison is standing, it contributes its STR to your side during any challenge in which you controll a defending characters with 1 or fewer challenge icons.\n<b>Forced Reaction:</b> After you lose a challenge, kneel Sentinel Stand Garrison.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/52@1.0.2.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27552@1_0_2.png"
         },
         {
             "code": "27553",
@@ -1201,7 +1201,7 @@
             "text": "<b>Interrupt:</b> When the effects of a triggered character ability would initiate, sacrifice a [thenightswatch] location to cancel those effects. (Limit once per round.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/53@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27553@1_0_0.png"
         },
         {
             "code": "27554",
@@ -1226,7 +1226,7 @@
             "text": "<b>Reaction:</b> After an opponent initiates a challenge, Recruit at the Wall gains the icon of that challenge type. (Limit once per phase.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/54@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27554@1_0_0.png"
         },
         {
             "code": "27555",
@@ -1246,7 +1246,7 @@
             "text": "If attached character is Jon Snow or has the <i>Maester</i> trait, its STR cannot be reduced by card effects.\n<b>Reaction:</b> After you win an [intrigue] challenge in which attached character is participating, kneel Jade Compendium to draw 2 cards. Then, place 1 card from your hand under your agenda.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/55@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27555@1_0_0.png"
         },
         {
             "code": "27556",
@@ -1265,7 +1265,7 @@
             "text": "Non-loyal characters only. Terminal.\n<b>Reaction:</b> After the plot phase begins, name a <i>Trait</i>. If the controller of the attached character reveales a plot card with the same <i>Trait</i> during this phase, discard the attached character from play.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/56@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27556@1_0_0.png"
         },
         {
             "code": "27557",
@@ -1284,7 +1284,7 @@
             "text": "While Skirling Pass is standing, non-<i>Wildling</i> characters lose stealth.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/57@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27557@1_0_0.png"
         },
         {
             "code": "27558",
@@ -1303,7 +1303,7 @@
             "text": "Shadow (1).\n<b>Reaction:</b> After Castle Black Wormways comes out of shadows, if there is a <i>Winter</i> plot card revealed, choose a character you control and return it to shadows.\n+1 Reserve.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/58@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27558@1_0_0.png"
         },
         {
             "code": "27559",
@@ -1316,10 +1316,10 @@
             "loyal": true,
             "cost": 1,
             "traits": [],
-            "text": "<b>Challenges Action:</b> Choose a character in an opponent's discard pile with a printed cost of 4 or lower. Put that character into play under your control. At the end of the phase, if that card is still in play,    place it on the bottom of its owner's deck.",
+            "text": "<b>Challenges Action:</b> Choose a character in an opponent's discard pile with a printed cost of 4 or lower. Put that character into play under your control. At the end of the phase, if that card is still in play,  place it on the bottom of its owner's deck.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/59@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27559@1_0_0.png"
         },
         {
             "code": "27560",
@@ -1335,7 +1335,7 @@
             "text": "<b>Reaction:</b> After you win a challenge by 5 or more STR, choose a <i>Ranger</i>, a <i>Steward</i> and a <i>Builder</i> character. Each of those characters gains 1 power. (Max once per phase.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/60@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27560@1_0_0.png"
         },
         {
             "code": "27561",
@@ -1362,7 +1362,7 @@
             "flavor": "\"Winter is nigh, I want no more mouths to feed.\"\n—Torghen to Jon Snow",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/61@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27561@1_0_0.png"
         },
         {
             "code": "27562",
@@ -1387,7 +1387,7 @@
             "text": "<b>Reaction:</b> After a character or location you control is sacrificed, stand Arnolf Karstark. (Limit once per round.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/62@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27562@1_0_0.png"
         },
         {
             "code": "27563",
@@ -1412,7 +1412,7 @@
             "text": "Renown.\n<b>Forced Reaction:</b> After you win a challenge in which Whoresbane Umber is participating, discard the top X cards of your deck. X is the number of plot cards in your used pile.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/63@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27563@1_0_0.png"
         },
         {
             "code": "27564",
@@ -1439,7 +1439,7 @@
             "text": "Shadow (4).\n<b>Interrupt:</b> When The Merman's Shield is sacrificed, place it in shadows instead of placing it in your discard pile.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/64@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27564@1_0_0.png"
         },
         {
             "code": "27565",
@@ -1464,7 +1464,7 @@
             "text": "Stealth.\nWhile Camouflaged Northmen is attacking, each character with shadow cannot be declared as a defender.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/65@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27565@1_0_0.png"
         },
         {
             "code": "27566",
@@ -1489,7 +1489,7 @@
             "text": "<b>Interrupt:</b> When the effects of a triggered character ability would initiate, sacrifice an <i>Old Gods</i> character to cancel those effects. (Limit once per round.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/66@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27566@1_0_0.png"
         },
         {
             "code": "27567",
@@ -1509,7 +1509,7 @@
             "text": "[stark] character only.\nAttached character gets +1 STR.\nWhile attached character has the <i>Old Gods</i> trait, it gains \"immune to opponent's card effects.\"",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/67@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27567@1_0_0.png"
         },
         {
             "code": "27568",
@@ -1528,7 +1528,7 @@
             "text": "[stark] <i>Lord</i> character only.\n<b>Interrupt:</b> When attached character would be killed, kneel Lord of Winterfell and sacrifice another [stark] character to save it.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/68@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27568@1_0_0.png"
         },
         {
             "code": "27569",
@@ -1547,7 +1547,7 @@
             "text": "<b>Interrupt:</b> When a character is sacrificed, kneel The Weeping Water to place that card in its owner's dead pile instead of its owner's discard pile.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/69@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27569@1_0_0.png"
         },
         {
             "code": "27570",
@@ -1567,7 +1567,7 @@
             "text": "<b>Interrupt:</b> When Grey Cliffs is sacrificed, draw 1 card.\n+1 Initiative.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/70@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27570@1_0_0.png"
         },
         {
             "code": "27571",
@@ -1584,7 +1584,7 @@
             "flavor": "\"When treating with liars, even an honest man must lie.\" <cite>Wyman Manderly</cite>",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/71@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27571@1_0_0.png"
         },
         {
             "code": "27572",
@@ -1603,11 +1603,11 @@
             "flavor": "\"They were wargs as well, as you are, and the greatest of them could wear the skins of any beast that flies or swims or crawls...\" <cite>Jojen Reed</cite>",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/72@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27572@1_0_0.png"
         },
         {
             "code": "27573",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "type": "character",
             "name": "Khal Drogo",
             "octgnId": null,
@@ -1627,14 +1627,14 @@
                 "Dothraki",
                 "Lord"
             ],
-            "text": "Renown.\n<b>Reaction:</b> After you win a challenge by 5 or more STR as the attacking player, stand an <i>Army</i> or <i>Dothraki</i> character. (Limit twice per phase.)",
+            "text": "Renown.\n<b>Reaction:</b> After you win a challenge by 5 or more STR as the attacking player, stand an <i>Dothraki</i> character. (Limit twice per phase.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/73@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27573@1_0_1.png"
         },
         {
             "code": "27574",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "type": "character",
             "name": "Galazza Galare",
             "octgnId": null,
@@ -1652,10 +1652,10 @@
             "traits": [
                 "Grace"
             ],
-            "text": "<b>Interrupt:</b> When the challenge phase ends, if you did not apply [military] claim this phase, gain 2 power for your faction.",
+            "text": "<b>Interrupt:</b> When the challenge phase ends, gain 1 power for your faction for each player who did not apply [military] claim this phase.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/74@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27574@1_0_1.png"
         },
         {
             "code": "27575",
@@ -1680,37 +1680,37 @@
             "text": "No attachments except <i>Weapon</i>.\nWhile there is a <i>Weapon</i> attachment attached to Goghor the Giant, he gains intimidate.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/75@1.0.1.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27575@1_0_1.png"
         },
         {
             "code": "27576",
-            "version": "1.0.0",
+            "version": "2.0.0",
             "type": "character",
-            "name": "Hidden Khalasar",
+            "name": "Screaming Horde",
             "octgnId": null,
             "quantity": 3,
             "unique": false,
             "faction": "targaryen",
             "loyal": false,
-            "cost": 5,
+            "cost": 7,
             "icons": {
                 "military": true,
                 "intrigue": false,
-                "power": false
+                "power": true
             },
-            "strength": 5,
+            "strength": 8,
             "traits": [
                 "Army",
                 "Dothraki"
             ],
-            "text": "Shadow (5). No attachments.\n<b>Reaction:</b> After Hidden Khalasar comes out of shadows, each <i>Dothraki</i> character you control gains stealth during the next challenge you initiate this phase.",
+            "text": "Assault. Shadow (5). No attachments.\n<b>Reaction:</b> After Screaming Horde comes out of shadows, put a <i>Dothraki</i> character into play from your hand or discard pile. At the end of the phase, if that card is still in play, return it to your hand.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/76@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27576@2_0_0.png"
         },
         {
             "code": "27577",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "type": "character",
             "name": "Purple Graces",
             "octgnId": null,
@@ -1722,7 +1722,7 @@
             "icons": {
                 "military": false,
                 "intrigue": true,
-                "power": true
+                "power": false
             },
             "strength": 3,
             "traits": [
@@ -1731,18 +1731,18 @@
             "text": "<b>Interrupt:</b> When the effects of a triggered character ability would initiate, kneel another <i>Grace</i> card to cancel those effects. (Limit once per round.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/77@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27577@1_0_1.png"
         },
         {
             "code": "27578",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "type": "character",
             "name": "Sons of the Harpy",
             "octgnId": null,
             "quantity": 3,
             "unique": false,
             "faction": "targaryen",
-            "loyal": false,
+            "loyal": true,
             "cost": 2,
             "icons": {
                 "military": true,
@@ -1756,7 +1756,7 @@
             "text": "Shadow (2).\n<b>Reaction:</b> After Sons of the Harpy comes out of shadows, choose a participating character. Until the end of the phase, that character gets -2 STR.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/78@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27578@1_0_1.png"
         },
         {
             "code": "27579",
@@ -1775,7 +1775,7 @@
             "text": "<i>Dothraki</i> character only.\nIf this is attached to Aggo, he gains stealth.\n<b>Action:</b> During a [military] challenge, kneel attached character to have them participate in the challenge.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/79@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27579@1_0_0.png"
         },
         {
             "code": "27580",
@@ -1794,11 +1794,11 @@
             "text": "Unique [targaryen] character only.\nAttached character cannot have its STR reduced by card effects, and gains insight during [power] challenges.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/80@1.0.1.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27580@1_0_1.png"
         },
         {
             "code": "27581",
-            "version": "1.0.0",
+            "version": "1.1.0",
             "type": "location",
             "name": "Yunkai",
             "octgnId": null,
@@ -1806,21 +1806,21 @@
             "unique": true,
             "faction": "targaryen",
             "loyal": true,
-            "cost": 3,
+            "cost": 1,
             "traits": [
                 "Contested",
                 "Yunkai"
             ],
-            "text": "<b>Reaction:</b> After a phase begins, kneel Yunkai and discard 1 card from your hand to give each character without attachments -1 STR until the end of the phase.",
+            "text": "<b>Action:</b> Kneel Yunkai and discard 1 card from your hand to choose a participating character. Until the end of the phase, that character gets -2 STR, and you draw 2 cards if its killed.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/81@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27581@1_1_0.png"
         },
         {
             "code": "27582",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "type": "location",
-            "name": "Illyrio's Barge",
+            "name": "Cheesemonger's Galley",
             "octgnId": null,
             "quantity": 3,
             "unique": false,
@@ -1831,10 +1831,10 @@
                 "Pentos",
                 "Warship"
             ],
-            "text": "Shadow (1).\n<b>Interrupt:</b> When you collect income, return Illyrio's Barge to shadows to gain 1 gold.",
+            "text": "Shadow (1).\n<b>Interrupt:</b> When you collect income, return Cheesemonger's Galley to shadows to gain 1 gold.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/82@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27582@1_0_1.png"
         },
         {
             "code": "27583",
@@ -1850,11 +1850,11 @@
             "text": "<b>Interrupt:</b> When claim would be applied for a [military] or [intrigue] challenge in which you control an attacking <i>Army</i> or <i>Dragon</i> character, apply [power] claim instead.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/83@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27583@1_0_0.png"
         },
         {
             "code": "27584",
-            "version": "1.0.0",
+            "version": "1.1.0",
             "type": "event",
             "name": "Toast in Secret",
             "octgnId": null,
@@ -1863,10 +1863,10 @@
             "loyal": true,
             "cost": "-",
             "traits": [],
-            "text": "Shadow (1).\n<b>Challenges Action:</b> Reveal a <i>Lord</i> or <i>Lady</i> character from your hand and put it into play. At the end of the phase, if that character is still in play, place it into shadows.",
+            "text": "Shadow (1).\nPlay only during a [power] challenge.\n<b>Action:</b> Choose a participating <i>Lord</i> or <i>Lady</i> character. Until the end of the challenge, that character gets +1 STR for each card you control in shadows. If you win this challenge by 5 or more STR, stand that character and have them gain 2 power. (Max 1 per phase.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/84@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27584@1_1_0.png"
         },
         {
             "code": "27585",
@@ -1893,7 +1893,7 @@
             "text": "Renown. Shadow (5).\n<b>Reaction:</b> After you win a challenge in which Paxter Redwyne is participating, choose a location you own and return it to your hand. (You may place it in shadows instead if it has the <i>Warship</i> trait.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/85@1.1.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27585@1_1_0.png"
         },
         {
             "code": "27586",
@@ -1919,7 +1919,7 @@
             "text": "While there are no cards in shadows, The Mad Maid gains insight.\n<b>Reaction:</b> After a <i>House Hightower</i> character is knelt, declare a cardtype (character, location, attachment, event). Then, choose and reveal a card in shadows. If that card has that cardtype, discard it. (Limit twice per round.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/86@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27586@1_0_0.png"
         },
         {
             "code": "27587",
@@ -1942,10 +1942,10 @@
                 "King",
                 "Lord"
             ],
-            "text": "Each participating [tyrell] character you control gets +2 STR during:\n- [military] challenges, if there is a revealed <i>Noble</i> plot card.\n-    [intrigue] challenges, if there is a revealed <i>Edict</i> plot card.\n-    [power] challenges, if there is a revealed <i>Kingdom</i> plot card.",
+            "text": "Each participating [tyrell] character you control gets +2 STR during:\n- [military] challenges, if there is a revealed <i>Noble</i> plot card.\n-  [intrigue] challenges, if there is a revealed <i>Edict</i> plot card.\n-  [power] challenges, if there is a revealed <i>Kingdom</i> plot card.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/87@1.0.1.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27587@1_0_1.png"
         },
         {
             "code": "27588",
@@ -1971,7 +1971,7 @@
             "text": "Knight of the Seven gets +1 STR for each card in your hand.\n<b>Reaction:</b> After you win a challenge in which Knight of the Seven is participating, if it has 7 or more STR, stand it. (Limit once per phase.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/88@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27588@1_0_0.png"
         },
         {
             "code": "27589",
@@ -1997,11 +1997,11 @@
             "text": "<b>Reaction:</b> After you win a challenge in which Brightwater Commander is attacking, reveal 1 card from your hand, and place it into shadows. (Limit once per phase.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/89@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27589@1_0_0.png"
         },
         {
             "code": "27590",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "type": "character",
             "name": "Starry Septa",
             "octgnId": null,
@@ -2019,10 +2019,10 @@
             "traits": [
                 "The Seven"
             ],
-            "text": "<b>Interrupt:</b> When the effects of a triggered character ability would initiate, reveal 3 [tyrell] characters from your hand to cancel those effects. (Limit once per round.)",
+            "text": "<b>Interrupt:</b> When the effects of a triggered character ability would initiate, discard 1 power from Starry Septa to cancel those effects. (Limit once per round.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/90@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27590@1_0_1.png"
         },
         {
             "code": "27591",
@@ -2041,11 +2041,11 @@
             "text": "Limit 1 copy per character.\n<i>Knight</i> character only.\nAttached character gets +1 STR (+3 STR instead if it is attacking or defending alone.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/91@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27591@1_0_0.png"
         },
         {
             "code": "27592",
-            "version": "1.0.0",
+            "version": "1.1.0",
             "type": "attachment",
             "name": "Morningstar",
             "octgnId": null,
@@ -2053,14 +2053,14 @@
             "unique": false,
             "faction": "tyrell",
             "loyal": false,
-            "cost": 2,
+            "cost": 1,
             "traits": [
                 "Weapon"
             ],
-            "text": "Attached character gets +2 STR.\n<b>Reaction:</b> After a character is removed from a challenge in which attached character is participating, kneel Morningstar to choose a participating character. Stand and remove that character from the challenge.",
+            "text": "Character you control only.\n<b>Reaction:</b> After you win a challenge by 5 or more STR in which attached character is participating, stand attached character and remove it from the challenge.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/92@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27592@1_1_0.png"
         },
         {
             "code": "27593",
@@ -2081,42 +2081,43 @@
             "text": "During the first challenge you initiate each phase, raise the claim value on your revealed plot card by 1.\n+1 Initiative.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/93@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27593@1_0_0.png"
         },
         {
             "code": "27594",
-            "version": "1.0.0",
+            "version": "2.0.0",
             "type": "location",
-            "name": "The Kingswood",
+            "name": "Arbor Longship",
             "octgnId": null,
             "quantity": 3,
             "unique": false,
             "faction": "tyrell",
             "loyal": true,
-            "cost": 0,
+            "cost": 1,
             "traits": [
-                "Westeros"
+                "House Redwyne",
+                "Warship"
             ],
-            "text": "<b>Challenges Action:</b> Kneel and sacrifice The Kingswood to remove a character you control from the game until the beginning of the next phase.",
+            "text": "Shadow (1).\n<b>Action:</b> Kneel Arbor Longship to choose a character that is attacking or defending alone. Until the end of the challenge, it gets +2 STR. Then, if Arbor Longship came out of shadows this phase, stand that character.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/94@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27594@2_0_0.png"
         },
         {
             "code": "27595",
-            "version": "1.1.0",
+            "version": "1.1.1",
             "type": "event",
             "name": "Olenna's Stratagem",
             "octgnId": null,
             "quantity": 3,
             "faction": "tyrell",
             "loyal": true,
-            "cost": 1,
+            "cost": 2,
             "traits": [],
-            "text": "Shadow (0).\n<b>Action:</b> Choose a non-event card in your discard pile, and place it into shadows. Then, if you control The Queen of Thorns, draw 1 card.",
+            "text": "While you control Queen of Thorns, reduce the cost to play Olenna's Stratagem by 2.\n<b>Reaction:</b> After you win an [intrigue] challenge, choose a non-event card in your discard pile and place it in shadows. While that card is in shadows it gains shadow (X). X is its printed cost. (Max 1 per challenge.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/95@1.1.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27595@1_1_1.png"
         },
         {
             "code": "27596",
@@ -2126,15 +2127,15 @@
             "octgnId": null,
             "quantity": 3,
             "faction": "tyrell",
-            "loyal": false,
-            "cost": 0,
+            "loyal": true,
+            "cost": 1,
             "traits": [
                 "The Seven"
             ],
-            "text": "<b>Interrupt:</b> When a unique <i>Knight</i> character would be killed, kneel a <i>Lady</i> character you control to save it.",
+            "text": "Play only if you control a <i>Lady</i> character.\n<b>Challenges Action:</b> Choose a unique [tyrell] character in your dead pile and shuffle it into your deck. If it is a <i>Knight</i> character, you may put it into play knelt instead. (Max 1 per round.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/96@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27596@1_0_0.png"
         },
         {
             "code": "27597",
@@ -2160,7 +2161,7 @@
             "text": "<b>Reaction:</b> After you win a challenge in which Theodan the True is participating, choose a <i>The Seven</i> character. Until the end of the phase, that card gains renown or insight. (Limit twice per phase.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/97@1.1.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27597@1_1_0.png"
         },
         {
             "code": "27598",
@@ -2185,7 +2186,7 @@
             "text": "<b>Reaction:</b> After you win a [military] challenge in which Sigorn is participating, choose and stand another <i>Wildling</i> character you control. If that character is Alys Karstark, stand Sigorn.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/98@1.1.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27598@1_1_0.png"
         },
         {
             "code": "27599",
@@ -2210,7 +2211,7 @@
             "text": "<b>Challenges Action:</b> Kneel Hot Pie to choose a non-loyal character or Arya Stark. Until the end of the phase, that character gets +1 STR for each keyword it has.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/99@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27599@1_0_0.png"
         },
         {
             "code": "27600",
@@ -2235,7 +2236,7 @@
             "text": "While Toll Enforces has 2 or more gold, it gains renown.\n<b>Reaction:</b> After an opponent has initiated a challenge against you, end the challenge with no winner or loser unless they move 1 gold from their gold pool to a card of your choice. (Limit once per round.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/100@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27600@1_0_0.png"
         },
         {
             "code": "27601",
@@ -2260,7 +2261,7 @@
             "deckLimit": 3,
             "illustrator": "?",
             "designer": "Card Designed by 2024 Stahleck Joust Champion, Alex Carter.",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/101@1.0.1.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27601@1_0_1.png"
         },
         {
             "code": "27602",
@@ -2284,7 +2285,7 @@
             "text": "<b>Reaction:</b> After a character you control is bypassed by stealth, put Alert Sentry into play from your hand (standing), participating as a defender. (Max 1 per challenge.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/102@1.0.1.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27602@1_0_1.png"
         },
         {
             "code": "27603",
@@ -2302,7 +2303,7 @@
             "text": "Shadow (0).\nAttached character gains stealth.\n<b>Forced Interrupt:</b> When the challenges phase ends, return Shadowskin Cloak to your hand.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/103@1.0.1.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27603@1_0_1.png"
         },
         {
             "code": "27604",
@@ -2320,7 +2321,7 @@
             "text": "While you are the defending player, attached character gains a [military] icon.\n<b>Challenges Action:</b> Sacrifice Wooden Sword to choose and discard another <i>Weapon</i> attachment.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/104@1.1.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27604@1_1_0.png"
         },
         {
             "code": "27605",
@@ -2338,7 +2339,7 @@
             "text": "<b>Action:</b> Kneel The God's Eye to reduce the cost of the next neutral or out-of-faction card you ambush or bring out of shadows this phase by 3.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/105@1.0.1.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27605@1_0_1.png"
         },
         {
             "code": "27606",
@@ -2356,7 +2357,7 @@
             "text": "Limited. \n<b>Action:</b> Kneel and sacrifice The Riverroad to choose a character. Until the end of the phase, that character gains a challenge icon of your choice. \n+1 Income.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/106@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27606@1_0_0.png"
         },
         {
             "code": "27607",
@@ -2371,7 +2372,7 @@
             "text": "Play only if you control no loyal characters.\n<b>Challenges Action:</b> Gain X gold and draw X cards. X is the claim value on your revealed plot card. (Max 1 per round.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/107@1.0.1.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27607@1_0_1.png"
         },
         {
             "code": "27608",
@@ -2388,7 +2389,7 @@
             "text": "<b>Reaction:</b> After a phase begins, each player cannot play non-<i>Song</i> events until the end of the phase.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/108@1.0.1.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27608@1_0_1.png"
         },
         {
             "code": "27609",
@@ -2411,7 +2412,7 @@
             "text": "Each player cannot trigger abilities to cards entering play.",
             "deckLimit": 1,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/109@1.0.1.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27609@1_0_1.png"
         },
         {
             "code": "27610",
@@ -2434,7 +2435,7 @@
             "text": "<b>Forced Reaction:</b> After the challenge phase begins, each player reveals their hand. Then, discard each card with the lowest printed cost among revealed cards.",
             "deckLimit": 1,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/110@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27610@1_0_0.png"
         },
         {
             "code": "27611",
@@ -2456,7 +2457,7 @@
             "text": "<b>When Revealed:</b> Each player must choose and kneel a character he or she controls, if able. Then, the character with the highest STR knelt this way gains 1 power. (2 power instead if it has the <i>Knight</i> trait.)",
             "deckLimit": 1,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/111@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27611@1_0_0.png"
         },
         {
             "code": "27612",
@@ -2479,7 +2480,7 @@
             "text": "You cannot marshal characters.\nReduce the cost of each card you ambush this round by 2.",
             "deckLimit": 1,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/112@1.0.1.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27612@1_0_1.png"
         },
         {
             "code": "27613",
@@ -2501,7 +2502,7 @@
             "text": "<b>When Revealed:</b> Choose up to 3 cards in your hand and place them facedown under your agenda. Then, draw that many cards.",
             "deckLimit": 2,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/113@1.0.1.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27613@1_0_1.png"
         },
         {
             "code": "27614",
@@ -2523,7 +2524,7 @@
             "text": "During the challenges phase, players cannot trigger abilities on characters, locations, or attachments, unless those cards have shadow.",
             "deckLimit": 1,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/114@1.0.1.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27614@1_0_1.png"
         },
         {
             "code": "27615",
@@ -2545,7 +2546,7 @@
             "text": "<b>When Revealed:</b> Kill a unique character you control. Then, choose another unique non-<i>Army</i> character in your dead pile and put it into play. ",
             "deckLimit": 1,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/115@1.0.1.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27615@1_0_1.png"
         },
         {
             "code": "27616",
@@ -2568,7 +2569,7 @@
             "text": "<b>When Revealed:</b> Move all gold on characters to your gold pool. ",
             "deckLimit": 2,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/116@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27616@1_0_0.png"
         },
         {
             "code": "27617",
@@ -2590,7 +2591,7 @@
             "text": "<b>When Revealed:</b> Kneel each attachment and location.",
             "deckLimit": 1,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/117@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27617@1_0_0.png"
         },
         {
             "code": "27618",
@@ -2605,7 +2606,7 @@
             "deckLimit": 1,
             "illustrator": "?",
             "designer": "Card Designed by 2024 Online Worlds Champion, Superduck.",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/118@1.0.1.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27618@1_0_1.png"
         },
         {
             "code": "27619",
@@ -2619,7 +2620,7 @@
             "text": "You may include non-loyal <i>Guard</i> characters from any faction in your deck.\nEach non-<i>Guard</i> character you control that is defending alone does not contribute its STR to the challenge.\n<b>Reaction:</b> When the challenges phase ends, draw 1 card for each challenge type not initiated against you this phase.",
             "deckLimit": 1,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/119@1.0.0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27619@1_0_0.png"
         },
         {
             "code": "27620",
@@ -2633,7 +2634,7 @@
             "text": "Your deck must include at least 12 <i>King's Landing</i> locations. You cannot gain power from challenge bonuses (unopposed and rivals).\n<b>Reaction:</b> After you win a challenge, kneel a <i>King's Landing</i> location to have it gain 1 power. (Limit 3 times per round.)",
             "deckLimit": 1,
             "illustrator": "?",
-            "imageUrl": "https://got-containerapp-eeckbxeuc9cpf4gx.australiasoutheast-01.azurewebsites.net/img/27/120@1.0.1.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27620@1_0_1.png"
         }
     ]
 }
