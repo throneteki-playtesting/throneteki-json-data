@@ -204,6 +204,25 @@
         },
         {
             "code": "27509",
+            "version": "1.0.0",
+            "type": "location",
+            "name": "Dragonglass Mine",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "Dragonstone"
+            ],
+            "text": "<b>Challenges Action:</b> If you have 5 or more power on your faction card, kneel Dragonglass Mine to choose a participating character. Until the end of the challenge, that character is immune to opponent's character abilities.",
+            "deckLimit": 3,
+            "illustrator": "?",
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27509@1_0_0.png"
+        },
+        {
+            "code": "27509",
             "version": "1.0.1",
             "type": "location",
             "name": "Dragonglass Mine",
@@ -243,6 +262,24 @@
         },
         {
             "code": "27511",
+            "version": "1.0.0",
+            "type": "event",
+            "name": "Fiery Talons",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "baratheon",
+            "loyal": true,
+            "cost": 2,
+            "traits": [
+                "R'hllor"
+            ],
+            "text": "Play only if you control a <i>R'hllor</i> character.\n<b>Challenges Action:</b> Choose a participating character. Until the end of the phase, that character gets -1 STR and placed in shadows if its STR is 0.",
+            "deckLimit": 3,
+            "illustrator": "?",
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27511@1_0_0.png"
+        },
+        {
+            "code": "27511",
             "version": "1.0.1",
             "type": "event",
             "name": "Fiery Talons",
@@ -258,6 +295,24 @@
             "deckLimit": 3,
             "illustrator": "?",
             "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27511@1_0_1.png"
+        },
+        {
+            "code": "27512",
+            "version": "1.0.0",
+            "type": "event",
+            "name": "Wedding at the Wall",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 0,
+            "traits": [
+                "R'hllor"
+            ],
+            "text": "<b>Marshaling Action:</b> Discard a card in shadows to stand each <i>R'hllor</i> and <i>Wildling</i> character.",
+            "deckLimit": 3,
+            "illustrator": "?",
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27512@1_0_0.png"
         },
         {
             "code": "27512",
@@ -547,6 +602,31 @@
         },
         {
             "code": "27525",
+            "version": "1.0.0",
+            "type": "character",
+            "name": "Damon Marbrand",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "lannister",
+            "loyal": true,
+            "cost": 6,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 6,
+            "traits": [
+                "Lord"
+            ],
+            "text": "<b>Reaction:</b> After a character is returned to an opponent's hand, discard a card at random from that player's hand. (Limit twice per phase.)",
+            "deckLimit": 3,
+            "illustrator": "?",
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27525@1_0_0.png"
+        },
+        {
+            "code": "27525",
             "version": "1.0.1",
             "type": "character",
             "name": "Damon Marbrand",
@@ -569,6 +649,32 @@
             "deckLimit": 3,
             "illustrator": "?",
             "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27525@1_0_1.png"
+        },
+        {
+            "code": "27526",
+            "version": "1.0.0",
+            "type": "character",
+            "name": "Orton Merryweather",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "Lord",
+                "Small Council"
+            ],
+            "text": "Each gold in your gold pool contributes 2 STR towards your total for dominance.\n<b>Interrupt:</b> When the challenges phase ends, if you have not lost an [intrigue] challenge this round, gain 2 gold.",
+            "deckLimit": 3,
+            "illustrator": "?",
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27526@1_0_0.png"
         },
         {
             "code": "27526",
@@ -1607,6 +1713,33 @@
         },
         {
             "code": "27573",
+            "version": "1.0.0",
+            "type": "character",
+            "name": "Khal Drogo",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": true,
+            "cost": 7,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 7,
+            "traits": [
+                "Commander",
+                "Dothraki",
+                "Lord"
+            ],
+            "text": "Renown.\n<b>Reaction:</b> After you win a challenge by 5 or more STR as the attacking player, stand an <i>Army</i> or <i>Dothraki</i> character. (Limit twice per phase.)",
+            "deckLimit": 3,
+            "illustrator": "?",
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27573@1_0_0.png"
+        },
+        {
+            "code": "27573",
             "version": "1.0.1",
             "type": "character",
             "name": "Khal Drogo",
@@ -1631,6 +1764,31 @@
             "deckLimit": 3,
             "illustrator": "?",
             "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27573@1_0_1.png"
+        },
+        {
+            "code": "27574",
+            "version": "1.0.0",
+            "type": "character",
+            "name": "Galazza Galare",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": true,
+            "cost": 5,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "Grace"
+            ],
+            "text": "<b>Interrupt:</b> When the challenge phase ends, if you did not apply [military] claim this phase, gain 2 power for your faction.",
+            "deckLimit": 3,
+            "illustrator": "?",
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27574@1_0_0.png"
         },
         {
             "code": "27574",
@@ -1684,6 +1842,32 @@
         },
         {
             "code": "27576",
+            "version": "1.0.0",
+            "type": "character",
+            "name": "Hidden Khalasar",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 5,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 5,
+            "traits": [
+                "Army",
+                "Dothraki"
+            ],
+            "text": "Shadow (5). No attachments.\n<b>Reaction:</b> After Hidden Khalasar comes out of shadows, each <i>Dothraki</i> character you control gains stealth during the next challenge you initiate this phase.",
+            "deckLimit": 3,
+            "illustrator": "?",
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27576@1_0_0.png"
+        },
+        {
+            "code": "27576",
             "version": "2.0.0",
             "type": "character",
             "name": "Screaming Horde",
@@ -1710,6 +1894,31 @@
         },
         {
             "code": "27577",
+            "version": "1.0.0",
+            "type": "character",
+            "name": "Purple Graces",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "targaryen",
+            "loyal": true,
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Grace"
+            ],
+            "text": "<b>Interrupt:</b> When the effects of a triggered character ability would initiate, kneel another <i>Grace</i> card to cancel those effects. (Limit once per round.)",
+            "deckLimit": 3,
+            "illustrator": "?",
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27577@1_0_0.png"
+        },
+        {
+            "code": "27577",
             "version": "1.0.1",
             "type": "character",
             "name": "Purple Graces",
@@ -1732,6 +1941,31 @@
             "deckLimit": 3,
             "illustrator": "?",
             "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27577@1_0_1.png"
+        },
+        {
+            "code": "27578",
+            "version": "1.0.0",
+            "type": "character",
+            "name": "Sons of the Harpy",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 1,
+            "traits": [
+                "Ghiscari"
+            ],
+            "text": "Shadow (2).\n<b>Reaction:</b> After Sons of the Harpy comes out of shadows, choose a participating character. Until the end of the phase, that character gets -2 STR.",
+            "deckLimit": 3,
+            "illustrator": "?",
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27578@1_0_0.png"
         },
         {
             "code": "27578",
@@ -1798,6 +2032,26 @@
         },
         {
             "code": "27581",
+            "version": "1.0.0",
+            "type": "location",
+            "name": "Yunkai",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": true,
+            "cost": 3,
+            "traits": [
+                "Contested",
+                "Yunkai"
+            ],
+            "text": "<b>Reaction:</b> After a phase begins, kneel Yunkai and discard 1 card from your hand to give each character without attachments -1 STR until the end of the phase.",
+            "deckLimit": 3,
+            "illustrator": "?",
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27581@1_0_0.png"
+        },
+        {
+            "code": "27581",
             "version": "1.1.0",
             "type": "location",
             "name": "Yunkai",
@@ -1815,6 +2069,26 @@
             "deckLimit": 3,
             "illustrator": "?",
             "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27581@1_1_0.png"
+        },
+        {
+            "code": "27582",
+            "version": "1.0.0",
+            "type": "location",
+            "name": "Illyrio's Barge",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "targaryen",
+            "loyal": true,
+            "cost": 0,
+            "traits": [
+                "Pentos",
+                "Warship"
+            ],
+            "text": "Shadow (1).\n<b>Interrupt:</b> When you collect income, return Illyrio's Barge to shadows to gain 1 gold.",
+            "deckLimit": 3,
+            "illustrator": "?",
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27582@1_0_0.png"
         },
         {
             "code": "27582",
@@ -1851,6 +2125,22 @@
             "deckLimit": 3,
             "illustrator": "?",
             "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27583@1_0_0.png"
+        },
+        {
+            "code": "27584",
+            "version": "1.0.0",
+            "type": "event",
+            "name": "Toast in Secret",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "targaryen",
+            "loyal": true,
+            "cost": "-",
+            "traits": [],
+            "text": "Shadow (1).\n<b>Challenges Action:</b> Reveal a <i>Lord</i> or <i>Lady</i> character from your hand and put it into play. At the end of the phase, if that character is still in play, place it into shadows.",
+            "deckLimit": 3,
+            "illustrator": "?",
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27584@1_0_0.png"
         },
         {
             "code": "27584",
@@ -2001,6 +2291,31 @@
         },
         {
             "code": "27590",
+            "version": "1.0.0",
+            "type": "character",
+            "name": "Starry Septa",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "tyrell",
+            "loyal": true,
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "The Seven"
+            ],
+            "text": "<b>Interrupt:</b> When the effects of a triggered character ability would initiate, reveal 3 [tyrell] characters from your hand to cancel those effects. (Limit once per round.)",
+            "deckLimit": 3,
+            "illustrator": "?",
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27590@1_0_0.png"
+        },
+        {
+            "code": "27590",
             "version": "1.0.1",
             "type": "character",
             "name": "Starry Septa",
@@ -2045,6 +2360,25 @@
         },
         {
             "code": "27592",
+            "version": "1.0.0",
+            "type": "attachment",
+            "name": "Morningstar",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 2,
+            "traits": [
+                "Weapon"
+            ],
+            "text": "Attached character gets +2 STR.\n<b>Reaction:</b> After a character is removed from a challenge in which attached character is participating, kneel Morningstar to choose a participating character. Stand and remove that character from the challenge.",
+            "deckLimit": 3,
+            "illustrator": "?",
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27592@1_0_0.png"
+        },
+        {
+            "code": "27592",
             "version": "1.1.0",
             "type": "attachment",
             "name": "Morningstar",
@@ -2085,6 +2419,25 @@
         },
         {
             "code": "27594",
+            "version": "1.0.0",
+            "type": "location",
+            "name": "The Kingswood",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "tyrell",
+            "loyal": true,
+            "cost": 0,
+            "traits": [
+                "Westeros"
+            ],
+            "text": "<b>Challenges Action:</b> Kneel and sacrifice The Kingswood to remove a character you control from the game until the beginning of the next phase.",
+            "deckLimit": 3,
+            "illustrator": "?",
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27594@1_0_0.png"
+        },
+        {
+            "code": "27594",
             "version": "2.0.0",
             "type": "location",
             "name": "Arbor Longship",
@@ -2102,6 +2455,22 @@
             "deckLimit": 3,
             "illustrator": "?",
             "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27594@2_0_0.png"
+        },
+        {
+            "code": "27595",
+            "version": "1.1.0",
+            "type": "event",
+            "name": "Olenna's Stratagem",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "tyrell",
+            "loyal": true,
+            "cost": 1,
+            "traits": [],
+            "text": "Shadow (0).\n<b>Action:</b> Choose a non-event card in your discard pile, and place it into shadows. Then, if you control The Queen of Thorns, draw 1 card.",
+            "deckLimit": 3,
+            "illustrator": "?",
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27595@1_1_0.png"
         },
         {
             "code": "27595",
