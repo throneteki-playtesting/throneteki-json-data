@@ -89,6 +89,32 @@
         },
         {
             "code": "27504",
+            "version": "1.0.0",
+            "type": "character",
+            "name": "Northern Mountain Clans",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "baratheon",
+            "loyal": true,
+            "cost": 6,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 5,
+            "traits": [
+                "Army",
+                "Clansman"
+            ],
+            "text": "No attachments.\n<b>Reaction:</b> After you win a challenge in which Northern Mountain Clans is attacking, choose X kneeling characters. Those characters cannot stand during the standing phase this round. X is the claim value on your revealed plot card.",
+            "deckLimit": 3,
+            "illustrator": "?",
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27504@1_0_0.png"
+        },
+        {
+            "code": "27504",
             "version": "1.0.1",
             "type": "character",
             "name": "Northern Mountain Clans",
@@ -137,6 +163,32 @@
             "deckLimit": 3,
             "illustrator": "?",
             "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27505@1_0_0.png"
+        },
+        {
+            "code": "27506",
+            "version": "1.0.0",
+            "type": "character",
+            "name": "Deepwood Steward",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 1,
+            "traits": [
+                "Ally",
+                "Steward"
+            ],
+            "text": "<b>Reaction:</b> After Deepwood Steward enters play, search the top 10 cards of your deck for a <i>The North</i> or out-of-faction location. Reveal it and add it to your hand. Shuffle your deck.",
+            "deckLimit": 3,
+            "illustrator": "?",
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27506@1_0_0.png"
         },
         {
             "code": "27506",
