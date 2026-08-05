@@ -260,21 +260,21 @@
         },
         {
             "code": "27512",
-            "version": "1.1.0",
+            "version": "1.2.0",
             "type": "event",
             "name": "Wedding at the Wall",
             "octgnId": null,
             "quantity": 3,
             "faction": "baratheon",
             "loyal": false,
-            "cost": 0,
+            "cost": 1,
             "traits": [
                 "R'hllor"
             ],
-            "text": "<b>Reaction:</b> After a [power] challenge is initiated, reveal your shadow area (of at least 1 card). Then, each <i>R'hllor</i> and <i>Wildling</i> character you control gains the <i>R'hllor</i> and <i>Wildling</i> traits until the end of the phase.",
+            "text": "Shadow (0).\n<b>Reaction:</b> After you win a [power] challenge as the attacking player, choose and stand 2 <i style=\"font-weight: 700;\">R'hllor</i> or <i style=\"font-weight: 700;\">Wildling</i> characters you control.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27512@1_1_0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27512@1_2_0.png"
         },
         {
             "code": "27513",
@@ -433,7 +433,7 @@
         },
         {
             "code": "27519",
-            "version": "1.0.1",
+            "version": "1.0.2",
             "type": "attachment",
             "name": "Captain of the Iron Fleet",
             "octgnId": null,
@@ -441,14 +441,14 @@
             "unique": true,
             "faction": "greyjoy",
             "loyal": false,
-            "cost": 2,
+            "cost": 1,
             "traits": [
                 "Title"
             ],
-            "text": "<i>Ironborn</i> character you control only.\nAttached character gains the <i>Captain</i> trait.\n<b>Challenges Action:</b> During a [military] or [power] challenge, kneel Captain of the Iron Fleet and a <i>Warship</i> location to have attached character participate in this challenge on your side.",
+            "text": "<i style=\"font-weight: 700;\">Ironborn</i> character you control only.\nAttached character gains the <i style=\"font-weight: 700;\">Captain</i> trait.\n<b>Challenges Action:</b> During a [military] or [power] challenge, kneel Captain of the Iron Fleet and a <i style=\"font-weight: 700;\">Warship</i> location to have attached character contribute its STR to your side this challenge.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27519@1_0_1.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27519@1_0_2.png"
         },
         {
             "code": "27520",
@@ -700,7 +700,7 @@
         },
         {
             "code": "27531",
-            "version": "1.1.0",
+            "version": "1.1.1",
             "type": "attachment",
             "name": "Jeweled Tiara",
             "octgnId": null,
@@ -708,15 +708,15 @@
             "unique": true,
             "faction": "lannister",
             "loyal": false,
-            "cost": 1,
+            "cost": 2,
             "traits": [
                 "Crown",
                 "Item"
             ],
-            "text": "<i>Lady</i> character only.\nIf attached character is Cercei Lannister, she gets +2 STR.\n<b>Reaction:</b> After you win an [intrigue] challenge in which attached character is attacking, kneel Jeweled Tiara to discard 1 card at random from the losing opponents hand for every 5 STR in which you won the challenge by.",
+            "text": "<i style=\"font-weight: 700;\">Lady</i> character only.\nAttached character gains the <i style=\"font-weight: 700;\">Queen</i> trait.\n<b>Reaction:</b> After you win an [intrigue] challenge in which attached character is participating, kneel Jeweled Tiara to discard 1 card at random from the losing opponents hand. (Discard 3 cards at random instead if you won by 10 or more STR.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27531@1_1_0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27531@1_1_1.png"
         },
         {
             "code": "27532",
@@ -1152,9 +1152,9 @@
         },
         {
             "code": "27552",
-            "version": "1.0.2",
+            "version": "1.1.0",
             "type": "character",
-            "name": "Sentinel Stand Garrison",
+            "name": "Wormway Sentinels",
             "octgnId": null,
             "quantity": 3,
             "unique": false,
@@ -1162,18 +1162,19 @@
             "loyal": false,
             "cost": 6,
             "icons": {
-                "military": false,
+                "military": true,
                 "intrigue": false,
                 "power": false
             },
             "strength": 6,
             "traits": [
+                "Army",
                 "Guard"
             ],
-            "text": "While Sentinel Stand Garrison is standing, it contributes its STR to your side during any challenge in which you controll a defending characters with 1 or fewer challenge icons.\n<b>Forced Reaction:</b> After you lose a challenge, kneel Sentinel Stand Garrison.",
+            "text": "Shadow (5). No attachments except <i style=\"font-weight: 700;\">Weapon</i>.\nWormway Sentinels may be declared as a defender during [intrigue] or [power] challenges (even while kneeling if it came out of shadows this phase).",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27552@1_0_2.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27552@1_1_0.png"
         },
         {
             "code": "27553",
@@ -1267,7 +1268,7 @@
         },
         {
             "code": "27557",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "type": "location",
             "name": "Skirling Pass",
             "octgnId": null,
@@ -1275,14 +1276,14 @@
             "unique": true,
             "faction": "thenightswatch",
             "loyal": false,
-            "cost": 2,
+            "cost": 1,
             "traits": [
                 "The North"
             ],
-            "text": "While Skirling Pass is standing, non-<i>Wildling</i> characters lose stealth.",
+            "text": "While Skirling Pass is standing, non-<i style=\"font-weight: 700;\">Wildling</i> characters lose stealth.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27557@1_0_0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27557@1_0_1.png"
         },
         {
             "code": "27558",
@@ -1708,7 +1709,7 @@
         },
         {
             "code": "27577",
-            "version": "1.1.0",
+            "version": "1.1.1",
             "type": "character",
             "name": "Purple Graces",
             "octgnId": null,
@@ -1726,10 +1727,10 @@
             "traits": [
                 "Grace"
             ],
-            "text": "<b>Reaction:</b> After a [military] challenge is initiated, kneel Purple Graces to choose an attacking character. Until the end of the phase, that character gets -2 STR.",
+            "text": "<b>Action:</b> During a [military] challenge, kneel Purple Graces to choose an attacking character. Until the end of the phase, that character gets -2 STR.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27577@1_1_0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27577@1_1_1.png"
         },
         {
             "code": "27578",
@@ -2043,7 +2044,7 @@
         },
         {
             "code": "27592",
-            "version": "1.1.0",
+            "version": "1.1.1",
             "type": "attachment",
             "name": "Morningstar",
             "octgnId": null,
@@ -2055,10 +2056,10 @@
             "traits": [
                 "Weapon"
             ],
-            "text": "Character you control only.\n<b>Reaction:</b> After you win a challenge by 5 or more STR in which attached character is participating, stand attached character and remove it from the challenge.",
+            "text": "Character you control only.\n<b>Reaction:</b> After you win a [military] challenge in which attached character is participating, kneel Morningstar to stand attached character and remove it from the challenge.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27592@1_1_0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27592@1_1_1.png"
         },
         {
             "code": "27593",
@@ -2163,7 +2164,7 @@
         },
         {
             "code": "27598",
-            "version": "1.1.0",
+            "version": "1.1.1",
             "type": "character",
             "name": "Sigorn",
             "octgnId": null,
@@ -2176,15 +2177,15 @@
                 "intrigue": false,
                 "power": true
             },
-            "strength": 5,
+            "strength": 4,
             "traits": [
                 "Lord",
                 "Wildling"
             ],
-            "text": "<b>Reaction:</b> After you win a [military] challenge in which Sigorn is participating, choose and stand another <i>Wildling</i> character you control. If that character is Alys Karstark, stand Sigorn.",
+            "text": "<b>Reaction:</b> After you win a [military] challenge in which Sigorn is attacking, choose and stand another <i style=\"font-weight: 700;\">Wildling</i> character you control. If that character is Alys Karstark, stand Sigorn.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27598@1_1_0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27598@1_1_1.png"
         },
         {
             "code": "27599",
@@ -2437,7 +2438,7 @@
         },
         {
             "code": "27611",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "type": "plot",
             "name": "Into the Lists",
             "octgnId": null,
@@ -2445,17 +2446,18 @@
             "faction": "neutral",
             "plotStats": {
                 "income": 4,
-                "initiative": 3,
+                "initiative": 2,
                 "claim": 1,
                 "reserve": 6
             },
             "traits": [
+                "Kingdom",
                 "Summer"
             ],
-            "text": "<b>When Revealed:</b> Each player must choose and kneel a character he or she controls, if able. Then, the character with the highest STR knelt this way gains 1 power. (2 power instead if it has the <i>Knight</i> trait.)",
+            "text": "<b>When Revealed:</b> Each player may choose and kneel a non-<i style=\"font-weight: 700;\">Army</i> character with a [military] icon they control. If only one character has the highest STR among characters knelt this way, it gains 2 power.",
             "deckLimit": 1,
             "illustrator": "?",
-            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27611@1_0_0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27611@1_0_1.png"
         },
         {
             "code": "27612",
