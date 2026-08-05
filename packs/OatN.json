@@ -271,7 +271,7 @@
             "traits": [
                 "R'hllor"
             ],
-            "text": "Shadow (0).\n<b>Reaction:</b> After you win a [power] challenge as the attacking player, choose and stand 2 <i style=\"font-weight: 700;\">R'hllor</i> or <i style=\"font-weight: 700;\">Wildling</i> characters you control.",
+            "text": "Shadow (0).\n<b>Reaction:</b> After you win a [power] challenge as the attacking player, choose and stand 2 <i>R'hllor</i> or <i>Wildling</i> characters you control.",
             "deckLimit": 3,
             "illustrator": "?",
             "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27512@1_2_0.png"
@@ -445,7 +445,7 @@
             "traits": [
                 "Title"
             ],
-            "text": "<i style=\"font-weight: 700;\">Ironborn</i> character you control only.\nAttached character gains the <i style=\"font-weight: 700;\">Captain</i> trait.\n<b>Challenges Action:</b> During a [military] or [power] challenge, kneel Captain of the Iron Fleet and a <i style=\"font-weight: 700;\">Warship</i> location to have attached character contribute its STR to your side this challenge.",
+            "text": "<i>Ironborn</i> character you control only.\nAttached character gains the <i>Captain</i> trait.\n<b>Challenges Action:</b> During a [military] or [power] challenge, kneel Captain of the Iron Fleet and a <i>Warship</i> location to have attached character contribute its STR to your side this challenge.",
             "deckLimit": 3,
             "illustrator": "?",
             "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27519@1_0_2.png"
@@ -713,7 +713,7 @@
                 "Crown",
                 "Item"
             ],
-            "text": "<i style=\"font-weight: 700;\">Lady</i> character only.\nAttached character gains the <i style=\"font-weight: 700;\">Queen</i> trait.\n<b>Reaction:</b> After you win an [intrigue] challenge in which attached character is participating, kneel Jeweled Tiara to discard 1 card at random from the losing opponents hand. (Discard 3 cards at random instead if you won by 10 or more STR.)",
+            "text": "<i>Lady</i> character only.\nAttached character gains the <i>Queen</i> trait.\n<b>Reaction:</b> After you win an [intrigue] challenge in which attached character is participating, kneel Jeweled Tiara to discard 1 card at random from the losing opponents hand. (Discard 3 cards at random instead if you won by 10 or more STR.)",
             "deckLimit": 3,
             "illustrator": "?",
             "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27531@1_1_1.png"
@@ -1171,7 +1171,7 @@
                 "Army",
                 "Guard"
             ],
-            "text": "Shadow (5). No attachments except <i style=\"font-weight: 700;\">Weapon</i>.\nWormway Sentinels may be declared as a defender during [intrigue] or [power] challenges (even while kneeling if it came out of shadows this phase).",
+            "text": "Shadow (5). No attachments except <i>Weapon</i>.\nWormway Sentinels may be declared as a defender during [intrigue] or [power] challenges (even while kneeling if it came out of shadows this phase).",
             "deckLimit": 3,
             "illustrator": "?",
             "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27552@1_1_0.png"
@@ -1280,7 +1280,7 @@
             "traits": [
                 "The North"
             ],
-            "text": "While Skirling Pass is standing, non-<i style=\"font-weight: 700;\">Wildling</i> characters lose stealth.",
+            "text": "While Skirling Pass is standing, non-<i>Wildling</i> characters lose stealth.",
             "deckLimit": 3,
             "illustrator": "?",
             "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27557@1_0_1.png"
@@ -2182,7 +2182,7 @@
                 "Lord",
                 "Wildling"
             ],
-            "text": "<b>Reaction:</b> After you win a [military] challenge in which Sigorn is attacking, choose and stand another <i style=\"font-weight: 700;\">Wildling</i> character you control. If that character is Alys Karstark, stand Sigorn.",
+            "text": "<b>Reaction:</b> After you win a [military] challenge in which Sigorn is attacking, choose and stand another <i>Wildling</i> character you control. If that character is Alys Karstark, stand Sigorn.",
             "deckLimit": 3,
             "illustrator": "?",
             "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27598@1_1_1.png"
@@ -2454,7 +2454,7 @@
                 "Kingdom",
                 "Summer"
             ],
-            "text": "<b>When Revealed:</b> Each player may choose and kneel a non-<i style=\"font-weight: 700;\">Army</i> character with a [military] icon they control. If only one character has the highest STR among characters knelt this way, it gains 2 power.",
+            "text": "<b>When Revealed:</b> Each player may choose and kneel a non-<i>Army</i> character with a [military] icon they control. If only one character has the highest STR among characters knelt this way, it gains 2 power.",
             "deckLimit": 1,
             "illustrator": "?",
             "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27611@1_0_1.png"
