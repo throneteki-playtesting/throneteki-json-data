@@ -139,7 +139,7 @@
         },
         {
             "code": "27506",
-            "version": "1.0.1",
+            "version": "1.0.2",
             "type": "character",
             "name": "Deepwood Steward",
             "octgnId": null,
@@ -155,13 +155,13 @@
             },
             "strength": 1,
             "traits": [
-                "Ally",
+                "House Glover",
                 "Steward"
             ],
-            "text": "<b>Reaction:</b> After you marshal Deepwood Steward, search the top 10 cards of your deck for a <i>The North</i> or out-of-faction location. Reveal it, and add it to your hand. Shuffle your deck.",
+            "text": "<b>Reaction:</b> After you marshal Deepwood Steward, search the top 10 cards of your deck for a <i>The North</i> or out-of-faction location, reveal it, and add it to your hand. Shuffle your deck.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27506@1_0_1.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27506@1_0_2.png"
         },
         {
             "code": "27507",
@@ -260,7 +260,7 @@
         },
         {
             "code": "27512",
-            "version": "1.2.0",
+            "version": "1.2.1",
             "type": "event",
             "name": "Wedding at the Wall",
             "octgnId": null,
@@ -271,10 +271,10 @@
             "traits": [
                 "R'hllor"
             ],
-            "text": "Shadow (0).\n<b>Reaction:</b> After you win a [power] challenge as the attacking player, choose and stand 2 <i>R'hllor</i> or <i>Wildling</i> characters you control.",
+            "text": "Shadow (0).\n<b>Reaction:</b> After you win a [power] challenge as the attacking player, choose and stand 2 characters you control with the <i>R'hllor</i> or <i>Wildling</i> trait.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27512@1_2_0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27512@1_2_1.png"
         },
         {
             "code": "27513",
@@ -383,7 +383,7 @@
         },
         {
             "code": "27517",
-            "version": "1.0.1",
+            "version": "1.0.2",
             "type": "character",
             "name": "Kingsmoot Claimant",
             "octgnId": null,
@@ -401,10 +401,10 @@
             "traits": [
                 "Captain"
             ],
-            "text": "While Kingsmoot Claimant is attacking a player who does not control a <i>King</i> character, Kingsmoot Claimant gains the <i>King</i> trait and renown.",
+            "text": "While Kingsmoot Claimant is attacking an opponent who does not control a <i>King</i> character, it gains the <i>King</i> trait and renown.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27517@1_0_1.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27517@1_0_2.png"
         },
         {
             "code": "27518",
@@ -433,7 +433,7 @@
         },
         {
             "code": "27519",
-            "version": "1.0.2",
+            "version": "1.0.3",
             "type": "attachment",
             "name": "Captain of the Iron Fleet",
             "octgnId": null,
@@ -445,10 +445,10 @@
             "traits": [
                 "Title"
             ],
-            "text": "<i>Ironborn</i> character you control only.\nAttached character gains the <i>Captain</i> trait.\n<b>Challenges Action:</b> During a [military] or [power] challenge, kneel Captain of the Iron Fleet and a <i>Warship</i> location to have attached character contribute its STR to your side this challenge.",
+            "text": "<i>Ironborn</i> character you control only.\nAttached character gains the <i>Captain</i> trait.\n<b>Action:</b> During a [military] or [power] challenge, kneel Captain of the Iron Fleet and a <i>Warship</i> location to have attached character contribute its STR to your side this challenge.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27519@1_0_2.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27519@1_0_3.png"
         },
         {
             "code": "27520",
@@ -597,7 +597,7 @@
         },
         {
             "code": "27527",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "type": "character",
             "name": "Podrick Payne",
             "octgnId": null,
@@ -615,10 +615,10 @@
             "traits": [
                 "Companion"
             ],
-            "text": "While you control Brienne of Tarth, Podrick Payne gains a [military] icon.\nWhile you control Tyrion Lannister, Podrick Payne gains an [intrigue] icon.",
+            "text": "While you control Brienne of Tarth, Podrick Payne gains a [military] icon and gets +1 STR.\nWhile you control Tyrion Lannister, Podrick Payne gains an [intrigue] icon and gets +1 STR.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27527@1_0_0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27527@1_0_1.png"
         },
         {
             "code": "27528",
@@ -700,7 +700,7 @@
         },
         {
             "code": "27531",
-            "version": "1.1.1",
+            "version": "1.1.2",
             "type": "attachment",
             "name": "Jeweled Tiara",
             "octgnId": null,
@@ -713,10 +713,10 @@
                 "Crown",
                 "Item"
             ],
-            "text": "<i>Lady</i> character only.\nAttached character gains the <i>Queen</i> trait.\n<b>Reaction:</b> After you win an [intrigue] challenge in which attached character is participating, kneel Jeweled Tiara to discard 1 card at random from the losing opponents hand. (Discard 3 cards at random instead if you won by 10 or more STR.)",
+            "text": "<i>Lady</i> character only.\nAttached character gains the <i>Queen</i> trait.\n<b>Reaction:</b> After you win an [intrigue] challenge in which attached character is participating, kneel Jeweled Tiara to discard 1 card at random from the losing opponent's hand. (3 cards instead if you won by 10 or more STR.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27531@1_1_1.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27531@1_1_2.png"
         },
         {
             "code": "27532",
@@ -836,7 +836,7 @@
         },
         {
             "code": "27538",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "type": "character",
             "name": "Nymella Toland",
             "octgnId": null,
@@ -854,10 +854,10 @@
             "traits": [
                 "Lady"
             ],
-            "text": "<b>Action:</b> Choose a character who is attacking or defending alone, and remove it from the challenge. (Limit once per round.)",
+            "text": "<b>Action:</b> Choose a character that is attacking or defending alone, and remove it from the challenge. (Limit once per round.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27538@1_0_0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27538@1_0_1.png"
         },
         {
             "code": "27539",
@@ -1003,7 +1003,7 @@
         },
         {
             "code": "27545",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "type": "location",
             "name": "Godsgrace",
             "octgnId": null,
@@ -1015,11 +1015,11 @@
             "traits": [
                 "Dorne"
             ],
-            "text": "<b>Reaction:</b> After a [martell] character you control gains 1 or more power, if there is a <i>Summer</i> plot card revealed, kneel Godsgrace to have that character gain an additional power.",
+            "text": "<b>Reaction:</b> After a [martell] character you control gains power, if there is a <i>Summer</i> plot card revealed, kneel Godsgrace to have that character gain 1 power.",
             "flavor": "\"It is lovely here.\"\n—Andrey Dalt ",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27545@1_0_0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27545@1_0_1.png"
         },
         {
             "code": "27546",
@@ -1100,7 +1100,7 @@
         },
         {
             "code": "27550",
-            "version": "1.1.0",
+            "version": "1.1.1",
             "type": "character",
             "name": "Alys Karstark",
             "octgnId": null,
@@ -1120,10 +1120,10 @@
                 "Lady",
                 "Wildling"
             ],
-            "text": "<b>Reaction:</b> After Alys Karstark stands, choose another <i>Wildling</i> character you control, and have it gain 1 power. If that character is Sigorn, draw 1 card. (Limit twice per round.)",
+            "text": "<b>Reaction:</b> After Alys Karstark stands, choose another <i>Wildling</i> character you control and have it gain 1 power. Then, if that character was Sigorn, draw 1 card. (Limit twice per round.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27550@1_1_0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27550@1_1_1.png"
         },
         {
             "code": "27551",
@@ -1268,7 +1268,7 @@
         },
         {
             "code": "27557",
-            "version": "1.0.1",
+            "version": "1.0.2",
             "type": "location",
             "name": "Skirling Pass",
             "octgnId": null,
@@ -1280,10 +1280,10 @@
             "traits": [
                 "The North"
             ],
-            "text": "While Skirling Pass is standing, non-<i>Wildling</i> characters lose stealth.",
+            "text": "While Skirling Pass is standing, each non-<i>Wildling</i> character loses stealth.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27557@1_0_1.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27557@1_0_2.png"
         },
         {
             "code": "27558",
@@ -1365,7 +1365,7 @@
         },
         {
             "code": "27562",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "type": "character",
             "name": "Arnolf Karstark",
             "octgnId": null,
@@ -1383,10 +1383,10 @@
             "traits": [
                 "House Karstark"
             ],
-            "text": "<b>Reaction:</b> After a character or location you control is sacrificed, stand Arnolf Karstark. (Limit once per round.)",
+            "text": "<b>Reaction:</b> After a character or location is sacrificed, stand Arnolf Karstark. (Limit once per round.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27562@1_0_0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27562@1_0_1.png"
         },
         {
             "code": "27563",
@@ -1512,7 +1512,7 @@
         },
         {
             "code": "27568",
-            "version": "1.0.0",
+            "version": "1.1.0",
             "type": "attachment",
             "name": "Lord of Winterfell",
             "octgnId": null,
@@ -1524,10 +1524,10 @@
             "traits": [
                 "Title"
             ],
-            "text": "[stark] <i>Lord</i> character only.\n<b>Interrupt:</b> When attached character would be killed, kneel Lord of Winterfell and sacrifice another [stark] character to save it.",
+            "text": "[stark] <i>Lord</i> character only.\nWhile there is a <i>Winter</i> plot card revealed, attached character gains insight.\n<b>Reaction:</b> After you win a challenge in which you control a participating loyal character, kneel Lord of Winterfell to have attached character gain 1 power.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27568@1_0_0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27568@1_1_0.png"
         },
         {
             "code": "27569",
@@ -1778,7 +1778,7 @@
         },
         {
             "code": "27580",
-            "version": "1.0.1",
+            "version": "1.0.2",
             "type": "attachment",
             "name": "Blood of Valyria",
             "octgnId": null,
@@ -1790,10 +1790,10 @@
             "traits": [
                 "Legacy"
             ],
-            "text": "Unique [targaryen] character only.\nAttached character cannot have its STR reduced by card effects, and gains insight during [power] challenges.",
+            "text": "Unique [targaryen] character only.\nAttached character's STR cannot be reduced by card effects.\nAttached character gains insight during [power] challenges.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27580@1_0_1.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27580@1_0_2.png"
         },
         {
             "code": "27581",
@@ -2164,7 +2164,7 @@
         },
         {
             "code": "27598",
-            "version": "1.1.1",
+            "version": "1.1.2",
             "type": "character",
             "name": "Sigorn",
             "octgnId": null,
@@ -2182,10 +2182,10 @@
                 "Lord",
                 "Wildling"
             ],
-            "text": "<b>Reaction:</b> After you win a [military] challenge in which Sigorn is attacking, choose and stand another <i>Wildling</i> character you control. If that character is Alys Karstark, stand Sigorn.",
+            "text": "<b>Reaction:</b> After you win a [military] challenge in which Sigorn is attacking, choose and stand another <i>Wildling</i> character you control. Then, if that character was Alys Karstark, stand Sigorn.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27598@1_1_1.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27598@1_1_2.png"
         },
         {
             "code": "27599",
@@ -2438,7 +2438,7 @@
         },
         {
             "code": "27611",
-            "version": "1.0.1",
+            "version": "1.0.2",
             "type": "plot",
             "name": "Into the Lists",
             "octgnId": null,
@@ -2454,10 +2454,10 @@
                 "Kingdom",
                 "Summer"
             ],
-            "text": "<b>When Revealed:</b> Each player may choose and kneel a non-<i>Army</i> character with a [military] icon they control. If only one character has the highest STR among characters knelt this way, it gains 2 power.",
+            "text": "<b>When Revealed:</b> Each player may choose and kneel a non-<i>Army</i> character they control with a [military] icon. Then, if exactly 1 character has the highest STR among characters knelt this way, it gains 2 power.",
             "deckLimit": 1,
             "illustrator": "?",
-            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27611@1_0_1.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27611@1_0_2.png"
         },
         {
             "code": "27612",
