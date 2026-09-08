@@ -7,7 +7,7 @@
     "cards": [
         {
             "code": "27501",
-            "version": "1.1.2",
+            "version": "1.1.0",
             "type": "character",
             "name": "Stannis Baratheon",
             "octgnId": null,
@@ -30,7 +30,7 @@
             "text": "<b>Challenges Action:</b> During a [military] or [power] challenge, if there is a <i>Winter</i> plot card revealed, kneel your faction card to end the challenge with no winner or loser. Then, the attacking player may initiate an additional challenge of that type this phase.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27501@1_1_2.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27501@1_1_0.png"
         },
         {
             "code": "27502",
@@ -138,32 +138,6 @@
             "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27505@1_1_0.png"
         },
         {
-            "code": "27506",
-            "version": "1.0.1",
-            "type": "character",
-            "name": "Deepwood Steward",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": false,
-            "faction": "baratheon",
-            "loyal": false,
-            "cost": 2,
-            "icons": {
-                "military": false,
-                "intrigue": false,
-                "power": true
-            },
-            "strength": 1,
-            "traits": [
-                "Ally",
-                "Steward"
-            ],
-            "text": "<b>Reaction:</b> After you marshal Deepwood Steward, search the top 10 cards of your deck for a <i>The North</i> or out-of-faction location. Reveal it, and add it to your hand. Shuffle your deck.",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27506@1_0_1.png"
-        },
-        {
             "code": "27507",
             "version": "1.0.0",
             "type": "attachment",
@@ -257,24 +231,6 @@
             "deckLimit": 3,
             "illustrator": "?",
             "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27511@1_0_1.png"
-        },
-        {
-            "code": "27512",
-            "version": "1.2.0",
-            "type": "event",
-            "name": "Wedding at the Wall",
-            "octgnId": null,
-            "quantity": 3,
-            "faction": "baratheon",
-            "loyal": false,
-            "cost": 1,
-            "traits": [
-                "R'hllor"
-            ],
-            "text": "Shadow (0).\n<b>Reaction:</b> After you win a [power] challenge as the attacking player, choose and stand 2 <i>R'hllor</i> or <i>Wildling</i> characters you control.",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27512@1_2_0.png"
         },
         {
             "code": "27513",
@@ -382,31 +338,6 @@
             "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27516@1_0_0.png"
         },
         {
-            "code": "27517",
-            "version": "1.0.1",
-            "type": "character",
-            "name": "Kingsmoot Claimant",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": false,
-            "faction": "greyjoy",
-            "loyal": true,
-            "cost": 4,
-            "icons": {
-                "military": true,
-                "intrigue": false,
-                "power": true
-            },
-            "strength": 4,
-            "traits": [
-                "Captain"
-            ],
-            "text": "While Kingsmoot Claimant is attacking a player who does not control a <i>King</i> character, Kingsmoot Claimant gains the <i>King</i> trait and renown.",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27517@1_0_1.png"
-        },
-        {
             "code": "27518",
             "version": "1.1.0",
             "type": "character",
@@ -430,25 +361,6 @@
             "deckLimit": 3,
             "illustrator": "?",
             "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27518@1_1_0.png"
-        },
-        {
-            "code": "27519",
-            "version": "1.0.2",
-            "type": "attachment",
-            "name": "Captain of the Iron Fleet",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": true,
-            "faction": "greyjoy",
-            "loyal": false,
-            "cost": 1,
-            "traits": [
-                "Title"
-            ],
-            "text": "<i>Ironborn</i> character you control only.\nAttached character gains the <i>Captain</i> trait.\n<b>Challenges Action:</b> During a [military] or [power] challenge, kneel Captain of the Iron Fleet and a <i>Warship</i> location to have attached character contribute its STR to your side this challenge.",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27519@1_0_2.png"
         },
         {
             "code": "27520",
@@ -570,34 +482,8 @@
             "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27525@1_0_1.png"
         },
         {
-            "code": "27526",
-            "version": "1.0.1",
-            "type": "character",
-            "name": "Orton Merryweather",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": true,
-            "faction": "lannister",
-            "loyal": false,
-            "cost": 4,
-            "icons": {
-                "military": false,
-                "intrigue": true,
-                "power": true
-            },
-            "strength": 4,
-            "traits": [
-                "Lord",
-                "Small Council"
-            ],
-            "text": "Each gold in your gold pool contributes an additional 1 STR towards your total for dominance.\n<b>Interrupt:</b> When dominance is determined, if you have not lost an [intrigue] challenge this round, gain 2 gold.",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27526@1_0_1.png"
-        },
-        {
             "code": "27527",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "type": "character",
             "name": "Podrick Payne",
             "octgnId": null,
@@ -615,10 +501,10 @@
             "traits": [
                 "Companion"
             ],
-            "text": "While you control Brienne of Tarth, Podrick Payne gains a [military] icon.\nWhile you control Tyrion Lannister, Podrick Payne gains an [intrigue] icon.",
+            "text": "While you control Brienne of Tarth, Podrick Payne gains a [military] icon and gets +1 STR.\nWhile you control Tyrion Lannister, Podrick Payne gains an [intrigue] icon and gets +1 STR.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27527@1_0_0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27527@1_0_1.png"
         },
         {
             "code": "27528",
@@ -697,26 +583,6 @@
             "deckLimit": 3,
             "illustrator": "?",
             "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27530@1_0_1.png"
-        },
-        {
-            "code": "27531",
-            "version": "1.1.1",
-            "type": "attachment",
-            "name": "Jeweled Tiara",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": true,
-            "faction": "lannister",
-            "loyal": false,
-            "cost": 2,
-            "traits": [
-                "Crown",
-                "Item"
-            ],
-            "text": "<i>Lady</i> character only.\nAttached character gains the <i>Queen</i> trait.\n<b>Reaction:</b> After you win an [intrigue] challenge in which attached character is participating, kneel Jeweled Tiara to discard 1 card at random from the losing opponents hand. (Discard 3 cards at random instead if you won by 10 or more STR.)",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27531@1_1_1.png"
         },
         {
             "code": "27532",
@@ -835,31 +701,6 @@
             "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27537@1_1_0.png"
         },
         {
-            "code": "27538",
-            "version": "1.0.0",
-            "type": "character",
-            "name": "Nymella Toland",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": true,
-            "faction": "martell",
-            "loyal": true,
-            "cost": 5,
-            "icons": {
-                "military": false,
-                "intrigue": true,
-                "power": true
-            },
-            "strength": 3,
-            "traits": [
-                "Lady"
-            ],
-            "text": "<b>Action:</b> Choose a character who is attacking or defending alone, and remove it from the challenge. (Limit once per round.)",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27538@1_0_0.png"
-        },
-        {
             "code": "27539",
             "version": "1.0.2",
             "type": "character",
@@ -940,7 +781,7 @@
         },
         {
             "code": "27542",
-            "version": "1.1.0",
+            "version": "1.1.1",
             "type": "character",
             "name": "Shadow City Septon",
             "octgnId": null,
@@ -958,10 +799,10 @@
             "traits": [
                 "The Seven"
             ],
-            "text": "<b>Reaction:</b> After you lose dominance, sacrifice Shadow City Septon to choose a standing character controlled by the winning opponent, and return it to it's owners hand.",
+            "text": "Shadow (2).\n<b>Reaction:</b> After you lose dominance, the winning opponent must choose a standing character they control and return it to it's owners hand.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27542@1_1_0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27542@1_1_1.png"
         },
         {
             "code": "27543",
@@ -1002,26 +843,6 @@
             "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27544@1_1_0.png"
         },
         {
-            "code": "27545",
-            "version": "1.0.0",
-            "type": "location",
-            "name": "Godsgrace",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": true,
-            "faction": "martell",
-            "loyal": false,
-            "cost": 1,
-            "traits": [
-                "Dorne"
-            ],
-            "text": "<b>Reaction:</b> After a [martell] character you control gains 1 or more power, if there is a <i>Summer</i> plot card revealed, kneel Godsgrace to have that character gain an additional power.",
-            "flavor": "\"It is lovely here.\"\n—Andrey Dalt ",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27545@1_0_0.png"
-        },
-        {
             "code": "27546",
             "version": "2.0.0",
             "type": "location",
@@ -1042,19 +863,19 @@
         },
         {
             "code": "27547",
-            "version": "1.1.0",
+            "version": "1.2.0",
             "type": "event",
             "name": "A Game of Cyvasse",
             "octgnId": null,
             "quantity": 3,
             "faction": "martell",
-            "loyal": false,
+            "loyal": true,
             "cost": 1,
             "traits": [],
-            "text": "Play only if you control a character with an [intrigue] icon.\n<b>Challenges Action:</b> Each player must kneel a character they control with an [intrigue] icon, if able. Then, return each character knelt this way with lowest STR to its owner's hand. (Max 1 per round.)",
+            "text": "<b>Challenges Action:</b> Each player cannot declare more than 1 character as an attacker or defender during the next [intrigue] challenge you initiate this phase. If you win that challenge, you may initiate an additional [intrigue] challenge this phase. (Max 1 per phase.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27547@1_1_0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27547@1_2_0.png"
         },
         {
             "code": "27548",
@@ -1097,33 +918,6 @@
             "deckLimit": 3,
             "illustrator": "?",
             "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27549@1_1_0.png"
-        },
-        {
-            "code": "27550",
-            "version": "1.1.0",
-            "type": "character",
-            "name": "Alys Karstark",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": true,
-            "faction": "thenightswatch",
-            "loyal": false,
-            "cost": 3,
-            "icons": {
-                "military": false,
-                "intrigue": true,
-                "power": true
-            },
-            "strength": 2,
-            "traits": [
-                "House Karstark",
-                "Lady",
-                "Wildling"
-            ],
-            "text": "<b>Reaction:</b> After Alys Karstark stands, choose another <i>Wildling</i> character you control, and have it gain 1 power. If that character is Sigorn, draw 1 card. (Limit twice per round.)",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27550@1_1_0.png"
         },
         {
             "code": "27551",
@@ -1267,25 +1061,6 @@
             "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27556@1_0_0.png"
         },
         {
-            "code": "27557",
-            "version": "1.0.1",
-            "type": "location",
-            "name": "Skirling Pass",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": true,
-            "faction": "thenightswatch",
-            "loyal": false,
-            "cost": 1,
-            "traits": [
-                "The North"
-            ],
-            "text": "While Skirling Pass is standing, non-<i>Wildling</i> characters lose stealth.",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27557@1_0_1.png"
-        },
-        {
             "code": "27558",
             "version": "1.0.1",
             "type": "location",
@@ -1322,19 +1097,19 @@
         },
         {
             "code": "27560",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "type": "event",
             "name": "Shields of the Realm",
             "octgnId": null,
             "quantity": 3,
             "faction": "thenightswatch",
             "loyal": false,
-            "cost": 1,
+            "cost": 0,
             "traits": [],
             "text": "<b>Reaction:</b> After you win a challenge by 5 or more STR, choose a <i>Ranger</i>, a <i>Steward</i> and a <i>Builder</i> character. Each of those characters gains 1 power. (Max once per phase.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27560@1_0_0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27560@1_0_1.png"
         },
         {
             "code": "27561",
@@ -1362,31 +1137,6 @@
             "deckLimit": 3,
             "illustrator": "?",
             "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27561@1_0_0.png"
-        },
-        {
-            "code": "27562",
-            "version": "1.0.0",
-            "type": "character",
-            "name": "Arnolf Karstark",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": true,
-            "faction": "stark",
-            "loyal": false,
-            "cost": 4,
-            "icons": {
-                "military": false,
-                "intrigue": true,
-                "power": true
-            },
-            "strength": 4,
-            "traits": [
-                "House Karstark"
-            ],
-            "text": "<b>Reaction:</b> After a character or location you control is sacrificed, stand Arnolf Karstark. (Limit once per round.)",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27562@1_0_0.png"
         },
         {
             "code": "27563",
@@ -1467,7 +1217,7 @@
         },
         {
             "code": "27566",
-            "version": "1.1.0",
+            "version": "1.1.1",
             "type": "character",
             "name": "Woods Witch",
             "octgnId": null,
@@ -1481,14 +1231,14 @@
                 "intrigue": true,
                 "power": false
             },
-            "strength": 2,
+            "strength": 3,
             "traits": [
                 "Old Gods"
             ],
-            "text": "<b>Reaction:</b> After a character is discarded from an opponent's hand, sacrifice Woods Witch to have that player sacrifice a card of equal printed cost.",
+            "text": "<b>Reaction:</b> After a character is discarded from an opponent's hand, sacrifice Woods Witch to name a card type. That player must sacrifice a card of that type with equal printed cost.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27566@1_1_0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27566@1_1_1.png"
         },
         {
             "code": "27567",
@@ -1509,25 +1259,6 @@
             "deckLimit": 3,
             "illustrator": "?",
             "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27567@1_0_1.png"
-        },
-        {
-            "code": "27568",
-            "version": "1.0.0",
-            "type": "attachment",
-            "name": "Lord of Winterfell",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": true,
-            "faction": "stark",
-            "loyal": true,
-            "cost": 2,
-            "traits": [
-                "Title"
-            ],
-            "text": "[stark] <i>Lord</i> character only.\n<b>Interrupt:</b> When attached character would be killed, kneel Lord of Winterfell and sacrifice another [stark] character to save it.",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27568@1_0_0.png"
         },
         {
             "code": "27569",
@@ -1733,31 +1464,6 @@
             "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27577@1_1_1.png"
         },
         {
-            "code": "27578",
-            "version": "1.0.1",
-            "type": "character",
-            "name": "Sons of the Harpy",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": false,
-            "faction": "targaryen",
-            "loyal": true,
-            "cost": 2,
-            "icons": {
-                "military": true,
-                "intrigue": true,
-                "power": false
-            },
-            "strength": 1,
-            "traits": [
-                "Ghiscari"
-            ],
-            "text": "Shadow (2).\n<b>Reaction:</b> After Sons of the Harpy comes out of shadows, choose a participating character. Until the end of the phase, that character gets -2 STR.",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27578@1_0_1.png"
-        },
-        {
             "code": "27579",
             "version": "1.0.0",
             "type": "attachment",
@@ -1777,27 +1483,8 @@
             "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27579@1_0_0.png"
         },
         {
-            "code": "27580",
-            "version": "1.0.1",
-            "type": "attachment",
-            "name": "Blood of Valyria",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": false,
-            "faction": "targaryen",
-            "loyal": true,
-            "cost": 1,
-            "traits": [
-                "Legacy"
-            ],
-            "text": "Unique [targaryen] character only.\nAttached character cannot have its STR reduced by card effects, and gains insight during [power] challenges.",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27580@1_0_1.png"
-        },
-        {
             "code": "27581",
-            "version": "1.1.0",
+            "version": "1.1.1",
             "type": "location",
             "name": "Yunkai",
             "octgnId": null,
@@ -1810,10 +1497,10 @@
                 "Contested",
                 "Yunkai"
             ],
-            "text": "<b>Action:</b> Kneel Yunkai and discard 1 card from your hand to choose a participating character. Until the end of the phase, that character gets -2 STR, and you draw 2 cards if its killed.",
+            "text": "<b>Action:</b> Kneel Yunkai and discard a card from your hand to choose up to 2 participating characters. Until the end of the phase, each of those characters get -1 STR and you draw 1 card if it is killed.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27581@1_1_0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27581@1_1_1.png"
         },
         {
             "code": "27582",
@@ -1866,33 +1553,6 @@
             "deckLimit": 3,
             "illustrator": "?",
             "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27584@1_1_0.png"
-        },
-        {
-            "code": "27585",
-            "version": "1.1.0",
-            "type": "character",
-            "name": "Paxter Redwyne",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": true,
-            "faction": "tyrell",
-            "loyal": true,
-            "cost": 6,
-            "icons": {
-                "military": false,
-                "intrigue": true,
-                "power": true
-            },
-            "strength": 5,
-            "traits": [
-                "House Redwyne",
-                "Lord",
-                "Small Council"
-            ],
-            "text": "Renown. Shadow (5).\n<b>Reaction:</b> After you win a challenge in which Paxter Redwyne is participating, choose a location you own and return it to your hand. (You may place it in shadows instead if it has the <i>Warship</i> trait.)",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27585@1_1_0.png"
         },
         {
             "code": "27586",
@@ -2043,25 +1703,6 @@
             "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27591@1_0_0.png"
         },
         {
-            "code": "27592",
-            "version": "1.1.1",
-            "type": "attachment",
-            "name": "Morningstar",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": false,
-            "faction": "tyrell",
-            "loyal": false,
-            "cost": 1,
-            "traits": [
-                "Weapon"
-            ],
-            "text": "Character you control only.\n<b>Reaction:</b> After you win a [military] challenge in which attached character is participating, kneel Morningstar to stand attached character and remove it from the challenge.",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27592@1_1_1.png"
-        },
-        {
             "code": "27593",
             "version": "1.0.0",
             "type": "location",
@@ -2138,7 +1779,7 @@
         },
         {
             "code": "27597",
-            "version": "1.1.0",
+            "version": "1.1.1",
             "type": "character",
             "name": "Theodan the True",
             "octgnId": null,
@@ -2157,35 +1798,10 @@
                 "Knight",
                 "The Seven"
             ],
-            "text": "<b>Reaction:</b> After you win a challenge in which Theodan the True is participating, choose a <i>The Seven</i> character. Until the end of the phase, that card gains renown or insight. (Limit twice per phase.)",
+            "text": "No attachments except <i>The Seven</i>.\n<b>Reaction:</b> After you win a challenge in which Theodan the True is participating, choose a <i>The Seven</i> character. Until the end of the phase, that card gains renown or insight. (Limit twice per phase.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27597@1_1_0.png"
-        },
-        {
-            "code": "27598",
-            "version": "1.1.1",
-            "type": "character",
-            "name": "Sigorn",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": true,
-            "faction": "neutral",
-            "cost": 5,
-            "icons": {
-                "military": true,
-                "intrigue": false,
-                "power": true
-            },
-            "strength": 4,
-            "traits": [
-                "Lord",
-                "Wildling"
-            ],
-            "text": "<b>Reaction:</b> After you win a [military] challenge in which Sigorn is attacking, choose and stand another <i>Wildling</i> character you control. If that character is Alys Karstark, stand Sigorn.",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27598@1_1_1.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27597@1_1_1.png"
         },
         {
             "code": "27599",
@@ -2285,24 +1901,6 @@
             "deckLimit": 3,
             "illustrator": "?",
             "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27602@1_0_1.png"
-        },
-        {
-            "code": "27603",
-            "version": "1.0.1",
-            "type": "attachment",
-            "name": "Shadowskin Cloak",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": false,
-            "faction": "neutral",
-            "cost": 2,
-            "traits": [
-                "Item"
-            ],
-            "text": "Shadow (0).\nAttached character gains stealth.\n<b>Forced Interrupt:</b> When the challenges phase ends, return Shadowskin Cloak to your hand.",
-            "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27603@1_0_1.png"
         },
         {
             "code": "27604",
@@ -2437,29 +2035,6 @@
             "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27610@1_0_0.png"
         },
         {
-            "code": "27611",
-            "version": "1.0.1",
-            "type": "plot",
-            "name": "Into the Lists",
-            "octgnId": null,
-            "quantity": 3,
-            "faction": "neutral",
-            "plotStats": {
-                "income": 4,
-                "initiative": 2,
-                "claim": 1,
-                "reserve": 6
-            },
-            "traits": [
-                "Kingdom",
-                "Summer"
-            ],
-            "text": "<b>When Revealed:</b> Each player may choose and kneel a non-<i>Army</i> character with a [military] icon they control. If only one character has the highest STR among characters knelt this way, it gains 2 power.",
-            "deckLimit": 1,
-            "illustrator": "?",
-            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27611@1_0_1.png"
-        },
-        {
             "code": "27612",
             "version": "1.0.1",
             "type": "plot",
@@ -2481,28 +2056,6 @@
             "deckLimit": 1,
             "illustrator": "?",
             "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27612@1_0_1.png"
-        },
-        {
-            "code": "27613",
-            "version": "1.0.1",
-            "type": "plot",
-            "name": "Searching the Archives",
-            "octgnId": null,
-            "quantity": 3,
-            "faction": "neutral",
-            "plotStats": {
-                "income": 4,
-                "initiative": 0,
-                "claim": 1,
-                "reserve": 5
-            },
-            "traits": [
-                "Conclave"
-            ],
-            "text": "<b>When Revealed:</b> Choose up to 3 cards in your hand and place them facedown under your agenda. Then, draw that many cards.",
-            "deckLimit": 2,
-            "illustrator": "?",
-            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27613@1_0_1.png"
         },
         {
             "code": "27614",
@@ -2610,17 +2163,17 @@
         },
         {
             "code": "27619",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "type": "agenda",
             "name": "Sentinels of the Realm",
             "octgnId": null,
             "quantity": 3,
             "faction": "neutral",
             "traits": [],
-            "text": "You may include non-loyal <i>Guard</i> characters from any faction in your deck.\nEach non-<i>Guard</i> character you control that is defending alone does not contribute its STR to the challenge.\n<b>Reaction:</b> When the challenges phase ends, draw 1 card for each challenge type not initiated against you this phase.",
+            "text": "You may include non-loyal <i>Guard</i> characters from any faction in your deck. Your deck must include at least 12 <i>Guard</i> characters\nWhile you control no <i>Guard</i> characters, you cannot play events.\n<b>Interrupt:</b> When the challenges phase ends, draw 1 card for each challenge type not initiated against you this phase.",
             "deckLimit": 1,
             "illustrator": "?",
-            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27619@1_0_0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27619@1_0_1.png"
         },
         {
             "code": "27620",
