@@ -34,7 +34,7 @@
         },
         {
             "code": "27502",
-            "version": "1.0.1",
+            "version": "1.0.2",
             "type": "character",
             "name": "Ser Axell Florent",
             "octgnId": null,
@@ -48,7 +48,7 @@
                 "intrigue": false,
                 "power": true
             },
-            "strength": 3,
+            "strength": 4,
             "traits": [
                 "House Florent",
                 "Knight",
@@ -58,7 +58,7 @@
             "flavor": "\"One land, one god, one king!\"",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27502@1_0_1.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27502@1_0_2.png"
         },
         {
             "code": "27503",
@@ -191,7 +191,7 @@
         },
         {
             "code": "27513",
-            "version": "1.1.0",
+            "version": "1.2.0",
             "type": "character",
             "name": "Euron Crow's Eye",
             "octgnId": null,
@@ -212,14 +212,14 @@
                 "Lord",
                 "Raider"
             ],
-            "text": "Shadow (5). Pillage.\n<b>Reaction:</b> After a card comes out of shadows under your control, Euron Crow's Eye gains (choose one): assault, insight, renown, or stealth until the end of the phase.",
+            "text": "Shadow (5). Pillage. Stealth.\n<b>Reaction:</b> After a card you control comes out of shadows during the challenges phase, choose and kneel a location. If that location's printed cost is greater than your initiative value, you may stand it instead. (Limit twice per phase.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27513@1_1_0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27513@1_2_0.png"
         },
         {
             "code": "27514",
-            "version": "1.0.0",
+            "version": "1.1.0",
             "type": "character",
             "name": "Earl Harlaw",
             "octgnId": null,
@@ -238,10 +238,10 @@
                 "House Harlaw",
                 "Ironborn"
             ],
-            "text": "<b>Reaction:</b> After an opponent discards cards for reserve, discard the same amount from their deck.",
+            "text": "Each player discards cards for reserve at random.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27514@1_0_0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27514@1_1_0.png"
         },
         {
             "code": "27515",
@@ -446,9 +446,9 @@
         },
         {
             "code": "27529",
-            "version": "2.0.0",
+            "version": "2.0.1",
             "type": "character",
-            "name": "Clegane Bannerman",
+            "name": "Clegane Brigand",
             "octgnId": null,
             "quantity": 3,
             "unique": false,
@@ -462,14 +462,14 @@
             },
             "strength": 2,
             "traits": [
-                "Ally",
-                "House Clegane"
+                "House Clegane",
+                "Raider"
             ],
-            "text": "Pillage\n<b>Reaction:</b> After Clegane Bannerman discards a card using pillage, choose a card in the losing opponent's discard pile and place it on top of their deck.",
+            "text": "Pillage\n<b>Reaction:</b> After Clegane Brigand discards a card using pillage, choose a card in the losing opponent's discard pile and place it on top of their deck.",
             "deckLimit": 3,
             "illustrator": "?",
             "designer": "Card Designed by 2025 Online Worlds Champion, Jim Hansen.",
-            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27529@2_0_0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27529@2_0_1.png"
         },
         {
             "code": "27532",
@@ -595,7 +595,7 @@
         },
         {
             "code": "27540",
-            "version": "2.0.0",
+            "version": "2.0.1",
             "type": "character",
             "name": "Sunspear Sentinel",
             "octgnId": null,
@@ -614,10 +614,10 @@
                 "Ally",
                 "Guard"
             ],
-            "text": "<b>Interrupt:</b> When Sunspear Sentinel is discarded for [intrigue] claim, put it into play instead of placing it in your discard pile. Until the end of the phase, it gains an [intrigue] icon.",
+            "text": "Stealth. No attachments except <i>Weapon</i>.\n<b>Interrupt:</b> When Sunspear Sentinel is discarded for [intrigue] claim, put it into play instead of placing it in your discard pile.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27540@2_0_0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27540@2_0_1.png"
         },
         {
             "code": "27541",
@@ -949,7 +949,7 @@
         },
         {
             "code": "27564",
-            "version": "1.1.0",
+            "version": "1.1.1",
             "type": "character",
             "name": "The Merman's Shield",
             "octgnId": null,
@@ -969,10 +969,10 @@
                 "House Manderly",
                 "Guard"
             ],
-            "text": "Shadow (4).\n<b>Reaction:</b> After The Merman's Shield comes out of shadows, choose and stand a defending character that shares a <i>Trait</i> with it. Until the end of the phase, that character and The Merman's Shield each gain renown.",
+            "text": "Shadow (4).\n<b>Reaction:</b> After The Merman's Shield comes out of shadows, choose and stand a character that shares a <i>Trait</i> with it. If that character is defending, it gains renown until the end of the phase.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27564@1_1_0.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27564@1_1_1.png"
         },
         {
             "code": "27565",
@@ -1001,7 +1001,7 @@
         },
         {
             "code": "27567",
-            "version": "1.0.1",
+            "version": "1.0.2",
             "type": "attachment",
             "name": "Ancient Traditions",
             "octgnId": null,
@@ -1014,10 +1014,10 @@
                 "Legacy",
                 "Old Gods"
             ],
-            "text": "Attached character gets +1 STR.\nWhile attached character has the <i>Old Gods</i> trait, it gains \"immune to opponent's non-agenda, non-plot card effects.\"",
+            "text": "While you control an <i>Old Gods</i> character, attached character gains \"immune to opponent's non-agenda, non-plot card effects.\"",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27567@1_0_1.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27567@1_0_2.png"
         },
         {
             "code": "27569",
@@ -1076,7 +1076,7 @@
         },
         {
             "code": "27573",
-            "version": "1.0.1",
+            "version": "1.0.2",
             "type": "character",
             "name": "Khal Drogo",
             "octgnId": null,
@@ -1090,16 +1090,16 @@
                 "intrigue": false,
                 "power": true
             },
-            "strength": 7,
+            "strength": 6,
             "traits": [
                 "Commander",
                 "Dothraki",
                 "Lord"
             ],
-            "text": "Renown.\n<b>Reaction:</b> After you win a challenge by 5 or more STR as the attacking player, stand an <i>Dothraki</i> character. (Limit twice per phase.)",
+            "text": "Renown.\n<b>Reaction:</b> After you win a challenge as the attacking player, choose and stand a unique <i>Dothraki</i> character. (Limit once per phase.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27573@1_0_1.png"
+            "imageUrl": "https://throneteki.ams3.digitaloceanspaces.com/playtesting/27/27573@1_0_2.png"
         },
         {
             "code": "27574",
